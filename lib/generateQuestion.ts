@@ -17,9 +17,12 @@ const MCQ_DISTRACTORS = [
 export function generateQuiz(settings: QuizSettings, weakSubtopics: string[] = []) {
   const seedPool = filterSeeds(settings, weakSubtopics).map(seedToQuestion);
   const factPool = filterFacts(settings, weakSubtopics).map(factToQuestion);
-  const pool = [...seedPool, ...factPool];
-  const fallbackPool = [...filterSeeds({ ...settings, weakOnly: false }).map(seedToQuestion), ...filterFacts({ ...settings, weakOnly: false }).map(factToQuestion)];
-  const selected = shuffle(pool.length ? pool : fallbackPool).slice(0, settings.count);
+  const pool = [...shuffle(seedPool), ...shuffle(factPool)];
+  const fallbackPool = [
+    ...shuffle(filterSeeds({ ...settings, weakOnly: false }).map(seedToQuestion)),
+    ...shuffle(filterFacts({ ...settings, weakOnly: false }).map(factToQuestion))
+  ];
+  const selected = (pool.length ? pool : fallbackPool).slice(0, settings.count);
 
   return selected.map((question, index) => ({ ...question, id: `${question.id}-${index}` }));
 }

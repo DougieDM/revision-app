@@ -17,7 +17,7 @@ export const AVAILABLE_TOPICS = [
   "Acids and Alkalis",
   "Ecosystems",
   "Skills in Science",
-  "Revision technique / 5 Step Revision Plan"
+  "Waves"
 ];
 
 export const facts = knowledgeBase as KnowledgeFact[];
@@ -119,19 +119,7 @@ export function getWeakAreas(answers: { subtopic: string; correct: boolean }[]) 
 
 export function buildPrintableTest() {
   const random = makeRandom("nova-printable-test-v1");
-  const selectedSeeds = shuffle(
-    seeds.filter((question) => question.type !== "spot-the-mistake"),
-    random
-  ).slice(0, 12);
-  const selectedFacts = shuffle(facts, random).slice(0, 8);
-
-  return shuffle(
-    [
-      ...selectedSeeds.map(seedToQuestion),
-      ...selectedFacts.map((fact) => factToPrintableQuestion(fact, random))
-    ],
-    random
-  ).slice(0, 20);
+  return shuffle(seeds, random).slice(0, 20).map(seedToQuestion);
 }
 
 export function seedToQuestion(seed: SeedQuestion): GeneratedQuestion {

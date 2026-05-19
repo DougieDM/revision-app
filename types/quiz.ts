@@ -28,6 +28,7 @@ export interface KnowledgeFact {
   acceptedAnswers: string[];
   explanation: string;
   commonMistakes: string[];
+  source?: string;
 }
 
 export interface SeedQuestion {

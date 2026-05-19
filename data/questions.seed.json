@@ -1,122 +1,2383 @@
 [
-  {"id":"acid_q001","topic":"Acids and Alkalis","subtopic":"pH scale","difficulty":"easy","type":"recall","question":"What is the pH of a neutral solution?","answer":"pH 7","acceptedAnswers":["7","pH 7"],"keywords":["neutral","pH"],"explanation":"A neutral solution has pH 7. Acids are below 7 and alkalis are above 7.","hint":"Neutral is in the middle of the pH scale."},
-  {"id":"acid_q002","topic":"Acids and Alkalis","subtopic":"pH scale","difficulty":"easy","type":"multiple-choice","question":"Which pH range shows acids?","options":["0 to 6","7 only","8 to 14","10 to 14"],"answer":"0 to 6","acceptedAnswers":["0 to 6","below 7"],"keywords":["acid","pH"],"explanation":"Acids have pH values below 7."},
-  {"id":"acid_q003","topic":"Acids and Alkalis","subtopic":"pH scale","difficulty":"easy","type":"multiple-choice","question":"Which pH range shows alkalis?","options":["0 to 6","7 only","8 to 14","1 to 3"],"answer":"8 to 14","acceptedAnswers":["8 to 14","above 7"],"keywords":["alkali","pH"],"explanation":"Alkalis have pH values above 7."},
-  {"id":"acid_q004","topic":"Acids and Alkalis","subtopic":"Indicators and pH","difficulty":"easy","type":"recall","question":"What does an indicator do?","answer":"It changes colour to show whether a solution is acidic, neutral or alkaline.","acceptedAnswers":["changes colour","shows acidic neutral or alkaline"],"keywords":["indicator","colour"],"explanation":"Indicators help identify acids and alkalis because many solutions look similar."},
-  {"id":"acid_q005","topic":"Acids and Alkalis","subtopic":"Indicators and pH","difficulty":"easy","type":"multiple-choice","question":"What colour does litmus turn in an acid?","options":["Red","Blue","Green","Purple"],"answer":"Red","acceptedAnswers":["red"],"keywords":["litmus","acid"],"explanation":"Litmus turns red in acidic solutions."},
-  {"id":"acid_q006","topic":"Acids and Alkalis","subtopic":"Indicators and pH","difficulty":"easy","type":"multiple-choice","question":"What colour does litmus turn in an alkali?","options":["Blue","Red","Orange","Yellow"],"answer":"Blue","acceptedAnswers":["blue"],"keywords":["litmus","alkali"],"explanation":"Litmus turns blue in alkaline solutions."},
-  {"id":"acid_q007","topic":"Acids and Alkalis","subtopic":"Indicators and pH","difficulty":"medium","type":"recall","question":"Why is universal indicator more useful than litmus if you want an approximate pH?","answer":"It shows a range of colours for different pH values.","acceptedAnswers":["range of colours","different pH values"],"keywords":["universal indicator","pH","range"],"explanation":"Litmus only shows acid or alkali, but universal indicator gives an approximate pH."},
-  {"id":"acid_q008","topic":"Acids and Alkalis","subtopic":"Neutralisation","difficulty":"easy","type":"fill-blank","question":"Acid plus alkali makes salt and ______.","answer":"water","acceptedAnswers":["water"],"keywords":["acid","alkali","salt","water"],"explanation":"The products of acid plus alkali are salt and water."},
-  {"id":"acid_q009","topic":"Acids and Alkalis","subtopic":"Neutralisation","difficulty":"easy","type":"recall","question":"What is neutralisation?","answer":"A reaction where an acid reacts with an alkali or base.","acceptedAnswers":["acid reacts with alkali","acid reacts with base"],"keywords":["neutralisation","acid","alkali"],"explanation":"Neutralisation moves the pH closer to neutral."},
-  {"id":"acid_q010","topic":"Acids and Alkalis","subtopic":"Real-life neutralisation","difficulty":"medium","type":"application","question":"A person has indigestion from too much stomach acid. How can neutralisation help?","answer":"An indigestion tablet can neutralise some stomach acid.","acceptedAnswers":["neutralise stomach acid","indigestion tablet"],"keywords":["neutralise","stomach acid","alkali"],"explanation":"Many indigestion tablets contain weak alkalis that react with extra stomach acid."},
-  {"id":"acid_q011","topic":"Acids and Alkalis","subtopic":"Real-life neutralisation","difficulty":"medium","type":"application","question":"A farmer has acidic soil. What could be added to help neutralise it?","answer":"Lime","acceptedAnswers":["lime"],"keywords":["lime","acidic soil","neutralise"],"explanation":"Lime is alkaline, so it can reduce soil acidity."},
-  {"id":"acid_q012","topic":"Acids and Alkalis","subtopic":"Hazards","difficulty":"easy","type":"recall","question":"What does corrosive mean?","answer":"It can damage skin, eyes or materials.","acceptedAnswers":["damage skin","damage eyes","damage materials"],"keywords":["corrosive","damage"],"explanation":"Corrosive substances can cause serious damage and need careful handling."},
-  {"id":"acid_q013","topic":"Acids and Alkalis","subtopic":"Hazards","difficulty":"easy","type":"recall","question":"What should you do if acid splashes on your skin in class?","answer":"Wash it off with lots of water and tell the teacher.","acceptedAnswers":["wash with water","tell teacher"],"keywords":["wash","water","teacher"],"explanation":"Lots of water dilutes and removes the acid or alkali."},
-  {"id":"acid_q014","topic":"Acids and Alkalis","subtopic":"Hazards","difficulty":"easy","type":"multiple-choice","question":"Which item protects your eyes when using acids and alkalis?","options":["Safety goggles","A ruler","A paper towel","A beaker"],"answer":"Safety goggles","acceptedAnswers":["goggles","safety goggles"],"keywords":["goggles","eyes"],"explanation":"Goggles protect your eyes from splashes."},
-  {"id":"acid_q015","topic":"Acids and Alkalis","subtopic":"Concentration","difficulty":"medium","type":"recall","question":"What does concentrated mean?","answer":"A large amount of dissolved substance in a certain volume.","acceptedAnswers":["large amount dissolved","lots of solute"],"keywords":["concentrated","dissolved"],"explanation":"Concentration is about how much solute is in a volume of solution."},
-  {"id":"acid_q016","topic":"Acids and Alkalis","subtopic":"Concentration","difficulty":"medium","type":"recall","question":"What does dilute mean?","answer":"A small amount of dissolved substance in a certain volume.","acceptedAnswers":["small amount dissolved","little solute"],"keywords":["dilute","dissolved"],"explanation":"Adding water often makes a solution more dilute."},
-  {"id":"acid_q017","topic":"Acids and Alkalis","subtopic":"Strength and concentration","difficulty":"challenge","type":"spot-the-mistake","question":"Isla says, 'A strong acid means it has more acid particles than water.' What is wrong with this?","answer":"She is mixing up strength and concentration.","acceptedAnswers":["mixing up strength and concentration","strength is not concentration"],"keywords":["strength","concentration"],"explanation":"Strength and concentration are different. Concentration is about amount in a volume."},
-  {"id":"acid_q018","topic":"Acids and Alkalis","subtopic":"Physical and chemical changes","difficulty":"easy","type":"recall","question":"What is the main difference between a physical change and a chemical reaction?","answer":"A chemical reaction makes a new substance, but a physical change does not.","acceptedAnswers":["new substance","physical no new substance"],"keywords":["physical","chemical","new substance"],"explanation":"New substances are the key sign of a chemical reaction."},
-  {"id":"acid_q019","topic":"Acids and Alkalis","subtopic":"Chemical reactions","difficulty":"easy","type":"recall","question":"What are reactants?","answer":"The substances you start with in a chemical reaction.","acceptedAnswers":["starting substances","substances you start with"],"keywords":["reactants","start"],"explanation":"Reactants are written before the arrow in a word equation."},
-  {"id":"acid_q020","topic":"Acids and Alkalis","subtopic":"Chemical reactions","difficulty":"easy","type":"recall","question":"What are products?","answer":"The substances made in a chemical reaction.","acceptedAnswers":["substances made","made in reaction"],"keywords":["products","made"],"explanation":"Products are written after the arrow in a word equation."},
-  {"id":"acid_q021","topic":"Acids and Alkalis","subtopic":"Chemical reactions","difficulty":"easy","type":"multiple-choice","question":"In a word equation, what does the arrow mean?","options":["Produces","Freezes","Evaporates","Measures"],"answer":"Produces","acceptedAnswers":["produces","makes"],"keywords":["arrow","word equation"],"explanation":"The arrow means produces or makes."},
-  {"id":"acid_q022","topic":"Acids and Alkalis","subtopic":"Acid reactions","difficulty":"medium","type":"fill-blank","question":"Acid plus metal makes salt and ______ gas.","answer":"hydrogen","acceptedAnswers":["hydrogen"],"keywords":["acid","metal","hydrogen"],"explanation":"Hydrogen gas may make bubbles during acid plus metal reactions."},
-  {"id":"acid_q023","topic":"Acids and Alkalis","subtopic":"Acid reactions","difficulty":"medium","type":"fill-blank","question":"Acid plus carbonate makes salt, water and ______.","answer":"carbon dioxide","acceptedAnswers":["carbon dioxide","CO2"],"keywords":["acid","carbonate","carbon dioxide"],"explanation":"Carbonates react with acids to produce carbon dioxide gas."},
-  {"id":"acid_q024","topic":"Acids and Alkalis","subtopic":"Acid reactions","difficulty":"medium","type":"multiple-choice","question":"What test result shows hydrogen gas?","options":["A squeaky pop with a lit splint","Limewater turns cloudy","A glowing splint relights","The liquid freezes"],"answer":"A squeaky pop with a lit splint","acceptedAnswers":["squeaky pop"],"keywords":["hydrogen","pop"],"explanation":"Hydrogen makes a squeaky pop with a lit splint."},
-  {"id":"acid_q025","topic":"Acids and Alkalis","subtopic":"Acid reactions","difficulty":"medium","type":"multiple-choice","question":"What test result shows carbon dioxide?","options":["Limewater turns cloudy","A squeaky pop","Universal indicator turns green","A flame turns blue"],"answer":"Limewater turns cloudy","acceptedAnswers":["limewater turns cloudy","cloudy"],"keywords":["carbon dioxide","limewater"],"explanation":"Carbon dioxide turns limewater cloudy."},
-  {"id":"acid_q026","topic":"Acids and Alkalis","subtopic":"Making salts","difficulty":"medium","type":"multiple-choice","question":"Which salt ending is usually made by hydrochloric acid?","options":["Chloride","Sulfate","Nitrate","Carbonate"],"answer":"Chloride","acceptedAnswers":["chloride"],"keywords":["hydrochloric","chloride"],"explanation":"Hydrochloric acid usually makes chloride salts."},
-  {"id":"acid_q027","topic":"Acids and Alkalis","subtopic":"Making salts","difficulty":"medium","type":"multiple-choice","question":"Which salt ending is usually made by sulfuric acid?","options":["Sulfate","Chloride","Nitrate","Oxide"],"answer":"Sulfate","acceptedAnswers":["sulfate"],"keywords":["sulfuric","sulfate"],"explanation":"Sulfuric acid usually makes sulfate salts."},
-  {"id":"acid_q028","topic":"Acids and Alkalis","subtopic":"Making salts","difficulty":"medium","type":"multiple-choice","question":"Which salt ending is usually made by nitric acid?","options":["Nitrate","Chloride","Sulfate","Hydroxide"],"answer":"Nitrate","acceptedAnswers":["nitrate"],"keywords":["nitric","nitrate"],"explanation":"Nitric acid usually makes nitrate salts."},
-  {"id":"acid_q029","topic":"Acids and Alkalis","subtopic":"Making salts","difficulty":"medium","type":"recall","question":"How can salt crystals be separated from a salt solution?","answer":"Evaporate the water.","acceptedAnswers":["evaporate","evaporation"],"keywords":["evaporation","salt crystals"],"explanation":"Evaporation removes water and leaves salt crystals behind."},
-  {"id":"acid_q030","topic":"Acids and Alkalis","subtopic":"Everyday acids and alkalis","difficulty":"easy","type":"multiple-choice","question":"Which pair are everyday acidic substances?","options":["Lemon juice and vinegar","Soap and oven cleaner","Water and salt","Toothpaste and bleach"],"answer":"Lemon juice and vinegar","acceptedAnswers":["lemon juice and vinegar"],"keywords":["lemon","vinegar"],"explanation":"Lemon juice and vinegar contain weak acids."},
-  {"id":"acid_q031","topic":"Acids and Alkalis","subtopic":"Everyday acids and alkalis","difficulty":"easy","type":"multiple-choice","question":"Which substance is usually alkaline?","options":["Soap","Vinegar","Lemon juice","Cola"],"answer":"Soap","acceptedAnswers":["soap"],"keywords":["alkaline","soap"],"explanation":"Soap is usually alkaline."},
-  {"id":"acid_q032","topic":"Acids and Alkalis","subtopic":"Indicators and pH","difficulty":"medium","type":"application","question":"A solution turns universal indicator green. What does this suggest?","answer":"It is neutral, about pH 7.","acceptedAnswers":["neutral","pH 7"],"keywords":["green","neutral","pH 7"],"explanation":"Green universal indicator means neutral."},
-  {"id":"acid_q033","topic":"Acids and Alkalis","subtopic":"Indicators and pH","difficulty":"medium","type":"application","question":"A solution turns universal indicator red. What does this suggest?","answer":"It is a strong acid.","acceptedAnswers":["strong acid","acidic"],"keywords":["red","acid"],"explanation":"Red is near the acidic end of the universal indicator scale."},
-  {"id":"acid_q034","topic":"Acids and Alkalis","subtopic":"Indicators and pH","difficulty":"medium","type":"application","question":"A solution turns universal indicator purple. What does this suggest?","answer":"It is a strong alkali.","acceptedAnswers":["strong alkali","alkaline"],"keywords":["purple","alkali"],"explanation":"Purple is near the alkaline end of the universal indicator scale."},
-  {"id":"acid_q035","topic":"Acids and Alkalis","subtopic":"Hazards","difficulty":"medium","type":"recall","question":"What is the difference between a hazard and a risk?","answer":"A hazard could cause harm; a risk is the chance it will cause harm.","acceptedAnswers":["hazard could cause harm risk is chance","chance of harm"],"keywords":["hazard","risk","harm"],"explanation":"Hazard is the possible danger. Risk is how likely harm is."},
-  {"id":"acid_q036","topic":"Acids and Alkalis","subtopic":"Fair testing acids","difficulty":"medium","type":"application","question":"When comparing the pH of liquids with indicator, why should you use the same amount of indicator each time?","answer":"To keep the test fair.","acceptedAnswers":["fair test","same amount"],"keywords":["fair","control"],"explanation":"Using the same amount of indicator controls a variable."},
-  {"id":"acid_q037","topic":"Acids and Alkalis","subtopic":"Chemical reactions","difficulty":"medium","type":"recall","question":"Name two signs that a chemical reaction may have happened.","answer":"Bubbles and a temperature change.","acceptedAnswers":["bubbles","temperature change","colour change","new solid"],"keywords":["bubbles","temperature","colour"],"explanation":"Signs can include bubbles, temperature change, colour change or a new solid."},
-  {"id":"acid_q038","topic":"Acids and Alkalis","subtopic":"Physical and chemical changes","difficulty":"medium","type":"spot-the-mistake","question":"Sam says, 'Dissolving salt in water is chemical because the salt disappears.' What is wrong?","answer":"Dissolving is a physical change because no new substance is made.","acceptedAnswers":["physical change","no new substance"],"keywords":["dissolving","physical","new substance"],"explanation":"The salt is still there and can be recovered by evaporation."},
-  {"id":"acid_q039","topic":"Acids and Alkalis","subtopic":"Neutralisation","difficulty":"challenge","type":"application","question":"A student adds too much alkali while trying to neutralise an acid. What has probably happened to the pH?","answer":"It has gone above 7 and become alkaline.","acceptedAnswers":["above 7","alkaline"],"keywords":["pH","alkaline"],"explanation":"Too much alkali can overshoot neutral pH."},
-  {"id":"acid_q040","topic":"Acids and Alkalis","subtopic":"Neutralisation","difficulty":"challenge","type":"explain","question":"Explain why adding alkali drop by drop helps during neutralisation.","answer":"It helps control the pH and avoid adding too much alkali.","acceptedAnswers":["control pH","avoid overshooting"],"keywords":["pH","drop","control"],"explanation":"Small additions make it easier to stop near pH 7."},
-  {"id":"eco_q001","topic":"Ecosystems","subtopic":"Food chains","difficulty":"easy","type":"recall","question":"What does a food chain show?","answer":"Feeding relationships between organisms.","acceptedAnswers":["feeding relationships","who eats what"],"keywords":["food chain","feeding"],"explanation":"Food chains show how energy passes from one organism to another."},
-  {"id":"eco_q002","topic":"Ecosystems","subtopic":"Food chains","difficulty":"easy","type":"multiple-choice","question":"What do arrows in a food chain show?","options":["The direction of energy transfer","Which animal is biggest","Where the organism lives","The direction of water flow"],"answer":"The direction of energy transfer","acceptedAnswers":["energy transfer"],"keywords":["arrows","energy"],"explanation":"The arrow points from the food to the organism that eats it."},
-  {"id":"eco_q003","topic":"Ecosystems","subtopic":"Producers","difficulty":"easy","type":"recall","question":"What is a producer?","answer":"An organism that makes its own food, usually by photosynthesis.","acceptedAnswers":["makes its own food","photosynthesis"],"keywords":["producer","photosynthesis"],"explanation":"Plants and algae are producers."},
-  {"id":"eco_q004","topic":"Ecosystems","subtopic":"Consumers","difficulty":"easy","type":"recall","question":"What is a consumer?","answer":"An organism that gets energy by eating other organisms.","acceptedAnswers":["eats other organisms","gets energy by eating"],"keywords":["consumer","eat"],"explanation":"Animals are consumers because they cannot make food by photosynthesis."},
-  {"id":"eco_q005","topic":"Ecosystems","subtopic":"Predators and prey","difficulty":"easy","type":"multiple-choice","question":"Which word means an animal that hunts and eats other animals?","options":["Predator","Prey","Producer","Decomposer"],"answer":"Predator","acceptedAnswers":["predator"],"keywords":["predator"],"explanation":"A predator hunts and eats prey."},
-  {"id":"eco_q006","topic":"Ecosystems","subtopic":"Predators and prey","difficulty":"easy","type":"multiple-choice","question":"Which word means an animal that is hunted by another animal?","options":["Prey","Predator","Producer","Pollinator"],"answer":"Prey","acceptedAnswers":["prey"],"keywords":["prey"],"explanation":"Prey are hunted and eaten by predators."},
-  {"id":"eco_q007","topic":"Ecosystems","subtopic":"Decomposers","difficulty":"easy","type":"recall","question":"What do decomposers do?","answer":"They break down dead organisms and waste.","acceptedAnswers":["break down dead organisms","break down waste"],"keywords":["decomposers","dead","waste"],"explanation":"Decomposers recycle nutrients back into the environment."},
-  {"id":"eco_q008","topic":"Ecosystems","subtopic":"Food webs","difficulty":"easy","type":"recall","question":"What is a food web?","answer":"Several connected food chains.","acceptedAnswers":["connected food chains","several food chains"],"keywords":["food web","connected"],"explanation":"A food web shows many feeding relationships in an ecosystem."},
-  {"id":"eco_q009","topic":"Ecosystems","subtopic":"Ecosystems","difficulty":"easy","type":"recall","question":"What is an ecosystem?","answer":"A community of organisms and the environment they live in.","acceptedAnswers":["community and environment","organisms and environment"],"keywords":["ecosystem","community","environment"],"explanation":"Ecosystems include living and non-living parts."},
-  {"id":"eco_q010","topic":"Ecosystems","subtopic":"Communities","difficulty":"medium","type":"recall","question":"What is a community in ecology?","answer":"All the populations of different species living in one area.","acceptedAnswers":["populations of different species","all species in an area"],"keywords":["community","species"],"explanation":"A community includes different species in the same area."},
-  {"id":"eco_q011","topic":"Ecosystems","subtopic":"Habitats","difficulty":"easy","type":"recall","question":"What is a habitat?","answer":"The place where an organism lives.","acceptedAnswers":["where an organism lives","place it lives"],"keywords":["habitat","lives"],"explanation":"A habitat provides resources and conditions for an organism."},
-  {"id":"eco_q012","topic":"Ecosystems","subtopic":"Niche","difficulty":"medium","type":"recall","question":"What is a niche?","answer":"The role an organism has in its ecosystem.","acceptedAnswers":["role in ecosystem","organism's role"],"keywords":["niche","role"],"explanation":"A niche includes what an organism eats, where it lives and how it behaves."},
-  {"id":"eco_q013","topic":"Ecosystems","subtopic":"Interdependence","difficulty":"medium","type":"recall","question":"What does interdependence mean?","answer":"Organisms depend on each other for survival.","acceptedAnswers":["depend on each other","need each other"],"keywords":["interdependence","depend"],"explanation":"Organisms can depend on each other for food, shelter and pollination."},
-  {"id":"eco_q014","topic":"Ecosystems","subtopic":"Competition","difficulty":"easy","type":"recall","question":"What is competition in an ecosystem?","answer":"When organisms need the same limited resource.","acceptedAnswers":["same limited resource","compete for resource"],"keywords":["competition","resource"],"explanation":"Competition happens when resources are limited."},
-  {"id":"eco_q015","topic":"Ecosystems","subtopic":"Competition","difficulty":"easy","type":"fill-blank","question":"Plants compete for light, water, minerals and ______.","answer":"space","acceptedAnswers":["space"],"keywords":["plants","competition"],"explanation":"Plants need space as well as light, water and minerals."},
-  {"id":"eco_q016","topic":"Ecosystems","subtopic":"Competition","difficulty":"easy","type":"recall","question":"Name two resources animals compete for.","answer":"Food and water.","acceptedAnswers":["food","water","mates","territory","shelter"],"keywords":["animals","competition"],"explanation":"Animals may compete for food, water, mates, territory and shelter."},
-  {"id":"eco_q017","topic":"Ecosystems","subtopic":"Predator-prey relationships","difficulty":"medium","type":"explain","question":"Explain why predator numbers may increase after prey numbers increase.","answer":"There is more food available for predators.","acceptedAnswers":["more food","predators have more food"],"keywords":["predator","prey","food"],"explanation":"More prey can support more predators, usually after a delay."},
-  {"id":"eco_q018","topic":"Ecosystems","subtopic":"Population changes","difficulty":"easy","type":"recall","question":"What is a population?","answer":"All the organisms of one species living in an area.","acceptedAnswers":["one species in an area","organisms of one species"],"keywords":["population","species"],"explanation":"Population is about one species, not every organism together."},
-  {"id":"eco_q019","topic":"Ecosystems","subtopic":"Population changes","difficulty":"medium","type":"recall","question":"Name two factors that can change population size.","answer":"Food and predators.","acceptedAnswers":["food","disease","predators","conditions"],"keywords":["population","change"],"explanation":"Food, disease, predators and environmental conditions can all affect population size."},
-  {"id":"eco_q020","topic":"Ecosystems","subtopic":"Bioaccumulation","difficulty":"challenge","type":"recall","question":"What is bioaccumulation?","answer":"The build-up of harmful substances in organisms over time.","acceptedAnswers":["build-up of harmful substances","harmful substances build up"],"keywords":["bioaccumulation","harmful"],"explanation":"Some harmful chemicals are not broken down quickly and collect in bodies."},
-  {"id":"eco_q021","topic":"Ecosystems","subtopic":"Bioaccumulation","difficulty":"challenge","type":"explain","question":"Why can top predators be badly affected by bioaccumulation?","answer":"They eat many contaminated prey, so harmful substances build up more.","acceptedAnswers":["eat many contaminated prey","build up more"],"keywords":["top predators","bioaccumulation"],"explanation":"Harmful substances can become more concentrated higher up a food chain."},
-  {"id":"eco_q022","topic":"Ecosystems","subtopic":"Pollination","difficulty":"easy","type":"fill-blank","question":"Pollination is the transfer of pollen from an anther to a ______.","answer":"stigma","acceptedAnswers":["stigma"],"keywords":["pollination","stigma"],"explanation":"Pollination moves pollen from an anther to a stigma."},
-  {"id":"eco_q023","topic":"Ecosystems","subtopic":"Pollinators","difficulty":"easy","type":"recall","question":"What do insect pollinators do?","answer":"They carry pollen between flowers.","acceptedAnswers":["carry pollen","transfer pollen"],"keywords":["pollinator","pollen"],"explanation":"Insects can move pollen as they feed from flowers."},
-  {"id":"eco_q024","topic":"Ecosystems","subtopic":"Flower parts","difficulty":"easy","type":"multiple-choice","question":"Which part of a flower catches pollen?","options":["Stigma","Anther","Petal","Filament"],"answer":"Stigma","acceptedAnswers":["stigma"],"keywords":["stigma","pollen"],"explanation":"The stigma catches pollen."},
-  {"id":"eco_q025","topic":"Ecosystems","subtopic":"Flower parts","difficulty":"easy","type":"multiple-choice","question":"Which part of a flower makes pollen?","options":["Anther","Stigma","Ovary","Sepal"],"answer":"Anther","acceptedAnswers":["anther"],"keywords":["anther","pollen"],"explanation":"The anther makes pollen."},
-  {"id":"eco_q026","topic":"Ecosystems","subtopic":"Flower parts","difficulty":"easy","type":"multiple-choice","question":"Which part holds up the anther?","options":["Filament","Style","Ovary","Petal"],"answer":"Filament","acceptedAnswers":["filament"],"keywords":["filament","anther"],"explanation":"The filament is the stalk that holds up the anther."},
-  {"id":"eco_q027","topic":"Ecosystems","subtopic":"Flower parts","difficulty":"easy","type":"multiple-choice","question":"Which part connects the stigma to the ovary?","options":["Style","Filament","Sepal","Anther"],"answer":"Style","acceptedAnswers":["style"],"keywords":["style","stigma","ovary"],"explanation":"The style connects the stigma to the ovary."},
-  {"id":"eco_q028","topic":"Ecosystems","subtopic":"Flower parts","difficulty":"easy","type":"multiple-choice","question":"Which part contains ovules?","options":["Ovary","Petal","Anther","Filament"],"answer":"Ovary","acceptedAnswers":["ovary"],"keywords":["ovary","ovules"],"explanation":"The ovary contains ovules."},
-  {"id":"eco_q029","topic":"Ecosystems","subtopic":"Flower parts","difficulty":"easy","type":"multiple-choice","question":"Which flower parts often attract insects?","options":["Petals","Sepals","Ovules","Filaments"],"answer":"Petals","acceptedAnswers":["petals"],"keywords":["petals","insects"],"explanation":"Petals are often colourful or scented to attract pollinators."},
-  {"id":"eco_q030","topic":"Ecosystems","subtopic":"Flower parts","difficulty":"easy","type":"multiple-choice","question":"Which flower parts protect the bud before it opens?","options":["Sepals","Petals","Anthers","Stigmas"],"answer":"Sepals","acceptedAnswers":["sepals"],"keywords":["sepals","bud"],"explanation":"Sepals protect the flower bud."},
-  {"id":"eco_q031","topic":"Ecosystems","subtopic":"Fertilisation","difficulty":"medium","type":"recall","question":"What is fertilisation?","answer":"When a male sex cell joins with a female sex cell.","acceptedAnswers":["male and female sex cells join","sex cells join"],"keywords":["fertilisation","sex cells"],"explanation":"In flowering plants, fertilisation happens inside the ovule."},
-  {"id":"eco_q032","topic":"Ecosystems","subtopic":"Germination","difficulty":"easy","type":"recall","question":"What is germination?","answer":"When a seed starts to grow into a new plant.","acceptedAnswers":["seed starts to grow","starts growing"],"keywords":["germination","seed"],"explanation":"Germination is the start of seed growth."},
-  {"id":"eco_q033","topic":"Ecosystems","subtopic":"Germination","difficulty":"easy","type":"recall","question":"Name three things seeds usually need to germinate.","answer":"Water, oxygen and a suitable temperature.","acceptedAnswers":["water oxygen temperature","water oxygen warmth"],"keywords":["water","oxygen","temperature"],"explanation":"Seeds usually need water, oxygen and a suitable temperature."},
-  {"id":"eco_q034","topic":"Ecosystems","subtopic":"Seed dispersal","difficulty":"easy","type":"recall","question":"What is seed dispersal?","answer":"The movement of seeds away from the parent plant.","acceptedAnswers":["seeds away from parent","movement of seeds"],"keywords":["seed dispersal","parent"],"explanation":"Seed dispersal spreads seeds away from the parent plant."},
-  {"id":"eco_q035","topic":"Ecosystems","subtopic":"Seed dispersal","difficulty":"medium","type":"explain","question":"Explain why seed dispersal helps the parent plant and offspring survive.","answer":"It reduces competition for light, water, minerals and space.","acceptedAnswers":["reduces competition","less competition"],"keywords":["competition","resources"],"explanation":"Seeds that spread out are less likely to compete with the parent plant."},
-  {"id":"eco_q036","topic":"Ecosystems","subtopic":"Seed dispersal","difficulty":"easy","type":"multiple-choice","question":"Which is an adaptation for wind dispersal?","options":["Light seed with hairs","Sweet juicy fruit","Hooks that stick to fur","Heavy smooth stone"],"answer":"Light seed with hairs","acceptedAnswers":["light seed with hairs","hairs"],"keywords":["wind","hairs"],"explanation":"Light seeds with hairs or wings can be carried by wind."},
-  {"id":"eco_q037","topic":"Ecosystems","subtopic":"Seed dispersal adaptations","difficulty":"medium","type":"multiple-choice","question":"Which fruit is most likely adapted for animal dispersal?","options":["Bright, sweet and juicy","Tiny, dry and dusty","Very heavy and plain","Thin with wings"],"answer":"Bright, sweet and juicy","acceptedAnswers":["bright sweet juicy","attract animals"],"keywords":["animal","fruit"],"explanation":"Colourful, sweet fruits attract animals that can carry seeds away."},
-  {"id":"eco_q038","topic":"Ecosystems","subtopic":"Fruit and seeds","difficulty":"easy","type":"recall","question":"What does a fruit usually contain?","answer":"Seeds","acceptedAnswers":["seeds"],"keywords":["fruit","seeds"],"explanation":"Fruits contain seeds and can help disperse them."},
-  {"id":"eco_q039","topic":"Ecosystems","subtopic":"Energy transfer","difficulty":"medium","type":"recall","question":"What happens to energy at each step in a food chain?","answer":"Some energy is lost.","acceptedAnswers":["energy is lost","less energy"],"keywords":["energy","food chain"],"explanation":"Organisms use energy for life processes, so not all energy is passed on."},
-  {"id":"eco_q040","topic":"Ecosystems","subtopic":"Food webs","difficulty":"medium","type":"application","question":"If one organism is removed from a food web, why might other organisms be affected?","answer":"Because organisms are connected and depend on each other.","acceptedAnswers":["connected","depend on each other","interdependent"],"keywords":["food web","interdependence"],"explanation":"Food webs show interdependence, so one change can affect many organisms."},
-  {"id":"eco_q041","topic":"Ecosystems","subtopic":"Pollination","difficulty":"challenge","type":"spot-the-mistake","question":"Maya says, 'Pollination is when a seed starts to grow.' What is wrong?","answer":"That is germination. Pollination is pollen moving from anther to stigma.","acceptedAnswers":["that is germination","pollen from anther to stigma"],"keywords":["pollination","germination"],"explanation":"Pollination and germination are different plant processes."},
-  {"id":"eco_q042","topic":"Ecosystems","subtopic":"Food chains","difficulty":"medium","type":"spot-the-mistake","question":"A student draws grass <- rabbit <- fox and says the arrows point to what gets eaten. What is wrong?","answer":"The arrows should show energy transfer from food to eater.","acceptedAnswers":["energy transfer","food to eater"],"keywords":["arrows","energy"],"explanation":"Arrows in food chains show energy transfer, not what gets eaten."},
-  {"id":"eco_q043","topic":"Ecosystems","subtopic":"Ecosystems","difficulty":"challenge","type":"multiple-choice","question":"Which word means living factors in an ecosystem?","options":["Biotic","Abiotic","Neutral","Dilute"],"answer":"Biotic","acceptedAnswers":["biotic"],"keywords":["biotic"],"explanation":"Biotic factors are living factors."},
-  {"id":"eco_q044","topic":"Ecosystems","subtopic":"Ecosystems","difficulty":"challenge","type":"multiple-choice","question":"Which word means non-living factors in an ecosystem?","options":["Abiotic","Biotic","Producer","Community"],"answer":"Abiotic","acceptedAnswers":["abiotic"],"keywords":["abiotic"],"explanation":"Abiotic factors are non-living factors such as light and temperature."},
-  {"id":"eco_q045","topic":"Ecosystems","subtopic":"Interdependence","difficulty":"medium","type":"explain","question":"Explain how plants and insect pollinators can depend on each other.","answer":"Plants use insects to transfer pollen, and insects get food such as nectar.","acceptedAnswers":["transfer pollen","nectar","depend on each other"],"keywords":["plants","pollinators","nectar"],"explanation":"This is interdependence because both organisms benefit or rely on each other."},
-  {"id":"skills_q001","topic":"Skills in Science","subtopic":"Lab hazards","difficulty":"easy","type":"recall","question":"What is a lab hazard?","answer":"Something in the lab that could cause harm.","acceptedAnswers":["could cause harm","something dangerous"],"keywords":["hazard","harm"],"explanation":"Hazards include flames, chemicals and broken glass."},
-  {"id":"skills_q002","topic":"Skills in Science","subtopic":"Hazard symbols","difficulty":"easy","type":"recall","question":"Why do chemicals have hazard symbols?","answer":"To warn people about the type of danger.","acceptedAnswers":["warn about danger","show danger"],"keywords":["hazard symbols","warning"],"explanation":"Hazard symbols help people choose safe precautions."},
-  {"id":"skills_q003","topic":"Skills in Science","subtopic":"Precautions","difficulty":"easy","type":"recall","question":"What is a precaution?","answer":"An action taken to reduce risk.","acceptedAnswers":["action to reduce risk","reduce risk"],"keywords":["precaution","risk"],"explanation":"Wearing goggles is a precaution."},
-  {"id":"skills_q004","topic":"Skills in Science","subtopic":"Risk assessment","difficulty":"medium","type":"recall","question":"What should a risk assessment identify?","answer":"Hazards, risks and precautions.","acceptedAnswers":["hazards risks precautions","hazards and precautions"],"keywords":["risk assessment","hazards"],"explanation":"A risk assessment helps plan safe practical work."},
-  {"id":"skills_q005","topic":"Skills in Science","subtopic":"Apparatus","difficulty":"easy","type":"multiple-choice","question":"Which apparatus is best for measuring liquid volume more accurately than a beaker?","options":["Measuring cylinder","Bunsen burner","Tripod","Thermometer"],"answer":"Measuring cylinder","acceptedAnswers":["measuring cylinder"],"keywords":["volume","measuring cylinder"],"explanation":"A measuring cylinder measures liquid volume more accurately than a beaker."},
-  {"id":"skills_q006","topic":"Skills in Science","subtopic":"Measuring equipment","difficulty":"easy","type":"multiple-choice","question":"What does a thermometer measure?","options":["Temperature","Mass","Length","Volume"],"answer":"Temperature","acceptedAnswers":["temperature"],"keywords":["thermometer"],"explanation":"A thermometer measures temperature."},
-  {"id":"skills_q007","topic":"Skills in Science","subtopic":"Measuring equipment","difficulty":"easy","type":"multiple-choice","question":"What does a balance measure?","options":["Mass","Temperature","Time","pH"],"answer":"Mass","acceptedAnswers":["mass"],"keywords":["balance"],"explanation":"A balance measures mass."},
-  {"id":"skills_q008","topic":"Skills in Science","subtopic":"Bunsen burner safety","difficulty":"easy","type":"multiple-choice","question":"Which Bunsen flame is the safety flame?","options":["Yellow","Blue","Green","Invisible"],"answer":"Yellow","acceptedAnswers":["yellow"],"keywords":["Bunsen","safety flame"],"explanation":"The yellow flame is easier to see and is used as the safety flame."},
-  {"id":"skills_q009","topic":"Skills in Science","subtopic":"Bunsen burner safety","difficulty":"easy","type":"multiple-choice","question":"Which Bunsen flame is hotter?","options":["Blue","Yellow","Orange","Green"],"answer":"Blue","acceptedAnswers":["blue"],"keywords":["Bunsen","hotter"],"explanation":"The blue flame is hotter and used for heating."},
-  {"id":"skills_q010","topic":"Skills in Science","subtopic":"Variables","difficulty":"easy","type":"recall","question":"What is a variable?","answer":"Something that can change in an investigation.","acceptedAnswers":["something that can change","can change"],"keywords":["variable","change"],"explanation":"Scientists plan which variables to change, measure and control."},
-  {"id":"skills_q011","topic":"Skills in Science","subtopic":"Variables","difficulty":"easy","type":"fill-blank","question":"The independent variable is the variable you ______.","answer":"change","acceptedAnswers":["change"],"keywords":["independent variable"],"explanation":"The independent variable is the one you change."},
-  {"id":"skills_q012","topic":"Skills in Science","subtopic":"Variables","difficulty":"easy","type":"fill-blank","question":"The dependent variable is the variable you ______.","answer":"measure","acceptedAnswers":["measure"],"keywords":["dependent variable"],"explanation":"The dependent variable is the one you measure."},
-  {"id":"skills_q013","topic":"Skills in Science","subtopic":"Variables","difficulty":"easy","type":"recall","question":"Why are control variables kept the same?","answer":"To make the test fair.","acceptedAnswers":["fair test","make it fair"],"keywords":["control variables","fair"],"explanation":"Control variables stop other factors affecting the results."},
-  {"id":"skills_q014","topic":"Skills in Science","subtopic":"Fair tests","difficulty":"easy","type":"spot-the-mistake","question":"A student changes the amount of light and the amount of water to test plant growth. Why is this not a fair test?","answer":"They changed two variables at once.","acceptedAnswers":["changed two variables","more than one variable"],"keywords":["fair test","variables"],"explanation":"A fair test should change only one independent variable."},
-  {"id":"skills_q015","topic":"Skills in Science","subtopic":"Prediction and hypothesis","difficulty":"easy","type":"recall","question":"What is a prediction?","answer":"What you think will happen in an investigation.","acceptedAnswers":["what you think will happen","expected result"],"keywords":["prediction"],"explanation":"A prediction should be linked to science ideas."},
-  {"id":"skills_q016","topic":"Skills in Science","subtopic":"Prediction and hypothesis","difficulty":"medium","type":"recall","question":"What is a hypothesis?","answer":"A testable scientific idea or explanation.","acceptedAnswers":["testable scientific idea","testable explanation"],"keywords":["hypothesis","testable"],"explanation":"A hypothesis can be tested with evidence."},
-  {"id":"skills_q017","topic":"Skills in Science","subtopic":"Planning investigations","difficulty":"medium","type":"recall","question":"Why should a method be clear and detailed?","answer":"So someone else can repeat it.","acceptedAnswers":["repeat it","repeatable"],"keywords":["method","repeat"],"explanation":"A clear method makes an investigation easier to repeat."},
-  {"id":"skills_q018","topic":"Skills in Science","subtopic":"Results tables","difficulty":"easy","type":"recall","question":"What should results table headings include?","answer":"The variable name and unit.","acceptedAnswers":["headings and units","variable and unit"],"keywords":["results table","units"],"explanation":"Units in headings make data clear."},
-  {"id":"skills_q019","topic":"Skills in Science","subtopic":"Mean","difficulty":"easy","type":"recall","question":"How do you calculate the mean?","answer":"Add the values and divide by how many values there are.","acceptedAnswers":["add and divide","sum divided by number"],"keywords":["mean","average"],"explanation":"The mean is a type of average."},
-  {"id":"skills_q020","topic":"Skills in Science","subtopic":"Repeat measurements","difficulty":"easy","type":"recall","question":"Why are repeat measurements useful?","answer":"They help make results more reliable.","acceptedAnswers":["more reliable","improve reliability"],"keywords":["repeat","reliable"],"explanation":"Repeats help spot mistakes and reduce random errors."},
-  {"id":"skills_q021","topic":"Skills in Science","subtopic":"Anomalies","difficulty":"easy","type":"recall","question":"What is an anomaly?","answer":"A result that does not fit the pattern.","acceptedAnswers":["does not fit pattern","odd result"],"keywords":["anomaly","pattern"],"explanation":"Anomalies may be caused by mistakes or unusual conditions."},
-  {"id":"skills_q022","topic":"Skills in Science","subtopic":"Anomalies","difficulty":"medium","type":"application","question":"What should you do if one result looks anomalous?","answer":"Repeat the measurement to check it.","acceptedAnswers":["repeat","check it"],"keywords":["anomaly","repeat"],"explanation":"Repeating can help show whether the anomaly was a mistake."},
-  {"id":"skills_q023","topic":"Skills in Science","subtopic":"Graphs","difficulty":"medium","type":"multiple-choice","question":"Which graph is best for discontinuous categories?","options":["Bar chart","Line graph","Pie chart","Food chain"],"answer":"Bar chart","acceptedAnswers":["bar chart"],"keywords":["bar chart","discontinuous"],"explanation":"Bar charts compare separate categories."},
-  {"id":"skills_q024","topic":"Skills in Science","subtopic":"Graphs","difficulty":"medium","type":"multiple-choice","question":"Which graph is best for continuous data?","options":["Line graph","Bar chart","Pictogram","Food web"],"answer":"Line graph","acceptedAnswers":["line graph"],"keywords":["line graph","continuous"],"explanation":"Line graphs show patterns between numerical variables."},
-  {"id":"skills_q025","topic":"Skills in Science","subtopic":"Data types","difficulty":"medium","type":"recall","question":"What is continuous data?","answer":"Data that can have any value in a range.","acceptedAnswers":["any value in a range","measured data"],"keywords":["continuous","range"],"explanation":"Temperature and time are examples of continuous data."},
-  {"id":"skills_q026","topic":"Skills in Science","subtopic":"Data types","difficulty":"medium","type":"recall","question":"What is discontinuous data?","answer":"Data in separate categories or counted values.","acceptedAnswers":["separate categories","counted values"],"keywords":["discontinuous","categories"],"explanation":"Material type and colour are examples of discontinuous data."},
-  {"id":"skills_q027","topic":"Skills in Science","subtopic":"Graphs","difficulty":"easy","type":"recall","question":"What should graph axes be labelled with?","answer":"The variable and unit.","acceptedAnswers":["variable and unit","units"],"keywords":["axes","labels"],"explanation":"Axis labels show what the graph is measuring."},
-  {"id":"skills_q028","topic":"Skills in Science","subtopic":"Graphs","difficulty":"medium","type":"multiple-choice","question":"Where does the independent variable usually go on a graph?","options":["x-axis","y-axis","title","legend"],"answer":"x-axis","acceptedAnswers":["x-axis","x axis"],"keywords":["independent variable","x-axis"],"explanation":"The independent variable usually goes along the bottom x-axis."},
-  {"id":"skills_q029","topic":"Skills in Science","subtopic":"Graphs","difficulty":"medium","type":"multiple-choice","question":"Where does the dependent variable usually go on a graph?","options":["y-axis","x-axis","title","table heading"],"answer":"y-axis","acceptedAnswers":["y-axis","y axis"],"keywords":["dependent variable","y-axis"],"explanation":"The dependent variable usually goes on the vertical y-axis."},
-  {"id":"skills_q030","topic":"Skills in Science","subtopic":"Graphs","difficulty":"medium","type":"recall","question":"What does a best fit line show?","answer":"The overall pattern in the data.","acceptedAnswers":["overall pattern","pattern"],"keywords":["best fit line","pattern"],"explanation":"A best fit line does not need to go through every point exactly."},
-  {"id":"skills_q031","topic":"Skills in Science","subtopic":"Conclusions","difficulty":"medium","type":"recall","question":"What should a conclusion include?","answer":"An answer to the question using evidence.","acceptedAnswers":["answer using evidence","uses evidence"],"keywords":["conclusion","evidence"],"explanation":"A good conclusion links to the results and science idea."},
-  {"id":"skills_q032","topic":"Skills in Science","subtopic":"Evaluating methods","difficulty":"medium","type":"recall","question":"What does evaluating a method mean?","answer":"Judging how good it was and how it could be improved.","acceptedAnswers":["judge how good","improved"],"keywords":["evaluate","method"],"explanation":"Evaluation looks at strengths, weaknesses and improvements."},
-  {"id":"skills_q033","topic":"Skills in Science","subtopic":"Reliability","difficulty":"medium","type":"multiple-choice","question":"Which phrase best describes reliable results?","options":["Consistent when repeated","Always colourful","Written in pen","Measured once"],"answer":"Consistent when repeated","acceptedAnswers":["consistent when repeated","repeatable"],"keywords":["reliable","consistent"],"explanation":"Reliable results are consistent when repeated."},
-  {"id":"skills_q034","topic":"Skills in Science","subtopic":"Validity","difficulty":"medium","type":"recall","question":"What makes an investigation valid?","answer":"It tests what it is meant to test.","acceptedAnswers":["tests what meant to test","fairly tests aim"],"keywords":["valid","test"],"explanation":"Control variables help make an investigation valid."},
-  {"id":"skills_q035","topic":"Skills in Science","subtopic":"Precision","difficulty":"challenge","type":"recall","question":"What does precision mean in measurements?","answer":"How close repeated measurements are to each other.","acceptedAnswers":["close repeated measurements","measurements close"],"keywords":["precision","measurements"],"explanation":"Precise results are close together, even if they are not always accurate."}
+  {
+    "id": "acid_q001",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Indicators and pH",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What pH is neutral?",
+    "answer": "pH 7",
+    "acceptedAnswers": [
+      "pH 7",
+      "7"
+    ],
+    "keywords": [
+      "neutral",
+      "pH"
+    ],
+    "explanation": "A solution of pH 7 is neutral.",
+    "options": [
+      "pH 0",
+      "pH 2",
+      "pH 7",
+      "pH 13"
+    ],
+    "hint": "It is in the middle of the 0-14 scale."
+  },
+  {
+    "id": "acid_q002",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Acids and alkalis",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which definition matches an acid in Isla’s source?",
+    "answer": "A solution with a pH value less than 7",
+    "acceptedAnswers": [
+      "pH less than 7",
+      "less than 7"
+    ],
+    "keywords": [
+      "acid",
+      "pH"
+    ],
+    "explanation": "The glossary defines an acid as a solution with pH less than 7.",
+    "options": [
+      "A soluble base",
+      "A solution with pH less than 7",
+      "A neutral solution",
+      "A substance that catches pollen"
+    ]
+  },
+  {
+    "id": "acid_q003",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Acids and alkalis",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which definition matches an alkali?",
+    "answer": "A soluble base",
+    "acceptedAnswers": [
+      "soluble base"
+    ],
+    "keywords": [
+      "alkali",
+      "base"
+    ],
+    "explanation": "The source defines an alkali as a soluble base.",
+    "options": [
+      "A soluble base",
+      "A product in a reaction",
+      "A strong acid",
+      "A hazard symbol"
+    ]
+  },
+  {
+    "id": "acid_q004",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Indicators and pH",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does an indicator show about an unknown solution?",
+    "answer": "Whether it is acidic or alkaline",
+    "acceptedAnswers": [
+      "acidic or alkaline",
+      "whether it is acidic or alkaline"
+    ],
+    "keywords": [
+      "indicator",
+      "acidic",
+      "alkaline"
+    ],
+    "explanation": "The source says indicators identify whether unknown solutions are acidic or alkaline."
+  },
+  {
+    "id": "acid_q005",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Indicators and pH",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Blue litmus paper is put into an acid. What colour does it go?",
+    "answer": "Red",
+    "acceptedAnswers": [
+      "red"
+    ],
+    "keywords": [
+      "litmus",
+      "acid"
+    ],
+    "explanation": "Blue litmus paper goes red when acid is added.",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Purple"
+    ]
+  },
+  {
+    "id": "acid_q006",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Indicators and pH",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Red litmus paper is put into an alkali. What colour does it go?",
+    "answer": "Blue",
+    "acceptedAnswers": [
+      "blue"
+    ],
+    "keywords": [
+      "litmus",
+      "alkali"
+    ],
+    "explanation": "Red litmus paper goes blue when alkali is added.",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Orange"
+    ]
+  },
+  {
+    "id": "acid_q007",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Indicators and pH",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does universal indicator show?",
+    "answer": "The pH of a solution",
+    "acceptedAnswers": [
+      "pH",
+      "pH of a solution"
+    ],
+    "keywords": [
+      "universal indicator",
+      "pH"
+    ],
+    "explanation": "Universal indicator changes colour to show the pH of a solution."
+  },
+  {
+    "id": "acid_q008",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Indicators and pH",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What range does the pH scale run from and to?",
+    "answer": "0 to 14",
+    "acceptedAnswers": [
+      "0 to 14",
+      "zero to fourteen"
+    ],
+    "keywords": [
+      "pH scale"
+    ],
+    "explanation": "The acids revision spread gives the pH scale as 0-14.",
+    "options": [
+      "0 to 7",
+      "1 to 10",
+      "0 to 14",
+      "7 to 14"
+    ]
+  },
+  {
+    "id": "acid_q009",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Acidity and alkalinity",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which pair are examples of acids in the revision spread?",
+    "answer": "Hydrochloric acid and sulfuric acid",
+    "acceptedAnswers": [
+      "hydrochloric acid and sulfuric acid"
+    ],
+    "keywords": [
+      "acid examples"
+    ],
+    "explanation": "The revision spread lists hydrochloric acid and sulfuric acid as acid examples.",
+    "options": [
+      "Sodium hydroxide and potassium hydroxide",
+      "Hydrochloric acid and sulfuric acid",
+      "Pure water and sugar solution",
+      "Toothpaste and oven cleaner"
+    ]
+  },
+  {
+    "id": "acid_q010",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Acidity and alkalinity",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which pair are examples of alkalis in the revision spread?",
+    "answer": "Sodium hydroxide and potassium hydroxide",
+    "acceptedAnswers": [
+      "sodium hydroxide and potassium hydroxide"
+    ],
+    "keywords": [
+      "alkali examples"
+    ],
+    "explanation": "The revision spread lists sodium hydroxide and potassium hydroxide as alkalis.",
+    "options": [
+      "Hydrochloric acid and sulfuric acid",
+      "Cola and vinegar",
+      "Sodium hydroxide and potassium hydroxide",
+      "Pure water and sugar solution"
+    ]
+  },
+  {
+    "id": "acid_q011",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Hazards",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does corrosive mean?",
+    "answer": "It can burn your skin or eyes",
+    "acceptedAnswers": [
+      "burn your skin or eyes",
+      "burns skin or eyes"
+    ],
+    "keywords": [
+      "corrosive"
+    ],
+    "explanation": "The glossary defines corrosive as able to burn skin or eyes."
+  },
+  {
+    "id": "acid_q012",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Hazards",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does irritant mean?",
+    "answer": "It makes your skin itch or swell up a little",
+    "acceptedAnswers": [
+      "skin itch or swell",
+      "itch or swell"
+    ],
+    "keywords": [
+      "irritant"
+    ],
+    "explanation": "The glossary says an irritant makes skin itch or swell a little."
+  },
+  {
+    "id": "acid_q013",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Hazards",
+    "difficulty": "medium",
+    "type": "explain",
+    "question": "How is concentrated hydrochloric acid different from dilute hydrochloric acid as a hazard?",
+    "answer": "Concentrated hydrochloric acid is more corrosive than dilute hydrochloric acid",
+    "acceptedAnswers": [
+      "more corrosive",
+      "concentrated is more corrosive"
+    ],
+    "keywords": [
+      "concentrated",
+      "dilute",
+      "corrosive"
+    ],
+    "explanation": "The revision spread states that concentrated hydrochloric acid is more corrosive than dilute hydrochloric acid."
+  },
+  {
+    "id": "acid_q014",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Neutralisation",
+    "difficulty": "easy",
+    "type": "fill-blank",
+    "question": "Acid + alkali -> salt + ______.",
+    "answer": "water",
+    "acceptedAnswers": [
+      "water"
+    ],
+    "keywords": [
+      "acid",
+      "alkali",
+      "salt",
+      "water"
+    ],
+    "explanation": "The neutralisation equation in the source is acid + alkali -> salt + water."
+  },
+  {
+    "id": "acid_q015",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Neutralisation",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is neutralisation?",
+    "answer": "When an acid cancels out a base or a base cancels out an acid",
+    "acceptedAnswers": [
+      "acid cancels out a base",
+      "base cancels out an acid"
+    ],
+    "keywords": [
+      "neutralisation"
+    ],
+    "explanation": "This follows the glossary definition of neutralisation."
+  },
+  {
+    "id": "acid_q016",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Neutralisation",
+    "difficulty": "medium",
+    "type": "application",
+    "question": "Using universal indicator, how could you tell neutralisation has been reached?",
+    "answer": "The solution turns green",
+    "acceptedAnswers": [
+      "turns green",
+      "green"
+    ],
+    "keywords": [
+      "universal indicator",
+      "green"
+    ],
+    "explanation": "The revision spread says universal indicator turns green when neutralisation is reached."
+  },
+  {
+    "id": "acid_q017",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Making salts",
+    "difficulty": "medium",
+    "type": "fill-blank",
+    "question": "Hydrochloric acid + sodium hydroxide -> ______ + water.",
+    "answer": "sodium chloride",
+    "acceptedAnswers": [
+      "sodium chloride"
+    ],
+    "keywords": [
+      "hydrochloric acid",
+      "sodium hydroxide"
+    ],
+    "explanation": "The completed source equation is hydrochloric acid + sodium hydroxide -> sodium chloride + water."
+  },
+  {
+    "id": "acid_q018",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Making salts",
+    "difficulty": "medium",
+    "type": "fill-blank",
+    "question": "Sulfuric acid + copper oxide -> ______ + water.",
+    "answer": "copper sulfate",
+    "acceptedAnswers": [
+      "copper sulfate"
+    ],
+    "keywords": [
+      "sulfuric acid",
+      "copper oxide"
+    ],
+    "explanation": "The completed source equation is sulfuric acid + copper oxide -> copper sulfate + water."
+  },
+  {
+    "id": "acid_q019",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Making salts",
+    "difficulty": "medium",
+    "type": "fill-blank",
+    "question": "Lithium hydroxide + sulfuric acid -> ______ + water.",
+    "answer": "lithium sulfate",
+    "acceptedAnswers": [
+      "lithium sulfate"
+    ],
+    "keywords": [
+      "lithium hydroxide",
+      "sulfuric acid"
+    ],
+    "explanation": "The completed source equation is lithium hydroxide + sulfuric acid -> lithium sulfate + water."
+  },
+  {
+    "id": "acid_q020",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Acid strength",
+    "difficulty": "challenge",
+    "type": "spot-the-mistake",
+    "question": "Isla says, “A strong acid means there are lots of particles in a volume.” What is the mistake?",
+    "answer": "That describes concentration, not acid strength",
+    "acceptedAnswers": [
+      "concentration not strength",
+      "strong acid is about particles splitting up"
+    ],
+    "keywords": [
+      "strong acid",
+      "concentration"
+    ],
+    "explanation": "The source defines strong acid as all acid particles splitting up in water. Concentration is particles per volume."
+  },
+  {
+    "id": "acid_q021",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Acid strength",
+    "difficulty": "challenge",
+    "type": "recall",
+    "question": "What is a weak acid according to the glossary?",
+    "answer": "An acid in which only some acid particles split up when it dissolves in water",
+    "acceptedAnswers": [
+      "only some acid particles split up",
+      "some particles split up"
+    ],
+    "keywords": [
+      "weak acid"
+    ],
+    "explanation": "That is the exact idea from the glossary definition."
+  },
+  {
+    "id": "acid_q022",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Concentration",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What does concentration measure?",
+    "answer": "The number of particles in a given volume",
+    "acceptedAnswers": [
+      "number of particles in a given volume",
+      "particles per volume"
+    ],
+    "keywords": [
+      "concentration"
+    ],
+    "explanation": "The glossary defines concentration as the number of particles in a given volume."
+  },
+  {
+    "id": "acid_q023",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Acidity and alkalinity",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "In the revision spread table, which substance is acidic?",
+    "answer": "Vinegar",
+    "acceptedAnswers": [
+      "vinegar"
+    ],
+    "keywords": [
+      "acidic"
+    ],
+    "explanation": "The table marks vinegar as acidic.",
+    "options": [
+      "Vinegar",
+      "Pure water",
+      "Sugar solution",
+      "Toothpaste"
+    ]
+  },
+  {
+    "id": "acid_q024",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Acidity and alkalinity",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "In the revision spread table, which substance is alkaline?",
+    "answer": "Oven cleaner",
+    "acceptedAnswers": [
+      "oven cleaner"
+    ],
+    "keywords": [
+      "alkaline"
+    ],
+    "explanation": "The table marks oven cleaner as alkaline.",
+    "options": [
+      "Lemon juice",
+      "Oven cleaner",
+      "Pure water",
+      "Sugar solution"
+    ]
+  },
+  {
+    "id": "acid_q025",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Acidity and alkalinity",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "In the revision spread table, which substance is neutral?",
+    "answer": "Sugar solution",
+    "acceptedAnswers": [
+      "sugar solution"
+    ],
+    "keywords": [
+      "neutral"
+    ],
+    "explanation": "The table marks sugar solution as neutral.",
+    "options": [
+      "Cola",
+      "Drain cleaner",
+      "Sugar solution",
+      "Vinegar"
+    ]
+  },
+  {
+    "id": "acid_q026",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Indicators and pH",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What pH does the revision spread give for stomach acid?",
+    "answer": "pH 2",
+    "acceptedAnswers": [
+      "pH 2",
+      "2"
+    ],
+    "keywords": [
+      "stomach acid"
+    ],
+    "explanation": "The revision spread lists stomach acid as pH 2.",
+    "options": [
+      "pH 2",
+      "pH 7",
+      "pH 13",
+      "pH 14"
+    ]
+  },
+  {
+    "id": "acid_q027",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Indicators and pH",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What pH does the revision spread give for bleach?",
+    "answer": "pH 13",
+    "acceptedAnswers": [
+      "pH 13",
+      "13"
+    ],
+    "keywords": [
+      "bleach"
+    ],
+    "explanation": "The revision spread lists bleach as pH 13.",
+    "options": [
+      "pH 1",
+      "pH 7",
+      "pH 13",
+      "pH 0"
+    ]
+  },
+  {
+    "id": "acid_q028",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Indicators and pH",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What pH does the revision spread give for pure water?",
+    "answer": "pH 7",
+    "acceptedAnswers": [
+      "pH 7",
+      "7"
+    ],
+    "keywords": [
+      "pure water"
+    ],
+    "explanation": "Pure water is neutral, pH 7.",
+    "options": [
+      "pH 2",
+      "pH 7",
+      "pH 9",
+      "pH 13"
+    ]
+  },
+  {
+    "id": "acid_q029",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Chemical reactions",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a reactant?",
+    "answer": "A starting substance in a chemical reaction",
+    "acceptedAnswers": [
+      "starting substance",
+      "substance you start with"
+    ],
+    "keywords": [
+      "reactant"
+    ],
+    "explanation": "The glossary defines a reactant as a starting substance in a chemical reaction."
+  },
+  {
+    "id": "acid_q030",
+    "topic": "Acids and Alkalis",
+    "subtopic": "Chemical reactions",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a product?",
+    "answer": "A substance made in a chemical reaction",
+    "acceptedAnswers": [
+      "substance made",
+      "made in a chemical reaction"
+    ],
+    "keywords": [
+      "product"
+    ],
+    "explanation": "The glossary defines a product as a substance made in a chemical reaction."
+  },
+  {
+    "id": "eco_q001",
+    "topic": "Ecosystems",
+    "subtopic": "Food chains and webs",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does a food chain show?",
+    "answer": "The transfer of energy between organisms",
+    "acceptedAnswers": [
+      "transfer of energy",
+      "energy transfer"
+    ],
+    "keywords": [
+      "food chain",
+      "energy"
+    ],
+    "explanation": "The glossary says a food chain diagram shows energy transfer between organisms."
+  },
+  {
+    "id": "eco_q002",
+    "topic": "Ecosystems",
+    "subtopic": "Food chains and webs",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What does a food chain usually start with?",
+    "answer": "A producer",
+    "acceptedAnswers": [
+      "producer"
+    ],
+    "keywords": [
+      "food chain",
+      "producer"
+    ],
+    "explanation": "The source says a food chain starts with a producer and ends with a top predator.",
+    "options": [
+      "A producer",
+      "A top predator",
+      "A decomposer",
+      "A carpel"
+    ]
+  },
+  {
+    "id": "eco_q003",
+    "topic": "Ecosystems",
+    "subtopic": "Food chains and webs",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is a producer?",
+    "answer": "A green plant or algae that makes its own food using sunlight",
+    "acceptedAnswers": [
+      "green plant or algae",
+      "makes its own food",
+      "photosynthesis"
+    ],
+    "keywords": [
+      "producer"
+    ],
+    "explanation": "That is the source definition of producer.",
+    "options": [
+      "An animal that eats plants",
+      "A green plant or algae that makes its own food using sunlight",
+      "An organism that breaks down dead material",
+      "A sticky flower part"
+    ]
+  },
+  {
+    "id": "eco_q004",
+    "topic": "Ecosystems",
+    "subtopic": "Food chains and webs",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is a consumer?",
+    "answer": "An animal that eats other animals or plants",
+    "acceptedAnswers": [
+      "animal that eats other animals or plants",
+      "eats animals or plants"
+    ],
+    "keywords": [
+      "consumer"
+    ],
+    "explanation": "That is the source definition of consumer.",
+    "options": [
+      "A plant that makes food",
+      "An animal that eats other animals or plants",
+      "The living and non-living environment",
+      "A seed starting to grow"
+    ]
+  },
+  {
+    "id": "eco_q005",
+    "topic": "Ecosystems",
+    "subtopic": "Food chains and webs",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which word means an animal that eats other animals?",
+    "answer": "Predator",
+    "acceptedAnswers": [
+      "predator"
+    ],
+    "keywords": [
+      "predator"
+    ],
+    "explanation": "A predator is an animal that eats other animals.",
+    "options": [
+      "Prey",
+      "Producer",
+      "Predator",
+      "Petal"
+    ]
+  },
+  {
+    "id": "eco_q006",
+    "topic": "Ecosystems",
+    "subtopic": "Food chains and webs",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which word means an animal that is eaten by another animal?",
+    "answer": "Prey",
+    "acceptedAnswers": [
+      "prey"
+    ],
+    "keywords": [
+      "prey"
+    ],
+    "explanation": "Prey is an animal that is eaten by another animal.",
+    "options": [
+      "Prey",
+      "Predator",
+      "Producer",
+      "Stamen"
+    ]
+  },
+  {
+    "id": "eco_q007",
+    "topic": "Ecosystems",
+    "subtopic": "Food chains and webs",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does a decomposer do?",
+    "answer": "Breaks down dead plant and animal material so nutrients are recycled",
+    "acceptedAnswers": [
+      "breaks down dead plant and animal material",
+      "recycles nutrients"
+    ],
+    "keywords": [
+      "decomposer",
+      "nutrients"
+    ],
+    "explanation": "That is the source definition of decomposer."
+  },
+  {
+    "id": "eco_q008",
+    "topic": "Ecosystems",
+    "subtopic": "Food chains and webs",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a food web?",
+    "answer": "A diagram that shows how food chains in an ecosystem are linked",
+    "acceptedAnswers": [
+      "food chains are linked",
+      "linked food chains"
+    ],
+    "keywords": [
+      "food web"
+    ],
+    "explanation": "That is the source definition of food web."
+  },
+  {
+    "id": "eco_q009",
+    "topic": "Ecosystems",
+    "subtopic": "Disruption to food chains and webs",
+    "difficulty": "challenge",
+    "type": "recall",
+    "question": "What is bioaccumulation?",
+    "answer": "The build-up of toxic chemicals inside organisms in a food chain",
+    "acceptedAnswers": [
+      "build-up of toxic chemicals",
+      "toxic chemicals build up"
+    ],
+    "keywords": [
+      "bioaccumulation"
+    ],
+    "explanation": "That is the source definition of bioaccumulation."
+  },
+  {
+    "id": "eco_q010",
+    "topic": "Ecosystems",
+    "subtopic": "Ecosystems",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is an ecosystem?",
+    "answer": "The living things in a given area and their non-living environment",
+    "acceptedAnswers": [
+      "living things and non-living environment",
+      "organisms and environment"
+    ],
+    "keywords": [
+      "ecosystem"
+    ],
+    "explanation": "That is the glossary definition of ecosystem."
+  },
+  {
+    "id": "eco_q011",
+    "topic": "Ecosystems",
+    "subtopic": "Ecosystems",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "Which definition matches a community?",
+    "answer": "The collection of different types of organism present in an ecosystem",
+    "acceptedAnswers": [
+      "different types of organism",
+      "collection of organisms"
+    ],
+    "keywords": [
+      "community"
+    ],
+    "explanation": "The source defines community as the collection of different organisms in an ecosystem.",
+    "options": [
+      "The area where one organism lives",
+      "The collection of different types of organism present in an ecosystem",
+      "A group of the same species living in an area",
+      "A substance that neutralises acid"
+    ]
+  },
+  {
+    "id": "eco_q012",
+    "topic": "Ecosystems",
+    "subtopic": "Ecosystems",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a habitat?",
+    "answer": "The area in which an organism lives",
+    "acceptedAnswers": [
+      "area in which an organism lives",
+      "where it lives"
+    ],
+    "keywords": [
+      "habitat"
+    ],
+    "explanation": "That is the source definition of habitat."
+  },
+  {
+    "id": "eco_q013",
+    "topic": "Ecosystems",
+    "subtopic": "Ecosystems",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is a niche?",
+    "answer": "A particular place or role that an organism has in an ecosystem",
+    "acceptedAnswers": [
+      "place or role",
+      "role in ecosystem"
+    ],
+    "keywords": [
+      "niche"
+    ],
+    "explanation": "That is the source definition of niche."
+  },
+  {
+    "id": "eco_q014",
+    "topic": "Ecosystems",
+    "subtopic": "Competition",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "Name two resources animals compete for in the organiser.",
+    "answer": "Food and water",
+    "acceptedAnswers": [
+      "food",
+      "water",
+      "space",
+      "mates"
+    ],
+    "keywords": [
+      "animals",
+      "competition"
+    ],
+    "explanation": "The organiser lists food, water, space and mates."
+  },
+  {
+    "id": "eco_q015",
+    "topic": "Ecosystems",
+    "subtopic": "Competition",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "Name two resources plants compete for in the organiser.",
+    "answer": "Light and water",
+    "acceptedAnswers": [
+      "light",
+      "water",
+      "space",
+      "minerals"
+    ],
+    "keywords": [
+      "plants",
+      "competition"
+    ],
+    "explanation": "The organiser lists light, water, space and minerals."
+  },
+  {
+    "id": "eco_q016",
+    "topic": "Ecosystems",
+    "subtopic": "Competition",
+    "difficulty": "medium",
+    "type": "explain",
+    "question": "What happens to prey numbers if predator numbers increase? Explain why.",
+    "answer": "Prey numbers decrease because more prey are eaten",
+    "acceptedAnswers": [
+      "prey decrease",
+      "more are eaten"
+    ],
+    "keywords": [
+      "predator",
+      "prey"
+    ],
+    "explanation": "The organiser explains that more predators eat more prey."
+  },
+  {
+    "id": "eco_q017",
+    "topic": "Ecosystems",
+    "subtopic": "Competition",
+    "difficulty": "medium",
+    "type": "explain",
+    "question": "What happens to prey numbers if predator numbers decrease? Explain why.",
+    "answer": "Prey numbers increase because fewer prey are eaten",
+    "acceptedAnswers": [
+      "prey increase",
+      "fewer are eaten",
+      "less are eaten"
+    ],
+    "keywords": [
+      "predator",
+      "prey"
+    ],
+    "explanation": "The organiser explains this predator-prey relationship."
+  },
+  {
+    "id": "eco_q018",
+    "topic": "Ecosystems",
+    "subtopic": "Flowers and pollination",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which flower part produces pollen?",
+    "answer": "Anther",
+    "acceptedAnswers": [
+      "anther"
+    ],
+    "keywords": [
+      "anther",
+      "pollen"
+    ],
+    "explanation": "The anther produces pollen.",
+    "options": [
+      "Stigma",
+      "Anther",
+      "Style",
+      "Sepal"
+    ]
+  },
+  {
+    "id": "eco_q019",
+    "topic": "Ecosystems",
+    "subtopic": "Flowers and pollination",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which flower part is sticky to catch pollen?",
+    "answer": "Stigma",
+    "acceptedAnswers": [
+      "stigma"
+    ],
+    "keywords": [
+      "stigma",
+      "pollen"
+    ],
+    "explanation": "The stigma is sticky to catch pollen.",
+    "options": [
+      "Anther",
+      "Filament",
+      "Stigma",
+      "Ovary"
+    ]
+  },
+  {
+    "id": "eco_q020",
+    "topic": "Ecosystems",
+    "subtopic": "Flowers and pollination",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which flower part holds up the anther?",
+    "answer": "Filament",
+    "acceptedAnswers": [
+      "filament"
+    ],
+    "keywords": [
+      "filament",
+      "anther"
+    ],
+    "explanation": "The filament holds up the anther.",
+    "options": [
+      "Style",
+      "Filament",
+      "Petal",
+      "Ovule"
+    ]
+  },
+  {
+    "id": "eco_q021",
+    "topic": "Ecosystems",
+    "subtopic": "Flowers and pollination",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which flower part contains ovules?",
+    "answer": "Ovary",
+    "acceptedAnswers": [
+      "ovary"
+    ],
+    "keywords": [
+      "ovary",
+      "ovules"
+    ],
+    "explanation": "The ovary contains ovules.",
+    "options": [
+      "Ovary",
+      "Petal",
+      "Anther",
+      "Sepal"
+    ]
+  },
+  {
+    "id": "eco_q022",
+    "topic": "Ecosystems",
+    "subtopic": "Flowers and pollination",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which flower part attracts insects?",
+    "answer": "Petal",
+    "acceptedAnswers": [
+      "petal",
+      "petals"
+    ],
+    "keywords": [
+      "petal",
+      "insects"
+    ],
+    "explanation": "Petals are brightly coloured and attract insects.",
+    "options": [
+      "Petal",
+      "Style",
+      "Filament",
+      "Ovary"
+    ]
+  },
+  {
+    "id": "eco_q023",
+    "topic": "Ecosystems",
+    "subtopic": "Flowers and pollination",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is pollination?",
+    "answer": "Transfer of pollen from the male part of the flower to the female part",
+    "acceptedAnswers": [
+      "transfer of pollen",
+      "male part to female part"
+    ],
+    "keywords": [
+      "pollination",
+      "pollen"
+    ],
+    "explanation": "That is the source definition of pollination."
+  },
+  {
+    "id": "eco_q024",
+    "topic": "Ecosystems",
+    "subtopic": "Fertilisation and germination",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is fertilisation?",
+    "answer": "Joining of a nucleus from a male and female sex cell",
+    "acceptedAnswers": [
+      "joining of male and female nucleus",
+      "male and female sex cell"
+    ],
+    "keywords": [
+      "fertilisation"
+    ],
+    "explanation": "That is the source definition of fertilisation."
+  },
+  {
+    "id": "eco_q025",
+    "topic": "Ecosystems",
+    "subtopic": "Fertilisation and germination",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is germination?",
+    "answer": "The process of a seed starting to grow into a seedling",
+    "acceptedAnswers": [
+      "seed starting to grow",
+      "grow into a seedling"
+    ],
+    "keywords": [
+      "germination"
+    ],
+    "explanation": "That is the source definition of germination."
+  },
+  {
+    "id": "eco_q026",
+    "topic": "Ecosystems",
+    "subtopic": "Fertilisation and germination",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What three things does a seed need for germination in the organiser?",
+    "answer": "Water, oxygen and warmth",
+    "acceptedAnswers": [
+      "water oxygen warmth",
+      "water oxygen suitable temperature"
+    ],
+    "keywords": [
+      "germination"
+    ],
+    "explanation": "The organiser lists water, oxygen and warmth."
+  },
+  {
+    "id": "eco_q027",
+    "topic": "Ecosystems",
+    "subtopic": "Seed dispersal",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is seed dispersal?",
+    "answer": "The movement of seeds away from the parent plant",
+    "acceptedAnswers": [
+      "movement of seeds away from parent plant",
+      "seeds away from parent"
+    ],
+    "keywords": [
+      "seed dispersal"
+    ],
+    "explanation": "That is the source definition of seed dispersal."
+  },
+  {
+    "id": "eco_q028",
+    "topic": "Ecosystems",
+    "subtopic": "Seed dispersal",
+    "difficulty": "medium",
+    "type": "explain",
+    "question": "Why is seed dispersal important for the parent plant and offspring?",
+    "answer": "It helps survival by moving seeds away so there is less competition",
+    "acceptedAnswers": [
+      "less competition",
+      "helps survival",
+      "away from parent"
+    ],
+    "keywords": [
+      "seed dispersal",
+      "survival"
+    ],
+    "explanation": "The checklist asks for why seed dispersal supports survival of parent and offspring."
+  },
+  {
+    "id": "eco_q029",
+    "topic": "Ecosystems",
+    "subtopic": "Disruption to food chains and webs",
+    "difficulty": "challenge",
+    "type": "application",
+    "question": "If an organism in a food web dies out, why might organisms that eat it also be affected?",
+    "answer": "They may lose a food source unless they have another one",
+    "acceptedAnswers": [
+      "lose food source",
+      "different food source"
+    ],
+    "keywords": [
+      "food web",
+      "food source"
+    ],
+    "explanation": "The organiser explains that organisms may die out unless they have a different food source."
+  },
+  {
+    "id": "eco_q030",
+    "topic": "Ecosystems",
+    "subtopic": "Flowers and pollination",
+    "difficulty": "challenge",
+    "type": "spot-the-mistake",
+    "question": "Isla says, “Germination is when pollen moves from an anther to a stigma.” What is wrong?",
+    "answer": "That is pollination; germination is when a seed starts to grow",
+    "acceptedAnswers": [
+      "that is pollination",
+      "germination is seed starts to grow"
+    ],
+    "keywords": [
+      "pollination",
+      "germination"
+    ],
+    "explanation": "Pollination and germination are different processes in the source."
+  },
+  {
+    "id": "skills_q001",
+    "topic": "Skills in Science",
+    "subtopic": "Rules and hazards",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is a hazard?",
+    "answer": "A situation that presents a threat to people",
+    "acceptedAnswers": [
+      "threat to people",
+      "situation that presents a threat"
+    ],
+    "keywords": [
+      "hazard"
+    ],
+    "explanation": "That is the source definition of hazard.",
+    "options": [
+      "How likely something is harmful",
+      "A situation that presents a threat to people",
+      "A graph of categories",
+      "A variable you measure"
+    ]
+  },
+  {
+    "id": "skills_q002",
+    "topic": "Skills in Science",
+    "subtopic": "Rules and hazards",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is risk?",
+    "answer": "How likely something is to be harmful",
+    "acceptedAnswers": [
+      "how likely something is to be harmful",
+      "likelihood of harm"
+    ],
+    "keywords": [
+      "risk"
+    ],
+    "explanation": "That is the source definition of risk.",
+    "options": [
+      "A situation that presents a threat",
+      "How likely something is to be harmful",
+      "A smooth graph line",
+      "A repeat measurement"
+    ]
+  },
+  {
+    "id": "skills_q003",
+    "topic": "Skills in Science",
+    "subtopic": "Rules and hazards",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a precaution?",
+    "answer": "An action taken to remove a hazard or reduce exposure to it",
+    "acceptedAnswers": [
+      "remove hazard",
+      "reduce exposure"
+    ],
+    "keywords": [
+      "precaution"
+    ],
+    "explanation": "That is the glossary definition of precaution."
+  },
+  {
+    "id": "skills_q004",
+    "topic": "Skills in Science",
+    "subtopic": "Rules and hazards",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What does a risk assessment describe?",
+    "answer": "How to make injury or equipment damage less likely, and what to do if it happens",
+    "acceptedAnswers": [
+      "make injury less likely",
+      "equipment damage less likely",
+      "what to do if it happens"
+    ],
+    "keywords": [
+      "risk assessment"
+    ],
+    "explanation": "That is the source definition of risk assessment."
+  },
+  {
+    "id": "skills_q005",
+    "topic": "Skills in Science",
+    "subtopic": "Variables and planning",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a variable?",
+    "answer": "A factor that can be changed, measured and controlled",
+    "acceptedAnswers": [
+      "changed measured and controlled",
+      "factor"
+    ],
+    "keywords": [
+      "variable"
+    ],
+    "explanation": "That is the source definition of variable."
+  },
+  {
+    "id": "skills_q006",
+    "topic": "Skills in Science",
+    "subtopic": "Variables and planning",
+    "difficulty": "easy",
+    "type": "fill-blank",
+    "question": "The independent variable is what you ______ in an investigation.",
+    "answer": "change",
+    "acceptedAnswers": [
+      "change"
+    ],
+    "keywords": [
+      "independent variable"
+    ],
+    "explanation": "The independent variable is what you change."
+  },
+  {
+    "id": "skills_q007",
+    "topic": "Skills in Science",
+    "subtopic": "Variables and planning",
+    "difficulty": "easy",
+    "type": "fill-blank",
+    "question": "The dependent variable is what you ______ or observe.",
+    "answer": "measure",
+    "acceptedAnswers": [
+      "measure",
+      "measure or observe"
+    ],
+    "keywords": [
+      "dependent variable"
+    ],
+    "explanation": "The dependent variable is what you measure or observe."
+  },
+  {
+    "id": "skills_q008",
+    "topic": "Skills in Science",
+    "subtopic": "Variables and planning",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is a control variable?",
+    "answer": "One that remains unchanged or is held constant",
+    "acceptedAnswers": [
+      "remains unchanged",
+      "held constant"
+    ],
+    "keywords": [
+      "control variable"
+    ],
+    "explanation": "Control variables are kept constant to stop them affecting the dependent variable."
+  },
+  {
+    "id": "skills_q009",
+    "topic": "Skills in Science",
+    "subtopic": "Variables and planning",
+    "difficulty": "medium",
+    "type": "explain",
+    "question": "Why is controlling variables important?",
+    "answer": "It keeps other variables from affecting the dependent variable, making the investigation valid",
+    "acceptedAnswers": [
+      "keeps variables constant",
+      "valid",
+      "stop affecting dependent variable"
+    ],
+    "keywords": [
+      "control variables",
+      "valid"
+    ],
+    "explanation": "The glossary links control variables with validity."
+  },
+  {
+    "id": "skills_q010",
+    "topic": "Skills in Science",
+    "subtopic": "Variables and planning",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is a fair test?",
+    "answer": "An experiment to find how one variable affects another while all other variables are kept constant",
+    "acceptedAnswers": [
+      "one variable affects another",
+      "other variables kept constant"
+    ],
+    "keywords": [
+      "fair test"
+    ],
+    "explanation": "That is the source definition of fair test."
+  },
+  {
+    "id": "skills_q011",
+    "topic": "Skills in Science",
+    "subtopic": "Variables and planning",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a prediction?",
+    "answer": "A statement that says what you think will happen in an experiment",
+    "acceptedAnswers": [
+      "what you think will happen",
+      "statement"
+    ],
+    "keywords": [
+      "prediction"
+    ],
+    "explanation": "That is the source definition of prediction."
+  },
+  {
+    "id": "skills_q012",
+    "topic": "Skills in Science",
+    "subtopic": "Variables and planning",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is a hypothesis?",
+    "answer": "An explanation you can test that includes a reason and a science idea",
+    "acceptedAnswers": [
+      "testable explanation",
+      "reason and science idea"
+    ],
+    "keywords": [
+      "hypothesis"
+    ],
+    "explanation": "That is the source definition of hypothesis."
+  },
+  {
+    "id": "skills_q013",
+    "topic": "Skills in Science",
+    "subtopic": "Variables and planning",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is an investigation?",
+    "answer": "An experiment or set of experiments designed to produce data to answer a scientific question or test a theory",
+    "acceptedAnswers": [
+      "produce data",
+      "answer scientific question",
+      "test a theory"
+    ],
+    "keywords": [
+      "investigation"
+    ],
+    "explanation": "That is the glossary definition of investigation."
+  },
+  {
+    "id": "skills_q014",
+    "topic": "Skills in Science",
+    "subtopic": "Variables and planning",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What should a plan describe?",
+    "answer": "How equipment will be used to collect valid data to answer a scientific question",
+    "acceptedAnswers": [
+      "use equipment",
+      "collect valid data"
+    ],
+    "keywords": [
+      "plan"
+    ],
+    "explanation": "That is the source definition of plan."
+  },
+  {
+    "id": "skills_q015",
+    "topic": "Skills in Science",
+    "subtopic": "Presenting data",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is data?",
+    "answer": "Words or numbers obtained when you make observations or measurements",
+    "acceptedAnswers": [
+      "words or numbers",
+      "observations or measurements"
+    ],
+    "keywords": [
+      "data"
+    ],
+    "explanation": "That is the source definition of data."
+  },
+  {
+    "id": "skills_q016",
+    "topic": "Skills in Science",
+    "subtopic": "Presenting data",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is an observation?",
+    "answer": "Information gathered by your senses",
+    "acceptedAnswers": [
+      "information gathered by your senses",
+      "senses"
+    ],
+    "keywords": [
+      "observation"
+    ],
+    "explanation": "That is the source definition of observation."
+  },
+  {
+    "id": "skills_q017",
+    "topic": "Skills in Science",
+    "subtopic": "Presenting data",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "How do you calculate the mean?",
+    "answer": "Add all the values and divide by the number of values",
+    "acceptedAnswers": [
+      "add all values and divide",
+      "add and divide"
+    ],
+    "keywords": [
+      "mean"
+    ],
+    "explanation": "That is the source definition of mean."
+  },
+  {
+    "id": "skills_q018",
+    "topic": "Skills in Science",
+    "subtopic": "Presenting data",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "When should you use a bar chart?",
+    "answer": "When the independent variable is discontinuous",
+    "acceptedAnswers": [
+      "discontinuous",
+      "categories"
+    ],
+    "keywords": [
+      "bar chart"
+    ],
+    "explanation": "The source says bar charts display categories and are used for discontinuous independent variables.",
+    "options": [
+      "When both variables are continuous",
+      "When the independent variable is discontinuous",
+      "Only for sound waves",
+      "Only for pH values"
+    ]
+  },
+  {
+    "id": "skills_q019",
+    "topic": "Skills in Science",
+    "subtopic": "Presenting data",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "When should you use a line graph?",
+    "answer": "When there are two continuous variables",
+    "acceptedAnswers": [
+      "two continuous variables",
+      "continuous"
+    ],
+    "keywords": [
+      "line graph"
+    ],
+    "explanation": "The source says a line graph shows the relationship between two continuous variables.",
+    "options": [
+      "For categories such as eye colour",
+      "For two continuous variables",
+      "Only for flower parts",
+      "For hazard symbols only"
+    ]
+  },
+  {
+    "id": "skills_q020",
+    "topic": "Skills in Science",
+    "subtopic": "Presenting data",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is continuous data?",
+    "answer": "Data with values that can be any number",
+    "acceptedAnswers": [
+      "values can be any number",
+      "any number"
+    ],
+    "keywords": [
+      "continuous"
+    ],
+    "explanation": "That is the glossary definition of continuous."
+  },
+  {
+    "id": "skills_q021",
+    "topic": "Skills in Science",
+    "subtopic": "Presenting data",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is discontinuous data?",
+    "answer": "Data with values that are words or discrete numbers",
+    "acceptedAnswers": [
+      "words or discrete numbers",
+      "separate categories"
+    ],
+    "keywords": [
+      "discontinuous"
+    ],
+    "explanation": "That is the glossary definition of discontinuous."
+  },
+  {
+    "id": "skills_q022",
+    "topic": "Skills in Science",
+    "subtopic": "Presenting data",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What does a line of best fit show?",
+    "answer": "The pattern of data points",
+    "acceptedAnswers": [
+      "pattern of data points",
+      "shows the pattern"
+    ],
+    "keywords": [
+      "line of best fit"
+    ],
+    "explanation": "The glossary says it is a smooth line showing the pattern of data points."
+  },
+  {
+    "id": "skills_q023",
+    "topic": "Skills in Science",
+    "subtopic": "Analysing data",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a conclusion?",
+    "answer": "What you write to say what you have found out during an investigation",
+    "acceptedAnswers": [
+      "what you have found out",
+      "found out during investigation"
+    ],
+    "keywords": [
+      "conclusion"
+    ],
+    "explanation": "That is the source definition of conclusion."
+  },
+  {
+    "id": "skills_q024",
+    "topic": "Skills in Science",
+    "subtopic": "Evaluating data and methods",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What does evaluate mean in science?",
+    "answer": "Discuss the quality of data collected and suggest improvements to the method",
+    "acceptedAnswers": [
+      "quality of data",
+      "suggest improvements"
+    ],
+    "keywords": [
+      "evaluate"
+    ],
+    "explanation": "That is the glossary definition of evaluate."
+  },
+  {
+    "id": "skills_q025",
+    "topic": "Skills in Science",
+    "subtopic": "Evaluating data and methods",
+    "difficulty": "challenge",
+    "type": "multiple-choice",
+    "question": "What does precise mean?",
+    "answer": "Repeat measurements are close together",
+    "acceptedAnswers": [
+      "repeat measurements close together",
+      "close together"
+    ],
+    "keywords": [
+      "precise"
+    ],
+    "explanation": "The source defines precise as repeat measurements that are close together.",
+    "options": [
+      "The answer is colourful",
+      "Repeat measurements are close together",
+      "Only one measurement was taken",
+      "The graph has categories"
+    ]
+  },
+  {
+    "id": "skills_q026",
+    "topic": "Skills in Science",
+    "subtopic": "Evaluating data and methods",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What does repeatable mean?",
+    "answer": "Repeat readings are close together",
+    "acceptedAnswers": [
+      "repeat readings close together"
+    ],
+    "keywords": [
+      "repeatable"
+    ],
+    "explanation": "That is the source definition of repeatable.",
+    "options": [
+      "Repeat readings are close together",
+      "The method uses no equipment",
+      "The result is always high",
+      "The variable changes every time"
+    ]
+  },
+  {
+    "id": "skills_q027",
+    "topic": "Skills in Science",
+    "subtopic": "Evaluating data and methods",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What makes an investigation valid?",
+    "answer": "It is designed appropriately, including keeping control variables constant",
+    "acceptedAnswers": [
+      "designed appropriately",
+      "control variables constant"
+    ],
+    "keywords": [
+      "valid"
+    ],
+    "explanation": "That is the source definition of valid."
+  },
+  {
+    "id": "skills_q028",
+    "topic": "Skills in Science",
+    "subtopic": "Planning an experiment",
+    "difficulty": "medium",
+    "type": "application",
+    "question": "A student changes light and water at the same time to test plant growth. Why is this not a fair test?",
+    "answer": "More than one variable has been changed",
+    "acceptedAnswers": [
+      "more than one variable",
+      "changed two variables"
+    ],
+    "keywords": [
+      "fair test",
+      "variables"
+    ],
+    "explanation": "A fair test changes one variable while keeping others constant."
+  },
+  {
+    "id": "skills_q029",
+    "topic": "Skills in Science",
+    "subtopic": "Planning an experiment",
+    "difficulty": "medium",
+    "type": "explain",
+    "question": "Why is it important to repeat an experiment?",
+    "answer": "To check repeat readings are close together and improve confidence in the data",
+    "acceptedAnswers": [
+      "repeat readings close together",
+      "repeatable"
+    ],
+    "keywords": [
+      "repeat",
+      "repeatable"
+    ],
+    "explanation": "The source links repeat readings with repeatability and data quality."
+  },
+  {
+    "id": "skills_q030",
+    "topic": "Skills in Science",
+    "subtopic": "Scientific enquiries",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "Which list contains types of scientific enquiry from the glossary?",
+    "answer": "Observation over time, fair test and pattern seeking",
+    "acceptedAnswers": [
+      "observation over time fair test pattern seeking"
+    ],
+    "keywords": [
+      "scientific enquiries"
+    ],
+    "explanation": "The glossary lists observation over time, fair test and pattern seeking.",
+    "options": [
+      "Pollination, germination and dispersal",
+      "Observation over time, fair test and pattern seeking",
+      "Acid, alkali and neutral",
+      "Reflection, refraction and colour"
+    ]
+  },
+  {
+    "id": "waves_q001",
+    "topic": "Waves",
+    "subtopic": "Properties of waves",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a wave?",
+    "answer": "An oscillation or vibration that transfers energy from one place to another",
+    "acceptedAnswers": [
+      "oscillation or vibration",
+      "transfers energy"
+    ],
+    "keywords": [
+      "wave"
+    ],
+    "explanation": "That is the definition from the waves organiser."
+  },
+  {
+    "id": "waves_q002",
+    "topic": "Waves",
+    "subtopic": "Properties of waves",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is amplitude?",
+    "answer": "The maximum amount of vibration measured from the middle position of a wave",
+    "acceptedAnswers": [
+      "maximum amount of vibration",
+      "middle position"
+    ],
+    "keywords": [
+      "amplitude"
+    ],
+    "explanation": "That is the glossary definition of amplitude.",
+    "options": [
+      "The distance between two matching points",
+      "The top of the wave",
+      "The maximum amount of vibration measured from the middle position of a wave",
+      "The number of waves in one second"
+    ]
+  },
+  {
+    "id": "waves_q003",
+    "topic": "Waves",
+    "subtopic": "Properties of waves",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is wavelength?",
+    "answer": "The distance between two corresponding points on a wave",
+    "acceptedAnswers": [
+      "distance between corresponding points"
+    ],
+    "keywords": [
+      "wavelength"
+    ],
+    "explanation": "That is the glossary definition of wavelength.",
+    "options": [
+      "How loud the sound is",
+      "The distance between two corresponding points on a wave",
+      "The bottom of the wave",
+      "The unit of frequency"
+    ]
+  },
+  {
+    "id": "waves_q004",
+    "topic": "Waves",
+    "subtopic": "Properties of waves",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is frequency?",
+    "answer": "The number of waves produced in one second",
+    "acceptedAnswers": [
+      "number of waves produced in one second",
+      "waves per second"
+    ],
+    "keywords": [
+      "frequency"
+    ],
+    "explanation": "That is the glossary definition of frequency."
+  },
+  {
+    "id": "waves_q005",
+    "topic": "Waves",
+    "subtopic": "Properties of waves",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is the unit of frequency?",
+    "answer": "Hertz",
+    "acceptedAnswers": [
+      "hertz",
+      "Hz"
+    ],
+    "keywords": [
+      "frequency",
+      "hertz"
+    ],
+    "explanation": "Hertz is the unit of frequency.",
+    "options": [
+      "Decibel",
+      "Metre",
+      "Hertz",
+      "Newton"
+    ]
+  },
+  {
+    "id": "waves_q006",
+    "topic": "Waves",
+    "subtopic": "Properties of waves",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which part is the bottom of a wave?",
+    "answer": "Trough",
+    "acceptedAnswers": [
+      "trough"
+    ],
+    "keywords": [
+      "wave",
+      "trough"
+    ],
+    "explanation": "A trough is the bottom of a wave.",
+    "options": [
+      "Crest",
+      "Peak",
+      "Trough",
+      "Normal line"
+    ]
+  },
+  {
+    "id": "waves_q007",
+    "topic": "Waves",
+    "subtopic": "Sound waves and speed",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What speed of sound is given in the glossary?",
+    "answer": "330 m/s",
+    "acceptedAnswers": [
+      "330 m/s",
+      "330 metres per second"
+    ],
+    "keywords": [
+      "speed of sound"
+    ],
+    "explanation": "The glossary gives speed of sound as 330 m/s.",
+    "options": [
+      "330 m/s",
+      "300 million m/s",
+      "20 Hz",
+      "20,000 Hz"
+    ]
+  },
+  {
+    "id": "waves_q008",
+    "topic": "Waves",
+    "subtopic": "Sound waves and speed",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What causes sound waves?",
+    "answer": "Vibration of particles",
+    "acceptedAnswers": [
+      "vibration of particles",
+      "particles vibrate"
+    ],
+    "keywords": [
+      "sound",
+      "vibration"
+    ],
+    "explanation": "The organiser says sound waves are caused by vibration of particles."
+  },
+  {
+    "id": "waves_q009",
+    "topic": "Waves",
+    "subtopic": "Sound waves and speed",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Can sound travel through a vacuum?",
+    "answer": "No, sound needs a medium",
+    "acceptedAnswers": [
+      "no",
+      "needs a medium",
+      "needs particles"
+    ],
+    "keywords": [
+      "sound",
+      "vacuum"
+    ],
+    "explanation": "Sound is longitudinal and needs a medium to travel through.",
+    "options": [
+      "Yes, because it is light",
+      "No, sound needs a medium",
+      "Yes, because vacuums have many particles",
+      "Only if it is loud"
+    ]
+  },
+  {
+    "id": "waves_q010",
+    "topic": "Waves",
+    "subtopic": "Sound waves and speed",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a vacuum?",
+    "answer": "A space with no particles of matter in it",
+    "acceptedAnswers": [
+      "space with no particles",
+      "no particles of matter"
+    ],
+    "keywords": [
+      "vacuum"
+    ],
+    "explanation": "That is the glossary definition of vacuum."
+  },
+  {
+    "id": "waves_q011",
+    "topic": "Waves",
+    "subtopic": "Loudness and amplitude",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does amplify mean?",
+    "answer": "Increase the amplitude of a sound so it sounds louder",
+    "acceptedAnswers": [
+      "increase amplitude",
+      "sounds louder"
+    ],
+    "keywords": [
+      "amplify",
+      "amplitude"
+    ],
+    "explanation": "That is the source definition of amplify."
+  },
+  {
+    "id": "waves_q012",
+    "topic": "Waves",
+    "subtopic": "Loudness and amplitude",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which unit measures sound intensity or loudness?",
+    "answer": "Decibel",
+    "acceptedAnswers": [
+      "decibel",
+      "dB"
+    ],
+    "keywords": [
+      "loudness",
+      "decibel"
+    ],
+    "explanation": "A decibel is a commonly used unit of sound intensity or loudness.",
+    "options": [
+      "Hertz",
+      "Metre",
+      "Decibel",
+      "pH"
+    ]
+  },
+  {
+    "id": "waves_q013",
+    "topic": "Waves",
+    "subtopic": "Frequency and pitch",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is pitch?",
+    "answer": "How high or low a sound is",
+    "acceptedAnswers": [
+      "how high or low a sound is",
+      "high or low sound"
+    ],
+    "keywords": [
+      "pitch"
+    ],
+    "explanation": "That is the glossary definition of pitch."
+  },
+  {
+    "id": "waves_q014",
+    "topic": "Waves",
+    "subtopic": "Frequency and pitch",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "A high pitch sound has what kind of frequency?",
+    "answer": "High frequency",
+    "acceptedAnswers": [
+      "high frequency"
+    ],
+    "keywords": [
+      "pitch",
+      "frequency"
+    ],
+    "explanation": "The glossary says high pitch links to high frequency.",
+    "options": [
+      "Low frequency",
+      "No frequency",
+      "High frequency",
+      "pH 7"
+    ]
+  },
+  {
+    "id": "waves_q015",
+    "topic": "Waves",
+    "subtopic": "Frequency and pitch",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What is ultrasound?",
+    "answer": "Sound above 20,000 Hz",
+    "acceptedAnswers": [
+      "above 20000 Hz",
+      "greater than 20000 Hz"
+    ],
+    "keywords": [
+      "ultrasound"
+    ],
+    "explanation": "The glossary defines ultrasound as sound above 20,000 Hz.",
+    "options": [
+      "Sound below 20 Hz",
+      "Sound above 20,000 Hz",
+      "Light from a prism",
+      "Sound at 330 m/s"
+    ]
+  },
+  {
+    "id": "waves_q016",
+    "topic": "Waves",
+    "subtopic": "The ear and hearing",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which part is the outside part of the ear that we can see?",
+    "answer": "Pinna",
+    "acceptedAnswers": [
+      "pinna"
+    ],
+    "keywords": [
+      "ear",
+      "pinna"
+    ],
+    "explanation": "The pinna is the outside part of the ear that we can see.",
+    "options": [
+      "Cochlea",
+      "Pinna",
+      "Retina",
+      "Ossicle"
+    ]
+  },
+  {
+    "id": "waves_q017",
+    "topic": "Waves",
+    "subtopic": "The ear and hearing",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which part is a membrane that transmits sound vibrations?",
+    "answer": "Eardrum",
+    "acceptedAnswers": [
+      "eardrum"
+    ],
+    "keywords": [
+      "ear",
+      "eardrum"
+    ],
+    "explanation": "The eardrum transmits sound vibrations from the outer ear to the middle ear.",
+    "options": [
+      "Pinna",
+      "Eardrum",
+      "Iris",
+      "Lens"
+    ]
+  },
+  {
+    "id": "waves_q018",
+    "topic": "Waves",
+    "subtopic": "The ear and hearing",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "Which part is a snail-shaped tube with sensory cells that detect sound?",
+    "answer": "Cochlea",
+    "acceptedAnswers": [
+      "cochlea"
+    ],
+    "keywords": [
+      "ear",
+      "cochlea"
+    ],
+    "explanation": "The cochlea is a snail-shaped tube in the inner ear.",
+    "options": [
+      "Cochlea",
+      "Auditory canal",
+      "Pupil",
+      "Cornea"
+    ]
+  },
+  {
+    "id": "waves_q019",
+    "topic": "Waves",
+    "subtopic": "The ear and hearing",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What travels along the auditory nerve to the brain?",
+    "answer": "An electrical signal",
+    "acceptedAnswers": [
+      "electrical signal",
+      "signal"
+    ],
+    "keywords": [
+      "auditory nerve",
+      "brain"
+    ],
+    "explanation": "The glossary says an electrical signal travels along the auditory nerve to the brain."
+  },
+  {
+    "id": "waves_q020",
+    "topic": "Waves",
+    "subtopic": "Light",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What speed of light is given in the glossary?",
+    "answer": "300 million m/s",
+    "acceptedAnswers": [
+      "300 million m/s",
+      "300,000,000 m/s"
+    ],
+    "keywords": [
+      "speed of light"
+    ],
+    "explanation": "The glossary gives speed of light as 300 million m/s.",
+    "options": [
+      "330 m/s",
+      "300 million m/s",
+      "20 Hz",
+      "pH 13"
+    ]
+  },
+  {
+    "id": "waves_q021",
+    "topic": "Waves",
+    "subtopic": "Light",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What does luminous mean?",
+    "answer": "Gives out light",
+    "acceptedAnswers": [
+      "gives out light"
+    ],
+    "keywords": [
+      "luminous"
+    ],
+    "explanation": "That is the glossary definition of luminous.",
+    "options": [
+      "Gives out light",
+      "Allows no light through",
+      "Bounces sound back",
+      "Spreads seeds"
+    ]
+  },
+  {
+    "id": "waves_q022",
+    "topic": "Waves",
+    "subtopic": "Light",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which material allows all light to pass through it?",
+    "answer": "Transparent",
+    "acceptedAnswers": [
+      "transparent"
+    ],
+    "keywords": [
+      "transparent",
+      "light"
+    ],
+    "explanation": "Transparent means all light passes through.",
+    "options": [
+      "Opaque",
+      "Translucent",
+      "Transparent",
+      "Corrosive"
+    ]
+  },
+  {
+    "id": "waves_q023",
+    "topic": "Waves",
+    "subtopic": "Light",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which material allows no light to pass through it?",
+    "answer": "Opaque",
+    "acceptedAnswers": [
+      "opaque"
+    ],
+    "keywords": [
+      "opaque",
+      "light"
+    ],
+    "explanation": "Opaque means no light passes through.",
+    "options": [
+      "Opaque",
+      "Transparent",
+      "Translucent",
+      "Virtual"
+    ]
+  },
+  {
+    "id": "waves_q024",
+    "topic": "Waves",
+    "subtopic": "Reflection",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is reflection?",
+    "answer": "A change in direction of light or sound when it hits a boundary and bounces back",
+    "acceptedAnswers": [
+      "bounces back",
+      "change in direction"
+    ],
+    "keywords": [
+      "reflection"
+    ],
+    "explanation": "That is the glossary definition of reflection."
+  },
+  {
+    "id": "waves_q025",
+    "topic": "Waves",
+    "subtopic": "Reflection",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What does the law of reflection say?",
+    "answer": "The angle of incidence is equal to the angle of reflection",
+    "acceptedAnswers": [
+      "angle of incidence equals angle of reflection",
+      "angles are equal"
+    ],
+    "keywords": [
+      "law of reflection"
+    ],
+    "explanation": "That is the source definition of the law of reflection."
+  },
+  {
+    "id": "waves_q026",
+    "topic": "Waves",
+    "subtopic": "Reflection",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What is specular reflection?",
+    "answer": "Reflection from a smooth surface",
+    "acceptedAnswers": [
+      "smooth surface"
+    ],
+    "keywords": [
+      "specular reflection"
+    ],
+    "explanation": "Specular reflection is from a smooth surface.",
+    "options": [
+      "Reflection from a rough surface",
+      "Reflection from a smooth surface",
+      "Light bending into glass",
+      "Sound below 20 Hz"
+    ]
+  },
+  {
+    "id": "waves_q027",
+    "topic": "Waves",
+    "subtopic": "Reflection",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What is diffuse reflection?",
+    "answer": "Reflection from a rough surface",
+    "acceptedAnswers": [
+      "rough surface"
+    ],
+    "keywords": [
+      "diffuse reflection"
+    ],
+    "explanation": "Diffuse reflection is from a rough surface.",
+    "options": [
+      "Reflection from a smooth surface",
+      "Reflection from a rough surface",
+      "A virtual image",
+      "A soluble base"
+    ]
+  },
+  {
+    "id": "waves_q028",
+    "topic": "Waves",
+    "subtopic": "Refraction",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is refraction?",
+    "answer": "A change in direction of light going from one material into another",
+    "acceptedAnswers": [
+      "change direction",
+      "one material into another"
+    ],
+    "keywords": [
+      "refraction"
+    ],
+    "explanation": "That is the source definition of refraction."
+  },
+  {
+    "id": "waves_q029",
+    "topic": "Waves",
+    "subtopic": "Refraction",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What does a convex lens do?",
+    "answer": "Bends light rays towards each other",
+    "acceptedAnswers": [
+      "bends light rays towards each other",
+      "brings rays together"
+    ],
+    "keywords": [
+      "convex lens"
+    ],
+    "explanation": "A convex lens is thicker in the middle and bends light rays towards each other.",
+    "options": [
+      "Spreads light rays out",
+      "Bends light rays towards each other",
+      "Allows no light through",
+      "Reflects sound"
+    ]
+  },
+  {
+    "id": "waves_q030",
+    "topic": "Waves",
+    "subtopic": "Colour",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What are the primary colours of light in the glossary?",
+    "answer": "Red, blue and green",
+    "acceptedAnswers": [
+      "red blue and green",
+      "red blue green"
+    ],
+    "keywords": [
+      "primary colours"
+    ],
+    "explanation": "The source lists red, blue and green as primary colours of light.",
+    "options": [
+      "Red, yellow and blue",
+      "Red, blue and green",
+      "Cyan, magenta and yellow",
+      "Black, white and grey"
+    ]
+  }
 ]

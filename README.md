@@ -7,7 +7,7 @@ A mobile-first Next.js revision quiz app for Year 7 Science. Nova acts like a su
 - Acids and Alkalis
 - Ecosystems
 - Skills in Science
-- Revision technique / 5 Step Revision Plan
+- Waves
 - Forces is shown as a locked future topic only
 
 ## Features
@@ -49,6 +49,8 @@ Build for production:
 npm run build
 ```
 
+The build script uses Next's webpack compiler for compatibility with local and Railway builds.
+
 Start the production server:
 
 ```bash
@@ -73,8 +75,19 @@ npm run lint
 
 ## Data
 
-- `data/knowledge-base.json` contains 180 structured curriculum facts.
-- `data/questions.seed.json` contains 120 ready-made seed questions.
+- `data/knowledge-base.json` contains 180 structured source-backed facts.
+- `data/questions.seed.json` contains 120 ready-made source-backed seed questions.
 - `lib/generateQuestion.ts` combines seed questions with dynamically generated questions from the knowledge base.
+
+The current content is restricted to the supplied Isla science test source files:
+
+- `6.1_Knowledge_Organiser.pdf`
+- `Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx`
+- `Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx`
+- `Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx`
+- `Y7_Ecosystems_Knowledge_Organiser.pdf`
+- `Y7_Waves_Knowledge_Organiser.pdf`
+- `Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx`
+- `7F_Mindmap_for_Acids_and_Alkalis.jpg.png`
 
 To add more content, add facts to the knowledge base using the same shape and, optionally, add seed questions with clear Year 7 wording.

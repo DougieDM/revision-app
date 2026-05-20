@@ -130,7 +130,7 @@ export function QuizClient() {
             Home
           </Link>
           <span className="rounded-full bg-white px-3 py-1 text-sm font-bold text-slate-500 shadow-sm">
-            Nova quiz
+            Revisionary quiz
           </span>
         </div>
         {feedback ? (

@@ -19,7 +19,7 @@ export function QuizSummary({ score, total, answers, onRetryWeak, onNewQuiz }: Q
 
   return (
     <section className="rounded-lg bg-white p-5 shadow-soft">
-      <p className="text-sm font-semibold text-berry">Nova&apos;s summary</p>
+      <p className="text-sm font-semibold text-berry">Revisionary&apos;s summary</p>
       <h1 className="mt-2 text-3xl font-bold text-ink">
         You scored {score}/{total}
       </h1>

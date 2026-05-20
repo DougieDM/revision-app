@@ -118,7 +118,7 @@ export function getWeakAreas(answers: { subtopic: string; correct: boolean }[]) 
 }
 
 export function buildPrintableTest() {
-  const random = makeRandom("nova-printable-test-v1");
+  const random = makeRandom("revisionary-printable-test-v1");
   return shuffle(seeds, random).slice(0, 20).map(seedToQuestion);
 }
 

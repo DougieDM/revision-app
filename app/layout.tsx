@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Nova Science Revision",
+  title: "Revisionary",
   description: "A supportive Year 7 Science revision quiz app."
 };
 

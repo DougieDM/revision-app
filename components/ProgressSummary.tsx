@@ -15,7 +15,7 @@ export function ProgressSummary({ progress }: ProgressSummaryProps) {
 
   return (
     <section className="rounded-lg bg-white p-5 shadow-soft">
-      <p className="text-sm font-semibold text-berry">Progress with Nova</p>
+      <p className="text-sm font-semibold text-berry">Progress with Revisionary</p>
       <h1 className="mt-2 text-3xl font-bold text-ink">{accuracy}% accuracy</h1>
       <p className="mt-2 text-slate-600">
         {progress.questionsAnswered} questions answered, {progress.correctAnswers} correct.

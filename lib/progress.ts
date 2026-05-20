@@ -1,6 +1,7 @@
 import type { AnswerRecord, ProgressState, QuizResult } from "@/types/quiz";
 
-const STORAGE_KEY = "nova-year-7-science-progress";
+const STORAGE_KEY = "revisionary-year-7-science-progress";
+const LEGACY_STORAGE_KEY = "nova-year-7-science-progress";
 
 export const emptyProgress: ProgressState = {
   questionsAnswered: 0,
@@ -15,7 +16,10 @@ export function loadProgress(): ProgressState {
 
   try {
     const saved = window.localStorage.getItem(STORAGE_KEY);
-    return saved ? { ...emptyProgress, ...JSON.parse(saved) } : emptyProgress;
+    const legacySaved = window.localStorage.getItem(LEGACY_STORAGE_KEY);
+    if (!saved && legacySaved) window.localStorage.setItem(STORAGE_KEY, legacySaved);
+    const progress = saved ?? legacySaved;
+    return progress ? { ...emptyProgress, ...JSON.parse(progress) } : emptyProgress;
   } catch {
     return emptyProgress;
   }
@@ -66,4 +70,5 @@ export function getWeakSubtopics(progress: ProgressState, limit = 8) {
 export function clearProgress() {
   if (typeof window === "undefined") return;
   window.localStorage.removeItem(STORAGE_KEY);
+  window.localStorage.removeItem(LEGACY_STORAGE_KEY);
 }

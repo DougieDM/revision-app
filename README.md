@@ -1,6 +1,6 @@
-# Nova Year 7 Science Revision
+# Revisionary
 
-A mobile-first Next.js revision quiz app for Year 7 Science. Nova acts like a supportive tutor: questions are generated from a structured local knowledge base, feedback is gentle, and progress is saved in the browser.
+A mobile-first Next.js revision quiz app for Year 7 Science. Revisionary acts like a supportive tutor: questions are generated from a structured local knowledge base, feedback is gentle, and progress is saved in the browser.
 
 ## Topics
 

@@ -35,12 +35,12 @@ export default function HomePage() {
     <main className="min-h-screen px-4 py-6 sm:px-6">
       <div className="mx-auto max-w-3xl">
         <section className="rounded-lg bg-white p-6 shadow-soft">
-          <p className="text-sm font-bold uppercase tracking-wide text-ocean">Nova Science Revision</p>
+          <p className="text-sm font-bold uppercase tracking-wide text-ocean">Revisionary</p>
           <h1 className="mt-3 text-4xl font-black leading-tight text-ink">
             Year 7 science practice that feels calm and doable.
           </h1>
           <p className="mt-4 text-lg leading-relaxed text-slate-600">
-            Choose a topic, answer one question at a time, and Nova will help spot what to practise next.
+            Choose a topic, answer one question at a time, and Revisionary will help spot what to practise next.
           </p>
           <div className="mt-6 grid gap-3 sm:grid-cols-2">
             <Link href={quizUrl} className="rounded-lg bg-ocean px-5 py-4 text-center text-lg font-bold text-white">

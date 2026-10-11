@@ -22,7 +22,7 @@
       "pH 7",
       "pH 13"
     ],
-    "hint": "It is in the middle of the 0-14 scale."
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q002",
@@ -30,8 +30,8 @@
     "subtopic": "Acids and alkalis",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "Which definition matches an acid in the school source?",
-    "answer": "A solution with a pH value less than 7",
+    "question": "Which definition matches an acid?",
+    "answer": "A solution with pH less than 7",
     "acceptedAnswers": [
       "pH less than 7",
       "less than 7"
@@ -40,13 +40,14 @@
       "acid",
       "pH"
     ],
-    "explanation": "The glossary defines an acid as a solution with pH less than 7.",
+    "explanation": "An acid is a solution with a pH value less than 7.",
     "options": [
-      "A soluble base",
+      "A base that dissolves in water",
       "A solution with pH less than 7",
       "A neutral solution",
       "A substance that catches pollen"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q003",
@@ -55,7 +56,7 @@
     "difficulty": "easy",
     "type": "multiple-choice",
     "question": "Which definition matches an alkali?",
-    "answer": "A soluble base",
+    "answer": "A base that dissolves in water",
     "acceptedAnswers": [
       "soluble base"
     ],
@@ -63,13 +64,14 @@
       "alkali",
       "base"
     ],
-    "explanation": "The source defines an alkali as a soluble base.",
+    "explanation": "An alkali is a base that dissolves in water. Soluble means able to dissolve.",
     "options": [
-      "A soluble base",
+      "A base that dissolves in water",
       "A product in a reaction",
       "A strong acid",
       "A hazard symbol"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q004",
@@ -88,7 +90,8 @@
       "acidic",
       "alkaline"
     ],
-    "explanation": "The source says indicators identify whether unknown solutions are acidic or alkaline."
+    "explanation": "An indicator is used to identify whether an unknown solution is acidic or alkaline.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q005",
@@ -111,7 +114,8 @@
       "Green",
       "Red",
       "Purple"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q006",
@@ -134,7 +138,8 @@
       "Blue",
       "Yellow",
       "Orange"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q007",
@@ -152,7 +157,8 @@
       "universal indicator",
       "pH"
     ],
-    "explanation": "Universal indicator changes colour to show the pH of a solution."
+    "explanation": "Universal indicator changes colour to show the pH of a solution.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q008",
@@ -160,7 +166,7 @@
     "subtopic": "Indicators and pH",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "What range does the pH scale run from and to?",
+    "question": "What numbers does the pH scale usually run from and to?",
     "answer": "0 to 14",
     "acceptedAnswers": [
       "0 to 14",
@@ -169,13 +175,14 @@
     "keywords": [
       "pH scale"
     ],
-    "explanation": "The acids revision spread gives the pH scale as 0-14.",
+    "explanation": "The pH scale runs from 0 to 14.",
     "options": [
       "0 to 7",
       "1 to 10",
       "0 to 14",
       "7 to 14"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q009",
@@ -183,7 +190,7 @@
     "subtopic": "Acidity and alkalinity",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "Which pair are examples of acids in the revision spread?",
+    "question": "Which pair are examples of acids?",
     "answer": "Hydrochloric acid and sulfuric acid",
     "acceptedAnswers": [
       "hydrochloric acid and sulfuric acid"
@@ -191,13 +198,14 @@
     "keywords": [
       "acid examples"
     ],
-    "explanation": "The revision spread lists hydrochloric acid and sulfuric acid as acid examples.",
+    "explanation": "Hydrochloric acid and sulfuric acid are examples of acids.",
     "options": [
       "Sodium hydroxide and potassium hydroxide",
       "Hydrochloric acid and sulfuric acid",
       "Pure water and sugar solution",
       "Toothpaste and oven cleaner"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q010",
@@ -205,7 +213,7 @@
     "subtopic": "Acidity and alkalinity",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "Which pair are examples of alkalis in the revision spread?",
+    "question": "Which pair are examples of alkalis?",
     "answer": "Sodium hydroxide and potassium hydroxide",
     "acceptedAnswers": [
       "sodium hydroxide and potassium hydroxide"
@@ -213,13 +221,14 @@
     "keywords": [
       "alkali examples"
     ],
-    "explanation": "The revision spread lists sodium hydroxide and potassium hydroxide as alkalis.",
+    "explanation": "Sodium hydroxide and potassium hydroxide are examples of alkalis.",
     "options": [
       "Hydrochloric acid and sulfuric acid",
       "Cola and vinegar",
       "Sodium hydroxide and potassium hydroxide",
       "Pure water and sugar solution"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q011",
@@ -236,7 +245,8 @@
     "keywords": [
       "corrosive"
     ],
-    "explanation": "The glossary defines corrosive as able to burn skin or eyes."
+    "explanation": "A corrosive substance can burn your skin or eyes.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q012",
@@ -253,7 +263,8 @@
     "keywords": [
       "irritant"
     ],
-    "explanation": "The glossary says an irritant makes skin itch or swell a little."
+    "explanation": "An irritant substance makes your skin itch or swell up a little.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q013",
@@ -261,7 +272,7 @@
     "subtopic": "Hazards",
     "difficulty": "medium",
     "type": "explain",
-    "question": "How is concentrated hydrochloric acid different from dilute hydrochloric acid as a hazard?",
+    "question": "Which is more corrosive: concentrated or dilute hydrochloric acid?",
     "answer": "Concentrated hydrochloric acid is more corrosive than dilute hydrochloric acid",
     "acceptedAnswers": [
       "more corrosive",
@@ -272,7 +283,8 @@
       "dilute",
       "corrosive"
     ],
-    "explanation": "The revision spread states that concentrated hydrochloric acid is more corrosive than dilute hydrochloric acid."
+    "explanation": "Concentrated hydrochloric acid is more corrosive than dilute hydrochloric acid.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q014",
@@ -291,7 +303,8 @@
       "salt",
       "water"
     ],
-    "explanation": "The neutralisation equation in the source is acid + alkali -> salt + water."
+    "explanation": "Acid plus alkali makes salt and water.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q015",
@@ -308,7 +321,8 @@
     "keywords": [
       "neutralisation"
     ],
-    "explanation": "This follows the glossary definition of neutralisation."
+    "explanation": "Neutralisation is when an acid cancels out a base or a base cancels out an acid.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q016",
@@ -326,7 +340,8 @@
       "universal indicator",
       "green"
     ],
-    "explanation": "The revision spread says universal indicator turns green when neutralisation is reached."
+    "explanation": "Neutralisation has been reached with universal indicator when the solution turns green.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q017",
@@ -343,7 +358,8 @@
       "hydrochloric acid",
       "sodium hydroxide"
     ],
-    "explanation": "The completed source equation is hydrochloric acid + sodium hydroxide -> sodium chloride + water."
+    "explanation": "Hydrochloric acid plus sodium hydroxide makes sodium chloride and water.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q018",
@@ -360,7 +376,8 @@
       "sulfuric acid",
       "copper oxide"
     ],
-    "explanation": "The completed source equation is sulfuric acid + copper oxide -> copper sulfate + water."
+    "explanation": "Sulfuric acid plus copper oxide makes copper sulfate and water.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q019",
@@ -377,7 +394,8 @@
       "lithium hydroxide",
       "sulfuric acid"
     ],
-    "explanation": "The completed source equation is lithium hydroxide + sulfuric acid -> lithium sulfate + water."
+    "explanation": "Lithium hydroxide plus sulfuric acid makes lithium sulfate and water.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q020",
@@ -385,7 +403,7 @@
     "subtopic": "Acid strength",
     "difficulty": "challenge",
     "type": "spot-the-mistake",
-    "question": "A learner says, “A strong acid means there are lots of particles in a volume.” What is the mistake?",
+    "question": "A learner says, \u201cA strong acid means there are lots of particles in a volume.\u201d What is the mistake?",
     "answer": "That describes concentration, not acid strength",
     "acceptedAnswers": [
       "concentration not strength",
@@ -395,7 +413,8 @@
       "strong acid",
       "concentration"
     ],
-    "explanation": "The source defines strong acid as all acid particles splitting up in water. Concentration is particles per volume."
+    "explanation": "Strength describes how many acid particles split into ions in water. Concentration describes how many particles are in a set volume. These are different.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q021",
@@ -403,7 +422,7 @@
     "subtopic": "Acid strength",
     "difficulty": "challenge",
     "type": "recall",
-    "question": "What is a weak acid according to the glossary?",
+    "question": "What is a weak acid ?",
     "answer": "An acid in which only some acid particles split up when it dissolves in water",
     "acceptedAnswers": [
       "only some acid particles split up",
@@ -412,7 +431,8 @@
     "keywords": [
       "weak acid"
     ],
-    "explanation": "That is the exact idea from the glossary definition."
+    "explanation": "In a weak acid, only some acid particles split up into ions when the acid dissolves in water. Ions are particles with an electric charge. A weak acid is still acidic.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q022",
@@ -429,7 +449,8 @@
     "keywords": [
       "concentration"
     ],
-    "explanation": "The glossary defines concentration as the number of particles in a given volume."
+    "explanation": "Concentration tells you how many dissolved particles there are in a set volume of solution.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q023",
@@ -437,7 +458,7 @@
     "subtopic": "Acidity and alkalinity",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "In the revision spread table, which substance is acidic?",
+    "question": "Which substance is acidic?",
     "answer": "Vinegar",
     "acceptedAnswers": [
       "vinegar"
@@ -445,13 +466,14 @@
     "keywords": [
       "acidic"
     ],
-    "explanation": "The table marks vinegar as acidic.",
+    "explanation": "Cola, lemon juice and vinegar are acidic.",
     "options": [
       "Vinegar",
       "Pure water",
       "Sugar solution",
       "Toothpaste"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q024",
@@ -459,7 +481,7 @@
     "subtopic": "Acidity and alkalinity",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "In the revision spread table, which substance is alkaline?",
+    "question": "Which substance is alkaline?",
     "answer": "Oven cleaner",
     "acceptedAnswers": [
       "oven cleaner"
@@ -467,13 +489,14 @@
     "keywords": [
       "alkaline"
     ],
-    "explanation": "The table marks oven cleaner as alkaline.",
+    "explanation": "Drain cleaner, toothpaste and oven cleaner are alkaline.",
     "options": [
       "Lemon juice",
       "Oven cleaner",
       "Pure water",
       "Sugar solution"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q025",
@@ -481,7 +504,7 @@
     "subtopic": "Acidity and alkalinity",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "In the revision spread table, which substance is neutral?",
+    "question": "Which substance is neutral?",
     "answer": "Sugar solution",
     "acceptedAnswers": [
       "sugar solution"
@@ -489,13 +512,14 @@
     "keywords": [
       "neutral"
     ],
-    "explanation": "The table marks sugar solution as neutral.",
+    "explanation": "Sugar solution and pure water are neutral.",
     "options": [
       "Cola",
       "Drain cleaner",
       "Sugar solution",
       "Vinegar"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q026",
@@ -503,7 +527,7 @@
     "subtopic": "Indicators and pH",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "What pH does the revision spread give for stomach acid?",
+    "question": "What pH is stomach acid in your revision notes?",
     "answer": "pH 2",
     "acceptedAnswers": [
       "pH 2",
@@ -512,13 +536,14 @@
     "keywords": [
       "stomach acid"
     ],
-    "explanation": "The revision spread lists stomach acid as pH 2.",
+    "explanation": "Stomach acid is pH 2.",
     "options": [
       "pH 2",
       "pH 7",
       "pH 13",
       "pH 14"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q027",
@@ -526,7 +551,7 @@
     "subtopic": "Indicators and pH",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "What pH does the revision spread give for bleach?",
+    "question": "What pH is bleach in your revision notes?",
     "answer": "pH 13",
     "acceptedAnswers": [
       "pH 13",
@@ -535,13 +560,14 @@
     "keywords": [
       "bleach"
     ],
-    "explanation": "The revision spread lists bleach as pH 13.",
+    "explanation": "Bleach is pH 13.",
     "options": [
       "pH 1",
       "pH 7",
       "pH 13",
       "pH 0"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q028",
@@ -549,7 +575,7 @@
     "subtopic": "Indicators and pH",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "What pH does the revision spread give for pure water?",
+    "question": "What pH is pure water?",
     "answer": "pH 7",
     "acceptedAnswers": [
       "pH 7",
@@ -558,13 +584,14 @@
     "keywords": [
       "pure water"
     ],
-    "explanation": "Pure water is neutral, pH 7.",
+    "explanation": "Pure water is pH 7.",
     "options": [
       "pH 2",
       "pH 7",
       "pH 9",
       "pH 13"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q029",
@@ -581,7 +608,8 @@
     "keywords": [
       "reactant"
     ],
-    "explanation": "The glossary defines a reactant as a starting substance in a chemical reaction."
+    "explanation": "A reactant is a starting substance in a chemical reaction.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "acid_q030",
@@ -598,7 +626,8 @@
     "keywords": [
       "product"
     ],
-    "explanation": "The glossary defines a product as a substance made in a chemical reaction."
+    "explanation": "A product is a substance that is made in a chemical reaction.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q001",
@@ -616,7 +645,8 @@
       "food chain",
       "energy"
     ],
-    "explanation": "The glossary says a food chain diagram shows energy transfer between organisms."
+    "explanation": "A food chain diagram shows the transfer of energy between organisms.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q002",
@@ -633,13 +663,14 @@
       "food chain",
       "producer"
     ],
-    "explanation": "The source says a food chain starts with a producer and ends with a top predator.",
+    "explanation": "A food chain is part of a food web, starting with a producer and ending with a top predator.",
     "options": [
       "A producer",
       "A top predator",
       "A decomposer",
       "A carpel"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q003",
@@ -657,13 +688,14 @@
     "keywords": [
       "producer"
     ],
-    "explanation": "That is the source definition of producer.",
+    "explanation": "A producer is a green plant or algae that makes its own food using sunlight by photosynthesis.",
     "options": [
       "An animal that eats plants",
       "A green plant or algae that makes its own food using sunlight",
       "An organism that breaks down dead material",
       "A sticky flower part"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q004",
@@ -680,13 +712,14 @@
     "keywords": [
       "consumer"
     ],
-    "explanation": "That is the source definition of consumer.",
+    "explanation": "A consumer is an animal that eats other animals or plants.",
     "options": [
       "A plant that makes food",
       "An animal that eats other animals or plants",
       "The living and non-living environment",
       "A seed starting to grow"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q005",
@@ -708,7 +741,8 @@
       "Producer",
       "Predator",
       "Petal"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q006",
@@ -730,7 +764,8 @@
       "Predator",
       "Producer",
       "Stamen"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q007",
@@ -748,7 +783,8 @@
       "decomposer",
       "nutrients"
     ],
-    "explanation": "That is the source definition of decomposer."
+    "explanation": "A decomposer breaks down dead plant and animal material so nutrients can be recycled back to soil or water.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q008",
@@ -765,7 +801,8 @@
     "keywords": [
       "food web"
     ],
-    "explanation": "That is the source definition of food web."
+    "explanation": "A food web shows how food chains in an ecosystem are linked.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q009",
@@ -782,7 +819,8 @@
     "keywords": [
       "bioaccumulation"
     ],
-    "explanation": "That is the source definition of bioaccumulation."
+    "explanation": "Bioaccumulation is the build-up of toxic chemicals inside organisms in a food chain. Toxic means harmful or poisonous.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q010",
@@ -799,7 +837,8 @@
     "keywords": [
       "ecosystem"
     ],
-    "explanation": "That is the glossary definition of ecosystem."
+    "explanation": "An ecosystem is the living things in a given area and their non-living environment. Non-living parts include water, soil and light.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q011",
@@ -808,7 +847,7 @@
     "difficulty": "medium",
     "type": "multiple-choice",
     "question": "Which definition matches a community?",
-    "answer": "The collection of different types of organism present in an ecosystem",
+    "answer": "All the different populations of living things in an ecosystem",
     "acceptedAnswers": [
       "different types of organism",
       "collection of organisms"
@@ -816,13 +855,14 @@
     "keywords": [
       "community"
     ],
-    "explanation": "The source defines community as the collection of different organisms in an ecosystem.",
+    "explanation": "A community is all the different populations of living things in an ecosystem.",
     "options": [
       "The area where one organism lives",
-      "The collection of different types of organism present in an ecosystem",
+      "All the different populations of living things in an ecosystem",
       "A group of the same species living in an area",
       "A substance that neutralises acid"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q012",
@@ -839,7 +879,8 @@
     "keywords": [
       "habitat"
     ],
-    "explanation": "That is the source definition of habitat."
+    "explanation": "A habitat is the area in which an organism lives.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q013",
@@ -856,7 +897,8 @@
     "keywords": [
       "niche"
     ],
-    "explanation": "That is the source definition of niche."
+    "explanation": "A niche is a particular place or role that an organism has in an ecosystem. Its role includes what it eats and how it uses its habitat.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q014",
@@ -864,7 +906,7 @@
     "subtopic": "Competition",
     "difficulty": "easy",
     "type": "recall",
-    "question": "Name two resources animals compete for in the organiser.",
+    "question": "Name two resources animals compete for.",
     "answer": "Food and water",
     "acceptedAnswers": [
       "food",
@@ -876,7 +918,8 @@
       "animals",
       "competition"
     ],
-    "explanation": "The organiser lists food, water, space and mates."
+    "explanation": "Animals compete for food, water, space and mates.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q015",
@@ -884,7 +927,7 @@
     "subtopic": "Competition",
     "difficulty": "easy",
     "type": "recall",
-    "question": "Name two resources plants compete for in the organiser.",
+    "question": "Name two resources plants compete for.",
     "answer": "Light and water",
     "acceptedAnswers": [
       "light",
@@ -896,7 +939,8 @@
       "plants",
       "competition"
     ],
-    "explanation": "The organiser lists light, water, space and minerals."
+    "explanation": "Plants compete for light, water, space and minerals.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q016",
@@ -914,7 +958,8 @@
       "predator",
       "prey"
     ],
-    "explanation": "The organiser explains that more predators eat more prey."
+    "explanation": "As predator numbers increase, prey numbers decrease because more prey are eaten.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q017",
@@ -933,7 +978,8 @@
       "predator",
       "prey"
     ],
-    "explanation": "The organiser explains this predator-prey relationship."
+    "explanation": "As predator numbers decrease, prey numbers increase because fewer prey are eaten.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q018",
@@ -950,13 +996,14 @@
       "anther",
       "pollen"
     ],
-    "explanation": "The anther produces pollen.",
+    "explanation": "The anther is the male part of a flower that produces pollen.",
     "options": [
       "Stigma",
       "Anther",
       "Style",
       "Sepal"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q019",
@@ -973,13 +1020,14 @@
       "stigma",
       "pollen"
     ],
-    "explanation": "The stigma is sticky to catch pollen.",
+    "explanation": "The stigma is sticky to catch grains of pollen.",
     "options": [
       "Anther",
       "Filament",
       "Stigma",
       "Ovary"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q020",
@@ -1002,7 +1050,8 @@
       "Filament",
       "Petal",
       "Ovule"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q021",
@@ -1025,7 +1074,8 @@
       "Petal",
       "Anther",
       "Sepal"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q022",
@@ -1043,13 +1093,14 @@
       "petal",
       "insects"
     ],
-    "explanation": "Petals are brightly coloured and attract insects.",
+    "explanation": "Petals are brightly coloured parts of a flower that attract insects.",
     "options": [
       "Petal",
       "Style",
       "Filament",
       "Ovary"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q023",
@@ -1067,7 +1118,8 @@
       "pollination",
       "pollen"
     ],
-    "explanation": "That is the source definition of pollination."
+    "explanation": "Pollination is the transfer of pollen from the male part of the flower to the female part on the same or another plant.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q024",
@@ -1076,7 +1128,7 @@
     "difficulty": "medium",
     "type": "recall",
     "question": "What is fertilisation?",
-    "answer": "Joining of a nucleus from a male and female sex cell",
+    "answer": "The nuclei of a male and a female sex cell joining together",
     "acceptedAnswers": [
       "joining of male and female nucleus",
       "male and female sex cell"
@@ -1084,7 +1136,8 @@
     "keywords": [
       "fertilisation"
     ],
-    "explanation": "That is the source definition of fertilisation."
+    "explanation": "During fertilisation, the nucleus of a male sex cell joins with the nucleus of a female sex cell.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q025",
@@ -1101,7 +1154,8 @@
     "keywords": [
       "germination"
     ],
-    "explanation": "That is the source definition of germination."
+    "explanation": "Germination is the process of a seed starting to grow into a seedling.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q026",
@@ -1109,7 +1163,7 @@
     "subtopic": "Fertilisation and germination",
     "difficulty": "easy",
     "type": "recall",
-    "question": "What three things does a seed need for germination in the organiser?",
+    "question": "What three things does a seed need for germination?",
     "answer": "Water, oxygen and warmth",
     "acceptedAnswers": [
       "water oxygen warmth",
@@ -1118,7 +1172,8 @@
     "keywords": [
       "germination"
     ],
-    "explanation": "The organiser lists water, oxygen and warmth."
+    "explanation": "For germination, a seed needs water, oxygen and warmth.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q027",
@@ -1135,7 +1190,8 @@
     "keywords": [
       "seed dispersal"
     ],
-    "explanation": "That is the source definition of seed dispersal."
+    "explanation": "Seed dispersal is the movement of seeds away from the parent plant.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q028",
@@ -1154,7 +1210,8 @@
       "seed dispersal",
       "survival"
     ],
-    "explanation": "The checklist asks for why seed dispersal supports survival of parent and offspring."
+    "explanation": "Seed dispersal moves seeds away from the parent plant. This reduces competition for light, water, space and minerals.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q029",
@@ -1172,7 +1229,8 @@
       "food web",
       "food source"
     ],
-    "explanation": "The organiser explains that organisms may die out unless they have a different food source."
+    "explanation": "If one organism dies out, organisms that eat it may die out unless they have a different food source.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "eco_q030",
@@ -1180,7 +1238,7 @@
     "subtopic": "Flowers and pollination",
     "difficulty": "challenge",
     "type": "spot-the-mistake",
-    "question": "A learner says, “Germination is when pollen moves from an anther to a stigma.” What is wrong?",
+    "question": "A learner says, \u201cGermination is when pollen moves from an anther to a stigma.\u201d What is wrong?",
     "answer": "That is pollination; germination is when a seed starts to grow",
     "acceptedAnswers": [
       "that is pollination",
@@ -1190,7 +1248,8 @@
       "pollination",
       "germination"
     ],
-    "explanation": "Pollination and germination are different processes in the source."
+    "explanation": "Pollination is pollen moving from an anther to a stigma. Germination is a seed starting to grow.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q001",
@@ -1199,7 +1258,7 @@
     "difficulty": "easy",
     "type": "multiple-choice",
     "question": "What is a hazard?",
-    "answer": "A situation that presents a threat to people",
+    "answer": "Something that could cause harm",
     "acceptedAnswers": [
       "threat to people",
       "situation that presents a threat"
@@ -1207,13 +1266,14 @@
     "keywords": [
       "hazard"
     ],
-    "explanation": "That is the source definition of hazard.",
+    "explanation": "A hazard is something that could cause harm.",
     "options": [
       "How likely something is harmful",
-      "A situation that presents a threat to people",
+      "Something that could cause harm",
       "A graph of categories",
       "A variable you measure"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q002",
@@ -1230,13 +1290,14 @@
     "keywords": [
       "risk"
     ],
-    "explanation": "That is the source definition of risk.",
+    "explanation": "A risk is how likely something is to be harmful.",
     "options": [
-      "A situation that presents a threat",
+      "Something that could cause harm",
       "How likely something is to be harmful",
       "A smooth graph line",
       "A repeat measurement"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q003",
@@ -1245,7 +1306,7 @@
     "difficulty": "easy",
     "type": "recall",
     "question": "What is a precaution?",
-    "answer": "An action taken to remove a hazard or reduce exposure to it",
+    "answer": "An action that helps keep you safe",
     "acceptedAnswers": [
       "remove hazard",
       "reduce exposure"
@@ -1253,7 +1314,8 @@
     "keywords": [
       "precaution"
     ],
-    "explanation": "That is the glossary definition of precaution."
+    "explanation": "A precaution is an action that helps keep you safe, such as wearing safety goggles.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q004",
@@ -1271,7 +1333,8 @@
     "keywords": [
       "risk assessment"
     ],
-    "explanation": "That is the source definition of risk assessment."
+    "explanation": "A risk assessment describes how to make injury or equipment damage less likely, and what to do if it happens.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q005",
@@ -1288,7 +1351,8 @@
     "keywords": [
       "variable"
     ],
-    "explanation": "That is the source definition of variable."
+    "explanation": "A variable is a factor that can be changed, measured and controlled.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q006",
@@ -1304,7 +1368,8 @@
     "keywords": [
       "independent variable"
     ],
-    "explanation": "The independent variable is what you change."
+    "explanation": "The independent variable is what you change in an investigation.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q007",
@@ -1321,7 +1386,8 @@
     "keywords": [
       "dependent variable"
     ],
-    "explanation": "The dependent variable is what you measure or observe."
+    "explanation": "The dependent variable is what you measure or observe when you change the independent variable.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q008",
@@ -1330,7 +1396,7 @@
     "difficulty": "medium",
     "type": "recall",
     "question": "What is a control variable?",
-    "answer": "One that remains unchanged or is held constant",
+    "answer": "Something you keep the same during an experiment",
     "acceptedAnswers": [
       "remains unchanged",
       "held constant"
@@ -1338,7 +1404,8 @@
     "keywords": [
       "control variable"
     ],
-    "explanation": "Control variables are kept constant to stop them affecting the dependent variable."
+    "explanation": "A control variable is something you keep the same during an experiment.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q009",
@@ -1347,7 +1414,7 @@
     "difficulty": "medium",
     "type": "explain",
     "question": "Why is controlling variables important?",
-    "answer": "It keeps other variables from affecting the dependent variable, making the investigation valid",
+    "answer": "It stops other variables affecting the results, making the test fair",
     "acceptedAnswers": [
       "keeps variables constant",
       "valid",
@@ -1357,7 +1424,8 @@
       "control variables",
       "valid"
     ],
-    "explanation": "The glossary links control variables with validity."
+    "explanation": "Keeping control variables the same makes a test fair. You can then see the effect of the variable you change.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q010",
@@ -1366,7 +1434,7 @@
     "difficulty": "medium",
     "type": "recall",
     "question": "What is a fair test?",
-    "answer": "An experiment to find how one variable affects another while all other variables are kept constant",
+    "answer": "An experiment where you change one variable and keep the others the same",
     "acceptedAnswers": [
       "one variable affects another",
       "other variables kept constant"
@@ -1374,7 +1442,8 @@
     "keywords": [
       "fair test"
     ],
-    "explanation": "That is the source definition of fair test."
+    "explanation": "A fair test finds out how one variable affects another while all other variables are kept constant.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q011",
@@ -1391,7 +1460,8 @@
     "keywords": [
       "prediction"
     ],
-    "explanation": "That is the source definition of prediction."
+    "explanation": "A prediction is a statement that says what you think will happen in an experiment.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q012",
@@ -1408,7 +1478,8 @@
     "keywords": [
       "hypothesis"
     ],
-    "explanation": "That is the source definition of hypothesis."
+    "explanation": "A hypothesis is an explanation you can test that includes a reason and a science idea.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q013",
@@ -1417,7 +1488,7 @@
     "difficulty": "medium",
     "type": "recall",
     "question": "What is an investigation?",
-    "answer": "An experiment or set of experiments designed to produce data to answer a scientific question or test a theory",
+    "answer": "Experiments or observations that answer a science question",
     "acceptedAnswers": [
       "produce data",
       "answer scientific question",
@@ -1426,7 +1497,8 @@
     "keywords": [
       "investigation"
     ],
-    "explanation": "That is the glossary definition of investigation."
+    "explanation": "A scientific investigation uses experiments or observations to answer a science question.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q014",
@@ -1435,7 +1507,7 @@
     "difficulty": "medium",
     "type": "recall",
     "question": "What should a plan describe?",
-    "answer": "How equipment will be used to collect valid data to answer a scientific question",
+    "answer": "Which equipment to use, what to change, what to measure and what to keep the same",
     "acceptedAnswers": [
       "use equipment",
       "collect valid data"
@@ -1443,7 +1515,8 @@
     "keywords": [
       "plan"
     ],
-    "explanation": "That is the source definition of plan."
+    "explanation": "A plan says which equipment to use, what to change, what to measure and what to keep the same.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q015",
@@ -1452,7 +1525,7 @@
     "difficulty": "easy",
     "type": "recall",
     "question": "What is data?",
-    "answer": "Words or numbers obtained when you make observations or measurements",
+    "answer": "Words or numbers from observations and measurements",
     "acceptedAnswers": [
       "words or numbers",
       "observations or measurements"
@@ -1460,7 +1533,8 @@
     "keywords": [
       "data"
     ],
-    "explanation": "That is the source definition of data."
+    "explanation": "Data are words or numbers obtained when you make observations or measurements.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q016",
@@ -1477,7 +1551,8 @@
     "keywords": [
       "observation"
     ],
-    "explanation": "That is the source definition of observation."
+    "explanation": "An observation is information gathered by your senses.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q017",
@@ -1494,7 +1569,8 @@
     "keywords": [
       "mean"
     ],
-    "explanation": "That is the source definition of mean."
+    "explanation": "The mean is an average calculated by adding all values and dividing by the number of values.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q018",
@@ -1503,7 +1579,7 @@
     "difficulty": "medium",
     "type": "multiple-choice",
     "question": "When should you use a bar chart?",
-    "answer": "When the independent variable is discontinuous",
+    "answer": "When you compare separate categories, such as types of material",
     "acceptedAnswers": [
       "discontinuous",
       "categories"
@@ -1511,13 +1587,14 @@
     "keywords": [
       "bar chart"
     ],
-    "explanation": "The source says bar charts display categories and are used for discontinuous independent variables.",
+    "explanation": "Use a bar chart to compare separate categories, such as different types of material. This is called discontinuous data.",
     "options": [
       "When both variables are continuous",
-      "When the independent variable is discontinuous",
+      "When you compare separate categories, such as types of material",
       "Only for sound waves",
       "Only for pH values"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q019",
@@ -1526,7 +1603,7 @@
     "difficulty": "medium",
     "type": "multiple-choice",
     "question": "When should you use a line graph?",
-    "answer": "When there are two continuous variables",
+    "answer": "For two continuous variables",
     "acceptedAnswers": [
       "two continuous variables",
       "continuous"
@@ -1534,13 +1611,14 @@
     "keywords": [
       "line graph"
     ],
-    "explanation": "The source says a line graph shows the relationship between two continuous variables.",
+    "explanation": "Use a line graph to show how two continuous variables are related, such as time and temperature.",
     "options": [
       "For categories such as eye colour",
       "For two continuous variables",
       "Only for flower parts",
       "For hazard symbols only"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q020",
@@ -1557,7 +1635,8 @@
     "keywords": [
       "continuous"
     ],
-    "explanation": "That is the glossary definition of continuous."
+    "explanation": "Continuous data can take any value in a range, including decimals. Temperature is an example.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q021",
@@ -1566,7 +1645,7 @@
     "difficulty": "medium",
     "type": "recall",
     "question": "What is discontinuous data?",
-    "answer": "Data with values that are words or discrete numbers",
+    "answer": "Data in separate categories or whole-number counts",
     "acceptedAnswers": [
       "words or discrete numbers",
       "separate categories"
@@ -1574,7 +1653,8 @@
     "keywords": [
       "discontinuous"
     ],
-    "explanation": "That is the glossary definition of discontinuous."
+    "explanation": "Discontinuous data uses separate categories or whole-number counts, such as eye colour or number of plants.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q022",
@@ -1591,7 +1671,8 @@
     "keywords": [
       "line of best fit"
     ],
-    "explanation": "The glossary says it is a smooth line showing the pattern of data points."
+    "explanation": "A line of best fit shows the overall pattern of points on a graph. It can be straight or curved.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q023",
@@ -1608,7 +1689,8 @@
     "keywords": [
       "conclusion"
     ],
-    "explanation": "That is the source definition of conclusion."
+    "explanation": "A conclusion says what you have found out during an investigation.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q024",
@@ -1617,7 +1699,7 @@
     "difficulty": "medium",
     "type": "recall",
     "question": "What does evaluate mean in science?",
-    "answer": "Discuss the quality of data collected and suggest improvements to the method",
+    "answer": "Check how good the results are and suggest ways to improve the method",
     "acceptedAnswers": [
       "quality of data",
       "suggest improvements"
@@ -1625,7 +1707,8 @@
     "keywords": [
       "evaluate"
     ],
-    "explanation": "That is the glossary definition of evaluate."
+    "explanation": "To evaluate an experiment, check how good the results are and suggest ways to improve the method.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q025",
@@ -1642,13 +1725,14 @@
     "keywords": [
       "precise"
     ],
-    "explanation": "The source defines precise as repeat measurements that are close together.",
+    "explanation": "Precise describes a set of repeat measurements that are close together.",
     "options": [
       "The answer is colourful",
       "Repeat measurements are close together",
       "Only one measurement was taken",
       "The graph has categories"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q026",
@@ -1664,13 +1748,14 @@
     "keywords": [
       "repeatable"
     ],
-    "explanation": "That is the source definition of repeatable.",
+    "explanation": "Repeatable means repeat readings are close together.",
     "options": [
       "Repeat readings are close together",
       "The method uses no equipment",
       "The result is always high",
       "The variable changes every time"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q027",
@@ -1679,7 +1764,7 @@
     "difficulty": "medium",
     "type": "recall",
     "question": "What makes an investigation valid?",
-    "answer": "It is designed appropriately, including keeping control variables constant",
+    "answer": "It answers the question being tested and keeps control variables the same",
     "acceptedAnswers": [
       "designed appropriately",
       "control variables constant"
@@ -1687,7 +1772,8 @@
     "keywords": [
       "valid"
     ],
-    "explanation": "That is the source definition of valid."
+    "explanation": "A valid investigation answers the question it is meant to test. Keeping control variables the same helps make it valid.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q028",
@@ -1705,7 +1791,8 @@
       "fair test",
       "variables"
     ],
-    "explanation": "A fair test changes one variable while keeping others constant."
+    "explanation": "Only change one variable at a time. If both light and water change, you cannot tell which one affected growth.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q029",
@@ -1723,7 +1810,8 @@
       "repeat",
       "repeatable"
     ],
-    "explanation": "The source links repeat readings with repeatability and data quality."
+    "explanation": "Repeating an experiment helps you check whether the results are similar and spot unusual readings.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "skills_q030",
@@ -1731,7 +1819,7 @@
     "subtopic": "Scientific enquiries",
     "difficulty": "medium",
     "type": "multiple-choice",
-    "question": "Which list contains types of scientific enquiry from the glossary?",
+    "question": "Which list gives three ways to investigate a science question?",
     "answer": "Observation over time, fair test and pattern seeking",
     "acceptedAnswers": [
       "observation over time fair test pattern seeking"
@@ -1739,13 +1827,14 @@
     "keywords": [
       "scientific enquiries"
     ],
-    "explanation": "The glossary lists observation over time, fair test and pattern seeking.",
+    "explanation": "Scientific enquiries include observation over time, fair test, and pattern seeking.",
     "options": [
       "Pollination, germination and dispersal",
       "Observation over time, fair test and pattern seeking",
       "Acid, alkali and neutral",
       "Reflection, refraction and colour"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q001",
@@ -1754,7 +1843,7 @@
     "difficulty": "easy",
     "type": "recall",
     "question": "What is a wave?",
-    "answer": "An oscillation or vibration that transfers energy from one place to another",
+    "answer": "A vibration that transfers energy from one place to another",
     "acceptedAnswers": [
       "oscillation or vibration",
       "transfers energy"
@@ -1762,7 +1851,8 @@
     "keywords": [
       "wave"
     ],
-    "explanation": "That is the definition from the waves organiser."
+    "explanation": "A wave is a vibration that transfers energy from one place to another. A repeated vibration is also called an oscillation.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q002",
@@ -1771,7 +1861,7 @@
     "difficulty": "easy",
     "type": "multiple-choice",
     "question": "What is amplitude?",
-    "answer": "The maximum amount of vibration measured from the middle position of a wave",
+    "answer": "The greatest distance from the middle of a wave to a crest or trough",
     "acceptedAnswers": [
       "maximum amount of vibration",
       "middle position"
@@ -1779,13 +1869,14 @@
     "keywords": [
       "amplitude"
     ],
-    "explanation": "That is the glossary definition of amplitude.",
+    "explanation": "Amplitude is the greatest distance from the middle position of a wave to a crest or trough.",
     "options": [
       "The distance between two matching points",
       "The top of the wave",
-      "The maximum amount of vibration measured from the middle position of a wave",
+      "The greatest distance from the middle of a wave to a crest or trough",
       "The number of waves in one second"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q003",
@@ -1794,20 +1885,21 @@
     "difficulty": "easy",
     "type": "multiple-choice",
     "question": "What is wavelength?",
-    "answer": "The distance between two corresponding points on a wave",
+    "answer": "The distance between matching points, such as one crest to the next",
     "acceptedAnswers": [
       "distance between corresponding points"
     ],
     "keywords": [
       "wavelength"
     ],
-    "explanation": "That is the glossary definition of wavelength.",
+    "explanation": "Wavelength is the distance between matching points on neighbouring waves, such as one crest to the next.",
     "options": [
       "How loud the sound is",
-      "The distance between two corresponding points on a wave",
+      "The distance between matching points, such as one crest to the next",
       "The bottom of the wave",
       "The unit of frequency"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q004",
@@ -1824,7 +1916,8 @@
     "keywords": [
       "frequency"
     ],
-    "explanation": "That is the glossary definition of frequency."
+    "explanation": "Frequency is the number of waves produced in one second, in hertz.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q005",
@@ -1848,7 +1941,8 @@
       "Metre",
       "Hertz",
       "Newton"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q006",
@@ -1871,7 +1965,8 @@
       "Peak",
       "Trough",
       "Normal line"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q007",
@@ -1879,7 +1974,7 @@
     "subtopic": "Sound waves and speed",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "What speed of sound is given in the glossary?",
+    "question": "What speed of sound is used in your revision notes?",
     "answer": "330 m/s",
     "acceptedAnswers": [
       "330 m/s",
@@ -1888,13 +1983,14 @@
     "keywords": [
       "speed of sound"
     ],
-    "explanation": "The glossary gives speed of sound as 330 m/s.",
+    "explanation": "Your school notes use 330 metres per second for sound in air. Its speed changes with the material and temperature.",
     "options": [
       "330 m/s",
       "300 million m/s",
       "20 Hz",
       "20,000 Hz"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q008",
@@ -1912,7 +2008,8 @@
       "sound",
       "vibration"
     ],
-    "explanation": "The organiser says sound waves are caused by vibration of particles."
+    "explanation": "Sound waves are caused by vibration of particles.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q009",
@@ -1921,7 +2018,7 @@
     "difficulty": "easy",
     "type": "multiple-choice",
     "question": "Can sound travel through a vacuum?",
-    "answer": "No, sound needs a medium",
+    "answer": "No, sound needs particles to travel through",
     "acceptedAnswers": [
       "no",
       "needs a medium",
@@ -1931,13 +2028,14 @@
       "sound",
       "vacuum"
     ],
-    "explanation": "Sound is longitudinal and needs a medium to travel through.",
+    "explanation": "Sound needs particles to travel through. The material it travels through, such as air, is called a medium.",
     "options": [
       "Yes, because it is light",
-      "No, sound needs a medium",
+      "No, sound needs particles to travel through",
       "Yes, because vacuums have many particles",
       "Only if it is loud"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q010",
@@ -1954,7 +2052,8 @@
     "keywords": [
       "vacuum"
     ],
-    "explanation": "That is the glossary definition of vacuum."
+    "explanation": "A vacuum is a space with no particles of matter in it.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q011",
@@ -1972,7 +2071,8 @@
       "amplify",
       "amplitude"
     ],
-    "explanation": "That is the source definition of amplify."
+    "explanation": "To amplify means to increase the amplitude of a sound so that it sounds louder.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q012",
@@ -1996,7 +2096,8 @@
       "Metre",
       "Decibel",
       "pH"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q013",
@@ -2013,7 +2114,8 @@
     "keywords": [
       "pitch"
     ],
-    "explanation": "That is the glossary definition of pitch."
+    "explanation": "Pitch is how high or low a sound is.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q014",
@@ -2030,13 +2132,14 @@
       "pitch",
       "frequency"
     ],
-    "explanation": "The glossary says high pitch links to high frequency.",
+    "explanation": "A low pitch sound has a low frequency and a high pitch sound has a high frequency.",
     "options": [
       "Low frequency",
       "No frequency",
       "High frequency",
       "pH 7"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q015",
@@ -2053,13 +2156,14 @@
     "keywords": [
       "ultrasound"
     ],
-    "explanation": "The glossary defines ultrasound as sound above 20,000 Hz.",
+    "explanation": "Ultrasound is sound above 20,000 Hz, beyond human hearing.",
     "options": [
       "Sound below 20 Hz",
       "Sound above 20,000 Hz",
       "Light from a prism",
       "Sound at 330 m/s"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q016",
@@ -2082,7 +2186,8 @@
       "Pinna",
       "Retina",
       "Ossicle"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q017",
@@ -2090,7 +2195,7 @@
     "subtopic": "The ear and hearing",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "Which part is a membrane that transmits sound vibrations?",
+    "question": "Which part of the ear vibrates when sound reaches it?",
     "answer": "Eardrum",
     "acceptedAnswers": [
       "eardrum"
@@ -2099,13 +2204,14 @@
       "ear",
       "eardrum"
     ],
-    "explanation": "The eardrum transmits sound vibrations from the outer ear to the middle ear.",
+    "explanation": "The eardrum is a thin sheet of tissue. It vibrates when sound reaches it and passes vibrations to the middle ear.",
     "options": [
       "Pinna",
       "Eardrum",
       "Iris",
       "Lens"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q018",
@@ -2113,7 +2219,7 @@
     "subtopic": "The ear and hearing",
     "difficulty": "medium",
     "type": "multiple-choice",
-    "question": "Which part is a snail-shaped tube with sensory cells that detect sound?",
+    "question": "Which curled part of the inner ear detects sound vibrations?",
     "answer": "Cochlea",
     "acceptedAnswers": [
       "cochlea"
@@ -2122,13 +2228,14 @@
       "ear",
       "cochlea"
     ],
-    "explanation": "The cochlea is a snail-shaped tube in the inner ear.",
+    "explanation": "The cochlea is a curled tube in the inner ear. Its sensory cells detect vibrations and help produce nerve signals.",
     "options": [
       "Cochlea",
       "Auditory canal",
       "Pupil",
       "Cornea"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q019",
@@ -2146,7 +2253,8 @@
       "auditory nerve",
       "brain"
     ],
-    "explanation": "The glossary says an electrical signal travels along the auditory nerve to the brain."
+    "explanation": "An electrical signal travels along the auditory nerve to the brain.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q020",
@@ -2154,7 +2262,7 @@
     "subtopic": "Light",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "What speed of light is given in the glossary?",
+    "question": "What is the speed of light in a vacuum?",
     "answer": "300 million m/s",
     "acceptedAnswers": [
       "300 million m/s",
@@ -2163,13 +2271,14 @@
     "keywords": [
       "speed of light"
     ],
-    "explanation": "The glossary gives speed of light as 300 million m/s.",
+    "explanation": "Light travels at about 300 million metres per second in a vacuum. A vacuum has no particles.",
     "options": [
       "330 m/s",
       "300 million m/s",
       "20 Hz",
       "pH 13"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q021",
@@ -2185,13 +2294,14 @@
     "keywords": [
       "luminous"
     ],
-    "explanation": "That is the glossary definition of luminous.",
+    "explanation": "A luminous object gives out light.",
     "options": [
       "Gives out light",
       "Allows no light through",
       "Bounces sound back",
       "Spreads seeds"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q022",
@@ -2199,7 +2309,7 @@
     "subtopic": "Light",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "Which material allows all light to pass through it?",
+    "question": "Which type of material can you see clearly through?",
     "answer": "Transparent",
     "acceptedAnswers": [
       "transparent"
@@ -2208,13 +2318,14 @@
       "transparent",
       "light"
     ],
-    "explanation": "Transparent means all light passes through.",
+    "explanation": "A transparent material lets light through so you can see clearly through it.",
     "options": [
       "Opaque",
       "Translucent",
       "Transparent",
       "Corrosive"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q023",
@@ -2222,7 +2333,7 @@
     "subtopic": "Light",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "Which material allows no light to pass through it?",
+    "question": "Which type of material blocks light?",
     "answer": "Opaque",
     "acceptedAnswers": [
       "opaque"
@@ -2231,13 +2342,14 @@
       "opaque",
       "light"
     ],
-    "explanation": "Opaque means no light passes through.",
+    "explanation": "An opaque material allows no light to pass through it.",
     "options": [
       "Opaque",
       "Transparent",
       "Translucent",
       "Virtual"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q024",
@@ -2246,7 +2358,7 @@
     "difficulty": "easy",
     "type": "recall",
     "question": "What is reflection?",
-    "answer": "A change in direction of light or sound when it hits a boundary and bounces back",
+    "answer": "Light or sound bouncing back after hitting a surface",
     "acceptedAnswers": [
       "bounces back",
       "change in direction"
@@ -2254,7 +2366,8 @@
     "keywords": [
       "reflection"
     ],
-    "explanation": "That is the glossary definition of reflection."
+    "explanation": "Reflection is a change in direction of light or sound when it hits a boundary and bounces back.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q025",
@@ -2271,7 +2384,8 @@
     "keywords": [
       "law of reflection"
     ],
-    "explanation": "That is the source definition of the law of reflection."
+    "explanation": "The angle of incidence equals the angle of reflection. Measure both angles from the normal line.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q026",
@@ -2287,13 +2401,14 @@
     "keywords": [
       "specular reflection"
     ],
-    "explanation": "Specular reflection is from a smooth surface.",
+    "explanation": "Specular reflection is reflection from a smooth surface.",
     "options": [
       "Reflection from a rough surface",
       "Reflection from a smooth surface",
       "Light bending into glass",
       "Sound below 20 Hz"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q027",
@@ -2309,13 +2424,14 @@
     "keywords": [
       "diffuse reflection"
     ],
-    "explanation": "Diffuse reflection is from a rough surface.",
+    "explanation": "Diffuse reflection is reflection from a rough surface.",
     "options": [
       "Reflection from a smooth surface",
       "Reflection from a rough surface",
       "A virtual image",
-      "A soluble base"
-    ]
+      "A base that dissolves in water"
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q028",
@@ -2324,7 +2440,7 @@
     "difficulty": "easy",
     "type": "recall",
     "question": "What is refraction?",
-    "answer": "A change in direction of light going from one material into another",
+    "answer": "Light changing direction as it enters a different material",
     "acceptedAnswers": [
       "change direction",
       "one material into another"
@@ -2332,7 +2448,8 @@
     "keywords": [
       "refraction"
     ],
-    "explanation": "That is the source definition of refraction."
+    "explanation": "Refraction is a change in direction of light going from one material into another.",
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q029",
@@ -2355,7 +2472,8 @@
       "Bends light rays towards each other",
       "Allows no light through",
       "Reflects sound"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   },
   {
     "id": "waves_q030",
@@ -2363,7 +2481,7 @@
     "subtopic": "Colour",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "What are the primary colours of light in the glossary?",
+    "question": "What are the primary colours of light?",
     "answer": "Red, blue and green",
     "acceptedAnswers": [
       "red blue and green",
@@ -2372,12 +2490,13 @@
     "keywords": [
       "primary colours"
     ],
-    "explanation": "The source lists red, blue and green as primary colours of light.",
+    "explanation": "The primary colours of light are red, blue and green.",
     "options": [
       "Red, yellow and blue",
       "Red, blue and green",
       "Cyan, magenta and yellow",
       "Black, white and grey"
-    ]
+    ],
+    "hint": "Think about the key science words in this question."
   }
 ]

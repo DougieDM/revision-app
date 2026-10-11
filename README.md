@@ -75,6 +75,18 @@ Lint:
 npm run lint
 ```
 
+Run question-generation regression tests:
+
+```bash
+npm test
+```
+
+Generated questions use only fact types supported by the selected question style.
+Mixed quizzes balance the available types, while whole-unit Organisms quizzes
+continue to cover every section first. Small pools produce shorter quizzes with
+a notice; empty pools show no matching questions. Weak-area practice keeps its
+weak-area filter rather than silently falling back to general practice.
+
 ## Railway Deployment
 
 1. Push this project to a GitHub repository.
@@ -86,6 +98,11 @@ npm run lint
 5. No database or environment variables are required for version 1.
 
 ## Data
+
+All revision content and questions target students aged 12–13. See
+`docs/content-guidelines.md` for the writing rules. Facts include direct recall,
+explanation and application prompts; feedback explains the science rather than
+describing the source document. Missing-word questions accept the missing word.
 
 - `data/knowledge-base.json` contains 180 structured source-backed facts.
 - `data/questions.seed.json` contains 120 ready-made source-backed seed questions.

@@ -112,6 +112,7 @@ export function QuizClient() {
       <main className="min-h-screen px-4 py-6">
         <div className="mx-auto max-w-2xl rounded-lg bg-surface p-6 shadow-soft">
           <h1 className="text-2xl font-bold text-ink">{loaded ? "No questions match these choices" : "Getting your quiz ready..."}</h1>
+          {loaded && settings.weakOnly ? <p className="mt-3 text-zinc-300">No questions match your weak areas with this topic, difficulty and question style.</p> : null}
           {loaded ? <Link href="/make-a-test" className="mt-4 inline-block font-bold text-pink-300">Choose another area, difficulty or question style</Link> : null}
         </div>
       </main>
@@ -146,16 +147,17 @@ export function QuizClient() {
             Readispark practice
           </span>
         </div>
+        {questions.length < settings.count ? <p role="status" className="mb-4 rounded-lg bg-surface p-4 text-zinc-300">Only {questions.length} questions match your choices. This quiz keeps your selected question style.</p> : null}
         {reviewing ? (
           <section className="rounded-lg bg-surface p-5 shadow-soft">
             <h1 className="text-2xl font-bold text-ink">Compare your answer</h1>
             <p className="mt-3 font-semibold">{current.question}</p>
             <p className="mt-4 text-sm font-bold text-zinc-400">Your answer</p>
             <p className="mt-1 whitespace-pre-wrap">{answer || "No answer entered"}</p>
-            <p className="mt-4 text-sm font-bold text-pink-300">Model answer</p>
+            <p className="mt-4 text-sm font-bold text-pink-300">Example answer</p>
             <p className="mt-1">{current.answer}</p>
             <p className="mt-3 text-zinc-300">{current.explanation}</p>
-            <p className="mt-4 text-sm text-zinc-300">Different wording is fine. Did you include the key science ideas? For explain questions, include the reasons too.</p>
+            <p className="mt-4 text-sm text-zinc-300">You can use your own words. Did you include the main science ideas? If the question asks why, give a reason.</p>
             <div className="mt-5 grid gap-3 sm:grid-cols-2">
               <button className="rounded-lg bg-brand-pink p-4 font-bold text-white" onClick={() => { setReviewing(false); recordCurrent(true, answer); }}>I got the key ideas</button>
               <button className="rounded-lg bg-brand-purple p-4 font-bold text-white" onClick={() => { setReviewing(false); recordCurrent(false, answer); }}>I need more practice</button>

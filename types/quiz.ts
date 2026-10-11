@@ -22,6 +22,9 @@ export interface KnowledgeFact {
   topic: string;
   subtopic: string;
   fact: string;
+  recallPrompt: string;
+  explainPrompt?: string;
+  applicationPrompt?: string;
   keywords: string[];
   difficulty: Difficulty;
   questionTypes: KnowledgeQuestionType[];

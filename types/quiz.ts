@@ -44,6 +44,7 @@ export interface SeedQuestion {
   options?: string[];
   answer: string;
   acceptedAnswers?: string[];
+  marking?: AnswerMarking;
   keywords?: string[];
   explanation: string;
   hint?: string;
@@ -60,9 +61,17 @@ export interface GeneratedQuestion {
   options?: string[];
   answer: string;
   acceptedAnswers: string[];
+  marking?: AnswerMarking;
   keywords: string[];
   explanation: string;
   hint: string;
+}
+
+/** Every idea is required; each idea can be expressed by any listed phrase.
+ * Phrase order matters within an idea, but independent ideas may be reordered. */
+export interface AnswerMarking {
+  all: string[][];
+  reject?: string[];
 }
 
 export interface QuizSettings {

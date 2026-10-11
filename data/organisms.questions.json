@@ -29,11 +29,47 @@
     "question": "What is the job of the gas exchange system?",
     "answer": "Take oxygen into the blood and remove carbon dioxide",
     "acceptedAnswers": [
-      "Take oxygen into the blood and remove carbon dioxide"
+      "Take oxygen into the blood and remove carbon dioxide",
+      "Oxygen passes from the air into the blood and carbon dioxide passes from the blood into the air",
+      "Oxygen enters the blood and carbon dioxide leaves the blood"
     ],
     "keywords": [],
     "explanation": "In the lungs, oxygen moves from the air into the blood. Carbon dioxide moves from the blood into the air so you can breathe it out.",
-    "hint": "Think about gas exchange."
+    "hint": "Think about gas exchange.",
+    "marking": {
+      "all": [
+        [
+          "take oxygen into the blood",
+          "oxygen moves from air into blood",
+          "oxygen moves from air to blood",
+          "oxygen enters blood",
+          "oxygen moves into blood",
+          "oxygen absorbed into blood",
+          "oxygen absorbed from air into blood",
+          "blood absorbs oxygen"
+        ],
+        [
+          "remove carbon dioxide",
+          "carbon dioxide moves from blood into air",
+          "carbon dioxide moves from blood to air",
+          "carbon dioxide leaves blood",
+          "carbon dioxide released from blood",
+          "carbon dioxide expelled from blood"
+        ]
+      ],
+      "reject": [
+        "oxygen moves from blood",
+        "carbon dioxide moves from air",
+        "take carbon dioxide into blood",
+        "remove oxygen",
+        "oxygen leaves blood",
+        "carbon dioxide enters blood",
+        "oxygen moves out of blood",
+        "carbon dioxide into blood",
+        "oxygen into air",
+        "oxygen to air"
+      ]
+    }
   },
   {
     "id": "organisms_001_spot-the-mistake",
@@ -59,11 +95,47 @@
     "question": "What is the job of the gas exchange system? Explain the idea in your own words.",
     "answer": "In the lungs, oxygen moves from the air into the blood. Carbon dioxide moves from the blood into the air so you can breathe it out.",
     "acceptedAnswers": [
-      "In the lungs, oxygen moves from the air into the blood. Carbon dioxide moves from the blood into the air so you can breathe it out."
+      "In the lungs, oxygen moves from the air into the blood. Carbon dioxide moves from the blood into the air so you can breathe it out.",
+      "Oxygen passes from the air into the blood and carbon dioxide passes from the blood into the air",
+      "Oxygen enters the blood and carbon dioxide leaves the blood"
     ],
     "keywords": [],
     "explanation": "In the lungs, oxygen moves from the air into the blood. Carbon dioxide moves from the blood into the air so you can breathe it out.",
-    "hint": "Think about gas exchange."
+    "hint": "Think about gas exchange.",
+    "marking": {
+      "all": [
+        [
+          "take oxygen into the blood",
+          "oxygen moves from air into blood",
+          "oxygen moves from air to blood",
+          "oxygen enters blood",
+          "oxygen moves into blood",
+          "oxygen absorbed into blood",
+          "oxygen absorbed from air into blood",
+          "blood absorbs oxygen"
+        ],
+        [
+          "remove carbon dioxide",
+          "carbon dioxide moves from blood into air",
+          "carbon dioxide moves from blood to air",
+          "carbon dioxide leaves blood",
+          "carbon dioxide released from blood",
+          "carbon dioxide expelled from blood"
+        ]
+      ],
+      "reject": [
+        "oxygen moves from blood",
+        "carbon dioxide moves from air",
+        "take carbon dioxide into blood",
+        "remove oxygen",
+        "oxygen leaves blood",
+        "carbon dioxide enters blood",
+        "oxygen moves out of blood",
+        "carbon dioxide into blood",
+        "oxygen into air",
+        "oxygen to air"
+      ]
+    }
   },
   {
     "id": "organisms_002_multiple-choice",
@@ -95,7 +167,9 @@
     "question": "Where does gas exchange take place in the lungs?",
     "answer": "Alveoli",
     "acceptedAnswers": [
-      "Alveoli"
+      "Alveoli",
+      "Tiny air sacs called alveoli",
+      "The air sacs in the lungs"
     ],
     "keywords": [],
     "explanation": "Alveoli are tiny air sacs in the lungs. Tiny blood vessels called capillaries surround them.",
@@ -125,7 +199,9 @@
     "question": "Where does gas exchange take place in the lungs? Explain the idea in your own words.",
     "answer": "Alveoli are tiny air sacs in the lungs. Tiny blood vessels called capillaries surround them.",
     "acceptedAnswers": [
-      "Alveoli are tiny air sacs in the lungs. Tiny blood vessels called capillaries surround them."
+      "Alveoli are tiny air sacs in the lungs. Tiny blood vessels called capillaries surround them.",
+      "Tiny air sacs called alveoli",
+      "The air sacs in the lungs"
     ],
     "keywords": [],
     "explanation": "Alveoli are tiny air sacs in the lungs. Tiny blood vessels called capillaries surround them.",
@@ -161,11 +237,22 @@
     "question": "Which route does air take after entering the nose or mouth?",
     "answer": "Trachea, bronchi, bronchioles, alveoli",
     "acceptedAnswers": [
-      "Trachea, bronchi, bronchioles, alveoli"
+      "Trachea, bronchi, bronchioles, alveoli",
+      "Air travels through the windpipe, bronchi, bronchioles and alveoli"
     ],
     "keywords": [],
     "explanation": "Air goes down the trachea (windpipe). It passes through the bronchi, then smaller tubes called bronchioles, and reaches the alveoli.",
-    "hint": "Think about gas exchange."
+    "hint": "Think about gas exchange.",
+    "marking": {
+      "all": [
+        [
+          "Trachea, bronchi, bronchioles, alveoli"
+        ]
+      ],
+      "reject": [
+        "oesophagus"
+      ]
+    }
   },
   {
     "id": "organisms_003_spot-the-mistake",
@@ -191,11 +278,22 @@
     "question": "Which route does air take after entering the nose or mouth? Explain the idea in your own words.",
     "answer": "Air goes down the trachea (windpipe). It passes through the bronchi, then smaller tubes called bronchioles, and reaches the alveoli.",
     "acceptedAnswers": [
-      "Air goes down the trachea (windpipe). It passes through the bronchi, then smaller tubes called bronchioles, and reaches the alveoli."
+      "Air goes down the trachea (windpipe). It passes through the bronchi, then smaller tubes called bronchioles, and reaches the alveoli.",
+      "Air travels through the windpipe, bronchi, bronchioles and alveoli"
     ],
     "keywords": [],
     "explanation": "Air goes down the trachea (windpipe). It passes through the bronchi, then smaller tubes called bronchioles, and reaches the alveoli.",
-    "hint": "Think about gas exchange."
+    "hint": "Think about gas exchange.",
+    "marking": {
+      "all": [
+        [
+          "Air goes down the trachea (windpipe). It passes through the bronchi, then smaller tubes called bronchioles, and reaches the alveoli."
+        ]
+      ],
+      "reject": [
+        "oesophagus"
+      ]
+    }
   },
   {
     "id": "organisms_004_multiple-choice",
@@ -227,11 +325,29 @@
     "question": "Which features help alveoli exchange gases quickly?",
     "answer": "Large surface area, thin walls and a good blood supply",
     "acceptedAnswers": [
-      "Large surface area, thin walls and a good blood supply"
+      "Large surface area, thin walls and a good blood supply",
+      "A big surface area, walls one cell thick and a good blood supply"
     ],
     "keywords": [],
     "explanation": "The many alveoli give a large surface area. Their thin walls let gases move a short distance into or out of the blood. This movement is called diffusion.",
-    "hint": "Think about gas exchange."
+    "hint": "Think about gas exchange.",
+    "marking": {
+      "all": [
+        [
+          "large surface area",
+          "big surface area"
+        ],
+        [
+          "thin walls",
+          "walls one cell thick"
+        ],
+        [
+          "good blood supply",
+          "many capillaries",
+          "many blood vessels"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_004_spot-the-mistake",
@@ -257,11 +373,29 @@
     "question": "Which features help alveoli exchange gases quickly? Explain the idea in your own words.",
     "answer": "The many alveoli give a large surface area. Their thin walls let gases move a short distance into or out of the blood. This movement is called diffusion.",
     "acceptedAnswers": [
-      "The many alveoli give a large surface area. Their thin walls let gases move a short distance into or out of the blood. This movement is called diffusion."
+      "The many alveoli give a large surface area. Their thin walls let gases move a short distance into or out of the blood. This movement is called diffusion.",
+      "A big surface area, walls one cell thick and a good blood supply"
     ],
     "keywords": [],
     "explanation": "The many alveoli give a large surface area. Their thin walls let gases move a short distance into or out of the blood. This movement is called diffusion.",
-    "hint": "Think about gas exchange."
+    "hint": "Think about gas exchange.",
+    "marking": {
+      "all": [
+        [
+          "large surface area",
+          "big surface area"
+        ],
+        [
+          "thin walls",
+          "walls one cell thick"
+        ],
+        [
+          "good blood supply",
+          "many capillaries",
+          "many blood vessels"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_005_multiple-choice",
@@ -293,11 +427,28 @@
     "question": "How is the air you breathe out different from the air you breathe in?",
     "answer": "Less oxygen and more carbon dioxide",
     "acceptedAnswers": [
-      "Less oxygen and more carbon dioxide"
+      "Less oxygen and more carbon dioxide",
+      "Exhaled air contains more carbon dioxide and less oxygen"
     ],
     "keywords": [],
     "explanation": "Respiration in cells uses oxygen and makes carbon dioxide. This means air you breathe out has less oxygen and more carbon dioxide than air you breathe in.",
-    "hint": "Think about gas exchange."
+    "hint": "Think about gas exchange.",
+    "marking": {
+      "all": [
+        [
+          "less oxygen",
+          "lower oxygen"
+        ],
+        [
+          "more carbon dioxide",
+          "higher carbon dioxide"
+        ]
+      ],
+      "reject": [
+        "more oxygen",
+        "less carbon dioxide"
+      ]
+    }
   },
   {
     "id": "organisms_005_spot-the-mistake",
@@ -323,11 +474,28 @@
     "question": "How is the air you breathe out different from the air you breathe in? Explain the idea in your own words.",
     "answer": "Respiration in cells uses oxygen and makes carbon dioxide. This means air you breathe out has less oxygen and more carbon dioxide than air you breathe in.",
     "acceptedAnswers": [
-      "Respiration in cells uses oxygen and makes carbon dioxide. This means air you breathe out has less oxygen and more carbon dioxide than air you breathe in."
+      "Respiration in cells uses oxygen and makes carbon dioxide. This means air you breathe out has less oxygen and more carbon dioxide than air you breathe in.",
+      "Exhaled air contains more carbon dioxide and less oxygen"
     ],
     "keywords": [],
     "explanation": "Respiration in cells uses oxygen and makes carbon dioxide. This means air you breathe out has less oxygen and more carbon dioxide than air you breathe in.",
-    "hint": "Think about gas exchange."
+    "hint": "Think about gas exchange.",
+    "marking": {
+      "all": [
+        [
+          "less oxygen",
+          "lower oxygen"
+        ],
+        [
+          "more carbon dioxide",
+          "higher carbon dioxide"
+        ]
+      ],
+      "reject": [
+        "more oxygen",
+        "less carbon dioxide"
+      ]
+    }
   },
   {
     "id": "organisms_006_multiple-choice",
@@ -359,11 +527,39 @@
     "question": "What is aerobic respiration?",
     "answer": "Glucose reacts with oxygen to release energy, producing carbon dioxide and water",
     "acceptedAnswers": [
-      "Glucose reacts with oxygen to release energy, producing carbon dioxide and water"
+      "Glucose reacts with oxygen to release energy, producing carbon dioxide and water",
+      "Respiration uses glucose and oxygen to release energy and makes water and carbon dioxide"
     ],
     "keywords": [],
     "explanation": "Aerobic respiration happens inside cells. Glucose reacts with oxygen to release energy and make carbon dioxide and water. Breathing moves air into and out of the lungs.",
-    "hint": "Think about gas exchange."
+    "hint": "Think about gas exchange.",
+    "marking": {
+      "all": [
+        [
+          "glucose reacts with oxygen",
+          "oxygen reacts with glucose",
+          "uses glucose and oxygen",
+          "glucose and oxygen react"
+        ],
+        [
+          "release energy",
+          "releasing energy",
+          "energy released"
+        ],
+        [
+          "producing carbon dioxide and water",
+          "make carbon dioxide and water",
+          "makes water and carbon dioxide",
+          "produce water and carbon dioxide"
+        ]
+      ],
+      "reject": [
+        "carbon dioxide reacts with water",
+        "produces oxygen",
+        "makes oxygen",
+        "energy used up"
+      ]
+    }
   },
   {
     "id": "organisms_006_spot-the-mistake",
@@ -389,11 +585,39 @@
     "question": "What is aerobic respiration? Explain the idea in your own words.",
     "answer": "Aerobic respiration happens inside cells. Glucose reacts with oxygen to release energy and make carbon dioxide and water. Breathing moves air into and out of the lungs.",
     "acceptedAnswers": [
-      "Aerobic respiration happens inside cells. Glucose reacts with oxygen to release energy and make carbon dioxide and water. Breathing moves air into and out of the lungs."
+      "Aerobic respiration happens inside cells. Glucose reacts with oxygen to release energy and make carbon dioxide and water. Breathing moves air into and out of the lungs.",
+      "Respiration uses glucose and oxygen to release energy and makes water and carbon dioxide"
     ],
     "keywords": [],
     "explanation": "Aerobic respiration happens inside cells. Glucose reacts with oxygen to release energy and make carbon dioxide and water. Breathing moves air into and out of the lungs.",
-    "hint": "Think about gas exchange."
+    "hint": "Think about gas exchange.",
+    "marking": {
+      "all": [
+        [
+          "glucose reacts with oxygen",
+          "oxygen reacts with glucose",
+          "uses glucose and oxygen",
+          "glucose and oxygen react"
+        ],
+        [
+          "release energy",
+          "releasing energy",
+          "energy released"
+        ],
+        [
+          "producing carbon dioxide and water",
+          "make carbon dioxide and water",
+          "makes water and carbon dioxide",
+          "produce water and carbon dioxide"
+        ]
+      ],
+      "reject": [
+        "carbon dioxide reacts with water",
+        "produces oxygen",
+        "makes oxygen",
+        "energy used up"
+      ]
+    }
   },
   {
     "id": "organisms_007_multiple-choice",
@@ -425,11 +649,29 @@
     "question": "What happens to the diaphragm when you breathe in (inhale)?",
     "answer": "It contracts and flattens",
     "acceptedAnswers": [
-      "It contracts and flattens"
+      "It contracts and flattens",
+      "The diaphragm gets shorter and becomes flat"
     ],
     "keywords": [],
     "explanation": "The diaphragm is a sheet of muscle below the lungs. It contracts (gets shorter) and flattens when you breathe in, making more space in the chest.",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "contracts",
+          "gets shorter"
+        ],
+        [
+          "flattens",
+          "becomes flat"
+        ]
+      ],
+      "reject": [
+        "relaxes",
+        "curves upwards",
+        "moves up"
+      ]
+    }
   },
   {
     "id": "organisms_007_spot-the-mistake",
@@ -455,11 +697,29 @@
     "question": "What happens to the diaphragm when you breathe in (inhale)? Explain the idea in your own words.",
     "answer": "The diaphragm is a sheet of muscle below the lungs. It contracts (gets shorter) and flattens when you breathe in, making more space in the chest.",
     "acceptedAnswers": [
-      "The diaphragm is a sheet of muscle below the lungs. It contracts (gets shorter) and flattens when you breathe in, making more space in the chest."
+      "The diaphragm is a sheet of muscle below the lungs. It contracts (gets shorter) and flattens when you breathe in, making more space in the chest.",
+      "The diaphragm gets shorter and becomes flat"
     ],
     "keywords": [],
     "explanation": "The diaphragm is a sheet of muscle below the lungs. It contracts (gets shorter) and flattens when you breathe in, making more space in the chest.",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "contracts",
+          "gets shorter"
+        ],
+        [
+          "flattens",
+          "becomes flat"
+        ]
+      ],
+      "reject": [
+        "relaxes",
+        "curves upwards",
+        "moves up"
+      ]
+    }
   },
   {
     "id": "organisms_008_multiple-choice",
@@ -491,11 +751,26 @@
     "question": "What happens to the ribs when you breathe in?",
     "answer": "They move up and out",
     "acceptedAnswers": [
-      "They move up and out"
+      "They move up and out",
+      "The ribs move upwards and outwards"
     ],
     "keywords": [],
     "explanation": "The muscles between the ribs are called intercostal muscles. They contract when you breathe in, moving the ribs up and out.",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "move up and out",
+          "move upwards and outwards",
+          "move outwards and upwards",
+          "move out and up"
+        ]
+      ],
+      "reject": [
+        "down",
+        "inwards"
+      ]
+    }
   },
   {
     "id": "organisms_008_spot-the-mistake",
@@ -521,11 +796,26 @@
     "question": "What happens to the ribs when you breathe in? Explain the idea in your own words.",
     "answer": "The muscles between the ribs are called intercostal muscles. They contract when you breathe in, moving the ribs up and out.",
     "acceptedAnswers": [
-      "The muscles between the ribs are called intercostal muscles. They contract when you breathe in, moving the ribs up and out."
+      "The muscles between the ribs are called intercostal muscles. They contract when you breathe in, moving the ribs up and out.",
+      "The ribs move upwards and outwards"
     ],
     "keywords": [],
     "explanation": "The muscles between the ribs are called intercostal muscles. They contract when you breathe in, moving the ribs up and out.",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "move up and out",
+          "move upwards and outwards",
+          "move outwards and upwards",
+          "move out and up"
+        ]
+      ],
+      "reject": [
+        "down",
+        "inwards"
+      ]
+    }
   },
   {
     "id": "organisms_009_multiple-choice",
@@ -557,11 +847,33 @@
     "question": "Why does air enter the lungs when you breathe in?",
     "answer": "The space inside the chest gets bigger, lowering the air pressure",
     "acceptedAnswers": [
-      "The space inside the chest gets bigger, lowering the air pressure"
+      "The space inside the chest gets bigger, lowering the air pressure",
+      "Chest volume increases so pressure decreases and air moves in"
     ],
     "keywords": [],
     "explanation": "When the space inside your chest gets bigger, the air pressure inside drops. Air moves from the higher pressure outside into the lungs.",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "chest gets bigger",
+          "space inside chest gets bigger",
+          "chest volume increases"
+        ],
+        [
+          "pressure drops",
+          "pressure decreases",
+          "lowering air pressure",
+          "air pressure inside drops"
+        ]
+      ],
+      "reject": [
+        "pressure increases",
+        "pressure rises",
+        "chest gets smaller",
+        "chest volume decreases"
+      ]
+    }
   },
   {
     "id": "organisms_009_spot-the-mistake",
@@ -587,11 +899,33 @@
     "question": "Why does air enter the lungs when you breathe in? Explain the idea in your own words.",
     "answer": "When the space inside your chest gets bigger, the air pressure inside drops. Air moves from the higher pressure outside into the lungs.",
     "acceptedAnswers": [
-      "When the space inside your chest gets bigger, the air pressure inside drops. Air moves from the higher pressure outside into the lungs."
+      "When the space inside your chest gets bigger, the air pressure inside drops. Air moves from the higher pressure outside into the lungs.",
+      "Chest volume increases so pressure decreases and air moves in"
     ],
     "keywords": [],
     "explanation": "When the space inside your chest gets bigger, the air pressure inside drops. Air moves from the higher pressure outside into the lungs.",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "chest gets bigger",
+          "space inside chest gets bigger",
+          "chest volume increases"
+        ],
+        [
+          "pressure drops",
+          "pressure decreases",
+          "lowering air pressure",
+          "air pressure inside drops"
+        ]
+      ],
+      "reject": [
+        "pressure increases",
+        "pressure rises",
+        "chest gets smaller",
+        "chest volume decreases"
+      ]
+    }
   },
   {
     "id": "organisms_010_multiple-choice",
@@ -623,11 +957,35 @@
     "question": "What happens in the chest when you breathe out normally?",
     "answer": "The muscles relax, the chest gets smaller and the air pressure rises",
     "acceptedAnswers": [
-      "The muscles relax, the chest gets smaller and the air pressure rises"
+      "The muscles relax, the chest gets smaller and the air pressure rises",
+      "Muscles relax, chest volume decreases and pressure increases"
     ],
     "keywords": [],
     "explanation": "When you breathe out normally, the diaphragm relaxes and curves upwards. The ribs move down and in. Less space and higher pressure push air out.",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "muscles relax",
+          "diaphragm relaxes"
+        ],
+        [
+          "chest gets smaller",
+          "chest volume decreases",
+          "less space"
+        ],
+        [
+          "pressure rises",
+          "pressure increases",
+          "higher pressure"
+        ]
+      ],
+      "reject": [
+        "pressure decreases",
+        "chest gets bigger",
+        "muscles contract"
+      ]
+    }
   },
   {
     "id": "organisms_010_spot-the-mistake",
@@ -653,11 +1011,35 @@
     "question": "What happens in the chest when you breathe out normally? Explain the idea in your own words.",
     "answer": "When you breathe out normally, the diaphragm relaxes and curves upwards. The ribs move down and in. Less space and higher pressure push air out.",
     "acceptedAnswers": [
-      "When you breathe out normally, the diaphragm relaxes and curves upwards. The ribs move down and in. Less space and higher pressure push air out."
+      "When you breathe out normally, the diaphragm relaxes and curves upwards. The ribs move down and in. Less space and higher pressure push air out.",
+      "Muscles relax, chest volume decreases and pressure increases"
     ],
     "keywords": [],
     "explanation": "When you breathe out normally, the diaphragm relaxes and curves upwards. The ribs move down and in. Less space and higher pressure push air out.",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "muscles relax",
+          "diaphragm relaxes"
+        ],
+        [
+          "chest gets smaller",
+          "chest volume decreases",
+          "less space"
+        ],
+        [
+          "pressure rises",
+          "pressure increases",
+          "higher pressure"
+        ]
+      ],
+      "reject": [
+        "pressure decreases",
+        "chest gets bigger",
+        "muscles contract"
+      ]
+    }
   },
   {
     "id": "organisms_011_multiple-choice",
@@ -689,7 +1071,8 @@
     "question": "In a bell-jar model, what represents the diaphragm?",
     "answer": "The rubber sheet at the bottom",
     "acceptedAnswers": [
-      "The rubber sheet at the bottom"
+      "The rubber sheet at the bottom",
+      "The rubber sheet underneath the jar"
     ],
     "keywords": [],
     "explanation": "The rubber sheet represents the diaphragm. The balloons represent the lungs, and the jar represents the chest.",
@@ -719,7 +1102,8 @@
     "question": "In a bell-jar model, what represents the diaphragm? Explain the idea in your own words.",
     "answer": "The rubber sheet represents the diaphragm. The balloons represent the lungs, and the jar represents the chest.",
     "acceptedAnswers": [
-      "The rubber sheet represents the diaphragm. The balloons represent the lungs, and the jar represents the chest."
+      "The rubber sheet represents the diaphragm. The balloons represent the lungs, and the jar represents the chest.",
+      "The rubber sheet underneath the jar"
     ],
     "keywords": [],
     "explanation": "The rubber sheet represents the diaphragm. The balloons represent the lungs, and the jar represents the chest.",
@@ -755,11 +1139,29 @@
     "question": "What happens when the bell-jar rubber sheet is pulled down?",
     "answer": "The balloons inflate as pressure inside the jar decreases",
     "acceptedAnswers": [
-      "The balloons inflate as pressure inside the jar decreases"
+      "The balloons inflate as pressure inside the jar decreases",
+      "Pressure in the jar falls and air enters the balloons, making them inflate"
     ],
     "keywords": [],
     "explanation": "Pulling the sheet down makes more space inside the jar and lowers the air pressure. Air moves in and the balloons inflate (fill with air).",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "balloons inflate",
+          "balloons fill with air"
+        ],
+        [
+          "pressure inside jar decreases",
+          "pressure in jar falls",
+          "lowers air pressure"
+        ]
+      ],
+      "reject": [
+        "pressure increases",
+        "balloons deflate"
+      ]
+    }
   },
   {
     "id": "organisms_012_spot-the-mistake",
@@ -785,11 +1187,29 @@
     "question": "What happens when the bell-jar rubber sheet is pulled down? Explain the idea in your own words.",
     "answer": "Pulling the sheet down makes more space inside the jar and lowers the air pressure. Air moves in and the balloons inflate (fill with air).",
     "acceptedAnswers": [
-      "Pulling the sheet down makes more space inside the jar and lowers the air pressure. Air moves in and the balloons inflate (fill with air)."
+      "Pulling the sheet down makes more space inside the jar and lowers the air pressure. Air moves in and the balloons inflate (fill with air).",
+      "Pressure in the jar falls and air enters the balloons, making them inflate"
     ],
     "keywords": [],
     "explanation": "Pulling the sheet down makes more space inside the jar and lowers the air pressure. Air moves in and the balloons inflate (fill with air).",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "balloons inflate",
+          "balloons fill with air"
+        ],
+        [
+          "pressure inside jar decreases",
+          "pressure in jar falls",
+          "lowers air pressure"
+        ]
+      ],
+      "reject": [
+        "pressure increases",
+        "balloons deflate"
+      ]
+    }
   },
   {
     "id": "organisms_013_multiple-choice",
@@ -821,7 +1241,9 @@
     "question": "What is a limitation of the bell-jar model?",
     "answer": "The rigid jar cannot show rib movement",
     "acceptedAnswers": [
-      "The rigid jar cannot show rib movement"
+      "The rigid jar cannot show rib movement",
+      "The glass jar is fixed so it cannot move like ribs",
+      "The jar does not show the ribs moving"
     ],
     "keywords": [],
     "explanation": "The hard glass jar cannot move like real ribs. The flat rubber sheet also differs from the curved muscle of the diaphragm.",
@@ -851,7 +1273,9 @@
     "question": "What is a limitation of the bell-jar model? Explain the idea in your own words.",
     "answer": "The hard glass jar cannot move like real ribs. The flat rubber sheet also differs from the curved muscle of the diaphragm.",
     "acceptedAnswers": [
-      "The hard glass jar cannot move like real ribs. The flat rubber sheet also differs from the curved muscle of the diaphragm."
+      "The hard glass jar cannot move like real ribs. The flat rubber sheet also differs from the curved muscle of the diaphragm.",
+      "The glass jar is fixed so it cannot move like ribs",
+      "The jar does not show the ribs moving"
     ],
     "keywords": [],
     "explanation": "The hard glass jar cannot move like real ribs. The flat rubber sheet also differs from the curved muscle of the diaphragm.",
@@ -887,11 +1311,29 @@
     "question": "Why do you breathe faster and deeper during exercise?",
     "answer": "Working muscles need more oxygen for respiration and make more carbon dioxide",
     "acceptedAnswers": [
-      "Working muscles need more oxygen for respiration and make more carbon dioxide"
+      "Working muscles need more oxygen for respiration and make more carbon dioxide",
+      "Muscles need extra oxygen for respiration and produce extra carbon dioxide"
     ],
     "keywords": [],
     "explanation": "During exercise, muscles need more energy from respiration. You breathe faster and deeper to take in more oxygen and remove more carbon dioxide.",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "muscles need more oxygen for respiration",
+          "muscles need extra oxygen for respiration",
+          "more energy from respiration"
+        ],
+        [
+          "more carbon dioxide",
+          "extra carbon dioxide"
+        ]
+      ],
+      "reject": [
+        "less oxygen",
+        "less carbon dioxide"
+      ]
+    }
   },
   {
     "id": "organisms_014_spot-the-mistake",
@@ -917,11 +1359,29 @@
     "question": "Why do you breathe faster and deeper during exercise? Explain the idea in your own words.",
     "answer": "During exercise, muscles need more energy from respiration. You breathe faster and deeper to take in more oxygen and remove more carbon dioxide.",
     "acceptedAnswers": [
-      "During exercise, muscles need more energy from respiration. You breathe faster and deeper to take in more oxygen and remove more carbon dioxide."
+      "During exercise, muscles need more energy from respiration. You breathe faster and deeper to take in more oxygen and remove more carbon dioxide.",
+      "Muscles need extra oxygen for respiration and produce extra carbon dioxide"
     ],
     "keywords": [],
     "explanation": "During exercise, muscles need more energy from respiration. You breathe faster and deeper to take in more oxygen and remove more carbon dioxide.",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "muscles need more oxygen for respiration",
+          "muscles need extra oxygen for respiration",
+          "more energy from respiration"
+        ],
+        [
+          "more carbon dioxide",
+          "extra carbon dioxide"
+        ]
+      ],
+      "reject": [
+        "less oxygen",
+        "less carbon dioxide"
+      ]
+    }
   },
   {
     "id": "organisms_015_multiple-choice",
@@ -953,11 +1413,30 @@
     "question": "How does asthma make breathing harder?",
     "answer": "The airways swell and become narrower",
     "acceptedAnswers": [
-      "The airways swell and become narrower"
+      "The airways swell and become narrower",
+      "The breathing tubes become swollen and narrow, making air flow harder"
     ],
     "keywords": [],
     "explanation": "Asthma can make the airways swell and become narrower. This makes it harder for air to move into and out of the lungs.",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "airways swell",
+          "airways swollen",
+          "breathing tubes become swollen"
+        ],
+        [
+          "become narrower",
+          "narrow airways",
+          "swollen and narrow"
+        ]
+      ],
+      "reject": [
+        "airways widen",
+        "airways become wider"
+      ]
+    }
   },
   {
     "id": "organisms_015_spot-the-mistake",
@@ -983,11 +1462,30 @@
     "question": "How does asthma make breathing harder? Explain the idea in your own words.",
     "answer": "Asthma can make the airways swell and become narrower. This makes it harder for air to move into and out of the lungs.",
     "acceptedAnswers": [
-      "Asthma can make the airways swell and become narrower. This makes it harder for air to move into and out of the lungs."
+      "Asthma can make the airways swell and become narrower. This makes it harder for air to move into and out of the lungs.",
+      "The breathing tubes become swollen and narrow, making air flow harder"
     ],
     "keywords": [],
     "explanation": "Asthma can make the airways swell and become narrower. This makes it harder for air to move into and out of the lungs.",
-    "hint": "Think about breathing."
+    "hint": "Think about breathing.",
+    "marking": {
+      "all": [
+        [
+          "airways swell",
+          "airways swollen",
+          "breathing tubes become swollen"
+        ],
+        [
+          "become narrower",
+          "narrow airways",
+          "swollen and narrow"
+        ]
+      ],
+      "reject": [
+        "airways widen",
+        "airways become wider"
+      ]
+    }
   },
   {
     "id": "organisms_016_multiple-choice",
@@ -1019,7 +1517,8 @@
     "question": "What is a drug?",
     "answer": "A chemical that affects how the body works",
     "acceptedAnswers": [
-      "A chemical that affects how the body works"
+      "A chemical that affects how the body works",
+      "A substance that changes how the body works"
     ],
     "keywords": [],
     "explanation": "A drug is a chemical that changes how the body works. Some drugs are medicines. Others are taken for enjoyment.",
@@ -1049,7 +1548,8 @@
     "question": "What is a drug? Explain the idea in your own words.",
     "answer": "A drug is a chemical that changes how the body works. Some drugs are medicines. Others are taken for enjoyment.",
     "acceptedAnswers": [
-      "A drug is a chemical that changes how the body works. Some drugs are medicines. Others are taken for enjoyment."
+      "A drug is a chemical that changes how the body works. Some drugs are medicines. Others are taken for enjoyment.",
+      "A substance that changes how the body works"
     ],
     "keywords": [],
     "explanation": "A drug is a chemical that changes how the body works. Some drugs are medicines. Others are taken for enjoyment.",
@@ -1085,7 +1585,8 @@
     "question": "How do medicinal and recreational drugs differ?",
     "answer": "Medicinal drugs treat health problems; recreational drugs are taken for enjoyment",
     "acceptedAnswers": [
-      "Medicinal drugs treat health problems; recreational drugs are taken for enjoyment"
+      "Medicinal drugs treat health problems; recreational drugs are taken for enjoyment",
+      "Medicines treat illness while recreational drugs are used for pleasure"
     ],
     "keywords": [],
     "explanation": "Medicinal drugs are used to treat health problems. Recreational drugs are taken for enjoyment. Medicines can also cause harm if used incorrectly.",
@@ -1115,7 +1616,8 @@
     "question": "How do medicinal and recreational drugs differ? Explain the idea in your own words.",
     "answer": "Medicinal drugs are used to treat health problems. Recreational drugs are taken for enjoyment. Medicines can also cause harm if used incorrectly.",
     "acceptedAnswers": [
-      "Medicinal drugs are used to treat health problems. Recreational drugs are taken for enjoyment. Medicines can also cause harm if used incorrectly."
+      "Medicinal drugs are used to treat health problems. Recreational drugs are taken for enjoyment. Medicines can also cause harm if used incorrectly.",
+      "Medicines treat illness while recreational drugs are used for pleasure"
     ],
     "keywords": [],
     "explanation": "Medicinal drugs are used to treat health problems. Recreational drugs are taken for enjoyment. Medicines can also cause harm if used incorrectly.",
@@ -1151,11 +1653,25 @@
     "question": "What does a stimulant do?",
     "answer": "Speeds up activity in the nervous system",
     "acceptedAnswers": [
-      "Speeds up activity in the nervous system"
+      "Speeds up activity in the nervous system",
+      "It makes the nervous system work faster"
     ],
     "keywords": [],
     "explanation": "Stimulants speed up activity in the nervous system, which carries messages around the body. They can make someone feel more alert. Caffeine and nicotine are examples.",
-    "hint": "Think about drugs."
+    "hint": "Think about drugs.",
+    "marking": {
+      "all": [
+        [
+          "speeds up activity in nervous system",
+          "nervous system work faster",
+          "increases nervous system activity"
+        ]
+      ],
+      "reject": [
+        "slows nervous system",
+        "slows down"
+      ]
+    }
   },
   {
     "id": "organisms_018_spot-the-mistake",
@@ -1181,11 +1697,25 @@
     "question": "What does a stimulant do? Explain the idea in your own words.",
     "answer": "Stimulants speed up activity in the nervous system, which carries messages around the body. They can make someone feel more alert. Caffeine and nicotine are examples.",
     "acceptedAnswers": [
-      "Stimulants speed up activity in the nervous system, which carries messages around the body. They can make someone feel more alert. Caffeine and nicotine are examples."
+      "Stimulants speed up activity in the nervous system, which carries messages around the body. They can make someone feel more alert. Caffeine and nicotine are examples.",
+      "It makes the nervous system work faster"
     ],
     "keywords": [],
     "explanation": "Stimulants speed up activity in the nervous system, which carries messages around the body. They can make someone feel more alert. Caffeine and nicotine are examples.",
-    "hint": "Think about drugs."
+    "hint": "Think about drugs.",
+    "marking": {
+      "all": [
+        [
+          "speeds up activity in nervous system",
+          "nervous system work faster",
+          "increases nervous system activity"
+        ]
+      ],
+      "reject": [
+        "slows nervous system",
+        "slows down"
+      ]
+    }
   },
   {
     "id": "organisms_019_multiple-choice",
@@ -1217,7 +1747,8 @@
     "question": "What are addiction and withdrawal?",
     "answer": "Feeling a need for a drug, with unpleasant symptoms when stopping it",
     "acceptedAnswers": [
-      "Feeling a need for a drug, with unpleasant symptoms when stopping it"
+      "Feeling a need for a drug, with unpleasant symptoms when stopping it",
+      "Addiction is needing to keep taking a drug; withdrawal is unpleasant symptoms when you stop"
     ],
     "keywords": [],
     "explanation": "Addiction means feeling a need to keep taking a drug. Withdrawal symptoms are unpleasant feelings that can happen when a person who depends on a drug stops taking it.",
@@ -1247,7 +1778,8 @@
     "question": "What are addiction and withdrawal? Explain the idea in your own words.",
     "answer": "Addiction means feeling a need to keep taking a drug. Withdrawal symptoms are unpleasant feelings that can happen when a person who depends on a drug stops taking it.",
     "acceptedAnswers": [
-      "Addiction means feeling a need to keep taking a drug. Withdrawal symptoms are unpleasant feelings that can happen when a person who depends on a drug stops taking it."
+      "Addiction means feeling a need to keep taking a drug. Withdrawal symptoms are unpleasant feelings that can happen when a person who depends on a drug stops taking it.",
+      "Addiction is needing to keep taking a drug; withdrawal is unpleasant symptoms when you stop"
     ],
     "keywords": [],
     "explanation": "Addiction means feeling a need to keep taking a drug. Withdrawal symptoms are unpleasant feelings that can happen when a person who depends on a drug stops taking it.",
@@ -1283,7 +1815,8 @@
     "question": "What kind of drug is ethanol?",
     "answer": "A depressant",
     "acceptedAnswers": [
-      "A depressant"
+      "A depressant",
+      "A depressant that slows the nervous system"
     ],
     "keywords": [],
     "explanation": "Ethanol is the alcohol in alcoholic drinks. It is a depressant: it slows activity in the nervous system, even if someone seems excited.",
@@ -1313,7 +1846,8 @@
     "question": "What kind of drug is ethanol? Explain the idea in your own words.",
     "answer": "Ethanol is the alcohol in alcoholic drinks. It is a depressant: it slows activity in the nervous system, even if someone seems excited.",
     "acceptedAnswers": [
-      "Ethanol is the alcohol in alcoholic drinks. It is a depressant: it slows activity in the nervous system, even if someone seems excited."
+      "Ethanol is the alcohol in alcoholic drinks. It is a depressant: it slows activity in the nervous system, even if someone seems excited.",
+      "A depressant that slows the nervous system"
     ],
     "keywords": [],
     "explanation": "Ethanol is the alcohol in alcoholic drinks. It is a depressant: it slows activity in the nervous system, even if someone seems excited.",
@@ -1349,11 +1883,30 @@
     "question": "How can alcohol affect behaviour?",
     "answer": "Slower reactions, poorer decisions and less control of body movements",
     "acceptedAnswers": [
-      "Slower reactions, poorer decisions and less control of body movements"
+      "Slower reactions, poorer decisions and less control of body movements",
+      "Alcohol slows reactions, makes judgement worse and reduces coordination"
     ],
     "keywords": [],
     "explanation": "Alcohol can slow reactions and make it harder to make good decisions or control body movements.",
-    "hint": "Think about alcohol."
+    "hint": "Think about alcohol.",
+    "marking": {
+      "all": [
+        [
+          "slower reactions",
+          "slows reactions"
+        ],
+        [
+          "poorer decisions",
+          "judgement worse",
+          "harder to make good decisions"
+        ],
+        [
+          "less control of body movements",
+          "reduces coordination",
+          "control body movements"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_021_spot-the-mistake",
@@ -1379,11 +1932,30 @@
     "question": "How can alcohol affect behaviour? Explain the idea in your own words.",
     "answer": "Alcohol can slow reactions and make it harder to make good decisions or control body movements.",
     "acceptedAnswers": [
-      "Alcohol can slow reactions and make it harder to make good decisions or control body movements."
+      "Alcohol can slow reactions and make it harder to make good decisions or control body movements.",
+      "Alcohol slows reactions, makes judgement worse and reduces coordination"
     ],
     "keywords": [],
     "explanation": "Alcohol can slow reactions and make it harder to make good decisions or control body movements.",
-    "hint": "Think about alcohol."
+    "hint": "Think about alcohol.",
+    "marking": {
+      "all": [
+        [
+          "slower reactions",
+          "slows reactions"
+        ],
+        [
+          "poorer decisions",
+          "judgement worse",
+          "harder to make good decisions"
+        ],
+        [
+          "less control of body movements",
+          "reduces coordination",
+          "control body movements"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_022_multiple-choice",
@@ -1415,7 +1987,8 @@
     "question": "What can long-term heavy drinking damage?",
     "answer": "The liver",
     "acceptedAnswers": [
-      "The liver"
+      "The liver",
+      "Heavy drinking over time can damage the liver"
     ],
     "keywords": [],
     "explanation": "The liver breaks down alcohol. Drinking a lot over a long time can damage the liver and can lead to addiction.",
@@ -1445,7 +2018,8 @@
     "question": "What can long-term heavy drinking damage? Explain the idea in your own words.",
     "answer": "The liver breaks down alcohol. Drinking a lot over a long time can damage the liver and can lead to addiction.",
     "acceptedAnswers": [
-      "The liver breaks down alcohol. Drinking a lot over a long time can damage the liver and can lead to addiction."
+      "The liver breaks down alcohol. Drinking a lot over a long time can damage the liver and can lead to addiction.",
+      "Heavy drinking over time can damage the liver"
     ],
     "keywords": [],
     "explanation": "The liver breaks down alcohol. Drinking a lot over a long time can damage the liver and can lead to addiction.",
@@ -1481,11 +2055,25 @@
     "question": "How can alcohol affect someone trying to have a baby or someone who is pregnant?",
     "answer": "It can reduce fertility and harm a developing baby",
     "acceptedAnswers": [
-      "It can reduce fertility and harm a developing baby"
+      "It can reduce fertility and harm a developing baby",
+      "Alcohol can make having a baby harder and damage a baby during pregnancy"
     ],
     "keywords": [],
     "explanation": "Fertility means being able to have a baby. Alcohol can reduce fertility. During pregnancy it can pass to the baby through the placenta and harm growth and brain development.",
-    "hint": "Think about alcohol."
+    "hint": "Think about alcohol.",
+    "marking": {
+      "all": [
+        [
+          "reduce fertility",
+          "make having a baby harder"
+        ],
+        [
+          "harm developing baby",
+          "damage baby during pregnancy",
+          "harm growth and brain development"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_023_spot-the-mistake",
@@ -1511,11 +2099,25 @@
     "question": "How can alcohol affect someone trying to have a baby or someone who is pregnant? Explain the idea in your own words.",
     "answer": "Fertility means being able to have a baby. Alcohol can reduce fertility. During pregnancy it can pass to the baby through the placenta and harm growth and brain development.",
     "acceptedAnswers": [
-      "Fertility means being able to have a baby. Alcohol can reduce fertility. During pregnancy it can pass to the baby through the placenta and harm growth and brain development."
+      "Fertility means being able to have a baby. Alcohol can reduce fertility. During pregnancy it can pass to the baby through the placenta and harm growth and brain development.",
+      "Alcohol can make having a baby harder and damage a baby during pregnancy"
     ],
     "keywords": [],
     "explanation": "Fertility means being able to have a baby. Alcohol can reduce fertility. During pregnancy it can pass to the baby through the placenta and harm growth and brain development.",
-    "hint": "Think about alcohol."
+    "hint": "Think about alcohol.",
+    "marking": {
+      "all": [
+        [
+          "reduce fertility",
+          "make having a baby harder"
+        ],
+        [
+          "harm developing baby",
+          "damage baby during pregnancy",
+          "harm growth and brain development"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_024_multiple-choice",
@@ -1547,7 +2149,8 @@
     "question": "Which substance in tobacco causes addiction?",
     "answer": "Nicotine",
     "acceptedAnswers": [
-      "Nicotine"
+      "Nicotine",
+      "Nicotine causes addiction"
     ],
     "keywords": [],
     "explanation": "Nicotine is the addictive substance in tobacco. It is also a stimulant, which speeds up activity in the nervous system.",
@@ -1577,7 +2180,8 @@
     "question": "Which substance in tobacco causes addiction? Explain the idea in your own words.",
     "answer": "Nicotine is the addictive substance in tobacco. It is also a stimulant, which speeds up activity in the nervous system.",
     "acceptedAnswers": [
-      "Nicotine is the addictive substance in tobacco. It is also a stimulant, which speeds up activity in the nervous system."
+      "Nicotine is the addictive substance in tobacco. It is also a stimulant, which speeds up activity in the nervous system.",
+      "Nicotine causes addiction"
     ],
     "keywords": [],
     "explanation": "Nicotine is the addictive substance in tobacco. It is also a stimulant, which speeds up activity in the nervous system.",
@@ -1613,11 +2217,31 @@
     "question": "How does tar damage the gas exchange system?",
     "answer": "Damages cilia and lungs and increases cancer risk",
     "acceptedAnswers": [
-      "Damages cilia and lungs and increases cancer risk"
+      "Damages cilia and lungs and increases cancer risk",
+      "Tar harms cilia and lung tissue and raises the risk of cancer"
     ],
     "keywords": [],
     "explanation": "Cilia are tiny hairs that help move mucus out of the airways. Tar damages them. Smoking can also damage the air sacs in the lungs and cause lung cancer.",
-    "hint": "Think about smoking."
+    "hint": "Think about smoking.",
+    "marking": {
+      "all": [
+        [
+          "damages cilia",
+          "harms cilia"
+        ],
+        [
+          "damages lungs",
+          "harms lung tissue",
+          "damage air sacs in lungs",
+          "cilia and lungs"
+        ],
+        [
+          "increases cancer risk",
+          "raises risk of cancer",
+          "cause lung cancer"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_025_spot-the-mistake",
@@ -1643,11 +2267,31 @@
     "question": "How does tar damage the gas exchange system? Explain the idea in your own words.",
     "answer": "Cilia are tiny hairs that help move mucus out of the airways. Tar damages them. Smoking can also damage the air sacs in the lungs and cause lung cancer.",
     "acceptedAnswers": [
-      "Cilia are tiny hairs that help move mucus out of the airways. Tar damages them. Smoking can also damage the air sacs in the lungs and cause lung cancer."
+      "Cilia are tiny hairs that help move mucus out of the airways. Tar damages them. Smoking can also damage the air sacs in the lungs and cause lung cancer.",
+      "Tar harms cilia and lung tissue and raises the risk of cancer"
     ],
     "keywords": [],
     "explanation": "Cilia are tiny hairs that help move mucus out of the airways. Tar damages them. Smoking can also damage the air sacs in the lungs and cause lung cancer.",
-    "hint": "Think about smoking."
+    "hint": "Think about smoking.",
+    "marking": {
+      "all": [
+        [
+          "damages cilia",
+          "harms cilia"
+        ],
+        [
+          "damages lungs",
+          "harms lung tissue",
+          "damage air sacs in lungs",
+          "cilia and lungs"
+        ],
+        [
+          "increases cancer risk",
+          "raises risk of cancer",
+          "cause lung cancer"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_026_multiple-choice",
@@ -1679,11 +2323,26 @@
     "question": "Why is carbon monoxide in smoke harmful?",
     "answer": "It reduces the oxygen that blood can carry",
     "acceptedAnswers": [
-      "It reduces the oxygen that blood can carry"
+      "It reduces the oxygen that blood can carry",
+      "Carbon monoxide means the blood carries less oxygen"
     ],
     "keywords": [],
     "explanation": "Haemoglobin in red blood cells normally carries oxygen. Carbon monoxide attaches to it, so the blood carries less oxygen to the body's cells.",
-    "hint": "Think about smoking."
+    "hint": "Think about smoking.",
+    "marking": {
+      "all": [
+        [
+          "reduces oxygen that blood can carry",
+          "blood carries less oxygen",
+          "blood carries less oxygen to body",
+          "less oxygen reaches cells"
+        ]
+      ],
+      "reject": [
+        "blood carries more oxygen",
+        "increases oxygen"
+      ]
+    }
   },
   {
     "id": "organisms_026_spot-the-mistake",
@@ -1709,11 +2368,26 @@
     "question": "Why is carbon monoxide in smoke harmful? Explain the idea in your own words.",
     "answer": "Haemoglobin in red blood cells normally carries oxygen. Carbon monoxide attaches to it, so the blood carries less oxygen to the body's cells.",
     "acceptedAnswers": [
-      "Haemoglobin in red blood cells normally carries oxygen. Carbon monoxide attaches to it, so the blood carries less oxygen to the body's cells."
+      "Haemoglobin in red blood cells normally carries oxygen. Carbon monoxide attaches to it, so the blood carries less oxygen to the body's cells.",
+      "Carbon monoxide means the blood carries less oxygen"
     ],
     "keywords": [],
     "explanation": "Haemoglobin in red blood cells normally carries oxygen. Carbon monoxide attaches to it, so the blood carries less oxygen to the body's cells.",
-    "hint": "Think about smoking."
+    "hint": "Think about smoking.",
+    "marking": {
+      "all": [
+        [
+          "reduces oxygen that blood can carry",
+          "blood carries less oxygen",
+          "blood carries less oxygen to body",
+          "less oxygen reaches cells"
+        ]
+      ],
+      "reject": [
+        "blood carries more oxygen",
+        "increases oxygen"
+      ]
+    }
   },
   {
     "id": "organisms_027_multiple-choice",
@@ -1745,7 +2419,8 @@
     "question": "What is passive smoking?",
     "answer": "Breathing in someone else's tobacco smoke",
     "acceptedAnswers": [
-      "Breathing in someone else's tobacco smoke"
+      "Breathing in someone else's tobacco smoke",
+      "Inhaling tobacco smoke from other people"
     ],
     "keywords": [],
     "explanation": "Passive smoking means breathing in someone else's tobacco smoke. That smoke contains harmful substances and can damage health.",
@@ -1775,7 +2450,8 @@
     "question": "What is passive smoking? Explain the idea in your own words.",
     "answer": "Passive smoking means breathing in someone else's tobacco smoke. That smoke contains harmful substances and can damage health.",
     "acceptedAnswers": [
-      "Passive smoking means breathing in someone else's tobacco smoke. That smoke contains harmful substances and can damage health."
+      "Passive smoking means breathing in someone else's tobacco smoke. That smoke contains harmful substances and can damage health.",
+      "Inhaling tobacco smoke from other people"
     ],
     "keywords": [],
     "explanation": "Passive smoking means breathing in someone else's tobacco smoke. That smoke contains harmful substances and can damage health.",
@@ -1811,7 +2487,8 @@
     "question": "What is the main role of carbohydrates?",
     "answer": "Provide energy",
     "acceptedAnswers": [
-      "Provide energy"
+      "Provide energy",
+      "They supply energy"
     ],
     "keywords": [],
     "explanation": "Carbohydrates, including sugars and starch, are the body's main food source of energy.",
@@ -1841,7 +2518,8 @@
     "question": "What is the main role of carbohydrates? Explain the idea in your own words.",
     "answer": "Carbohydrates, including sugars and starch, are the body's main food source of energy.",
     "acceptedAnswers": [
-      "Carbohydrates, including sugars and starch, are the body's main food source of energy."
+      "Carbohydrates, including sugars and starch, are the body's main food source of energy.",
+      "They supply energy"
     ],
     "keywords": [],
     "explanation": "Carbohydrates, including sugars and starch, are the body's main food source of energy.",
@@ -1877,11 +2555,21 @@
     "question": "What is the main role of protein?",
     "answer": "Growth and repair of cells and tissues",
     "acceptedAnswers": [
-      "Growth and repair of cells and tissues"
+      "Growth and repair of cells and tissues",
+      "Protein builds and repairs cells and tissues"
     ],
     "keywords": [],
     "explanation": "Protein helps build and repair cells and tissues. Meat, eggs, beans and dairy products contain protein.",
-    "hint": "Think about nutrients."
+    "hint": "Think about nutrients.",
+    "marking": {
+      "all": [
+        [
+          "growth and repair of cells and tissues",
+          "builds and repairs cells and tissues",
+          "build and repair cells and tissues"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_029_spot-the-mistake",
@@ -1907,11 +2595,21 @@
     "question": "What is the main role of protein? Explain the idea in your own words.",
     "answer": "Protein helps build and repair cells and tissues. Meat, eggs, beans and dairy products contain protein.",
     "acceptedAnswers": [
-      "Protein helps build and repair cells and tissues. Meat, eggs, beans and dairy products contain protein."
+      "Protein helps build and repair cells and tissues. Meat, eggs, beans and dairy products contain protein.",
+      "Protein builds and repairs cells and tissues"
     ],
     "keywords": [],
     "explanation": "Protein helps build and repair cells and tissues. Meat, eggs, beans and dairy products contain protein.",
-    "hint": "Think about nutrients."
+    "hint": "Think about nutrients.",
+    "marking": {
+      "all": [
+        [
+          "growth and repair of cells and tissues",
+          "builds and repairs cells and tissues",
+          "build and repair cells and tissues"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_030_multiple-choice",
@@ -1943,11 +2641,25 @@
     "question": "What do lipids provide?",
     "answer": "An energy store and insulation to help keep the body warm",
     "acceptedAnswers": [
-      "An energy store and insulation to help keep the body warm"
+      "An energy store and insulation to help keep the body warm",
+      "Fats store energy and reduce heat loss"
     ],
     "keywords": [],
     "explanation": "Lipids are fats and oils. They store energy and help keep the body warm by reducing heat loss.",
-    "hint": "Think about nutrients."
+    "hint": "Think about nutrients.",
+    "marking": {
+      "all": [
+        [
+          "energy store",
+          "store energy"
+        ],
+        [
+          "insulation",
+          "keep body warm",
+          "reduce heat loss"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_030_spot-the-mistake",
@@ -1973,11 +2685,25 @@
     "question": "What do lipids provide? Explain the idea in your own words.",
     "answer": "Lipids are fats and oils. They store energy and help keep the body warm by reducing heat loss.",
     "acceptedAnswers": [
-      "Lipids are fats and oils. They store energy and help keep the body warm by reducing heat loss."
+      "Lipids are fats and oils. They store energy and help keep the body warm by reducing heat loss.",
+      "Fats store energy and reduce heat loss"
     ],
     "keywords": [],
     "explanation": "Lipids are fats and oils. They store energy and help keep the body warm by reducing heat loss.",
-    "hint": "Think about nutrients."
+    "hint": "Think about nutrients.",
+    "marking": {
+      "all": [
+        [
+          "energy store",
+          "store energy"
+        ],
+        [
+          "insulation",
+          "keep body warm",
+          "reduce heat loss"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_031_multiple-choice",
@@ -2009,7 +2735,8 @@
     "question": "Why are vitamins and minerals needed?",
     "answer": "Small amounts help keep the body healthy",
     "acceptedAnswers": [
-      "Small amounts help keep the body healthy"
+      "Small amounts help keep the body healthy",
+      "We need a little of each to stay healthy"
     ],
     "keywords": [],
     "explanation": "You need small amounts of vitamins and minerals to stay healthy. Eating different types of food helps you get them.",
@@ -2039,7 +2766,8 @@
     "question": "Why are vitamins and minerals needed? Explain the idea in your own words.",
     "answer": "You need small amounts of vitamins and minerals to stay healthy. Eating different types of food helps you get them.",
     "acceptedAnswers": [
-      "You need small amounts of vitamins and minerals to stay healthy. Eating different types of food helps you get them."
+      "You need small amounts of vitamins and minerals to stay healthy. Eating different types of food helps you get them.",
+      "We need a little of each to stay healthy"
     ],
     "keywords": [],
     "explanation": "You need small amounts of vitamins and minerals to stay healthy. Eating different types of food helps you get them.",
@@ -2075,11 +2803,25 @@
     "question": "What does dietary fibre do?",
     "answer": "Adds bulk and helps waste move through the gut",
     "acceptedAnswers": [
-      "Adds bulk and helps waste move through the gut"
+      "Adds bulk and helps waste move through the gut",
+      "Fibre adds bulk to food waste and helps it move along the intestines"
     ],
     "keywords": [],
     "explanation": "Fibre is plant material that your body cannot fully digest. It adds bulk and helps waste move through the gut, reducing constipation (difficulty passing poo).",
-    "hint": "Think about nutrients."
+    "hint": "Think about nutrients.",
+    "marking": {
+      "all": [
+        [
+          "adds bulk",
+          "adds bulk to food waste"
+        ],
+        [
+          "helps waste move through gut",
+          "helps move along intestines",
+          "helps waste move through intestines"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_032_spot-the-mistake",
@@ -2105,11 +2847,25 @@
     "question": "What does dietary fibre do? Explain the idea in your own words.",
     "answer": "Fibre is plant material that your body cannot fully digest. It adds bulk and helps waste move through the gut, reducing constipation (difficulty passing poo).",
     "acceptedAnswers": [
-      "Fibre is plant material that your body cannot fully digest. It adds bulk and helps waste move through the gut, reducing constipation (difficulty passing poo)."
+      "Fibre is plant material that your body cannot fully digest. It adds bulk and helps waste move through the gut, reducing constipation (difficulty passing poo).",
+      "Fibre adds bulk to food waste and helps it move along the intestines"
     ],
     "keywords": [],
     "explanation": "Fibre is plant material that your body cannot fully digest. It adds bulk and helps waste move through the gut, reducing constipation (difficulty passing poo).",
-    "hint": "Think about nutrients."
+    "hint": "Think about nutrients.",
+    "marking": {
+      "all": [
+        [
+          "adds bulk",
+          "adds bulk to food waste"
+        ],
+        [
+          "helps waste move through gut",
+          "helps move along intestines",
+          "helps waste move through intestines"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_033_multiple-choice",
@@ -2141,7 +2897,8 @@
     "question": "Why does the body need water?",
     "answer": "For cells, body fluids and chemical reactions",
     "acceptedAnswers": [
-      "For cells, body fluids and chemical reactions"
+      "For cells, body fluids and chemical reactions",
+      "Water is needed for cells, body fluids and reactions"
     ],
     "keywords": [],
     "explanation": "Water is needed in cells and body fluids. It helps carry substances around the body and allows many chemical reactions to happen.",
@@ -2171,7 +2928,8 @@
     "question": "Why does the body need water? Explain the idea in your own words.",
     "answer": "Water is needed in cells and body fluids. It helps carry substances around the body and allows many chemical reactions to happen.",
     "acceptedAnswers": [
-      "Water is needed in cells and body fluids. It helps carry substances around the body and allows many chemical reactions to happen."
+      "Water is needed in cells and body fluids. It helps carry substances around the body and allows many chemical reactions to happen.",
+      "Water is needed for cells, body fluids and reactions"
     ],
     "keywords": [],
     "explanation": "Water is needed in cells and body fluids. It helps carry substances around the body and allows many chemical reactions to happen.",
@@ -2207,7 +2965,8 @@
     "question": "What does a balanced diet mean?",
     "answer": "The right amounts of different nutrients for a person's needs",
     "acceptedAnswers": [
-      "The right amounts of different nutrients for a person's needs"
+      "The right amounts of different nutrients for a person's needs",
+      "Eating suitable amounts of all the nutrients your body needs"
     ],
     "keywords": [],
     "explanation": "A balanced diet gives you the right amounts of carbohydrates, fats, protein, vitamins, minerals, water and fibre for your needs.",
@@ -2237,7 +2996,8 @@
     "question": "What does a balanced diet mean? Explain the idea in your own words.",
     "answer": "A balanced diet gives you the right amounts of carbohydrates, fats, protein, vitamins, minerals, water and fibre for your needs.",
     "acceptedAnswers": [
-      "A balanced diet gives you the right amounts of carbohydrates, fats, protein, vitamins, minerals, water and fibre for your needs."
+      "A balanced diet gives you the right amounts of carbohydrates, fats, protein, vitamins, minerals, water and fibre for your needs.",
+      "Eating suitable amounts of all the nutrients your body needs"
     ],
     "keywords": [],
     "explanation": "A balanced diet gives you the right amounts of carbohydrates, fats, protein, vitamins, minerals, water and fibre for your needs.",
@@ -2273,7 +3033,8 @@
     "question": "Two equal-sized snacks contain 3 g and 9 g of protein. Which supplies more protein?",
     "answer": "The snack with 9 g",
     "acceptedAnswers": [
-      "The snack with 9 g"
+      "The snack with 9 g",
+      "9 g of protein"
     ],
     "keywords": [],
     "explanation": "Compare the same serving size, or the amounts per 100 g. For equal servings, 9 g of protein is more than 3 g.",
@@ -2303,7 +3064,8 @@
     "question": "Two equal-sized snacks contain 3 g and 9 g of protein. Which supplies more protein? Explain the idea in your own words.",
     "answer": "Compare the same serving size, or the amounts per 100 g. For equal servings, 9 g of protein is more than 3 g.",
     "acceptedAnswers": [
-      "Compare the same serving size, or the amounts per 100 g. For equal servings, 9 g of protein is more than 3 g."
+      "Compare the same serving size, or the amounts per 100 g. For equal servings, 9 g of protein is more than 3 g.",
+      "For equal servings, 9 g is more protein than 3 g"
     ],
     "keywords": [],
     "explanation": "Compare the same serving size, or the amounts per 100 g. For equal servings, 9 g of protein is more than 3 g.",
@@ -2339,11 +3101,23 @@
     "question": "What colour shows starch is present when you use iodine solution?",
     "answer": "Orange-brown turns blue-black",
     "acceptedAnswers": [
-      "Orange-brown turns blue-black"
+      "Orange-brown turns blue-black",
+      "Blue-black"
     ],
     "keywords": [],
     "explanation": "Add iodine solution to the food. A blue-black colour shows starch is present. Without starch, the iodine stays orange-brown.",
-    "hint": "Think about food tests."
+    "hint": "Think about food tests.",
+    "marking": {
+      "all": [
+        [
+          "Blue-black"
+        ]
+      ],
+      "reject": [
+        "purple",
+        "stays orange brown"
+      ]
+    }
   },
   {
     "id": "organisms_036_spot-the-mistake",
@@ -2369,11 +3143,23 @@
     "question": "What colour shows starch is present when you use iodine solution? Explain the idea in your own words.",
     "answer": "Add iodine solution to the food. A blue-black colour shows starch is present. Without starch, the iodine stays orange-brown.",
     "acceptedAnswers": [
-      "Add iodine solution to the food. A blue-black colour shows starch is present. Without starch, the iodine stays orange-brown."
+      "Add iodine solution to the food. A blue-black colour shows starch is present. Without starch, the iodine stays orange-brown.",
+      "Blue-black"
     ],
     "keywords": [],
     "explanation": "Add iodine solution to the food. A blue-black colour shows starch is present. Without starch, the iodine stays orange-brown.",
-    "hint": "Think about food tests."
+    "hint": "Think about food tests.",
+    "marking": {
+      "all": [
+        [
+          "Blue-black"
+        ]
+      ],
+      "reject": [
+        "purple",
+        "stays orange brown"
+      ]
+    }
   },
   {
     "id": "organisms_037_multiple-choice",
@@ -2405,11 +3191,30 @@
     "question": "How do you test for reducing sugars?",
     "answer": "Add Benedict's solution and heat in a hot water bath",
     "acceptedAnswers": [
-      "Add Benedict's solution and heat in a hot water bath"
+      "Add Benedict's solution and heat in a hot water bath",
+      "Mix the food with Benedicts solution and warm it in a hot water bath"
     ],
     "keywords": [],
     "explanation": "Add Benedict's solution and heat the sample in a hot water bath. Reducing sugars, such as glucose, change the blue solution to green, yellow, orange or brick-red.",
-    "hint": "Think about food tests."
+    "hint": "Think about food tests.",
+    "marking": {
+      "all": [
+        [
+          "add benedicts solution",
+          "mix food with benedicts solution"
+        ],
+        [
+          "heat in hot water bath",
+          "warm in hot water bath",
+          "heat sample in hot water bath"
+        ]
+      ],
+      "reject": [
+        "iodine",
+        "biuret",
+        "cold water"
+      ]
+    }
   },
   {
     "id": "organisms_037_spot-the-mistake",
@@ -2435,11 +3240,30 @@
     "question": "How do you test for reducing sugars? Explain the idea in your own words.",
     "answer": "Add Benedict's solution and heat the sample in a hot water bath. Reducing sugars, such as glucose, change the blue solution to green, yellow, orange or brick-red.",
     "acceptedAnswers": [
-      "Add Benedict's solution and heat the sample in a hot water bath. Reducing sugars, such as glucose, change the blue solution to green, yellow, orange or brick-red."
+      "Add Benedict's solution and heat the sample in a hot water bath. Reducing sugars, such as glucose, change the blue solution to green, yellow, orange or brick-red.",
+      "Mix the food with Benedicts solution and warm it in a hot water bath"
     ],
     "keywords": [],
     "explanation": "Add Benedict's solution and heat the sample in a hot water bath. Reducing sugars, such as glucose, change the blue solution to green, yellow, orange or brick-red.",
-    "hint": "Think about food tests."
+    "hint": "Think about food tests.",
+    "marking": {
+      "all": [
+        [
+          "add benedicts solution",
+          "mix food with benedicts solution"
+        ],
+        [
+          "heat in hot water bath",
+          "warm in hot water bath",
+          "heat sample in hot water bath"
+        ]
+      ],
+      "reject": [
+        "iodine",
+        "biuret",
+        "cold water"
+      ]
+    }
   },
   {
     "id": "organisms_038_multiple-choice",
@@ -2471,11 +3295,30 @@
     "question": "What colour change shows sugar is present in a heated Benedict's test?",
     "answer": "Blue changes to green, yellow, orange or brick-red after heating",
     "acceptedAnswers": [
-      "Blue changes to green, yellow, orange or brick-red after heating"
+      "Blue changes to green, yellow, orange or brick-red after heating",
+      "Blue turns brick-red",
+      "Blue turns orange",
+      "Blue turns yellow",
+      "Blue turns green"
     ],
     "keywords": [],
     "explanation": "A positive result means the substance being tested is present. After heating, green, yellow, orange or brick-red shows reducing sugars. If the solution stays blue, the result is negative.",
-    "hint": "Think about food tests."
+    "hint": "Think about food tests.",
+    "marking": {
+      "all": [
+        [
+          "Blue turns brick-red",
+          "Blue turns orange",
+          "Blue turns yellow",
+          "Blue turns green"
+        ]
+      ],
+      "reject": [
+        "stays blue",
+        "blue black",
+        "purple"
+      ]
+    }
   },
   {
     "id": "organisms_038_spot-the-mistake",
@@ -2501,11 +3344,30 @@
     "question": "What colour change shows sugar is present in a heated Benedict's test? Explain the idea in your own words.",
     "answer": "A positive result means the substance being tested is present. After heating, green, yellow, orange or brick-red shows reducing sugars. If the solution stays blue, the result is negative.",
     "acceptedAnswers": [
-      "A positive result means the substance being tested is present. After heating, green, yellow, orange or brick-red shows reducing sugars. If the solution stays blue, the result is negative."
+      "A positive result means the substance being tested is present. After heating, green, yellow, orange or brick-red shows reducing sugars. If the solution stays blue, the result is negative.",
+      "Blue turns brick-red",
+      "Blue turns orange",
+      "Blue turns yellow",
+      "Blue turns green"
     ],
     "keywords": [],
     "explanation": "A positive result means the substance being tested is present. After heating, green, yellow, orange or brick-red shows reducing sugars. If the solution stays blue, the result is negative.",
-    "hint": "Think about food tests."
+    "hint": "Think about food tests.",
+    "marking": {
+      "all": [
+        [
+          "Blue turns brick-red",
+          "Blue turns orange",
+          "Blue turns yellow",
+          "Blue turns green"
+        ]
+      ],
+      "reject": [
+        "stays blue",
+        "blue black",
+        "purple"
+      ]
+    }
   },
   {
     "id": "organisms_039_multiple-choice",
@@ -2537,11 +3399,25 @@
     "question": "What colour change shows protein is present in the Biuret test?",
     "answer": "Blue turns lilac or purple",
     "acceptedAnswers": [
-      "Blue turns lilac or purple"
+      "Blue turns lilac or purple",
+      "Blue turns purple",
+      "Blue turns lilac"
     ],
     "keywords": [],
     "explanation": "Add Biuret reagent (the protein-test solution). A change from blue to lilac or purple shows protein is present.",
-    "hint": "Think about food tests."
+    "hint": "Think about food tests.",
+    "marking": {
+      "all": [
+        [
+          "Blue turns purple",
+          "Blue turns lilac"
+        ]
+      ],
+      "reject": [
+        "blue black",
+        "stays blue"
+      ]
+    }
   },
   {
     "id": "organisms_039_spot-the-mistake",
@@ -2567,11 +3443,25 @@
     "question": "What colour change shows protein is present in the Biuret test? Explain the idea in your own words.",
     "answer": "Add Biuret reagent (the protein-test solution). A change from blue to lilac or purple shows protein is present.",
     "acceptedAnswers": [
-      "Add Biuret reagent (the protein-test solution). A change from blue to lilac or purple shows protein is present."
+      "Add Biuret reagent (the protein-test solution). A change from blue to lilac or purple shows protein is present.",
+      "Blue turns purple",
+      "Blue turns lilac"
     ],
     "keywords": [],
     "explanation": "Add Biuret reagent (the protein-test solution). A change from blue to lilac or purple shows protein is present.",
-    "hint": "Think about food tests."
+    "hint": "Think about food tests.",
+    "marking": {
+      "all": [
+        [
+          "Blue turns purple",
+          "Blue turns lilac"
+        ]
+      ],
+      "reject": [
+        "blue black",
+        "stays blue"
+      ]
+    }
   },
   {
     "id": "organisms_040_multiple-choice",
@@ -2603,11 +3493,23 @@
     "question": "What result shows lipids (fats and oils) in the ethanol emulsion test?",
     "answer": "A cloudy white mixture (emulsion) after adding water",
     "acceptedAnswers": [
-      "A cloudy white mixture (emulsion) after adding water"
+      "A cloudy white mixture (emulsion) after adding water",
+      "A white cloudy emulsion"
     ],
     "keywords": [],
     "explanation": "Shake the food sample with ethanol, then add water. A cloudy white mixture, called an emulsion, shows lipids. Ethanol catches fire easily, so do this only in a supervised lesson.",
-    "hint": "Think about food tests."
+    "hint": "Think about food tests.",
+    "marking": {
+      "all": [
+        [
+          "A white cloudy emulsion"
+        ]
+      ],
+      "reject": [
+        "clear mixture",
+        "blue black"
+      ]
+    }
   },
   {
     "id": "organisms_040_spot-the-mistake",
@@ -2633,11 +3535,23 @@
     "question": "What result shows lipids (fats and oils) in the ethanol emulsion test? Explain the idea in your own words.",
     "answer": "Shake the food sample with ethanol, then add water. A cloudy white mixture, called an emulsion, shows lipids. Ethanol catches fire easily, so do this only in a supervised lesson.",
     "acceptedAnswers": [
-      "Shake the food sample with ethanol, then add water. A cloudy white mixture, called an emulsion, shows lipids. Ethanol catches fire easily, so do this only in a supervised lesson."
+      "Shake the food sample with ethanol, then add water. A cloudy white mixture, called an emulsion, shows lipids. Ethanol catches fire easily, so do this only in a supervised lesson.",
+      "A white cloudy emulsion"
     ],
     "keywords": [],
     "explanation": "Shake the food sample with ethanol, then add water. A cloudy white mixture, called an emulsion, shows lipids. Ethanol catches fire easily, so do this only in a supervised lesson.",
-    "hint": "Think about food tests."
+    "hint": "Think about food tests.",
+    "marking": {
+      "all": [
+        [
+          "A white cloudy emulsion"
+        ]
+      ],
+      "reject": [
+        "clear mixture",
+        "blue black"
+      ]
+    }
   },
   {
     "id": "organisms_041_multiple-choice",
@@ -2669,7 +3583,8 @@
     "question": "What does malnourishment mean?",
     "answer": "Getting the wrong amounts or types of nutrients",
     "acceptedAnswers": [
-      "Getting the wrong amounts or types of nutrients"
+      "Getting the wrong amounts or types of nutrients",
+      "Having too much or too little of the nutrients you need"
     ],
     "keywords": [],
     "explanation": "Malnourishment means getting too little or too much of some nutrients. A person can be overweight and still lack nutrients they need.",
@@ -2699,7 +3614,8 @@
     "question": "What does malnourishment mean? Explain the idea in your own words.",
     "answer": "Malnourishment means getting too little or too much of some nutrients. A person can be overweight and still lack nutrients they need.",
     "acceptedAnswers": [
-      "Malnourishment means getting too little or too much of some nutrients. A person can be overweight and still lack nutrients they need."
+      "Malnourishment means getting too little or too much of some nutrients. A person can be overweight and still lack nutrients they need.",
+      "Having too much or too little of the nutrients you need"
     ],
     "keywords": [],
     "explanation": "Malnourishment means getting too little or too much of some nutrients. A person can be overweight and still lack nutrients they need.",
@@ -2735,7 +3651,8 @@
     "question": "What can happen if you regularly get more energy from food than you use?",
     "answer": "Extra energy can be stored and body mass can increase",
     "acceptedAnswers": [
-      "Extra energy can be stored and body mass can increase"
+      "Extra energy can be stored and body mass can increase",
+      "Unused energy is stored, which can cause weight gain"
     ],
     "keywords": [],
     "explanation": "If you regularly get more energy from food than you use, the extra energy can be stored and your body mass can increase.",
@@ -2765,7 +3682,8 @@
     "question": "What can happen if you regularly get more energy from food than you use? Explain the idea in your own words.",
     "answer": "If you regularly get more energy from food than you use, the extra energy can be stored and your body mass can increase.",
     "acceptedAnswers": [
-      "If you regularly get more energy from food than you use, the extra energy can be stored and your body mass can increase."
+      "If you regularly get more energy from food than you use, the extra energy can be stored and your body mass can increase.",
+      "Unused energy is stored, which can cause weight gain"
     ],
     "keywords": [],
     "explanation": "If you regularly get more energy from food than you use, the extra energy can be stored and your body mass can increase.",
@@ -2801,7 +3719,8 @@
     "question": "Who generally needs more energy: an active teenager or an inactive adult of similar size?",
     "answer": "The active teenager",
     "acceptedAnswers": [
-      "The active teenager"
+      "The active teenager",
+      "The active teenager needs more energy for movement and growth"
     ],
     "keywords": [],
     "explanation": "People need different amounts of energy depending on their activity, size and growth. An active, growing teenager usually needs more than an inactive adult of similar size.",
@@ -2831,7 +3750,8 @@
     "question": "Who generally needs more energy: an active teenager or an inactive adult of similar size? Explain the idea in your own words.",
     "answer": "People need different amounts of energy depending on their activity, size and growth. An active, growing teenager usually needs more than an inactive adult of similar size.",
     "acceptedAnswers": [
-      "People need different amounts of energy depending on their activity, size and growth. An active, growing teenager usually needs more than an inactive adult of similar size."
+      "People need different amounts of energy depending on their activity, size and growth. An active, growing teenager usually needs more than an inactive adult of similar size.",
+      "The active teenager needs more energy for movement and growth"
     ],
     "keywords": [],
     "explanation": "People need different amounts of energy depending on their activity, size and growth. An active, growing teenager usually needs more than an inactive adult of similar size.",
@@ -2867,7 +3787,8 @@
     "question": "A person needs 8500 kJ but eats 9200 kJ. How much extra energy have they eaten?",
     "answer": "700 kJ",
     "acceptedAnswers": [
-      "700 kJ"
+      "700 kJ",
+      "700 kilojoules"
     ],
     "keywords": [],
     "explanation": "An energy surplus is extra energy. Subtract the energy needed from the energy eaten: 9200 \u2212 8500 = 700 kJ. kJ means kilojoules, a unit of energy.",
@@ -2897,7 +3818,8 @@
     "question": "A person needs 8500 kJ but eats 9200 kJ. How much extra energy have they eaten? Explain the idea in your own words.",
     "answer": "An energy surplus is extra energy. Subtract the energy needed from the energy eaten: 9200 \u2212 8500 = 700 kJ. kJ means kilojoules, a unit of energy.",
     "acceptedAnswers": [
-      "An energy surplus is extra energy. Subtract the energy needed from the energy eaten: 9200 \u2212 8500 = 700 kJ. kJ means kilojoules, a unit of energy."
+      "An energy surplus is extra energy. Subtract the energy needed from the energy eaten: 9200 \u2212 8500 = 700 kJ. kJ means kilojoules, a unit of energy.",
+      "9200 minus 8500 equals 700 kJ"
     ],
     "keywords": [],
     "explanation": "An energy surplus is extra energy. Subtract the energy needed from the energy eaten: 9200 \u2212 8500 = 700 kJ. kJ means kilojoules, a unit of energy.",
@@ -2933,7 +3855,8 @@
     "question": "Activities need 6000 kJ and growth needs 1500 kJ. How much energy is needed altogether?",
     "answer": "7500 kJ",
     "acceptedAnswers": [
-      "7500 kJ"
+      "7500 kJ",
+      "7500 kilojoules"
     ],
     "keywords": [],
     "explanation": "Add the energy needed for activities and growth: 6000 + 1500 = 7500 kJ. kJ means kilojoules, a unit of energy.",
@@ -2963,7 +3886,8 @@
     "question": "Activities need 6000 kJ and growth needs 1500 kJ. How much energy is needed altogether? Explain the idea in your own words.",
     "answer": "Add the energy needed for activities and growth: 6000 + 1500 = 7500 kJ. kJ means kilojoules, a unit of energy.",
     "acceptedAnswers": [
-      "Add the energy needed for activities and growth: 6000 + 1500 = 7500 kJ. kJ means kilojoules, a unit of energy."
+      "Add the energy needed for activities and growth: 6000 + 1500 = 7500 kJ. kJ means kilojoules, a unit of energy.",
+      "6000 plus 1500 equals 7500 kJ"
     ],
     "keywords": [],
     "explanation": "Add the energy needed for activities and growth: 6000 + 1500 = 7500 kJ. kJ means kilojoules, a unit of energy.",
@@ -2999,7 +3923,8 @@
     "question": "What can a lack of iron cause?",
     "answer": "Anaemia and tiredness",
     "acceptedAnswers": [
-      "Anaemia and tiredness"
+      "Anaemia and tiredness",
+      "Iron deficiency can cause anaemia and fatigue"
     ],
     "keywords": [],
     "explanation": "Iron helps the body make haemoglobin, which carries oxygen in the blood. Too little iron can cause anaemia, so less oxygen reaches cells and a person may feel tired.",
@@ -3029,7 +3954,8 @@
     "question": "What can a lack of iron cause? Explain the idea in your own words.",
     "answer": "Iron helps the body make haemoglobin, which carries oxygen in the blood. Too little iron can cause anaemia, so less oxygen reaches cells and a person may feel tired.",
     "acceptedAnswers": [
-      "Iron helps the body make haemoglobin, which carries oxygen in the blood. Too little iron can cause anaemia, so less oxygen reaches cells and a person may feel tired."
+      "Iron helps the body make haemoglobin, which carries oxygen in the blood. Too little iron can cause anaemia, so less oxygen reaches cells and a person may feel tired.",
+      "Iron deficiency can cause anaemia and fatigue"
     ],
     "keywords": [],
     "explanation": "Iron helps the body make haemoglobin, which carries oxygen in the blood. Too little iron can cause anaemia, so less oxygen reaches cells and a person may feel tired.",
@@ -3065,7 +3991,8 @@
     "question": "What can too little calcium affect?",
     "answer": "Bones and teeth",
     "acceptedAnswers": [
-      "Bones and teeth"
+      "Bones and teeth",
+      "A calcium deficiency can weaken bones and teeth"
     ],
     "keywords": [],
     "explanation": "Calcium helps keep bones and teeth strong. A deficiency means not getting enough of a nutrient.",
@@ -3095,7 +4022,8 @@
     "question": "What can too little calcium affect? Explain the idea in your own words.",
     "answer": "Calcium helps keep bones and teeth strong. A deficiency means not getting enough of a nutrient.",
     "acceptedAnswers": [
-      "Calcium helps keep bones and teeth strong. A deficiency means not getting enough of a nutrient."
+      "Calcium helps keep bones and teeth strong. A deficiency means not getting enough of a nutrient.",
+      "A calcium deficiency can weaken bones and teeth"
     ],
     "keywords": [],
     "explanation": "Calcium helps keep bones and teeth strong. A deficiency means not getting enough of a nutrient.",
@@ -3131,11 +4059,26 @@
     "question": "What is digestion?",
     "answer": "Breaking large food molecules into smaller molecules that can dissolve",
     "acceptedAnswers": [
-      "Breaking large food molecules into smaller molecules that can dissolve"
+      "Breaking large food molecules into smaller molecules that can dissolve",
+      "Large food molecules are broken down into small soluble molecules"
     ],
     "keywords": [],
     "explanation": "Digestion breaks large food molecules into smaller, soluble molecules. Soluble means able to dissolve. The small molecules can pass through the intestine wall into the blood.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "break large food molecules into smaller molecules that can dissolve",
+          "large food molecules broken down into small soluble molecules",
+          "breaks large food molecules into smaller soluble molecules"
+        ]
+      ],
+      "reject": [
+        "small molecules into large",
+        "small food molecules into large",
+        "insoluble molecules"
+      ]
+    }
   },
   {
     "id": "organisms_048_spot-the-mistake",
@@ -3161,11 +4104,26 @@
     "question": "What is digestion? Explain the idea in your own words.",
     "answer": "Digestion breaks large food molecules into smaller, soluble molecules. Soluble means able to dissolve. The small molecules can pass through the intestine wall into the blood.",
     "acceptedAnswers": [
-      "Digestion breaks large food molecules into smaller, soluble molecules. Soluble means able to dissolve. The small molecules can pass through the intestine wall into the blood."
+      "Digestion breaks large food molecules into smaller, soluble molecules. Soluble means able to dissolve. The small molecules can pass through the intestine wall into the blood.",
+      "Large food molecules are broken down into small soluble molecules"
     ],
     "keywords": [],
     "explanation": "Digestion breaks large food molecules into smaller, soluble molecules. Soluble means able to dissolve. The small molecules can pass through the intestine wall into the blood.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "break large food molecules into smaller molecules that can dissolve",
+          "large food molecules broken down into small soluble molecules",
+          "breaks large food molecules into smaller soluble molecules"
+        ]
+      ],
+      "reject": [
+        "small molecules into large",
+        "small food molecules into large",
+        "insoluble molecules"
+      ]
+    }
   },
   {
     "id": "organisms_049_multiple-choice",
@@ -3197,11 +4155,24 @@
     "question": "Which route does food take through the digestive system?",
     "answer": "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus",
     "acceptedAnswers": [
-      "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus"
+      "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus",
+      "Mouth, gullet, stomach, small intestine, large intestine, rectum, anus"
     ],
     "keywords": [],
     "explanation": "Food goes through the mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus. The liver and pancreas make substances that help digestion, but food does not pass through them.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus"
+        ]
+      ],
+      "reject": [
+        "trachea",
+        "liver",
+        "pancreas"
+      ]
+    }
   },
   {
     "id": "organisms_049_spot-the-mistake",
@@ -3227,11 +4198,24 @@
     "question": "Which route does food take through the digestive system? Explain the idea in your own words.",
     "answer": "Food goes through the mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus. The liver and pancreas make substances that help digestion, but food does not pass through them.",
     "acceptedAnswers": [
-      "Food goes through the mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus. The liver and pancreas make substances that help digestion, but food does not pass through them."
+      "Food goes through the mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus. The liver and pancreas make substances that help digestion, but food does not pass through them.",
+      "Mouth, gullet, stomach, small intestine, large intestine, rectum, anus"
     ],
     "keywords": [],
     "explanation": "Food goes through the mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus. The liver and pancreas make substances that help digestion, but food does not pass through them.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "Food goes through the mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus. The liver and pancreas make substances that help digestion, but food does not pass through them."
+        ]
+      ],
+      "reject": [
+        "trachea",
+        "liver",
+        "pancreas"
+      ]
+    }
   },
   {
     "id": "organisms_050_multiple-choice",
@@ -3263,11 +4247,30 @@
     "question": "What happens to food in the mouth?",
     "answer": "Chewing breaks it up and saliva begins starch digestion",
     "acceptedAnswers": [
-      "Chewing breaks it up and saliva begins starch digestion"
+      "Chewing breaks it up and saliva begins starch digestion",
+      "Teeth break food into pieces and amylase in saliva starts breaking down starch"
     ],
     "keywords": [],
     "explanation": "Chewing breaks food into smaller pieces. Saliva contains amylase, an enzyme that starts breaking starch into sugars.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "chewing breaks it up",
+          "teeth break food into pieces",
+          "chewing breaks food into smaller pieces"
+        ],
+        [
+          "saliva begins starch digestion",
+          "amylase in saliva starts breaking down starch",
+          "saliva contains amylase"
+        ]
+      ],
+      "reject": [
+        "saliva digests protein",
+        "amylase breaks down protein"
+      ]
+    }
   },
   {
     "id": "organisms_050_spot-the-mistake",
@@ -3293,11 +4296,30 @@
     "question": "What happens to food in the mouth? Explain the idea in your own words.",
     "answer": "Chewing breaks food into smaller pieces. Saliva contains amylase, an enzyme that starts breaking starch into sugars.",
     "acceptedAnswers": [
-      "Chewing breaks food into smaller pieces. Saliva contains amylase, an enzyme that starts breaking starch into sugars."
+      "Chewing breaks food into smaller pieces. Saliva contains amylase, an enzyme that starts breaking starch into sugars.",
+      "Teeth break food into pieces and amylase in saliva starts breaking down starch"
     ],
     "keywords": [],
     "explanation": "Chewing breaks food into smaller pieces. Saliva contains amylase, an enzyme that starts breaking starch into sugars.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "chewing breaks it up",
+          "teeth break food into pieces",
+          "chewing breaks food into smaller pieces"
+        ],
+        [
+          "saliva begins starch digestion",
+          "amylase in saliva starts breaking down starch",
+          "saliva contains amylase"
+        ]
+      ],
+      "reject": [
+        "saliva digests protein",
+        "amylase breaks down protein"
+      ]
+    }
   },
   {
     "id": "organisms_051_multiple-choice",
@@ -3329,11 +4351,25 @@
     "question": "What does the oesophagus do?",
     "answer": "Moves food from the mouth to the stomach",
     "acceptedAnswers": [
-      "Moves food from the mouth to the stomach"
+      "Moves food from the mouth to the stomach",
+      "The gullet carries food from the mouth to the stomach"
     ],
     "keywords": [],
     "explanation": "The oesophagus is the tube from the mouth to the stomach. Its muscles squeeze to move food along.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "moves food from mouth to stomach",
+          "carries food from mouth to stomach",
+          "tube from mouth to stomach"
+        ]
+      ],
+      "reject": [
+        "from stomach to mouth",
+        "food from mouth to lungs"
+      ]
+    }
   },
   {
     "id": "organisms_051_spot-the-mistake",
@@ -3359,11 +4395,25 @@
     "question": "What does the oesophagus do? Explain the idea in your own words.",
     "answer": "The oesophagus is the tube from the mouth to the stomach. Its muscles squeeze to move food along.",
     "acceptedAnswers": [
-      "The oesophagus is the tube from the mouth to the stomach. Its muscles squeeze to move food along."
+      "The oesophagus is the tube from the mouth to the stomach. Its muscles squeeze to move food along.",
+      "The gullet carries food from the mouth to the stomach"
     ],
     "keywords": [],
     "explanation": "The oesophagus is the tube from the mouth to the stomach. Its muscles squeeze to move food along.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "moves food from mouth to stomach",
+          "carries food from mouth to stomach",
+          "tube from mouth to stomach"
+        ]
+      ],
+      "reject": [
+        "from stomach to mouth",
+        "food from mouth to lungs"
+      ]
+    }
   },
   {
     "id": "organisms_052_multiple-choice",
@@ -3395,11 +4445,25 @@
     "question": "What happens in the stomach?",
     "answer": "Food is mixed with acid and protein digestion begins",
     "acceptedAnswers": [
-      "Food is mixed with acid and protein digestion begins"
+      "Food is mixed with acid and protein digestion begins",
+      "The stomach mixes food with acid and starts digesting protein"
     ],
     "keywords": [],
     "explanation": "The stomach mixes food with acid. The acid kills many microorganisms (tiny living things) and helps protein-digesting enzymes work.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "food mixed with acid",
+          "mixes food with acid"
+        ],
+        [
+          "protein digestion begins",
+          "starts digesting protein",
+          "helps protein digesting enzymes work"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_052_spot-the-mistake",
@@ -3425,11 +4489,25 @@
     "question": "What happens in the stomach? Explain the idea in your own words.",
     "answer": "The stomach mixes food with acid. The acid kills many microorganisms (tiny living things) and helps protein-digesting enzymes work.",
     "acceptedAnswers": [
-      "The stomach mixes food with acid. The acid kills many microorganisms (tiny living things) and helps protein-digesting enzymes work."
+      "The stomach mixes food with acid. The acid kills many microorganisms (tiny living things) and helps protein-digesting enzymes work.",
+      "The stomach mixes food with acid and starts digesting protein"
     ],
     "keywords": [],
     "explanation": "The stomach mixes food with acid. The acid kills many microorganisms (tiny living things) and helps protein-digesting enzymes work.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "food mixed with acid",
+          "mixes food with acid"
+        ],
+        [
+          "protein digestion begins",
+          "starts digesting protein",
+          "helps protein digesting enzymes work"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_053_multiple-choice",
@@ -3461,11 +4539,23 @@
     "question": "Where are digested nutrients absorbed into the blood?",
     "answer": "Small intestine",
     "acceptedAnswers": [
-      "Small intestine"
+      "Small intestine",
+      "Nutrients pass through the wall of the small intestine into the blood"
     ],
     "keywords": [],
     "explanation": "The small intestine finishes digesting food. Small nutrient molecules pass through its wall into the blood. This is called absorption.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "small intestine"
+        ]
+      ],
+      "reject": [
+        "large intestine",
+        "stomach"
+      ]
+    }
   },
   {
     "id": "organisms_053_spot-the-mistake",
@@ -3491,11 +4581,23 @@
     "question": "Where are digested nutrients absorbed into the blood? Explain the idea in your own words.",
     "answer": "The small intestine finishes digesting food. Small nutrient molecules pass through its wall into the blood. This is called absorption.",
     "acceptedAnswers": [
-      "The small intestine finishes digesting food. Small nutrient molecules pass through its wall into the blood. This is called absorption."
+      "The small intestine finishes digesting food. Small nutrient molecules pass through its wall into the blood. This is called absorption.",
+      "Nutrients pass through the wall of the small intestine into the blood"
     ],
     "keywords": [],
     "explanation": "The small intestine finishes digesting food. Small nutrient molecules pass through its wall into the blood. This is called absorption.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "small intestine"
+        ]
+      ],
+      "reject": [
+        "large intestine",
+        "stomach"
+      ]
+    }
   },
   {
     "id": "organisms_054_multiple-choice",
@@ -3527,11 +4629,28 @@
     "question": "How do villi help nutrients move into the blood?",
     "answer": "More surface area, thin walls and nearby blood vessels",
     "acceptedAnswers": [
-      "More surface area, thin walls and nearby blood vessels"
+      "More surface area, thin walls and nearby blood vessels",
+      "Villi increase surface area and have thin walls with blood vessels close by"
     ],
     "keywords": [],
     "explanation": "Villi are tiny finger-like folds in the small intestine wall. They give more surface area for absorption. Their thin walls let nutrients reach nearby blood vessels quickly.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "more surface area",
+          "increase surface area"
+        ],
+        [
+          "thin walls"
+        ],
+        [
+          "nearby blood vessels",
+          "blood vessels close by",
+          "nutrients reach nearby blood vessels quickly"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_054_spot-the-mistake",
@@ -3557,11 +4676,28 @@
     "question": "How do villi help nutrients move into the blood? Explain the idea in your own words.",
     "answer": "Villi are tiny finger-like folds in the small intestine wall. They give more surface area for absorption. Their thin walls let nutrients reach nearby blood vessels quickly.",
     "acceptedAnswers": [
-      "Villi are tiny finger-like folds in the small intestine wall. They give more surface area for absorption. Their thin walls let nutrients reach nearby blood vessels quickly."
+      "Villi are tiny finger-like folds in the small intestine wall. They give more surface area for absorption. Their thin walls let nutrients reach nearby blood vessels quickly.",
+      "Villi increase surface area and have thin walls with blood vessels close by"
     ],
     "keywords": [],
     "explanation": "Villi are tiny finger-like folds in the small intestine wall. They give more surface area for absorption. Their thin walls let nutrients reach nearby blood vessels quickly.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "more surface area",
+          "increase surface area"
+        ],
+        [
+          "thin walls"
+        ],
+        [
+          "nearby blood vessels",
+          "blood vessels close by",
+          "nutrients reach nearby blood vessels quickly"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_055_multiple-choice",
@@ -3593,7 +4729,8 @@
     "question": "What is absorbed in the large intestine?",
     "answer": "Water",
     "acceptedAnswers": [
-      "Water"
+      "Water",
+      "The large intestine takes in water"
     ],
     "keywords": [],
     "explanation": "The large intestine absorbs water from food that has not been digested. The remaining material forms faeces (poo).",
@@ -3623,7 +4760,8 @@
     "question": "What is absorbed in the large intestine? Explain the idea in your own words.",
     "answer": "The large intestine absorbs water from food that has not been digested. The remaining material forms faeces (poo).",
     "acceptedAnswers": [
-      "The large intestine absorbs water from food that has not been digested. The remaining material forms faeces (poo)."
+      "The large intestine absorbs water from food that has not been digested. The remaining material forms faeces (poo).",
+      "The large intestine takes in water"
     ],
     "keywords": [],
     "explanation": "The large intestine absorbs water from food that has not been digested. The remaining material forms faeces (poo).",
@@ -3659,11 +4797,29 @@
     "question": "What do the rectum and anus do?",
     "answer": "The rectum stores faeces; the anus lets them leave the body",
     "acceptedAnswers": [
-      "The rectum stores faeces; the anus lets them leave the body"
+      "The rectum stores faeces; the anus lets them leave the body",
+      "The rectum holds poo and poo leaves through the anus"
     ],
     "keywords": [],
     "explanation": "The rectum stores faeces (poo). The anus is the opening where faeces leave the body.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "rectum stores faeces",
+          "rectum holds faeces"
+        ],
+        [
+          "anus lets them leave body",
+          "faeces leaves through anus",
+          "anus opening where faeces leave body"
+        ]
+      ],
+      "reject": [
+        "anus stores faeces",
+        "rectum opening where faeces leave"
+      ]
+    }
   },
   {
     "id": "organisms_056_spot-the-mistake",
@@ -3689,11 +4845,29 @@
     "question": "What do the rectum and anus do? Explain the idea in your own words.",
     "answer": "The rectum stores faeces (poo). The anus is the opening where faeces leave the body.",
     "acceptedAnswers": [
-      "The rectum stores faeces (poo). The anus is the opening where faeces leave the body."
+      "The rectum stores faeces (poo). The anus is the opening where faeces leave the body.",
+      "The rectum holds poo and poo leaves through the anus"
     ],
     "keywords": [],
     "explanation": "The rectum stores faeces (poo). The anus is the opening where faeces leave the body.",
-    "hint": "Think about digestive system."
+    "hint": "Think about digestive system.",
+    "marking": {
+      "all": [
+        [
+          "rectum stores faeces",
+          "rectum holds faeces"
+        ],
+        [
+          "anus lets them leave body",
+          "faeces leaves through anus",
+          "anus opening where faeces leave body"
+        ]
+      ],
+      "reject": [
+        "anus stores faeces",
+        "rectum opening where faeces leave"
+      ]
+    }
   },
   {
     "id": "organisms_057_multiple-choice",
@@ -3725,7 +4899,8 @@
     "question": "Which organ produces bile?",
     "answer": "Liver",
     "acceptedAnswers": [
-      "Liver"
+      "Liver",
+      "The liver makes bile"
     ],
     "keywords": [],
     "explanation": "The liver makes bile. Bile breaks fat into small droplets so the enzyme lipase has more surface area to work on. Bile is not an enzyme.",
@@ -3755,7 +4930,8 @@
     "question": "Which organ produces bile? Explain the idea in your own words.",
     "answer": "The liver makes bile. Bile breaks fat into small droplets so the enzyme lipase has more surface area to work on. Bile is not an enzyme.",
     "acceptedAnswers": [
-      "The liver makes bile. Bile breaks fat into small droplets so the enzyme lipase has more surface area to work on. Bile is not an enzyme."
+      "The liver makes bile. Bile breaks fat into small droplets so the enzyme lipase has more surface area to work on. Bile is not an enzyme.",
+      "The liver makes bile"
     ],
     "keywords": [],
     "explanation": "The liver makes bile. Bile breaks fat into small droplets so the enzyme lipase has more surface area to work on. Bile is not an enzyme.",
@@ -3791,7 +4967,8 @@
     "question": "What does the pancreas add to the small intestine?",
     "answer": "Digestive juice containing enzymes",
     "acceptedAnswers": [
-      "Digestive juice containing enzymes"
+      "Digestive juice containing enzymes",
+      "Juice with digestive enzymes"
     ],
     "keywords": [],
     "explanation": "The pancreas makes digestive juice containing enzymes. This juice enters the small intestine to help break down food.",
@@ -3821,7 +4998,8 @@
     "question": "What does the pancreas add to the small intestine? Explain the idea in your own words.",
     "answer": "The pancreas makes digestive juice containing enzymes. This juice enters the small intestine to help break down food.",
     "acceptedAnswers": [
-      "The pancreas makes digestive juice containing enzymes. This juice enters the small intestine to help break down food."
+      "The pancreas makes digestive juice containing enzymes. This juice enters the small intestine to help break down food.",
+      "Juice with digestive enzymes"
     ],
     "keywords": [],
     "explanation": "The pancreas makes digestive juice containing enzymes. This juice enters the small intestine to help break down food.",
@@ -3857,11 +5035,26 @@
     "question": "What is an enzyme?",
     "answer": "A biological catalyst: something that speeds up chemical reactions in living things",
     "acceptedAnswers": [
-      "A biological catalyst: something that speeds up chemical reactions in living things"
+      "A biological catalyst: something that speeds up chemical reactions in living things",
+      "A substance that speeds up chemical reactions in living organisms"
     ],
     "keywords": [],
     "explanation": "An enzyme is a biological catalyst: it speeds up a chemical reaction in a living thing. Digestive enzymes break down food molecules. They are not used up in the reaction.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "biological catalyst",
+          "speeds up chemical reactions in living things",
+          "speeds up chemical reactions in living organisms",
+          "speeds up chemical reaction in living thing"
+        ]
+      ],
+      "reject": [
+        "slows chemical reactions",
+        "used up in reaction"
+      ]
+    }
   },
   {
     "id": "organisms_059_spot-the-mistake",
@@ -3887,11 +5080,26 @@
     "question": "What is an enzyme? Explain the idea in your own words.",
     "answer": "An enzyme is a biological catalyst: it speeds up a chemical reaction in a living thing. Digestive enzymes break down food molecules. They are not used up in the reaction.",
     "acceptedAnswers": [
-      "An enzyme is a biological catalyst: it speeds up a chemical reaction in a living thing. Digestive enzymes break down food molecules. They are not used up in the reaction."
+      "An enzyme is a biological catalyst: it speeds up a chemical reaction in a living thing. Digestive enzymes break down food molecules. They are not used up in the reaction.",
+      "A substance that speeds up chemical reactions in living organisms"
     ],
     "keywords": [],
     "explanation": "An enzyme is a biological catalyst: it speeds up a chemical reaction in a living thing. Digestive enzymes break down food molecules. They are not used up in the reaction.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "biological catalyst",
+          "speeds up chemical reactions in living things",
+          "speeds up chemical reactions in living organisms",
+          "speeds up chemical reaction in living thing"
+        ]
+      ],
+      "reject": [
+        "slows chemical reactions",
+        "used up in reaction"
+      ]
+    }
   },
   {
     "id": "organisms_060_multiple-choice",
@@ -3923,11 +5131,29 @@
     "question": "What does amylase break down?",
     "answer": "Starch into sugars",
     "acceptedAnswers": [
-      "Starch into sugars"
+      "Starch into sugars",
+      "Amylase converts starch to sugars"
     ],
     "keywords": [],
     "explanation": "Amylase breaks starch down into sugars. It is a carbohydrase, which means an enzyme that breaks down carbohydrates.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "starch into sugars",
+          "starch to sugars",
+          "starch down into sugars"
+        ]
+      ],
+      "reject": [
+        "sugars into starch",
+        "sugars to starch",
+        "protein into",
+        "protein to",
+        "lipids into",
+        "lipids to"
+      ]
+    }
   },
   {
     "id": "organisms_060_spot-the-mistake",
@@ -3953,11 +5179,29 @@
     "question": "What does amylase break down? Explain the idea in your own words.",
     "answer": "Amylase breaks starch down into sugars. It is a carbohydrase, which means an enzyme that breaks down carbohydrates.",
     "acceptedAnswers": [
-      "Amylase breaks starch down into sugars. It is a carbohydrase, which means an enzyme that breaks down carbohydrates."
+      "Amylase breaks starch down into sugars. It is a carbohydrase, which means an enzyme that breaks down carbohydrates.",
+      "Amylase converts starch to sugars"
     ],
     "keywords": [],
     "explanation": "Amylase breaks starch down into sugars. It is a carbohydrase, which means an enzyme that breaks down carbohydrates.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "starch into sugars",
+          "starch to sugars",
+          "starch down into sugars"
+        ]
+      ],
+      "reject": [
+        "sugars into starch",
+        "sugars to starch",
+        "protein into",
+        "protein to",
+        "lipids into",
+        "lipids to"
+      ]
+    }
   },
   {
     "id": "organisms_061_multiple-choice",
@@ -3989,11 +5233,28 @@
     "question": "What does protease break down?",
     "answer": "Proteins into amino acids",
     "acceptedAnswers": [
-      "Proteins into amino acids"
+      "Proteins into amino acids",
+      "Protease converts protein to amino acids"
     ],
     "keywords": [],
     "explanation": "Protease breaks proteins down into smaller molecules called amino acids. These can be absorbed into the blood.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "proteins into amino acids",
+          "protein to amino acids",
+          "proteins down into smaller molecules called amino acids"
+        ]
+      ],
+      "reject": [
+        "amino acids into protein",
+        "amino acids to protein",
+        "starch into",
+        "starch to",
+        "lipids into"
+      ]
+    }
   },
   {
     "id": "organisms_061_spot-the-mistake",
@@ -4019,11 +5280,28 @@
     "question": "What does protease break down? Explain the idea in your own words.",
     "answer": "Protease breaks proteins down into smaller molecules called amino acids. These can be absorbed into the blood.",
     "acceptedAnswers": [
-      "Protease breaks proteins down into smaller molecules called amino acids. These can be absorbed into the blood."
+      "Protease breaks proteins down into smaller molecules called amino acids. These can be absorbed into the blood.",
+      "Protease converts protein to amino acids"
     ],
     "keywords": [],
     "explanation": "Protease breaks proteins down into smaller molecules called amino acids. These can be absorbed into the blood.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "proteins into amino acids",
+          "protein to amino acids",
+          "proteins down into smaller molecules called amino acids"
+        ]
+      ],
+      "reject": [
+        "amino acids into protein",
+        "amino acids to protein",
+        "starch into",
+        "starch to",
+        "lipids into"
+      ]
+    }
   },
   {
     "id": "organisms_062_multiple-choice",
@@ -4055,11 +5333,29 @@
     "question": "What does lipase break down?",
     "answer": "Lipids into fatty acids and glycerol",
     "acceptedAnswers": [
-      "Lipids into fatty acids and glycerol"
+      "Lipids into fatty acids and glycerol",
+      "Lipase converts fats to fatty acids and glycerol"
     ],
     "keywords": [],
     "explanation": "Lipase breaks lipids (fats and oils) down into fatty acids and glycerol.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "lipids into fatty acids and glycerol",
+          "lipids to fatty acids and glycerol",
+          "lipids down into fatty acids and glycerol",
+          "lipids into glycerol and fatty acids",
+          "lipids to glycerol and fatty acids"
+        ]
+      ],
+      "reject": [
+        "glycerol into lipids",
+        "fatty acids into lipids",
+        "starch into",
+        "protein into"
+      ]
+    }
   },
   {
     "id": "organisms_062_spot-the-mistake",
@@ -4085,11 +5381,29 @@
     "question": "What does lipase break down? Explain the idea in your own words.",
     "answer": "Lipase breaks lipids (fats and oils) down into fatty acids and glycerol.",
     "acceptedAnswers": [
-      "Lipase breaks lipids (fats and oils) down into fatty acids and glycerol."
+      "Lipase breaks lipids (fats and oils) down into fatty acids and glycerol.",
+      "Lipase converts fats to fatty acids and glycerol"
     ],
     "keywords": [],
     "explanation": "Lipase breaks lipids (fats and oils) down into fatty acids and glycerol.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "lipids into fatty acids and glycerol",
+          "lipids to fatty acids and glycerol",
+          "lipids down into fatty acids and glycerol",
+          "lipids into glycerol and fatty acids",
+          "lipids to glycerol and fatty acids"
+        ]
+      ],
+      "reject": [
+        "glycerol into lipids",
+        "fatty acids into lipids",
+        "starch into",
+        "protein into"
+      ]
+    }
   },
   {
     "id": "organisms_063_multiple-choice",
@@ -4121,11 +5435,25 @@
     "question": "Why are different digestive enzymes needed?",
     "answer": "Each type acts on a particular type of nutrient",
     "acceptedAnswers": [
-      "Each type acts on a particular type of nutrient"
+      "Each type acts on a particular type of nutrient",
+      "Different enzymes work on different types of food molecules"
     ],
     "keywords": [],
     "explanation": "Different enzymes break down different nutrients. For example, amylase breaks down starch, while protease breaks down protein.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "each type acts on particular type of nutrient",
+          "different enzymes work on different types of food molecules",
+          "different enzymes break down different nutrients"
+        ]
+      ],
+      "reject": [
+        "all enzymes break down all",
+        "every enzyme breaks down every"
+      ]
+    }
   },
   {
     "id": "organisms_063_spot-the-mistake",
@@ -4151,11 +5479,25 @@
     "question": "Why are different digestive enzymes needed? Explain the idea in your own words.",
     "answer": "Different enzymes break down different nutrients. For example, amylase breaks down starch, while protease breaks down protein.",
     "acceptedAnswers": [
-      "Different enzymes break down different nutrients. For example, amylase breaks down starch, while protease breaks down protein."
+      "Different enzymes break down different nutrients. For example, amylase breaks down starch, while protease breaks down protein.",
+      "Different enzymes work on different types of food molecules"
     ],
     "keywords": [],
     "explanation": "Different enzymes break down different nutrients. For example, amylase breaks down starch, while protease breaks down protein.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "each type acts on particular type of nutrient",
+          "different enzymes work on different types of food molecules",
+          "different enzymes break down different nutrients"
+        ]
+      ],
+      "reject": [
+        "all enzymes break down all",
+        "every enzyme breaks down every"
+      ]
+    }
   },
   {
     "id": "organisms_064_multiple-choice",
@@ -4187,11 +5529,23 @@
     "question": "What is one role of gut bacteria?",
     "answer": "Help break down some food and produce some vitamins",
     "acceptedAnswers": [
-      "Help break down some food and produce some vitamins"
+      "Help break down some food and produce some vitamins",
+      "Some gut bacteria make vitamins",
+      "Some gut bacteria help digest food"
     ],
     "keywords": [],
     "explanation": "Bacteria naturally live in the gut, especially the large intestine. Some help break down food material and make vitamins. Not all bacteria are harmful.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "help break down some food",
+          "help digest food",
+          "make vitamins",
+          "produce some vitamins"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_064_spot-the-mistake",
@@ -4217,11 +5571,23 @@
     "question": "What is one role of gut bacteria? Explain the idea in your own words.",
     "answer": "Bacteria naturally live in the gut, especially the large intestine. Some help break down food material and make vitamins. Not all bacteria are harmful.",
     "acceptedAnswers": [
-      "Bacteria naturally live in the gut, especially the large intestine. Some help break down food material and make vitamins. Not all bacteria are harmful."
+      "Bacteria naturally live in the gut, especially the large intestine. Some help break down food material and make vitamins. Not all bacteria are harmful.",
+      "Some gut bacteria make vitamins",
+      "Some gut bacteria help digest food"
     ],
     "keywords": [],
     "explanation": "Bacteria naturally live in the gut, especially the large intestine. Some help break down food material and make vitamins. Not all bacteria are harmful.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "help break down some food",
+          "help digest food",
+          "make vitamins",
+          "produce some vitamins"
+        ]
+      ]
+    }
   },
   {
     "id": "organisms_065_multiple-choice",
@@ -4253,11 +5619,27 @@
     "question": "Why must food be broken down into small, soluble molecules?",
     "answer": "So nutrients can cross the intestine wall and enter the blood",
     "acceptedAnswers": [
-      "So nutrients can cross the intestine wall and enter the blood"
+      "So nutrients can cross the intestine wall and enter the blood",
+      "Small soluble nutrients pass through the intestine wall into the blood"
     ],
     "keywords": [],
     "explanation": "Chewing breaks food into pieces. Enzymes then break large food molecules into small, soluble molecules. These pass through the small intestine wall into the blood.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "nutrients cross intestine wall and enter blood",
+          "small soluble nutrients move through intestine wall into blood",
+          "move through small intestine wall into blood",
+          "nutrients move through intestine wall into blood"
+        ]
+      ],
+      "reject": [
+        "from blood into intestine",
+        "from blood to intestine",
+        "large molecules move through intestine wall"
+      ]
+    }
   },
   {
     "id": "organisms_065_spot-the-mistake",
@@ -4283,10 +5665,26 @@
     "question": "Why must food be broken down into small, soluble molecules? Explain the idea in your own words.",
     "answer": "Chewing breaks food into pieces. Enzymes then break large food molecules into small, soluble molecules. These pass through the small intestine wall into the blood.",
     "acceptedAnswers": [
-      "Chewing breaks food into pieces. Enzymes then break large food molecules into small, soluble molecules. These pass through the small intestine wall into the blood."
+      "Chewing breaks food into pieces. Enzymes then break large food molecules into small, soluble molecules. These pass through the small intestine wall into the blood.",
+      "Small soluble nutrients pass through the intestine wall into the blood"
     ],
     "keywords": [],
     "explanation": "Chewing breaks food into pieces. Enzymes then break large food molecules into small, soluble molecules. These pass through the small intestine wall into the blood.",
-    "hint": "Think about bacteria and enzymes."
+    "hint": "Think about bacteria and enzymes.",
+    "marking": {
+      "all": [
+        [
+          "nutrients cross intestine wall and enter blood",
+          "small soluble nutrients move through intestine wall into blood",
+          "move through small intestine wall into blood",
+          "nutrients move through intestine wall into blood"
+        ]
+      ],
+      "reject": [
+        "from blood into intestine",
+        "from blood to intestine",
+        "large molecules move through intestine wall"
+      ]
+    }
   }
 ]

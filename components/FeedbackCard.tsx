@@ -21,7 +21,7 @@ export function FeedbackCard({ question, correct, dontKnow, onNext, isLast }: Fe
       </div>
       {!correct ? (
         <p className="mt-3 text-base text-ink">
-          The answer is <strong>{question.answer}</strong>.
+          {question.type === "multiple-choice" || question.type === "fill-blank" ? "The answer is" : "One example answer is"} <strong>{question.answer}</strong>.
         </p>
       ) : null}
       <div className={`mt-4 rounded-lg p-4 text-base leading-relaxed text-ink ${correct ? "bg-emerald-950" : "bg-purple-950"}`}>

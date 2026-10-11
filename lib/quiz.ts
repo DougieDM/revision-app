@@ -1,6 +1,7 @@
 import knowledgeBase from "@/data/knowledge-base.json";
 import organismsQuestions from "@/data/organisms.questions.json";
 import seedQuestions from "@/data/questions.seed.json";
+import { matchesWrittenAnswer } from "@/lib/markWrittenAnswer";
 import type {
   Difficulty,
   DifficultySetting,
@@ -86,26 +87,7 @@ export function markAnswer(question: GeneratedQuestion, userAnswer: string) {
   if (!answer) return false;
   if (question.type === "multiple-choice") return answer === normalise(question.answer);
 
-  // Check complete answer ideas, never a fragment or an isolated keyword.
-  // Retain word order so reversed routes and relationships do not pass.
-  return [...question.acceptedAnswers, question.answer].some((expected) => {
-    const reference = normalise(expected);
-    if (answer === reference) return true;
-    const negated = (value: string) => /\b(not|never|no|cannot|can t|doesn t|don t|isn t|aren t|won t)\b/.test(value);
-    if (negated(answer) !== negated(reference)) return false;
-    const required = answerWords(reference);
-    const given = answerWords(answer);
-    if (!required.length) return false;
-    let position = 0;
-    for (const word of given) if (word === required[position]) position += 1;
-    return position === required.length;
-  });
-}
-
-function answerWords(value: string) {
-  const filler = new Set("a an the is are was were be been being it its they their this that these those of to in on at by for with and or which so can will would should could because means also then very".split(" "));
-  const aliases: Record<string, string> = { esophagus: "oesophagus", windpipe: "trachea", gullet: "oesophagus", lungs: "lung", air: "air", moves: "move", moving: "move", moved: "move", takes: "take", taking: "take", removes: "remove", removing: "remove", absorbs: "absorb", absorbed: "absorb", absorption: "absorb", increases: "increase", decreases: "decrease", nutrients: "nutrient", walls: "wall", molecules: "molecule" };
-  return value.split(" ").filter(word => !filler.has(word)).map(word => aliases[word] ?? word);
+  return matchesWrittenAnswer(question, userAnswer);
 }
 
 export function normalise(value: string) {
@@ -166,6 +148,7 @@ export function seedToQuestion(seed: SeedQuestion): GeneratedQuestion {
     options: seed.options,
     answer: seed.answer,
     acceptedAnswers: seed.acceptedAnswers ?? [seed.answer],
+    marking: seed.marking,
     keywords: seed.keywords ?? [],
     explanation: seed.explanation,
     hint: seed.hint ?? "Look for the key science word in the question."

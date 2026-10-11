@@ -2,7 +2,7 @@
 
 A mobile-first Next.js revision and test preparation app for Year 7 and Year 8 science. Readispark acts like a supportive tutor: questions are generated from a structured local knowledge base, feedback is gentle, and progress is saved in the browser.
 
-The app uses a black dark-mode background, charcoal cards, pink primary actions and purple secondary actions. Light text and visible focus outlines support readability. Printable tests and answer sheets remain black on white. The dashboard home page uses `public/revisionary-logo-dark.png`, with a pink-purple icon, white lettering, responsive sizing, accessible alternative text and Next.js image optimisation. The original logo is retained.
+The app uses a black dark-mode background, charcoal cards, pink primary actions and purple secondary actions. Light text and visible focus outlines support readability. Printable tests and answer sheets remain black on white. The dashboard home page uses `public/readispark-logo-black.png`, with a pink-purple icon, white lettering, responsive sizing, accessible alternative text and Next.js image optimisation. The original logo is retained.
 
 ## Current test: Year 8 Organisms 8.3–8.4
 
@@ -114,7 +114,7 @@ Existing localStorage progress and checklist keys are deliberately retained to p
 
 Verification: `npm run build`, `npm run lint`, `node scripts/verify-organisms.cjs`, and `node scripts/verify-readiness.cjs`.
 
-The previous pink-purple logo with the Revisionary wordmark was restored at the user’s request. The app name and other text remain Readispark.
+The homepage uses the Readispark logo and wordmark. Earlier logo variants are retained as reference assets.
 
 ## Navigation
 

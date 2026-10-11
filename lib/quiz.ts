@@ -25,7 +25,12 @@ export const facts = knowledgeBase as KnowledgeFact[];
 export const seeds = [...seedQuestions, ...organismsQuestions] as SeedQuestion[];
 
 export function shuffle<T>(items: T[], random = Math.random): T[] {
-  return [...items].sort(() => random() - 0.5);
+  const shuffled = [...items];
+  for (let index = shuffled.length - 1; index > 0; index -= 1) {
+    const target = Math.floor(random() * (index + 1));
+    [shuffled[index], shuffled[target]] = [shuffled[target], shuffled[index]];
+  }
+  return shuffled;
 }
 
 export function makeRandom(seed: string) {
@@ -179,9 +184,13 @@ function factToPrintableQuestion(fact: KnowledgeFact, random: () => number): Gen
 }
 
 export function makeFillBlank(fact: string) {
+  return makeFillBlankParts(fact).question;
+}
+
+export function makeFillBlankParts(fact: string) {
   const words = fact.replace(/\.$/, "").split(" ");
   const targetIndex = Math.max(0, words.findIndex((word) => word.length > 5));
   const target = words[targetIndex] ?? words[words.length - 1];
   words[targetIndex] = "______";
-  return words.join(" ") + `.`;
+  return { question: words.join(" ") + ".", answer: target.replace(/[^\w-]/g, "") };
 }

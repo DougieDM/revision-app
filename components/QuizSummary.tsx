@@ -35,7 +35,7 @@ export function QuizSummary({ score, total, answers, onRetryWeak, onNewQuiz }: Q
       </p>
 
       <div className="mt-6 space-y-3">
-        <h2 className="text-lg font-bold text-ink">Topic breakdown</h2>
+        <h2 className="text-lg font-bold text-ink">Your score for each topic</h2>
         {Object.entries(breakdown).map(([topic, item]) => (
           <div key={topic} className="rounded-lg bg-zinc-900 p-4">
             <div className="flex items-center justify-between gap-3">
@@ -49,7 +49,7 @@ export function QuizSummary({ score, total, answers, onRetryWeak, onNewQuiz }: Q
       </div>
 
       <div className="mt-6 rounded-lg bg-pink-950 p-4">
-        <h2 className="text-lg font-bold text-ink">Suggested revision focus</h2>
+        <h2 className="text-lg font-bold text-ink">What to practise next</h2>
         {weakAreas.length ? (
           <ul className="mt-3 space-y-2 text-base text-ink">
             {weakAreas.slice(0, 5).map((area) => (

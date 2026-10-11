@@ -16,13 +16,15 @@
     ],
     "acceptedAnswers": [
       "substance made in a chemical reaction",
-      "made in a reaction"
+      "made in a reaction",
+      "A product is a substance that is made in a chemical reaction"
     ],
-    "explanation": "Products are made during chemical reactions and appear on the right of a word equation.",
+    "explanation": "A product is a substance that is made in a chemical reaction.",
     "commonMistakes": [
       "Calling the starting substances products"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is a product in a chemical reaction?"
   },
   {
     "id": "acid_src_002",
@@ -41,13 +43,15 @@
     ],
     "acceptedAnswers": [
       "starting substance",
-      "substance you start with"
+      "substance you start with",
+      "A reactant is a starting substance in a chemical reaction"
     ],
-    "explanation": "Reactants are the substances present before the reaction starts.",
+    "explanation": "A reactant is a starting substance in a chemical reaction.",
     "commonMistakes": [
       "Calling products reactants"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is a reactant in a chemical reaction?"
   },
   {
     "id": "acid_src_003",
@@ -66,13 +70,17 @@
     ],
     "acceptedAnswers": [
       "represents a chemical reaction",
-      "shows reactants and products"
+      "shows reactants and products",
+      "A word equation represents a chemical reaction simply",
+      "A word equation represents a chemical reaction simply."
     ],
-    "explanation": "A word equation shows reactants on the left, products on the right, and an arrow between them.",
+    "explanation": "A word equation represents a chemical reaction simply.",
     "commonMistakes": [
       "Writing only the products"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does a word equation show?",
+    "explainPrompt": "What does a word equation show? Explain the idea in your own words."
   },
   {
     "id": "acid_src_004",
@@ -90,19 +98,21 @@
     ],
     "acceptedAnswers": [
       "reacts to make",
-      "makes"
+      "makes",
+      "In a word equation, the arrow means reacts to make"
     ],
-    "explanation": "The arrow shows that the reactants react to make the products.",
+    "explanation": "In a word equation, the arrow means reacts to make.",
     "commonMistakes": [
       "Reading the arrow as plus"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does the arrow in a word equation mean?"
   },
   {
     "id": "acid_src_005",
     "topic": "Acids and Alkalis",
     "subtopic": "Chemical reactions",
-    "fact": "Chemical reactions can be compared with physical changes.",
+    "fact": "A chemical reaction makes new substances. A physical change does not make new substances.",
     "keywords": [
       "chemical reactions",
       "physical changes",
@@ -115,13 +125,17 @@
     ],
     "acceptedAnswers": [
       "chemical reactions make products",
-      "physical changes do not make new products"
+      "physical changes do not make new products",
+      "A chemical reaction makes new substances. A physical change does not make new substances",
+      "A chemical reaction makes new substances. A physical change does not make new substances."
     ],
-    "explanation": "The source asks pupils to compare chemical reactions to physical changes, focusing on whether new products are made.",
+    "explanation": "A chemical reaction makes new substances. A physical change does not make new substances.",
     "commonMistakes": [
-      "Saying every change is a chemical reaction"
+      "Every change makes a new substance"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "How is a chemical reaction different from a physical change?",
+    "explainPrompt": "How is a chemical reaction different from a physical change? Explain the idea in your own words."
   },
   {
     "id": "acid_src_006",
@@ -140,19 +154,21 @@
     ],
     "acceptedAnswers": [
       "pH less than 7",
-      "below 7"
+      "below 7",
+      "An acid is a solution with a pH value less than 7"
     ],
-    "explanation": "The checklist glossary defines an acid as a solution below pH 7.",
+    "explanation": "An acid is a solution with a pH value less than 7.",
     "commonMistakes": [
       "Saying acids are above pH 7"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What pH values do acids have?"
   },
   {
     "id": "acid_src_007",
     "topic": "Acids and Alkalis",
     "subtopic": "Acids and alkalis",
-    "fact": "An alkali is a soluble base.",
+    "fact": "An alkali is a base that dissolves in water. Soluble means able to dissolve.",
     "keywords": [
       "alkali",
       "soluble base"
@@ -163,13 +179,15 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "soluble base"
+      "soluble base",
+      "An alkali is a base that dissolves in water. Soluble means able to dissolve"
     ],
-    "explanation": "A base that dissolves in water is called an alkali.",
+    "explanation": "An alkali is a base that dissolves in water. Soluble means able to dissolve.",
     "commonMistakes": [
       "Saying every base is an alkali"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is an alkali?"
   },
   {
     "id": "acid_src_008",
@@ -188,19 +206,21 @@
     ],
     "acceptedAnswers": [
       "substance that neutralises an acid",
-      "neutralises an acid"
+      "neutralises an acid",
+      "A base is a substance that neutralises an acid"
     ],
-    "explanation": "The mindmap adds that an alkali is a soluble base.",
+    "explanation": "A base is a substance that neutralises an acid.",
     "commonMistakes": [
       "Thinking a base is always an acid"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does a base do to an acid?"
   },
   {
     "id": "acid_src_009",
     "topic": "Acids and Alkalis",
     "subtopic": "Acids and alkalis",
-    "fact": "Hydrochloric acid and sulfuric acid are examples of acids in the revision spread.",
+    "fact": "Hydrochloric acid and sulfuric acid are examples of acids.",
     "keywords": [
       "hydrochloric acid",
       "sulfuric acid",
@@ -214,19 +234,21 @@
     "acceptedAnswers": [
       "hydrochloric acid and sulfuric acid",
       "hydrochloric acid",
-      "sulfuric acid"
+      "sulfuric acid",
+      "Hydrochloric acid and sulfuric acid are examples of acids"
     ],
-    "explanation": "These two examples are named in the acids revision spread.",
+    "explanation": "Hydrochloric acid and sulfuric acid are examples of acids.",
     "commonMistakes": [
       "Giving sodium hydroxide as an acid"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "Name two acids used in science lessons."
   },
   {
     "id": "acid_src_010",
     "topic": "Acids and Alkalis",
     "subtopic": "Acids and alkalis",
-    "fact": "Sodium hydroxide and potassium hydroxide are examples of alkalis in the revision spread.",
+    "fact": "Sodium hydroxide and potassium hydroxide are examples of alkalis.",
     "keywords": [
       "sodium hydroxide",
       "potassium hydroxide",
@@ -240,13 +262,15 @@
     "acceptedAnswers": [
       "sodium hydroxide and potassium hydroxide",
       "sodium hydroxide",
-      "potassium hydroxide"
+      "potassium hydroxide",
+      "Sodium hydroxide and potassium hydroxide are examples of alkalis"
     ],
-    "explanation": "These are the named alkali examples in the revision spread.",
+    "explanation": "Sodium hydroxide and potassium hydroxide are examples of alkalis.",
     "commonMistakes": [
       "Giving vinegar as an alkali"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "Name two alkalis used in science lessons."
   },
   {
     "id": "acid_src_011",
@@ -266,13 +290,15 @@
     ],
     "acceptedAnswers": [
       "burn your skin or eyes",
-      "burns skin or eyes"
+      "burns skin or eyes",
+      "A corrosive substance can burn your skin or eyes"
     ],
-    "explanation": "The glossary defines corrosive as able to burn skin or eyes.",
+    "explanation": "A corrosive substance can burn your skin or eyes.",
     "commonMistakes": [
       "Saying corrosive means harmless"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does corrosive mean?"
   },
   {
     "id": "acid_src_012",
@@ -290,13 +316,15 @@
     ],
     "acceptedAnswers": [
       "makes your skin itch or swell",
-      "itch or swell"
+      "itch or swell",
+      "An irritant substance makes your skin itch or swell up a little"
     ],
-    "explanation": "Irritant is a hazard term from the glossary.",
+    "explanation": "An irritant substance makes your skin itch or swell up a little.",
     "commonMistakes": [
       "Confusing irritant with corrosive"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does irritant mean?"
   },
   {
     "id": "acid_src_013",
@@ -316,19 +344,23 @@
     ],
     "acceptedAnswers": [
       "concentrated is more corrosive",
-      "more corrosive than dilute"
+      "more corrosive than dilute",
+      "Concentrated hydrochloric acid is more corrosive than dilute hydrochloric acid",
+      "Concentrated hydrochloric acid is more corrosive than dilute hydrochloric acid."
     ],
-    "explanation": "This comparison appears directly on the acids revision spread.",
+    "explanation": "Concentrated hydrochloric acid is more corrosive than dilute hydrochloric acid.",
     "commonMistakes": [
-      "Saying dilute hydrochloric acid is more corrosive"
+      "Dilute hydrochloric acid is more corrosive than concentrated hydrochloric acid"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "Which is more corrosive: concentrated or dilute hydrochloric acid?",
+    "explainPrompt": "Which is more corrosive: concentrated or dilute hydrochloric acid? Explain the idea in your own words."
   },
   {
     "id": "acid_src_014",
     "topic": "Acids and Alkalis",
     "subtopic": "Concentration",
-    "fact": "Concentration is a measure of the number of particles in a given volume.",
+    "fact": "Concentration tells you how many dissolved particles there are in a set volume of solution.",
     "keywords": [
       "concentration",
       "particles",
@@ -341,19 +373,23 @@
     ],
     "acceptedAnswers": [
       "number of particles in a given volume",
-      "particles per volume"
+      "particles per volume",
+      "Concentration tells you how many dissolved particles there are in a set volume of solution",
+      "Concentration tells you how many dissolved particles there are in a set volume of solution."
     ],
-    "explanation": "This is the glossary definition of concentration.",
+    "explanation": "Concentration tells you how many dissolved particles there are in a set volume of solution.",
     "commonMistakes": [
       "Confusing concentration with acid strength"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does concentration tell you about a solution?",
+    "explainPrompt": "What does concentration tell you about a solution? Explain the idea in your own words."
   },
   {
     "id": "acid_src_015",
     "topic": "Acids and Alkalis",
     "subtopic": "Concentration",
-    "fact": "A dilute solution has a small number of solute particles per unit volume.",
+    "fact": "A dilute solution has few dissolved particles in a set volume of solution.",
     "keywords": [
       "dilute",
       "solute particles",
@@ -366,13 +402,15 @@
     ],
     "acceptedAnswers": [
       "small number of solute particles per unit volume",
-      "few solute particles per volume"
+      "few solute particles per volume",
+      "A dilute solution has few dissolved particles in a set volume of solution"
     ],
-    "explanation": "Dilute describes how many solute particles are in each litre or cubic metre.",
+    "explanation": "A dilute solution has few dissolved particles in a set volume of solution.",
     "commonMistakes": [
       "Saying dilute means neutral"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does dilute mean?"
   },
   {
     "id": "acid_src_016",
@@ -392,13 +430,15 @@
     ],
     "acceptedAnswers": [
       "identify whether a solution is acidic or alkaline",
-      "shows acidic or alkaline"
+      "shows acidic or alkaline",
+      "An indicator is used to identify whether an unknown solution is acidic or alkaline"
     ],
-    "explanation": "The mindmap and glossary both define indicators this way.",
+    "explanation": "An indicator is used to identify whether an unknown solution is acidic or alkaline.",
     "commonMistakes": [
       "Saying indicators neutralise acids"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does an indicator tell you about a solution?"
   },
   {
     "id": "acid_src_017",
@@ -418,13 +458,15 @@
     "acceptedAnswers": [
       "litmus paper and universal indicator",
       "litmus",
-      "universal indicator"
+      "universal indicator",
+      "Litmus paper and universal indicator are examples of chemical indicators"
     ],
-    "explanation": "Both examples appear on the revision spread.",
+    "explanation": "Litmus paper and universal indicator are examples of chemical indicators.",
     "commonMistakes": [
       "Giving hydrochloric acid as an indicator"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "Name two chemical indicators."
   },
   {
     "id": "acid_src_018",
@@ -443,13 +485,15 @@
     ],
     "acceptedAnswers": [
       "blue litmus goes red",
-      "red"
+      "red",
+      "Blue litmus paper goes red when acid is added"
     ],
-    "explanation": "The glossary states blue litmus paper goes red on adding acid.",
+    "explanation": "Blue litmus paper goes red when acid is added.",
     "commonMistakes": [
       "Reversing the litmus colours"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What colour does blue litmus paper turn in an acid?"
   },
   {
     "id": "acid_src_019",
@@ -468,13 +512,15 @@
     ],
     "acceptedAnswers": [
       "red litmus goes blue",
-      "blue"
+      "blue",
+      "Red litmus paper goes blue when alkali is added"
     ],
-    "explanation": "The glossary states red litmus paper goes blue on adding alkali.",
+    "explanation": "Red litmus paper goes blue when alkali is added.",
     "commonMistakes": [
       "Reversing the litmus colours"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What colour does red litmus paper turn in an alkali?"
   },
   {
     "id": "acid_src_020",
@@ -493,13 +539,17 @@
     ],
     "acceptedAnswers": [
       "changes colour to show pH",
-      "shows pH"
+      "shows pH",
+      "Universal indicator changes colour to show the pH of a solution",
+      "Universal indicator changes colour to show the pH of a solution."
     ],
-    "explanation": "Universal indicator is a mixture of dyes used to show pH.",
+    "explanation": "Universal indicator changes colour to show the pH of a solution.",
     "commonMistakes": [
       "Thinking universal indicator only says acid or alkali"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "How does universal indicator show the pH of a solution?",
+    "explainPrompt": "How does universal indicator show the pH of a solution? Explain the idea in your own words."
   },
   {
     "id": "acid_src_021",
@@ -518,13 +568,15 @@
     ],
     "acceptedAnswers": [
       "0 to 14",
-      "zero to fourteen"
+      "zero to fourteen",
+      "The pH scale runs from 0 to 14"
     ],
-    "explanation": "The acids revision spread asks this and gives 0-14.",
+    "explanation": "The pH scale runs from 0 to 14.",
     "commonMistakes": [
       "Saying pH runs from 1 to 10"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What numbers does the pH scale usually run from and to?"
   },
   {
     "id": "acid_src_022",
@@ -542,13 +594,15 @@
     ],
     "acceptedAnswers": [
       "pH 7",
-      "7"
+      "7",
+      "A solution of pH 7 is neutral"
     ],
-    "explanation": "The checklist glossary and mindmap both identify pH 7 as neutral.",
+    "explanation": "A solution of pH 7 is neutral.",
     "commonMistakes": [
       "Saying pH 7 is acid"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What pH is a neutral solution?"
   },
   {
     "id": "acid_src_023",
@@ -568,19 +622,23 @@
     ],
     "acceptedAnswers": [
       "shows whether acidic alkaline or neutral",
-      "acidic alkaline or neutral"
+      "acidic alkaline or neutral",
+      "The pH scale shows whether a substance is acidic, alkaline, or neutral",
+      "The pH scale shows whether a substance is acidic, alkaline, or neutral."
     ],
-    "explanation": "This is the glossary definition of the pH scale.",
+    "explanation": "The pH scale shows whether a substance is acidic, alkaline, or neutral.",
     "commonMistakes": [
       "Saying pH measures temperature"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does the pH scale tell you about a solution?",
+    "explainPrompt": "What does the pH scale tell you about a solution? Explain the idea in your own words."
   },
   {
     "id": "acid_src_024",
     "topic": "Acids and Alkalis",
     "subtopic": "Indicators and pH",
-    "fact": "Stomach acid is pH 2 in the revision spread.",
+    "fact": "Stomach acid is pH 2.",
     "keywords": [
       "stomach acid",
       "pH 2"
@@ -592,19 +650,21 @@
     ],
     "acceptedAnswers": [
       "pH 2",
-      "2"
+      "2",
+      "Stomach acid is pH 2"
     ],
-    "explanation": "The revision spread lists stomach acid as pH 2.",
+    "explanation": "Stomach acid is pH 2.",
     "commonMistakes": [
       "Saying stomach acid is neutral"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What pH is stomach acid in your revision notes?"
   },
   {
     "id": "acid_src_025",
     "topic": "Acids and Alkalis",
     "subtopic": "Indicators and pH",
-    "fact": "Bleach is pH 13 in the revision spread.",
+    "fact": "Bleach is pH 13.",
     "keywords": [
       "bleach",
       "pH 13"
@@ -616,19 +676,21 @@
     ],
     "acceptedAnswers": [
       "pH 13",
-      "13"
+      "13",
+      "Bleach is pH 13"
     ],
-    "explanation": "The revision spread lists bleach as pH 13.",
+    "explanation": "Bleach is pH 13.",
     "commonMistakes": [
       "Saying bleach is acidic"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What pH is bleach in your revision notes?"
   },
   {
     "id": "acid_src_026",
     "topic": "Acids and Alkalis",
     "subtopic": "Indicators and pH",
-    "fact": "Pure water is pH 7 in the revision spread.",
+    "fact": "Pure water is pH 7.",
     "keywords": [
       "pure water",
       "pH 7"
@@ -640,19 +702,21 @@
     ],
     "acceptedAnswers": [
       "pH 7",
-      "7"
+      "7",
+      "Pure water is pH 7"
     ],
-    "explanation": "Pure water is listed as neutral, pH 7.",
+    "explanation": "Pure water is pH 7.",
     "commonMistakes": [
       "Saying pure water is pH 0"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What pH is pure water?"
   },
   {
     "id": "acid_src_027",
     "topic": "Acids and Alkalis",
     "subtopic": "Acidity and alkalinity",
-    "fact": "Cola, lemon juice and vinegar are acidic in the revision spread table.",
+    "fact": "Cola, lemon juice and vinegar are acidic.",
     "keywords": [
       "cola",
       "lemon juice",
@@ -668,19 +732,21 @@
       "cola lemon juice and vinegar",
       "cola",
       "lemon juice",
-      "vinegar"
+      "vinegar",
+      "Cola, lemon juice and vinegar are acidic"
     ],
-    "explanation": "The source table marks these substances as acids.",
+    "explanation": "Cola, lemon juice and vinegar are acidic.",
     "commonMistakes": [
       "Putting vinegar in the alkali column"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "Name three acidic substances from everyday life."
   },
   {
     "id": "acid_src_028",
     "topic": "Acids and Alkalis",
     "subtopic": "Acidity and alkalinity",
-    "fact": "Drain cleaner, toothpaste and oven cleaner are alkaline in the revision spread table.",
+    "fact": "Drain cleaner, toothpaste and oven cleaner are alkaline.",
     "keywords": [
       "drain cleaner",
       "toothpaste",
@@ -696,19 +762,21 @@
       "drain cleaner toothpaste and oven cleaner",
       "toothpaste",
       "oven cleaner",
-      "drain cleaner"
+      "drain cleaner",
+      "Drain cleaner, toothpaste and oven cleaner are alkaline"
     ],
-    "explanation": "The source table marks these substances as alkalis.",
+    "explanation": "Drain cleaner, toothpaste and oven cleaner are alkaline.",
     "commonMistakes": [
       "Putting toothpaste as neutral"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "Name three alkaline substances from everyday life."
   },
   {
     "id": "acid_src_029",
     "topic": "Acids and Alkalis",
     "subtopic": "Acidity and alkalinity",
-    "fact": "Sugar solution and pure water are neutral in the revision spread table.",
+    "fact": "Sugar solution and pure water are neutral.",
     "keywords": [
       "sugar solution",
       "pure water",
@@ -722,19 +790,21 @@
     "acceptedAnswers": [
       "sugar solution and pure water",
       "pure water",
-      "sugar solution"
+      "sugar solution",
+      "Sugar solution and pure water are neutral"
     ],
-    "explanation": "The source table marks sugar solution and pure water as neutral.",
+    "explanation": "Sugar solution and pure water are neutral.",
     "commonMistakes": [
       "Putting pure water as acidic"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "Name two neutral solutions."
   },
   {
     "id": "acid_src_030",
     "topic": "Acids and Alkalis",
     "subtopic": "Acid strength",
-    "fact": "A strong acid is an acid in which all of the acid particles split up when it dissolves in water.",
+    "fact": "In a strong acid, all the acid particles split up into ions when the acid dissolves in water.",
     "keywords": [
       "strong acid",
       "all particles split up",
@@ -747,19 +817,23 @@
     ],
     "acceptedAnswers": [
       "all acid particles split up",
-      "all particles split up"
+      "all particles split up",
+      "In a strong acid, all the acid particles split up into ions when the acid dissolves in water",
+      "In a strong acid, all the acid particles split up into ions when the acid dissolves in water. Ions are particles with an electric charge. Strength is different from concentration."
     ],
-    "explanation": "This is the checklist glossary definition of strong acid.",
+    "explanation": "In a strong acid, all the acid particles split up into ions when the acid dissolves in water. Ions are particles with an electric charge. Strength is different from concentration.",
     "commonMistakes": [
       "Saying strong acid means concentrated acid"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What happens to the particles of a strong acid in water?",
+    "explainPrompt": "What happens to the particles of a strong acid in water? Explain the idea in your own words."
   },
   {
     "id": "acid_src_031",
     "topic": "Acids and Alkalis",
     "subtopic": "Acid strength",
-    "fact": "A weak acid is an acid in which only some of the acid particles split up when it dissolves in water.",
+    "fact": "In a weak acid, only some acid particles split up into ions when the acid dissolves in water.",
     "keywords": [
       "weak acid",
       "some particles split up",
@@ -772,13 +846,17 @@
     ],
     "acceptedAnswers": [
       "only some acid particles split up",
-      "some particles split up"
+      "some particles split up",
+      "In a weak acid, only some acid particles split up into ions when the acid dissolves in water",
+      "In a weak acid, only some acid particles split up into ions when the acid dissolves in water. Ions are particles with an electric charge. A weak acid is still acidic."
     ],
-    "explanation": "This is the checklist glossary definition of weak acid.",
+    "explanation": "In a weak acid, only some acid particles split up into ions when the acid dissolves in water. Ions are particles with an electric charge. A weak acid is still acidic.",
     "commonMistakes": [
       "Saying weak acid means dilute acid"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What happens to the particles of a weak acid in water?",
+    "explainPrompt": "What happens to the particles of a weak acid in water? Explain the idea in your own words."
   },
   {
     "id": "acid_src_032",
@@ -798,13 +876,17 @@
     ],
     "acceptedAnswers": [
       "acid cancels out a base",
-      "base cancels out an acid"
+      "base cancels out an acid",
+      "Neutralisation is when an acid cancels out a base or a base cancels out an acid",
+      "Neutralisation is when an acid cancels out a base or a base cancels out an acid."
     ],
-    "explanation": "The checklist glossary defines neutralisation as acid and base cancelling each other out.",
+    "explanation": "Neutralisation is when an acid cancels out a base or a base cancels out an acid.",
     "commonMistakes": [
       "Saying neutralisation means adding water only"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is neutralisation?",
+    "explainPrompt": "What is neutralisation? Explain the idea in your own words."
   },
   {
     "id": "acid_src_033",
@@ -823,13 +905,15 @@
       "fill-blank"
     ],
     "acceptedAnswers": [
-      "salt and water"
+      "salt and water",
+      "Acid plus alkali makes salt and water"
     ],
-    "explanation": "The revision spread gives the general neutralisation equation acid + alkali -> salt + water.",
+    "explanation": "Acid plus alkali makes salt and water.",
     "commonMistakes": [
       "Forgetting water"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does an acid make when it reacts with an alkali?"
   },
   {
     "id": "acid_src_034",
@@ -848,19 +932,24 @@
     ],
     "acceptedAnswers": [
       "solution turns green",
-      "green"
+      "green",
+      "Neutralisation has been reached with universal indicator when the solution turns green",
+      "Neutralisation has been reached with universal indicator when the solution turns green."
     ],
-    "explanation": "The mindmap says the solution turns green when neutralisation is reached using universal indicator.",
+    "explanation": "Neutralisation has been reached with universal indicator when the solution turns green.",
     "commonMistakes": [
       "Stopping when the solution turns red"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What colour is universal indicator in a neutral solution?",
+    "explainPrompt": "What colour is universal indicator in a neutral solution? Explain the idea in your own words.",
+    "applicationPrompt": "You add alkali to an acid while using universal indicator. How can you tell when the solution becomes neutral?"
   },
   {
     "id": "acid_src_035",
     "topic": "Acids and Alkalis",
     "subtopic": "Neutralisation",
-    "fact": "Salty water is pH 7 in the revision spread.",
+    "fact": "Salty water is pH 7.",
     "keywords": [
       "salty water",
       "pH 7"
@@ -872,13 +961,15 @@
     ],
     "acceptedAnswers": [
       "pH 7",
-      "7"
+      "7",
+      "Salty water is pH 7"
     ],
-    "explanation": "The revision spread directly gives salty water as pH 7.",
+    "explanation": "Salty water is pH 7.",
     "commonMistakes": [
       "Saying salty water is strongly acidic"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What pH is salty water in your revision notes?"
   },
   {
     "id": "acid_src_036",
@@ -897,13 +988,15 @@
       "fill-blank"
     ],
     "acceptedAnswers": [
-      "sodium chloride and water"
+      "sodium chloride and water",
+      "Hydrochloric acid plus sodium hydroxide makes sodium chloride and water"
     ],
-    "explanation": "This completed equation appears on the acids revision spread.",
+    "explanation": "Hydrochloric acid plus sodium hydroxide makes sodium chloride and water.",
     "commonMistakes": [
       "Writing sodium sulfate"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does hydrochloric acid make when it reacts with sodium hydroxide?"
   },
   {
     "id": "acid_src_037",
@@ -922,13 +1015,15 @@
       "fill-blank"
     ],
     "acceptedAnswers": [
-      "copper sulfate and water"
+      "copper sulfate and water",
+      "Sulfuric acid plus copper oxide makes copper sulfate and water"
     ],
-    "explanation": "This completed equation appears on the acids revision spread.",
+    "explanation": "Sulfuric acid plus copper oxide makes copper sulfate and water.",
     "commonMistakes": [
       "Writing copper chloride"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does sulfuric acid make when it reacts with copper oxide?"
   },
   {
     "id": "acid_src_038",
@@ -947,19 +1042,21 @@
       "fill-blank"
     ],
     "acceptedAnswers": [
-      "lithium sulfate and water"
+      "lithium sulfate and water",
+      "Lithium hydroxide plus sulfuric acid makes lithium sulfate and water"
     ],
-    "explanation": "This completed equation appears on the acids revision spread.",
+    "explanation": "Lithium hydroxide plus sulfuric acid makes lithium sulfate and water.",
     "commonMistakes": [
       "Writing lithium chloride"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does lithium hydroxide make when it reacts with sulfuric acid?"
   },
   {
     "id": "acid_src_039",
     "topic": "Acids and Alkalis",
     "subtopic": "Making salts",
-    "fact": "A salt is a compound in which the hydrogen atoms of an acid are replaced by atoms of a metal element.",
+    "fact": "A salt forms when the hydrogen in an acid is replaced by a metal. Acid reactions can make many different salts.",
     "keywords": [
       "salt",
       "hydrogen atoms",
@@ -972,13 +1069,17 @@
     ],
     "acceptedAnswers": [
       "hydrogen atoms replaced by metal atoms",
-      "hydrogen atoms of an acid are replaced"
+      "hydrogen atoms of an acid are replaced",
+      "A salt forms when the hydrogen in an acid is replaced by a metal. Acid reactions can make many different salts",
+      "A salt forms when the hydrogen in an acid is replaced by a metal. Acid reactions can make many different salts."
     ],
-    "explanation": "This is the glossary definition of a salt.",
+    "explanation": "A salt forms when the hydrogen in an acid is replaced by a metal. Acid reactions can make many different salts.",
     "commonMistakes": [
       "Thinking salt only means table salt"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "How is a salt made from an acid and a metal or base?",
+    "explainPrompt": "How is a salt made from an acid and a metal or base? Explain the idea in your own words."
   },
   {
     "id": "acid_src_040",
@@ -997,19 +1098,23 @@
     ],
     "acceptedAnswers": [
       "salt",
-      "forms a salt"
+      "forms a salt",
+      "The reaction between an acid and base forms a salt",
+      "The reaction between an acid and base forms a salt."
     ],
-    "explanation": "The checklist asks pupils to state products formed when an acid reacts with a base.",
+    "explanation": "The reaction between an acid and base forms a salt.",
     "commonMistakes": [
       "Saying acid plus base makes only acid"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What type of compound forms when an acid reacts with a base?",
+    "explainPrompt": "What type of compound forms when an acid reacts with a base? Explain the idea in your own words."
   },
   {
     "id": "acid_src_041",
     "topic": "Acids and Alkalis",
     "subtopic": "Making salts",
-    "fact": "The source asks pupils to choose salts formed when acids react with metals or bases.",
+    "fact": "The acid and the metal or base determine the salt name. For example, hydrochloric acid and sodium hydroxide make sodium chloride.",
     "keywords": [
       "salts",
       "acids",
@@ -1021,20 +1126,24 @@
       "application"
     ],
     "acceptedAnswers": [
-      "choose the salt from the acid and metal or base",
-      "salt formed"
+      "The acid and metal or base determine the salt name",
+      "acid and metal",
+      "The acid and the metal or base determine the salt name. For example, hydrochloric acid and sodium hydroxide make sodium chloride",
+      "The acid and the metal or base determine the salt name. For example, hydrochloric acid and sodium hydroxide make sodium chloride."
     ],
-    "explanation": "Salt names come from the reacting acid and metal/base examples in the source.",
+    "explanation": "The acid and the metal or base determine the salt name. For example, hydrochloric acid and sodium hydroxide make sodium chloride.",
     "commonMistakes": [
       "Choosing a random salt name"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "How do you work out the name of a salt?",
+    "applicationPrompt": "An acid reacts with a metal or base. Which two substances help you work out the salt name?"
   },
   {
     "id": "acid_src_042",
     "topic": "Acids and Alkalis",
     "subtopic": "Hazards",
-    "fact": "The acids source includes harmful, corrosive, explosive, flammable, toxic, and harmful to the environment hazard symbols.",
+    "fact": "Hazard symbols warn about dangers: harmful, corrosive, explosive, flammable, toxic and harmful to the environment.",
     "keywords": [
       "harmful",
       "corrosive",
@@ -1049,13 +1158,15 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "harmful corrosive explosive flammable toxic harmful to the environment"
+      "harmful corrosive explosive flammable toxic harmful to the environment",
+      "Hazard symbols warn about dangers: harmful, corrosive, explosive, flammable, toxic and harmful to the environment"
     ],
-    "explanation": "These six hazard symbols are named on the revision spread.",
+    "explanation": "Hazard symbols warn about dangers: harmful, corrosive, explosive, flammable, toxic and harmful to the environment.",
     "commonMistakes": [
       "Calling corrosive flammable"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "Name the six hazard symbols in your revision notes."
   },
   {
     "id": "acid_src_043",
@@ -1073,19 +1184,21 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "green"
+      "green",
+      "A neutral solution turns universal indicator green"
     ],
-    "explanation": "The revision spread says neutralisation is reached when universal indicator turns green.",
+    "explanation": "A neutral solution turns universal indicator green.",
     "commonMistakes": [
       "Saying neutral is red"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "What colour does a neutral solution turn universal indicator?"
   },
   {
     "id": "acid_src_044",
     "topic": "Acids and Alkalis",
     "subtopic": "Indicators and pH",
-    "fact": "Weak acid is labelled below strong acid and before neutral on the pH scale in the revision spread.",
+    "fact": "Acids have a pH below 7. Acid strength and concentration are different ideas; pH alone does not tell you acid strength.",
     "keywords": [
       "weak acid",
       "pH scale",
@@ -1097,20 +1210,24 @@
       "application"
     ],
     "acceptedAnswers": [
-      "between strong acid and neutral",
-      "acidic side before neutral"
+      "below pH 7",
+      "below 7",
+      "Acids have a pH below 7. Acid strength and concentration are different ideas; pH alone does not tell you acid strength",
+      "Acids have a pH below 7. Acid strength and concentration are different ideas; pH alone does not tell you acid strength."
     ],
-    "explanation": "Weak acid is still acidic, so it is below pH 7 but closer to neutral than a strong acid.",
+    "explanation": "Acids have a pH below 7. Acid strength and concentration are different ideas; pH alone does not tell you acid strength.",
     "commonMistakes": [
       "Putting weak acid above pH 7"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "Are acids below or above pH 7?",
+    "applicationPrompt": "A liquid turns blue litmus paper red. Is its pH below or above 7?"
   },
   {
     "id": "acid_src_045",
     "topic": "Acids and Alkalis",
     "subtopic": "Indicators and pH",
-    "fact": "Weak alkali is labelled after neutral and before strong alkali on the pH scale in the revision spread.",
+    "fact": "Alkalis have a pH above 7. How far above 7 depends on the alkali and its concentration.",
     "keywords": [
       "weak alkali",
       "pH scale",
@@ -1122,14 +1239,18 @@
       "application"
     ],
     "acceptedAnswers": [
-      "between neutral and strong alkali",
-      "alkaline side after neutral"
+      "above pH 7",
+      "above 7",
+      "Alkalis have a pH above 7. How far above 7 depends on the alkali and its concentration",
+      "Alkalis have a pH above 7. How far above 7 depends on the alkali and its concentration."
     ],
-    "explanation": "Weak alkali is above pH 7 but closer to neutral than strong alkali.",
+    "explanation": "Alkalis have a pH above 7. How far above 7 depends on the alkali and its concentration.",
     "commonMistakes": [
       "Putting weak alkali below pH 7"
     ],
-    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf"
+    "source": "Y7_Acids_and_Alkalis_Checklist__Glossary__BBC_Bitesize_Links.docx; 7F_Mindmap_for_Acids_and_Alkalis.jpg.png; 6.1_Knowledge_Organiser.pdf",
+    "recallPrompt": "Are alkalis below or above pH 7?",
+    "applicationPrompt": "A liquid turns red litmus paper blue. Is its pH below or above 7?"
   },
   {
     "id": "eco_src_001",
@@ -1148,13 +1269,15 @@
     ],
     "acceptedAnswers": [
       "starts with a producer and ends with a top predator",
-      "part of a food web"
+      "part of a food web",
+      "A food chain is part of a food web, starting with a producer and ending with a top predator"
     ],
-    "explanation": "This is the glossary definition of food chain.",
+    "explanation": "A food chain is part of a food web, starting with a producer and ending with a top predator.",
     "commonMistakes": [
       "Starting a food chain with a top predator"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "How does a food chain usually start and end?"
   },
   {
     "id": "eco_src_002",
@@ -1173,13 +1296,17 @@
     ],
     "acceptedAnswers": [
       "transfer of energy",
-      "energy transfer"
+      "energy transfer",
+      "A food chain diagram shows the transfer of energy between organisms",
+      "A food chain diagram shows the transfer of energy between organisms."
     ],
-    "explanation": "The glossary says food chains show energy transfer.",
+    "explanation": "A food chain diagram shows the transfer of energy between organisms.",
     "commonMistakes": [
       "Saying arrows show what gets eaten"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does a food chain diagram show?",
+    "explainPrompt": "What does a food chain diagram show? Explain the idea in your own words."
   },
   {
     "id": "eco_src_003",
@@ -1197,13 +1324,17 @@
     ],
     "acceptedAnswers": [
       "direction energy flows",
-      "energy flow"
+      "energy flow",
+      "Food chains show the direction in which energy flows when one organism eats another",
+      "Food chains show the direction in which energy flows when one organism eats another."
     ],
-    "explanation": "The ecosystems knowledge organiser gives this wording.",
+    "explanation": "Food chains show the direction in which energy flows when one organism eats another.",
     "commonMistakes": [
       "Drawing arrows backwards"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What do the arrows in a food chain show?",
+    "applicationPrompt": "In the food chain grass \u2192 rabbit \u2192 fox, what do the arrows show?"
   },
   {
     "id": "eco_src_004",
@@ -1222,13 +1353,15 @@
     ],
     "acceptedAnswers": [
       "linked food chains",
-      "how food chains are linked"
+      "how food chains are linked",
+      "A food web shows how food chains in an ecosystem are linked"
     ],
-    "explanation": "This is the glossary definition of food web.",
+    "explanation": "A food web shows how food chains in an ecosystem are linked.",
     "commonMistakes": [
       "Thinking a food web is one straight chain"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is a food web?"
   },
   {
     "id": "eco_src_005",
@@ -1248,13 +1381,15 @@
     ],
     "acceptedAnswers": [
       "green plant or algae that makes its own food",
-      "photosynthesis"
+      "photosynthesis",
+      "A producer is a green plant or algae that makes its own food using sunlight by photosynthesis"
     ],
-    "explanation": "This is the source definition of producer.",
+    "explanation": "A producer is a green plant or algae that makes its own food using sunlight by photosynthesis.",
     "commonMistakes": [
       "Calling an animal a producer"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is a producer?"
   },
   {
     "id": "eco_src_006",
@@ -1273,13 +1408,15 @@
     ],
     "acceptedAnswers": [
       "animal that eats other animals or plants",
-      "eats animals or plants"
+      "eats animals or plants",
+      "A consumer is an animal that eats other animals or plants"
     ],
-    "explanation": "This is the source definition of consumer.",
+    "explanation": "A consumer is an animal that eats other animals or plants.",
     "commonMistakes": [
       "Saying consumers make their own food"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is a consumer?"
   },
   {
     "id": "eco_src_007",
@@ -1296,13 +1433,15 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "animal that eats other animals"
+      "animal that eats other animals",
+      "A predator is an animal that eats other animals"
     ],
-    "explanation": "This is the glossary definition of predator.",
+    "explanation": "A predator is an animal that eats other animals.",
     "commonMistakes": [
       "Calling the eaten animal the predator"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is a predator?"
   },
   {
     "id": "eco_src_008",
@@ -1319,13 +1458,15 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "animal eaten by another animal"
+      "animal eaten by another animal",
+      "Prey is an animal that is eaten by another animal"
     ],
-    "explanation": "This is the glossary definition of prey.",
+    "explanation": "Prey is an animal that is eaten by another animal.",
     "commonMistakes": [
       "Calling prey the hunter"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is prey?"
   },
   {
     "id": "eco_src_009",
@@ -1346,13 +1487,17 @@
     ],
     "acceptedAnswers": [
       "breaks down dead plant and animal material",
-      "recycles nutrients"
+      "recycles nutrients",
+      "A decomposer breaks down dead plant and animal material so nutrients can be recycled back to soil or water",
+      "A decomposer breaks down dead plant and animal material so nutrients can be recycled back to soil or water."
     ],
-    "explanation": "This is the source definition of decomposer.",
+    "explanation": "A decomposer breaks down dead plant and animal material so nutrients can be recycled back to soil or water.",
     "commonMistakes": [
       "Thinking decomposers only eat live animals"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does a decomposer do?",
+    "explainPrompt": "What does a decomposer do? Explain the idea in your own words."
   },
   {
     "id": "eco_src_010",
@@ -1373,13 +1518,17 @@
     ],
     "acceptedAnswers": [
       "depend on each other to survive grow and reproduce",
-      "depend on each other"
+      "depend on each other",
+      "Interdependence is the way living organisms depend on each other to survive, grow, and reproduce",
+      "Interdependence is the way living organisms depend on each other to survive, grow, and reproduce. For example, bees get food from flowers and help pollinate them."
     ],
-    "explanation": "This is the glossary definition of interdependence.",
+    "explanation": "Interdependence is the way living organisms depend on each other to survive, grow, and reproduce. For example, bees get food from flowers and help pollinate them.",
     "commonMistakes": [
       "Thinking organisms are independent in a food web"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does interdependence mean?",
+    "explainPrompt": "What does interdependence mean? Explain the idea in your own words."
   },
   {
     "id": "eco_src_011",
@@ -1398,19 +1547,23 @@
     ],
     "acceptedAnswers": [
       "build-up of toxic chemicals",
-      "toxic chemicals build up"
+      "toxic chemicals build up",
+      "Bioaccumulation is the build-up of toxic chemicals inside organisms in a food chain",
+      "Bioaccumulation is the build-up of toxic chemicals inside organisms in a food chain. Toxic means harmful or poisonous."
     ],
-    "explanation": "This is the source definition of bioaccumulation.",
+    "explanation": "Bioaccumulation is the build-up of toxic chemicals inside organisms in a food chain. Toxic means harmful or poisonous.",
     "commonMistakes": [
       "Thinking bioaccumulation means more animals"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is bioaccumulation?",
+    "explainPrompt": "What is bioaccumulation? Explain the idea in your own words."
   },
   {
     "id": "eco_src_012",
     "topic": "Ecosystems",
     "subtopic": "Disruption to food chains and webs",
-    "fact": "The source asks pupils to explain the importance of insect pollinators to food supplies.",
+    "fact": "Insects move pollen between flowers. This helps many food plants make seeds and fruit.",
     "keywords": [
       "insect pollinators",
       "food supplies"
@@ -1421,14 +1574,19 @@
       "application"
     ],
     "acceptedAnswers": [
-      "pollinate plants for food supplies",
-      "important to food supplies"
+      "Insects pollinate food plants so they can make seeds and fruit",
+      "pollinate plants",
+      "Insects move pollen between flowers. This helps many food plants make seeds and fruit",
+      "Insects move pollen between flowers. This helps many food plants make seeds and fruit."
     ],
-    "explanation": "Pollinators help flowering plants reproduce, which matters for food supplies.",
+    "explanation": "Insects move pollen between flowers. This helps many food plants make seeds and fruit.",
     "commonMistakes": [
       "Thinking pollinators are only pests"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "Why are insect pollinators important for our food?",
+    "explainPrompt": "Why are insect pollinators important for our food? Explain the idea in your own words.",
+    "applicationPrompt": "Fewer insects visit a field of flowering food plants. Why could this reduce the amount of food produced?"
   },
   {
     "id": "eco_src_013",
@@ -1447,19 +1605,21 @@
     ],
     "acceptedAnswers": [
       "living things and non-living environment",
-      "organisms and environment"
+      "organisms and environment",
+      "An ecosystem is the living things in a given area and their non-living environment"
     ],
-    "explanation": "This is the glossary definition of ecosystem.",
+    "explanation": "An ecosystem is the living things in a given area and their non-living environment. Non-living parts include water, soil and light.",
     "commonMistakes": [
       "Saying ecosystem means animals only"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is an ecosystem?"
   },
   {
     "id": "eco_src_014",
     "topic": "Ecosystems",
     "subtopic": "Ecosystems",
-    "fact": "A community is the collection of different types of organism present in an ecosystem.",
+    "fact": "A community is all the different populations of living things in an ecosystem.",
     "keywords": [
       "community",
       "different types",
@@ -1473,13 +1633,15 @@
     ],
     "acceptedAnswers": [
       "different types of organism in an ecosystem",
-      "collection of organisms"
+      "collection of organisms",
+      "A community is all the different populations of living things in an ecosystem"
     ],
-    "explanation": "This is the source definition of community.",
+    "explanation": "A community is all the different populations of living things in an ecosystem.",
     "commonMistakes": [
       "Confusing community with population"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is a community in an ecosystem?"
   },
   {
     "id": "eco_src_015",
@@ -1498,13 +1660,15 @@
     ],
     "acceptedAnswers": [
       "area in which an organism lives",
-      "where an organism lives"
+      "where an organism lives",
+      "A habitat is the area in which an organism lives"
     ],
-    "explanation": "This is the glossary definition of habitat.",
+    "explanation": "A habitat is the area in which an organism lives.",
     "commonMistakes": [
       "Confusing habitat with niche"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is a habitat?"
   },
   {
     "id": "eco_src_016",
@@ -1524,13 +1688,15 @@
     ],
     "acceptedAnswers": [
       "surrounding air water and soil",
-      "air water and soil"
+      "air water and soil",
+      "The environment is the surrounding air, water, and soil where an organism lives"
     ],
-    "explanation": "This is the glossary definition of environment.",
+    "explanation": "The environment is the surrounding air, water, and soil where an organism lives.",
     "commonMistakes": [
       "Thinking environment only means air"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What makes up an organism's environment?"
   },
   {
     "id": "eco_src_017",
@@ -1550,13 +1716,17 @@
     ],
     "acceptedAnswers": [
       "particular place or role",
-      "role in an ecosystem"
+      "role in an ecosystem",
+      "A niche is a particular place or role that an organism has in an ecosystem",
+      "A niche is a particular place or role that an organism has in an ecosystem. Its role includes what it eats and how it uses its habitat."
     ],
-    "explanation": "This is the source definition of niche.",
+    "explanation": "A niche is a particular place or role that an organism has in an ecosystem. Its role includes what it eats and how it uses its habitat.",
     "commonMistakes": [
       "Saying niche only means habitat"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is a niche in an ecosystem?",
+    "explainPrompt": "What is a niche in an ecosystem? Explain the idea in your own words."
   },
   {
     "id": "eco_src_018",
@@ -1575,13 +1745,15 @@
     ],
     "acceptedAnswers": [
       "same species living in an area",
-      "group of same species"
+      "group of same species",
+      "A population is a group of the same species living in an area"
     ],
-    "explanation": "This is the glossary definition of population.",
+    "explanation": "A population is a group of the same species living in an area.",
     "commonMistakes": [
       "Saying population means all species"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is a population?"
   },
   {
     "id": "eco_src_019",
@@ -1599,13 +1771,15 @@
     ],
     "acceptedAnswers": [
       "competing for resources",
-      "competing with other organisms"
+      "competing with other organisms",
+      "Competition means competing with other organisms for resources"
     ],
-    "explanation": "This is the glossary definition of competition.",
+    "explanation": "Competition means competing with other organisms for resources.",
     "commonMistakes": [
       "Thinking competition always means fighting"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does competition mean in an ecosystem?"
   },
   {
     "id": "eco_src_020",
@@ -1626,13 +1800,15 @@
     ],
     "acceptedAnswers": [
       "food water space and mates",
-      "food water space mates"
+      "food water space mates",
+      "Animals compete for food, water, space and mates"
     ],
-    "explanation": "The ecosystems knowledge organiser states these animal resources.",
+    "explanation": "Animals compete for food, water, space and mates.",
     "commonMistakes": [
       "Saying animals compete for light"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What do animals compete for?"
   },
   {
     "id": "eco_src_021",
@@ -1653,13 +1829,15 @@
     ],
     "acceptedAnswers": [
       "light water space and minerals",
-      "light water space minerals"
+      "light water space minerals",
+      "Plants compete for light, water, space and minerals"
     ],
-    "explanation": "The ecosystems knowledge organiser states these plant resources.",
+    "explanation": "Plants compete for light, water, space and minerals.",
     "commonMistakes": [
       "Forgetting light"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What do plants compete for?"
   },
   {
     "id": "eco_src_022",
@@ -1679,13 +1857,18 @@
     ],
     "acceptedAnswers": [
       "prey decrease because more are eaten",
-      "more prey are eaten"
+      "more prey are eaten",
+      "As predator numbers increase, prey numbers decrease because more prey are eaten",
+      "As predator numbers increase, prey numbers decrease because more prey are eaten."
     ],
-    "explanation": "This predator-prey relationship appears on the knowledge organiser.",
+    "explanation": "As predator numbers increase, prey numbers decrease because more prey are eaten.",
     "commonMistakes": [
       "Saying prey always increase when predators increase"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "Why might prey numbers fall when predator numbers rise?",
+    "explainPrompt": "Why might prey numbers fall when predator numbers rise? Explain the idea in your own words.",
+    "applicationPrompt": "More foxes start hunting rabbits in a field. What could happen to rabbit numbers? Give a reason."
   },
   {
     "id": "eco_src_023",
@@ -1705,13 +1888,18 @@
     ],
     "acceptedAnswers": [
       "prey increase because fewer are eaten",
-      "less are eaten"
+      "less are eaten",
+      "As predator numbers decrease, prey numbers increase because fewer prey are eaten",
+      "As predator numbers decrease, prey numbers increase because fewer prey are eaten."
     ],
-    "explanation": "This predator-prey relationship appears on the knowledge organiser.",
+    "explanation": "As predator numbers decrease, prey numbers increase because fewer prey are eaten.",
     "commonMistakes": [
       "Saying prey decrease when fewer predators are present"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "Why might prey numbers rise when predator numbers fall?",
+    "explainPrompt": "Why might prey numbers rise when predator numbers fall? Explain the idea in your own words.",
+    "applicationPrompt": "Fewer foxes hunt rabbits in a field. What could happen to rabbit numbers? Give a reason."
   },
   {
     "id": "eco_src_024",
@@ -1730,13 +1918,15 @@
     ],
     "acceptedAnswers": [
       "male reproductive parts",
-      "male part"
+      "male part",
+      "The stamen is the male reproductive part of the flower"
     ],
-    "explanation": "The glossary says stamen means the male reproductive parts of the flower.",
+    "explanation": "The stamen is the male reproductive part of the flower.",
     "commonMistakes": [
       "Calling the carpel male"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is the stamen?"
   },
   {
     "id": "eco_src_025",
@@ -1755,13 +1945,15 @@
     ],
     "acceptedAnswers": [
       "produces pollen",
-      "makes pollen"
+      "makes pollen",
+      "The anther is the male part of a flower that produces pollen"
     ],
-    "explanation": "This is the glossary definition of anther.",
+    "explanation": "The anther is the male part of a flower that produces pollen.",
     "commonMistakes": [
       "Saying the stigma produces pollen"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does the anther do?"
   },
   {
     "id": "eco_src_026",
@@ -1779,13 +1971,15 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "holds up the anther"
+      "holds up the anther",
+      "The filament holds up the anther"
     ],
-    "explanation": "This is the source definition of filament.",
+    "explanation": "The filament holds up the anther.",
     "commonMistakes": [
       "Confusing filament with style"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does the filament do?"
   },
   {
     "id": "eco_src_027",
@@ -1806,13 +2000,15 @@
     ],
     "acceptedAnswers": [
       "female part made of stigma style and ovary",
-      "female part"
+      "female part",
+      "The carpel is the female part of the flower, made up of the stigma, style, and ovary"
     ],
-    "explanation": "This is the source definition of carpel.",
+    "explanation": "The carpel is the female part of the flower, made up of the stigma, style, and ovary.",
     "commonMistakes": [
       "Calling stamen female"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "Which parts make up the carpel?"
   },
   {
     "id": "eco_src_028",
@@ -1831,13 +2027,15 @@
     ],
     "acceptedAnswers": [
       "sticky to catch pollen",
-      "catches pollen"
+      "catches pollen",
+      "The stigma is sticky to catch grains of pollen"
     ],
-    "explanation": "This is the glossary definition of stigma.",
+    "explanation": "The stigma is sticky to catch grains of pollen.",
     "commonMistakes": [
       "Saying anther catches pollen"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "Why is the stigma sticky?"
   },
   {
     "id": "eco_src_029",
@@ -1855,13 +2053,15 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "holds up the stigma"
+      "holds up the stigma",
+      "The style holds up the stigma"
     ],
-    "explanation": "This is the glossary definition of style.",
+    "explanation": "The style holds up the stigma.",
     "commonMistakes": [
       "Confusing style with filament"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does the style do?"
   },
   {
     "id": "eco_src_030",
@@ -1880,19 +2080,21 @@
     ],
     "acceptedAnswers": [
       "contains ovules",
-      "ovules"
+      "ovules",
+      "The ovary contains ovules"
     ],
-    "explanation": "This is the source definition of ovary.",
+    "explanation": "The ovary contains ovules.",
     "commonMistakes": [
       "Saying ovary contains pollen"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does the ovary contain?"
   },
   {
     "id": "eco_src_031",
     "topic": "Ecosystems",
     "subtopic": "Flowers and pollination",
-    "fact": "Ovules are female sex cells in plants found in the ovary.",
+    "fact": "An ovule contains a female sex cell. Ovules are inside the flower's ovary.",
     "keywords": [
       "ovule",
       "female sex cells",
@@ -1903,14 +2105,16 @@
       "recall"
     ],
     "acceptedAnswers": [
-      "female sex cells found in the ovary",
-      "female sex cells"
+      "a female sex cell",
+      "female sex cell",
+      "An ovule contains a female sex cell. Ovules are inside the flower's ovary"
     ],
-    "explanation": "This is the glossary definition of ovule.",
+    "explanation": "An ovule contains a female sex cell. Ovules are inside the flower's ovary.",
     "commonMistakes": [
       "Calling ovules male sex cells"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does an ovule contain?"
   },
   {
     "id": "eco_src_032",
@@ -1929,13 +2133,15 @@
     ],
     "acceptedAnswers": [
       "contains male sex cells",
-      "male sex cells"
+      "male sex cells",
+      "Pollen contains the plant male sex cells found on the stamens"
     ],
-    "explanation": "This is the glossary definition of pollen.",
+    "explanation": "Pollen contains the plant male sex cells found on the stamens.",
     "commonMistakes": [
       "Saying pollen contains seeds"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does pollen contain?"
   },
   {
     "id": "eco_src_033",
@@ -1954,13 +2160,15 @@
     ],
     "acceptedAnswers": [
       "attract insects",
-      "brightly coloured part"
+      "brightly coloured part",
+      "Petals are brightly coloured parts of a flower that attract insects"
     ],
-    "explanation": "This is the source definition of petal.",
+    "explanation": "Petals are brightly coloured parts of a flower that attract insects.",
     "commonMistakes": [
       "Saying petals make pollen"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What do petals do?"
   },
   {
     "id": "eco_src_034",
@@ -1979,13 +2187,15 @@
     ],
     "acceptedAnswers": [
       "protect unopened buds",
-      "special leaves under the flower"
+      "special leaves under the flower",
+      "Sepals are special leaves under the flower that protect unopened buds"
     ],
-    "explanation": "This is the source definition of sepal.",
+    "explanation": "Sepals are special leaves under the flower that protect unopened buds.",
     "commonMistakes": [
       "Confusing sepals with petals"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What do sepals do?"
   },
   {
     "id": "eco_src_035",
@@ -2005,19 +2215,21 @@
     ],
     "acceptedAnswers": [
       "transfer of pollen from male part to female part",
-      "pollen transfer"
+      "pollen transfer",
+      "Pollination is the transfer of pollen from the male part of the flower to the female part on the same or another plant"
     ],
-    "explanation": "This is the source definition of pollination.",
+    "explanation": "Pollination is the transfer of pollen from the male part of the flower to the female part on the same or another plant.",
     "commonMistakes": [
       "Confusing pollination with germination"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is pollination?"
   },
   {
     "id": "eco_src_036",
     "topic": "Ecosystems",
     "subtopic": "Fertilisation and germination",
-    "fact": "Fertilisation is the joining of a nucleus from a male and female sex cell.",
+    "fact": "During fertilisation, the nucleus of a male sex cell joins with the nucleus of a female sex cell.",
     "keywords": [
       "fertilisation",
       "nucleus",
@@ -2031,13 +2243,17 @@
     ],
     "acceptedAnswers": [
       "joining of a nucleus from male and female sex cell",
-      "male and female nuclei join"
+      "male and female nuclei join",
+      "During fertilisation, the nucleus of a male sex cell joins with the nucleus of a female sex cell",
+      "During fertilisation, the nucleus of a male sex cell joins with the nucleus of a female sex cell."
     ],
-    "explanation": "This is the glossary definition of fertilisation.",
+    "explanation": "During fertilisation, the nucleus of a male sex cell joins with the nucleus of a female sex cell.",
     "commonMistakes": [
       "Calling pollination fertilisation"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What happens during fertilisation?",
+    "explainPrompt": "What happens during fertilisation? Explain the idea in your own words."
   },
   {
     "id": "eco_src_037",
@@ -2057,19 +2273,21 @@
     ],
     "acceptedAnswers": [
       "ovary becomes fruit",
-      "fruit contains seeds"
+      "fruit contains seeds",
+      "After fertilisation, the ovary becomes a fruit that contains seeds"
     ],
-    "explanation": "The glossary says fruit is the structure the ovary becomes after fertilisation and contains seeds.",
+    "explanation": "After fertilisation, the ovary becomes a fruit that contains seeds.",
     "commonMistakes": [
       "Saying petals become fruit"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does a flower's ovary become after fertilisation?"
   },
   {
     "id": "eco_src_038",
     "topic": "Ecosystems",
     "subtopic": "Fertilisation and germination",
-    "fact": "A seed contains the embryo of a new plant.",
+    "fact": "A seed contains an embryo: a tiny young plant that can grow into a new plant.",
     "keywords": [
       "seed",
       "embryo",
@@ -2081,13 +2299,15 @@
     ],
     "acceptedAnswers": [
       "contains the embryo of a new plant",
-      "embryo"
+      "embryo",
+      "A seed contains an embryo: a tiny young plant that can grow into a new plant"
     ],
-    "explanation": "This is the glossary definition of seed.",
+    "explanation": "A seed contains an embryo: a tiny young plant that can grow into a new plant.",
     "commonMistakes": [
       "Saying a seed contains pollen"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does a seed contain?"
   },
   {
     "id": "eco_src_039",
@@ -2106,13 +2326,15 @@
     ],
     "acceptedAnswers": [
       "seed starting to grow into a seedling",
-      "seed starts to grow"
+      "seed starts to grow",
+      "Germination is the process of a seed starting to grow into a seedling"
     ],
-    "explanation": "This is the glossary definition of germination.",
+    "explanation": "Germination is the process of a seed starting to grow into a seedling.",
     "commonMistakes": [
       "Confusing germination with pollination"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is germination?"
   },
   {
     "id": "eco_src_040",
@@ -2132,13 +2354,15 @@
     ],
     "acceptedAnswers": [
       "water oxygen and warmth",
-      "water oxygen suitable temperature"
+      "water oxygen suitable temperature",
+      "For germination, a seed needs water, oxygen and warmth"
     ],
-    "explanation": "The organiser says water, oxygen and warmth are needed for germination.",
+    "explanation": "For germination, a seed needs water, oxygen and warmth.",
     "commonMistakes": [
       "Saying seeds always need light to germinate"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What three things does a seed need to germinate?"
   },
   {
     "id": "eco_src_041",
@@ -2157,19 +2381,21 @@
     ],
     "acceptedAnswers": [
       "movement of seeds away from the parent plant",
-      "seeds away from parent"
+      "seeds away from parent",
+      "Seed dispersal is the movement of seeds away from the parent plant"
     ],
-    "explanation": "This is the glossary definition of seed dispersal.",
+    "explanation": "Seed dispersal is the movement of seeds away from the parent plant.",
     "commonMistakes": [
       "Confusing seed dispersal with fertilisation"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is seed dispersal?"
   },
   {
     "id": "eco_src_042",
     "topic": "Ecosystems",
     "subtopic": "Seed dispersal",
-    "fact": "The source asks pupils to state ways seeds can be dispersed.",
+    "fact": "Seeds can spread by wind, water, animals or bursting seed pods.",
     "keywords": [
       "seed dispersal",
       "ways"
@@ -2179,20 +2405,22 @@
       "recall"
     ],
     "acceptedAnswers": [
-      "wind animals water explosion",
-      "ways seeds are dispersed"
+      "wind, water, animals and bursting seed pods",
+      "wind water animals explosion",
+      "Seeds can spread by wind, water, animals or bursting seed pods"
     ],
-    "explanation": "Seed dispersal methods are part of the checklist, and questions should focus on matching seeds to their method.",
+    "explanation": "Seeds can spread by wind, water, animals or bursting seed pods.",
     "commonMistakes": [
       "Saying seeds never move"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "Name four ways seeds can be spread."
   },
   {
     "id": "eco_src_043",
     "topic": "Ecosystems",
     "subtopic": "Seed dispersal",
-    "fact": "The source asks pupils to describe how a seed is adapted to its method of dispersal.",
+    "fact": "A seed's features help it spread. Light seeds with wings or hairs can be carried by the wind.",
     "keywords": [
       "seed",
       "adapted",
@@ -2204,20 +2432,25 @@
       "explain"
     ],
     "acceptedAnswers": [
-      "adapted to its method of dispersal",
-      "features match dispersal method"
+      "Light seeds with wings or hairs can be carried by wind",
+      "features help seeds spread",
+      "A seed's features help it spread. Light seeds with wings or hairs can be carried by the wind",
+      "A seed's features help it spread. Light seeds with wings or hairs can be carried by the wind."
     ],
-    "explanation": "A good answer links the seed feature to how it moves away.",
+    "explanation": "A seed's features help it spread. Light seeds with wings or hairs can be carried by the wind.",
     "commonMistakes": [
       "Naming a feature without linking it to dispersal"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "How do a seed's features help it spread?",
+    "explainPrompt": "How do a seed's features help it spread? Explain the idea in your own words.",
+    "applicationPrompt": "A seed has light, feathery hairs. Explain how these help the seed travel away from its parent plant."
   },
   {
     "id": "eco_src_044",
     "topic": "Ecosystems",
     "subtopic": "Seed dispersal",
-    "fact": "Seed dispersal is important to the survival of the parent plant and its offspring.",
+    "fact": "Seed dispersal moves seeds away from the parent plant. This reduces competition for light, water, space and minerals.",
     "keywords": [
       "seed dispersal",
       "survival",
@@ -2230,13 +2463,17 @@
     ],
     "acceptedAnswers": [
       "important to survival of parent and offspring",
-      "reduces competition"
+      "reduces competition",
+      "Seed dispersal moves seeds away from the parent plant. This reduces competition for light, water, space and minerals",
+      "Seed dispersal moves seeds away from the parent plant. This reduces competition for light, water, space and minerals."
     ],
-    "explanation": "The checklist specifically asks pupils to explain why dispersal matters for parent and offspring survival.",
+    "explanation": "Seed dispersal moves seeds away from the parent plant. This reduces competition for light, water, space and minerals.",
     "commonMistakes": [
       "Saying dispersal is only for animals"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "Why does seed dispersal help plants survive?",
+    "explainPrompt": "Why does seed dispersal help plants survive? Explain the idea in your own words."
   },
   {
     "id": "eco_src_045",
@@ -2255,19 +2492,24 @@
     ],
     "acceptedAnswers": [
       "organisms that eat it may die out unless they have another food source",
-      "food source changes"
+      "food source changes",
+      "If one organism dies out, organisms that eat it may die out unless they have a different food source",
+      "If one organism dies out, organisms that eat it may die out unless they have a different food source."
     ],
-    "explanation": "This idea is shown in the disruption section of the knowledge organiser.",
+    "explanation": "If one organism dies out, organisms that eat it may die out unless they have a different food source.",
     "commonMistakes": [
       "Thinking only one organism is affected"
     ],
-    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf"
+    "source": "Y7_Ecosystems_Checklist__Glossary__BBC_Bitesize_Links-2.docx; Y7_Ecosystems_Knowledge_Organiser.pdf",
+    "recallPrompt": "How could losing one organism affect a food web?",
+    "explainPrompt": "How could losing one organism affect a food web? Explain the idea in your own words.",
+    "applicationPrompt": "One animal in a food web dies out. How could this affect the animals that used to eat it?"
   },
   {
     "id": "skills_src_001",
     "topic": "Skills in Science",
     "subtopic": "Rules and hazards",
-    "fact": "A hazard is a situation that presents a threat to people.",
+    "fact": "A hazard is something that could cause harm.",
     "keywords": [
       "hazard",
       "threat",
@@ -2280,13 +2522,15 @@
     ],
     "acceptedAnswers": [
       "situation that presents a threat to people",
-      "threat to people"
+      "threat to people",
+      "A hazard is something that could cause harm"
     ],
-    "explanation": "This is the glossary definition of hazard.",
+    "explanation": "A hazard is something that could cause harm.",
     "commonMistakes": [
       "Confusing hazard with risk"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is a hazard?"
   },
   {
     "id": "skills_src_002",
@@ -2305,19 +2549,21 @@
     ],
     "acceptedAnswers": [
       "how likely something is to be harmful",
-      "likelihood of harm"
+      "likelihood of harm",
+      "A risk is how likely something is to be harmful"
     ],
-    "explanation": "This is the glossary definition of risk.",
+    "explanation": "A risk is how likely something is to be harmful.",
     "commonMistakes": [
       "Saying risk and hazard are identical"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is a risk?"
   },
   {
     "id": "skills_src_003",
     "topic": "Skills in Science",
     "subtopic": "Rules and hazards",
-    "fact": "A precaution is an action taken to remove a hazard or reduce exposure to it.",
+    "fact": "A precaution is an action that helps keep you safe, such as wearing safety goggles.",
     "keywords": [
       "precaution",
       "remove hazard",
@@ -2329,13 +2575,15 @@
     ],
     "acceptedAnswers": [
       "action to remove hazard or reduce exposure",
-      "reduce exposure"
+      "reduce exposure",
+      "A precaution is an action that helps keep you safe, such as wearing safety goggles"
     ],
-    "explanation": "This is the glossary definition of precaution.",
+    "explanation": "A precaution is an action that helps keep you safe, such as wearing safety goggles.",
     "commonMistakes": [
       "Calling a hazard a precaution"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is a safety precaution?"
   },
   {
     "id": "skills_src_004",
@@ -2354,19 +2602,23 @@
     ],
     "acceptedAnswers": [
       "make injury or equipment damage less likely",
-      "what to do if it happens"
+      "what to do if it happens",
+      "A risk assessment describes how to make injury or equipment damage less likely, and what to do if it happens",
+      "A risk assessment describes how to make injury or equipment damage less likely, and what to do if it happens."
     ],
-    "explanation": "This is the glossary definition of risk assessment.",
+    "explanation": "A risk assessment describes how to make injury or equipment damage less likely, and what to do if it happens.",
     "commonMistakes": [
       "Only listing equipment"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What should a risk assessment explain?",
+    "explainPrompt": "What should a risk assessment explain? Explain the idea in your own words."
   },
   {
     "id": "skills_src_005",
     "topic": "Skills in Science",
     "subtopic": "Equipment and measuring",
-    "fact": "The source expects pupils to identify and draw commonly used laboratory apparatus.",
+    "fact": "A measuring cylinder measures the volume of a liquid. Read the scale at eye level.",
     "keywords": [
       "apparatus",
       "laboratory",
@@ -2378,20 +2630,23 @@
       "application"
     ],
     "acceptedAnswers": [
-      "identify and draw apparatus",
-      "commonly used apparatus"
+      "measuring cylinder",
+      "A measuring cylinder measures the volume of a liquid. Read the scale at eye level",
+      "A measuring cylinder measures the volume of a liquid. Read the scale at eye level."
     ],
-    "explanation": "Questions should ask for equipment choices from procedures, as the checklist states.",
+    "explanation": "A measuring cylinder measures the volume of a liquid. Read the scale at eye level.",
     "commonMistakes": [
       "Naming random equipment"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What equipment can you use to measure a volume of liquid?",
+    "applicationPrompt": "You need 50 ml of water for an experiment. Which equipment would you use to measure it?"
   },
   {
     "id": "skills_src_006",
     "topic": "Skills in Science",
     "subtopic": "Equipment and measuring",
-    "fact": "The source expects pupils to describe the function of each piece of equipment.",
+    "fact": "A thermometer measures temperature.",
     "keywords": [
       "equipment",
       "function"
@@ -2402,20 +2657,24 @@
       "application"
     ],
     "acceptedAnswers": [
-      "describe the function",
-      "what equipment does"
+      "measures temperature",
+      "temperature",
+      "A thermometer measures temperature",
+      "A thermometer measures temperature."
     ],
-    "explanation": "Equipment questions should connect apparatus to its job.",
+    "explanation": "A thermometer measures temperature.",
     "commonMistakes": [
       "Only naming equipment without function"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is the job of a thermometer?",
+    "applicationPrompt": "You want to record how warm the water is. What is the job of a thermometer?"
   },
   {
     "id": "skills_src_007",
     "topic": "Skills in Science",
     "subtopic": "Equipment and measuring",
-    "fact": "The source expects pupils to identify equipment needed from a procedure description.",
+    "fact": "Choose equipment to match the measurement. Use a measuring cylinder to measure a volume of water.",
     "keywords": [
       "equipment needed",
       "procedure"
@@ -2425,20 +2684,23 @@
       "application"
     ],
     "acceptedAnswers": [
-      "identify equipment from procedure",
-      "equipment needed"
+      "measuring cylinder",
+      "Choose equipment to match the measurement. Use a measuring cylinder to measure a volume of water",
+      "Choose equipment to match the measurement. Use a measuring cylinder to measure a volume of water."
     ],
-    "explanation": "This objective is from the Skills checklist.",
+    "explanation": "Choose equipment to match the measurement. Use a measuring cylinder to measure a volume of water.",
     "commonMistakes": [
       "Choosing equipment unrelated to the procedure"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What equipment would you choose to measure a volume of water?",
+    "applicationPrompt": "You need to measure a volume of water. Which piece of equipment would you choose?"
   },
   {
     "id": "skills_src_008",
     "topic": "Skills in Science",
     "subtopic": "Bunsen burners",
-    "fact": "The source expects pupils to identify the parts of a Bunsen burner.",
+    "fact": "A Bunsen burner has a base, a barrel and an air hole. The collar controls how much air enters.",
     "keywords": [
       "Bunsen burner",
       "parts"
@@ -2449,20 +2711,22 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "identify parts of a Bunsen burner",
-      "Bunsen parts"
+      "base, barrel and air hole",
+      "base barrel air hole",
+      "A Bunsen burner has a base, a barrel and an air hole. The collar controls how much air enters"
     ],
-    "explanation": "Bunsen burner parts are a checklist objective.",
+    "explanation": "A Bunsen burner has a base, a barrel and an air hole. The collar controls how much air enters.",
     "commonMistakes": [
       "Confusing parts with flames"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "Name three parts of a Bunsen burner."
   },
   {
     "id": "skills_src_009",
     "topic": "Skills in Science",
     "subtopic": "Bunsen burners",
-    "fact": "The source expects pupils to know how to use a Bunsen burner safely.",
+    "fact": "When not heating, close the Bunsen burner's air hole to use the yellow safety flame. It is easier to see.",
     "keywords": [
       "Bunsen burner",
       "safely"
@@ -2473,20 +2737,24 @@
       "application"
     ],
     "acceptedAnswers": [
-      "use safely",
-      "safe use"
+      "Close the air hole to use the yellow safety flame",
+      "yellow safety flame",
+      "When not heating, close the Bunsen burner's air hole to use the yellow safety flame. It is easier to see",
+      "When not heating, close the Bunsen burner's air hole to use the yellow safety flame. It is easier to see."
     ],
-    "explanation": "Safety questions should link a hazard to a precaution.",
+    "explanation": "When not heating, close the Bunsen burner's air hole to use the yellow safety flame. It is easier to see.",
     "commonMistakes": [
       "Ignoring flame safety"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "How should you set a Bunsen burner when you are not heating anything?",
+    "applicationPrompt": "You have finished heating with a Bunsen burner. Which flame should you use while it is still on?"
   },
   {
     "id": "skills_src_010",
     "topic": "Skills in Science",
     "subtopic": "Bunsen burners",
-    "fact": "The source expects pupils to explain why the three different flames of a Bunsen burner occur.",
+    "fact": "The air hole controls the oxygen supply. Closed gives a yellow safety flame; partly open gives a blue flame; fully open gives a hotter, roaring blue flame.",
     "keywords": [
       "Bunsen burner",
       "three flames",
@@ -2497,14 +2765,18 @@
       "explain"
     ],
     "acceptedAnswers": [
-      "explain why different flames occur",
-      "three flames"
+      "Opening the air hole lets in more oxygen, making the flame blue and hotter",
+      "more oxygen",
+      "The air hole controls the oxygen supply. Closed gives a yellow safety flame; partly open gives a blue flame; fully open gives a hotter, roaring blue flame",
+      "The air hole controls the oxygen supply. Closed gives a yellow safety flame; partly open gives a blue flame; fully open gives a hotter, roaring blue flame."
     ],
-    "explanation": "This is one of the Bunsen burner objectives from the checklist.",
+    "explanation": "The air hole controls the oxygen supply. Closed gives a yellow safety flame; partly open gives a blue flame; fully open gives a hotter, roaring blue flame.",
     "commonMistakes": [
       "Only naming a flame without explaining"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "Why does opening a Bunsen burner's air hole change its flame?",
+    "explainPrompt": "Why does opening a Bunsen burner's air hole change its flame? Explain the idea in your own words."
   },
   {
     "id": "skills_src_011",
@@ -2524,13 +2796,15 @@
     ],
     "acceptedAnswers": [
       "factor that can be changed measured and controlled",
-      "changed measured controlled"
+      "changed measured controlled",
+      "A variable is a factor that can be changed, measured and controlled"
     ],
-    "explanation": "This is the glossary definition of variable.",
+    "explanation": "A variable is a factor that can be changed, measured and controlled.",
     "commonMistakes": [
       "Thinking variables are only numbers"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is a variable in an experiment?"
   },
   {
     "id": "skills_src_012",
@@ -2548,13 +2822,15 @@
     ],
     "acceptedAnswers": [
       "what you change",
-      "the variable you change"
+      "the variable you change",
+      "The independent variable is what you change in an investigation"
     ],
-    "explanation": "This is the glossary definition of independent variable.",
+    "explanation": "The independent variable is what you change in an investigation.",
     "commonMistakes": [
       "Calling it the measured variable"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is the independent variable?"
   },
   {
     "id": "skills_src_013",
@@ -2573,19 +2849,21 @@
     ],
     "acceptedAnswers": [
       "what you measure or observe",
-      "measure or observe"
+      "measure or observe",
+      "The dependent variable is what you measure or observe when you change the independent variable"
     ],
-    "explanation": "This is the glossary definition of dependent variable.",
+    "explanation": "The dependent variable is what you measure or observe when you change the independent variable.",
     "commonMistakes": [
       "Calling it the control variable"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is the dependent variable?"
   },
   {
     "id": "skills_src_014",
     "topic": "Skills in Science",
     "subtopic": "Variables and planning",
-    "fact": "A control variable remains unchanged or is held constant to stop it affecting the dependent variable.",
+    "fact": "A control variable is something you keep the same during an experiment.",
     "keywords": [
       "control variable",
       "unchanged",
@@ -2599,19 +2877,23 @@
     ],
     "acceptedAnswers": [
       "remains unchanged",
-      "held constant"
+      "held constant",
+      "A control variable is something you keep the same during an experiment",
+      "A control variable is something you keep the same during an experiment."
     ],
-    "explanation": "This is the glossary definition of control variable.",
+    "explanation": "A control variable is something you keep the same during an experiment.",
     "commonMistakes": [
       "Changing the control variables"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is a control variable?",
+    "explainPrompt": "What is a control variable? Explain the idea in your own words."
   },
   {
     "id": "skills_src_015",
     "topic": "Skills in Science",
     "subtopic": "Variables and planning",
-    "fact": "Keeping control variables constant ensures the investigation is valid.",
+    "fact": "Keeping control variables the same makes a test fair. You can then see the effect of the variable you change.",
     "keywords": [
       "control variables",
       "constant",
@@ -2624,13 +2906,18 @@
     ],
     "acceptedAnswers": [
       "ensures the investigation is valid",
-      "makes it valid"
+      "makes it valid",
+      "Keeping control variables the same makes a test fair. You can then see the effect of the variable you change",
+      "Keeping control variables the same makes a test fair. You can then see the effect of the variable you change."
     ],
-    "explanation": "This explanation is included in the control variable definition.",
+    "explanation": "Keeping control variables the same makes a test fair. You can then see the effect of the variable you change.",
     "commonMistakes": [
       "Saying controls only make it neat"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "Why must you keep control variables the same?",
+    "explainPrompt": "Why must you keep control variables the same? Explain the idea in your own words.",
+    "applicationPrompt": "You test how light affects plant growth. Why should you give each plant the same amount of water?"
   },
   {
     "id": "skills_src_016",
@@ -2649,13 +2936,17 @@
     ],
     "acceptedAnswers": [
       "one variable affects another while all other variables are constant",
-      "change one variable"
+      "change one variable",
+      "A fair test finds out how one variable affects another while all other variables are kept constant",
+      "A fair test finds out how one variable affects another while all other variables are kept constant."
     ],
-    "explanation": "This is the glossary definition of fair test.",
+    "explanation": "A fair test finds out how one variable affects another while all other variables are kept constant.",
     "commonMistakes": [
       "Changing lots of variables at once"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What makes an experiment a fair test?",
+    "explainPrompt": "What makes an experiment a fair test? Explain the idea in your own words."
   },
   {
     "id": "skills_src_017",
@@ -2673,13 +2964,15 @@
     ],
     "acceptedAnswers": [
       "what you think will happen",
-      "statement saying what will happen"
+      "statement saying what will happen",
+      "A prediction is a statement that says what you think will happen in an experiment"
     ],
-    "explanation": "This is the glossary definition of prediction.",
+    "explanation": "A prediction is a statement that says what you think will happen in an experiment.",
     "commonMistakes": [
       "Writing a question instead of a prediction"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is a prediction?"
   },
   {
     "id": "skills_src_018",
@@ -2699,19 +2992,23 @@
     ],
     "acceptedAnswers": [
       "testable explanation with a reason and science idea",
-      "explanation you can test"
+      "explanation you can test",
+      "A hypothesis is an explanation you can test that includes a reason and a science idea",
+      "A hypothesis is an explanation you can test that includes a reason and a science idea."
     ],
-    "explanation": "This is the glossary definition of hypothesis.",
+    "explanation": "A hypothesis is an explanation you can test that includes a reason and a science idea.",
     "commonMistakes": [
       "Calling a hypothesis a random guess"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is a hypothesis?",
+    "explainPrompt": "What is a hypothesis? Explain the idea in your own words."
   },
   {
     "id": "skills_src_019",
     "topic": "Skills in Science",
     "subtopic": "Variables and planning",
-    "fact": "An investigation is an experiment or set of experiments designed to produce data to answer a scientific question or test a theory.",
+    "fact": "A scientific investigation uses experiments or observations to answer a science question.",
     "keywords": [
       "investigation",
       "experiment",
@@ -2724,19 +3021,21 @@
     ],
     "acceptedAnswers": [
       "experiments designed to produce data",
-      "answer a scientific question or test a theory"
+      "answer a scientific question or test a theory",
+      "A scientific investigation uses experiments or observations to answer a science question"
     ],
-    "explanation": "This is the glossary definition of investigation.",
+    "explanation": "A scientific investigation uses experiments or observations to answer a science question.",
     "commonMistakes": [
       "Thinking investigation only means looking around"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is a scientific investigation?"
   },
   {
     "id": "skills_src_020",
     "topic": "Skills in Science",
     "subtopic": "Variables and planning",
-    "fact": "A plan describes how equipment will be used to collect valid data to answer a scientific question.",
+    "fact": "A plan says which equipment to use, what to change, what to measure and what to keep the same.",
     "keywords": [
       "plan",
       "equipment",
@@ -2750,13 +3049,17 @@
     ],
     "acceptedAnswers": [
       "description of how equipment will collect valid data",
-      "collect valid data"
+      "collect valid data",
+      "A plan says which equipment to use, what to change, what to measure and what to keep the same",
+      "A plan says which equipment to use, what to change, what to measure and what to keep the same."
     ],
-    "explanation": "This is the glossary definition of plan.",
+    "explanation": "A plan says which equipment to use, what to change, what to measure and what to keep the same.",
     "commonMistakes": [
       "Writing only a list of equipment"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What should an experiment plan explain?",
+    "applicationPrompt": "You are planning a plant-growth test. What should your plan say about equipment, variables and measurements?"
   },
   {
     "id": "skills_src_021",
@@ -2777,13 +3080,15 @@
     ],
     "acceptedAnswers": [
       "words or numbers from observations or measurements",
-      "observations or measurements"
+      "observations or measurements",
+      "Data are words or numbers obtained when you make observations or measurements"
     ],
-    "explanation": "This is the glossary definition of data.",
+    "explanation": "Data are words or numbers obtained when you make observations or measurements.",
     "commonMistakes": [
       "Thinking data must only be numbers"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is data?"
   },
   {
     "id": "skills_src_022",
@@ -2800,19 +3105,21 @@
     ],
     "acceptedAnswers": [
       "information gathered by your senses",
-      "gathered by senses"
+      "gathered by senses",
+      "An observation is information gathered by your senses"
     ],
-    "explanation": "This is the glossary definition of observation.",
+    "explanation": "An observation is information gathered by your senses.",
     "commonMistakes": [
       "Thinking observation must use a machine"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is an observation?"
   },
   {
     "id": "skills_src_023",
     "topic": "Skills in Science",
     "subtopic": "Presenting data",
-    "fact": "A results table should present data appropriately.",
+    "fact": "Put results in rows and columns. Give each column a heading and include measurement units.",
     "keywords": [
       "results table",
       "data",
@@ -2823,14 +3130,18 @@
       "application"
     ],
     "acceptedAnswers": [
-      "present data appropriately",
-      "organise results"
+      "Use rows, columns, headings and units",
+      "headings and units",
+      "Put results in rows and columns. Give each column a heading and include measurement units",
+      "Put results in rows and columns. Give each column a heading and include measurement units."
     ],
-    "explanation": "This objective is from the Skills checklist.",
+    "explanation": "Put results in rows and columns. Give each column a heading and include measurement units.",
     "commonMistakes": [
       "Putting results in a messy list"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "How should you organise results in a table?",
+    "applicationPrompt": "You measure water temperature every minute. How should you organise the results in a table?"
   },
   {
     "id": "skills_src_024",
@@ -2850,19 +3161,23 @@
     ],
     "acceptedAnswers": [
       "add all values and divide by number of values",
-      "add and divide"
+      "add and divide",
+      "The mean is an average calculated by adding all values and dividing by the number of values",
+      "The mean is an average calculated by adding all values and dividing by the number of values."
     ],
-    "explanation": "This is the glossary definition of mean.",
+    "explanation": "The mean is an average calculated by adding all values and dividing by the number of values.",
     "commonMistakes": [
       "Forgetting to divide"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "How do you calculate the mean?",
+    "applicationPrompt": "You repeat a measurement three times. How would you calculate the mean of your results?"
   },
   {
     "id": "skills_src_025",
     "topic": "Skills in Science",
     "subtopic": "Presenting data",
-    "fact": "A bar chart displays values of categories and is used when the independent variable is discontinuous.",
+    "fact": "Use a bar chart to compare separate categories, such as different types of material. This is called discontinuous data.",
     "keywords": [
       "bar chart",
       "categories",
@@ -2875,19 +3190,21 @@
     ],
     "acceptedAnswers": [
       "displays values of categories",
-      "used for discontinuous independent variable"
+      "used for discontinuous independent variable",
+      "Use a bar chart to compare separate categories, such as different types of material. This is called discontinuous data"
     ],
-    "explanation": "This is the glossary definition of bar chart.",
+    "explanation": "Use a bar chart to compare separate categories, such as different types of material. This is called discontinuous data.",
     "commonMistakes": [
       "Using a line graph for categories"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "When should you use a bar chart?"
   },
   {
     "id": "skills_src_026",
     "topic": "Skills in Science",
     "subtopic": "Presenting data",
-    "fact": "A line graph shows the relationship between two continuous variables.",
+    "fact": "Use a line graph to show how two continuous variables are related, such as time and temperature.",
     "keywords": [
       "line graph",
       "relationship",
@@ -2900,19 +3217,21 @@
     ],
     "acceptedAnswers": [
       "relationship between two continuous variables",
-      "continuous variables"
+      "continuous variables",
+      "Use a line graph to show how two continuous variables are related, such as time and temperature"
     ],
-    "explanation": "This is the glossary definition of line graph.",
+    "explanation": "Use a line graph to show how two continuous variables are related, such as time and temperature.",
     "commonMistakes": [
       "Using a line graph for eye colour categories"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "When should you use a line graph?"
   },
   {
     "id": "skills_src_027",
     "topic": "Skills in Science",
     "subtopic": "Presenting data",
-    "fact": "Continuous data has values that can be any number.",
+    "fact": "Continuous data can take any value in a range, including decimals. Temperature is an example.",
     "keywords": [
       "continuous",
       "any number"
@@ -2923,19 +3242,21 @@
     ],
     "acceptedAnswers": [
       "values can be any number",
-      "any number"
+      "any number",
+      "Continuous data can take any value in a range, including decimals. Temperature is an example"
     ],
-    "explanation": "This is the glossary definition of continuous.",
+    "explanation": "Continuous data can take any value in a range, including decimals. Temperature is an example.",
     "commonMistakes": [
       "Thinking continuous means counted categories"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is continuous data?"
   },
   {
     "id": "skills_src_028",
     "topic": "Skills in Science",
     "subtopic": "Presenting data",
-    "fact": "Discontinuous data has values that are words or discrete numbers.",
+    "fact": "Discontinuous data uses separate categories or whole-number counts, such as eye colour or number of plants.",
     "keywords": [
       "discontinuous",
       "words",
@@ -2947,19 +3268,21 @@
     ],
     "acceptedAnswers": [
       "words or discrete numbers",
-      "separate categories or numbers"
+      "separate categories or numbers",
+      "Discontinuous data uses separate categories or whole-number counts, such as eye colour or number of plants"
     ],
-    "explanation": "This is the glossary definition of discontinuous.",
+    "explanation": "Discontinuous data uses separate categories or whole-number counts, such as eye colour or number of plants.",
     "commonMistakes": [
       "Thinking discontinuous means any measured value"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What is discontinuous data?"
   },
   {
     "id": "skills_src_029",
     "topic": "Skills in Science",
     "subtopic": "Presenting data",
-    "fact": "A line of best fit is a straight or curved smooth line drawn to show the pattern of data points.",
+    "fact": "A line of best fit shows the overall pattern of points on a graph. It can be straight or curved.",
     "keywords": [
       "line of best fit",
       "smooth line",
@@ -2973,19 +3296,23 @@
     ],
     "acceptedAnswers": [
       "smooth line showing pattern of data points",
-      "shows the pattern"
+      "shows the pattern",
+      "A line of best fit shows the overall pattern of points on a graph. It can be straight or curved",
+      "A line of best fit shows the overall pattern of points on a graph. It can be straight or curved."
     ],
-    "explanation": "This is the source definition of line of best fit.",
+    "explanation": "A line of best fit shows the overall pattern of points on a graph. It can be straight or curved.",
     "commonMistakes": [
       "Joining every point dot-to-dot"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What does a line of best fit show?",
+    "explainPrompt": "What does a line of best fit show? Explain the idea in your own words."
   },
   {
     "id": "skills_src_030",
     "topic": "Skills in Science",
     "subtopic": "Presenting data",
-    "fact": "The line of best fit travels through or very close to as many plotted points as possible.",
+    "fact": "Draw a smooth line or curve close to the plotted points. Do not join every point with a zigzag.",
     "keywords": [
       "line of best fit",
       "plotted points",
@@ -2998,13 +3325,18 @@
     ],
     "acceptedAnswers": [
       "through or close to as many points as possible",
-      "close to plotted points"
+      "close to plotted points",
+      "Draw a smooth line or curve close to the plotted points. Do not join every point with a zigzag",
+      "Draw a smooth line or curve close to the plotted points. Do not join every point with a zigzag."
     ],
-    "explanation": "This wording comes from the glossary.",
+    "explanation": "Draw a smooth line or curve close to the plotted points. Do not join every point with a zigzag.",
     "commonMistakes": [
       "Forcing the line through every point"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "Where should you draw a line of best fit?",
+    "explainPrompt": "Where should you draw a line of best fit? Explain the idea in your own words.",
+    "applicationPrompt": "Your plotted points do not lie on a perfect straight line. How should you draw a line of best fit?"
   },
   {
     "id": "skills_src_031",
@@ -3022,19 +3354,21 @@
     ],
     "acceptedAnswers": [
       "what you have found out",
-      "what was found out"
+      "what was found out",
+      "A conclusion says what you have found out during an investigation"
     ],
-    "explanation": "This is the glossary definition of conclusion.",
+    "explanation": "A conclusion says what you have found out during an investigation.",
     "commonMistakes": [
       "Writing a prediction as a conclusion"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What should a conclusion tell you?"
   },
   {
     "id": "skills_src_032",
     "topic": "Skills in Science",
     "subtopic": "Analysing data",
-    "fact": "The source expects pupils to identify patterns in data using a graph.",
+    "fact": "Look for patterns on a graph: do the values increase, decrease or stay about the same?",
     "keywords": [
       "patterns",
       "data",
@@ -3046,20 +3380,25 @@
       "explain"
     ],
     "acceptedAnswers": [
-      "identify patterns using a graph",
-      "use graph to find pattern"
+      "Look for values increasing, decreasing or staying the same",
+      "look for patterns",
+      "Look for patterns on a graph: do the values increase, decrease or stay about the same?",
+      "Look for patterns on a graph: do the values increase, decrease or stay about the same?"
     ],
-    "explanation": "This objective is from the Skills checklist.",
+    "explanation": "Look for patterns on a graph: do the values increase, decrease or stay about the same?",
     "commonMistakes": [
       "Describing a pattern without using the graph"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What should you look for when reading a graph?",
+    "explainPrompt": "What should you look for when reading a graph? Explain the idea in your own words.",
+    "applicationPrompt": "You have plotted results on a graph. What patterns should you look for?"
   },
   {
     "id": "skills_src_033",
     "topic": "Skills in Science",
     "subtopic": "Analysing data",
-    "fact": "The source expects pupils to interpret data to suggest relationships between variables and draw conclusions.",
+    "fact": "Use results to describe how the variables are related. A conclusion explains what the results tell you.",
     "keywords": [
       "interpret data",
       "relationships",
@@ -3072,20 +3411,25 @@
       "explain"
     ],
     "acceptedAnswers": [
-      "suggest relationships and draw conclusions",
-      "relationships between variables"
+      "Describe how the variables are related and what the results tell you",
+      "results show relationships",
+      "Use results to describe how the variables are related. A conclusion explains what the results tell you",
+      "Use results to describe how the variables are related. A conclusion explains what the results tell you."
     ],
-    "explanation": "This objective is from the Skills checklist.",
+    "explanation": "Use results to describe how the variables are related. A conclusion explains what the results tell you.",
     "commonMistakes": [
       "Only reading one data point"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "How can results help you write a conclusion?",
+    "explainPrompt": "How can results help you write a conclusion? Explain the idea in your own words.",
+    "applicationPrompt": "Your results show how two variables change together. How can you use this to write a conclusion?"
   },
   {
     "id": "skills_src_034",
     "topic": "Skills in Science",
     "subtopic": "Evaluating data and methods",
-    "fact": "To evaluate means to discuss the quality of data collected and suggest improvements to the method.",
+    "fact": "To evaluate an experiment, check how good the results are and suggest ways to improve the method.",
     "keywords": [
       "evaluate",
       "quality of data",
@@ -3099,13 +3443,17 @@
     ],
     "acceptedAnswers": [
       "discuss data quality and suggest improvements",
-      "quality and improvements"
+      "quality and improvements",
+      "To evaluate an experiment, check how good the results are and suggest ways to improve the method",
+      "To evaluate an experiment, check how good the results are and suggest ways to improve the method."
     ],
-    "explanation": "This is the glossary definition of evaluate.",
+    "explanation": "To evaluate an experiment, check how good the results are and suggest ways to improve the method.",
     "commonMistakes": [
       "Saying evaluate means calculate"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What does evaluate mean in science?",
+    "explainPrompt": "What does evaluate mean in science? Explain the idea in your own words."
   },
   {
     "id": "skills_src_035",
@@ -3124,13 +3472,15 @@
     ],
     "acceptedAnswers": [
       "repeat measurements that are close together",
-      "measurements close together"
+      "measurements close together",
+      "Precise describes a set of repeat measurements that are close together"
     ],
-    "explanation": "This is the glossary definition of precise.",
+    "explanation": "Precise describes a set of repeat measurements that are close together.",
     "commonMistakes": [
       "Confusing precision with getting the right answer"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What does precise mean?"
   },
   {
     "id": "skills_src_036",
@@ -3149,19 +3499,21 @@
     ],
     "acceptedAnswers": [
       "repeat readings are close together",
-      "repeat readings close together"
+      "repeat readings close together",
+      "Repeatable means repeat readings are close together"
     ],
-    "explanation": "This is the glossary definition of repeatable.",
+    "explanation": "Repeatable means repeat readings are close together.",
     "commonMistakes": [
       "Thinking repeatable means one reading"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What does repeatable mean?"
   },
   {
     "id": "skills_src_037",
     "topic": "Skills in Science",
     "subtopic": "Evaluating data and methods",
-    "fact": "An investigation is valid if it is designed appropriately, including keeping control variables constant.",
+    "fact": "A valid investigation answers the question it is meant to test. Keeping control variables the same helps make it valid.",
     "keywords": [
       "valid",
       "designed appropriately",
@@ -3174,19 +3526,23 @@
     ],
     "acceptedAnswers": [
       "designed appropriately with control variables constant",
-      "control variables constant"
+      "control variables constant",
+      "A valid investigation answers the question it is meant to test. Keeping control variables the same helps make it valid",
+      "A valid investigation answers the question it is meant to test. Keeping control variables the same helps make it valid."
     ],
-    "explanation": "This is the glossary definition of valid.",
+    "explanation": "A valid investigation answers the question it is meant to test. Keeping control variables the same helps make it valid.",
     "commonMistakes": [
       "Saying valid means colourful or neat"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What makes an investigation valid?",
+    "explainPrompt": "What makes an investigation valid? Explain the idea in your own words."
   },
   {
     "id": "skills_src_038",
     "topic": "Skills in Science",
     "subtopic": "Evaluating data and methods",
-    "fact": "The source expects pupils to suggest improvements that increase the quality of data.",
+    "fact": "Repeat measurements, check for unusual results and use equipment carefully to improve your results.",
     "keywords": [
       "improvements",
       "quality of data"
@@ -3197,20 +3553,25 @@
       "explain"
     ],
     "acceptedAnswers": [
-      "suggest improvements to increase data quality",
-      "improve data quality"
+      "Repeat measurements and check unusual results",
+      "repeat measurements",
+      "Repeat measurements, check for unusual results and use equipment carefully to improve your results",
+      "Repeat measurements, check for unusual results and use equipment carefully to improve your results."
     ],
-    "explanation": "This objective is from the Skills checklist.",
+    "explanation": "Repeat measurements, check for unusual results and use equipment carefully to improve your results.",
     "commonMistakes": [
       "Saying improve it without detail"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "How can you improve the quality of your results?",
+    "explainPrompt": "How can you improve the quality of your results? Explain the idea in your own words.",
+    "applicationPrompt": "Your repeated measurements are very different. Suggest ways to improve the quality of your results."
   },
   {
     "id": "skills_src_039",
     "topic": "Skills in Science",
     "subtopic": "Planning an experiment",
-    "fact": "The source expects pupils to plan a simple experiment and write a method.",
+    "fact": "Write a method as clear steps. Include the equipment, what to change, what to measure and what to keep the same.",
     "keywords": [
       "plan experiment",
       "method"
@@ -3220,20 +3581,24 @@
       "application"
     ],
     "acceptedAnswers": [
-      "write a method",
-      "plan a simple experiment"
+      "Clear steps with equipment, what to change, what to measure and what to keep the same",
+      "clear steps",
+      "Write a method as clear steps. Include the equipment, what to change, what to measure and what to keep the same",
+      "Write a method as clear steps. Include the equipment, what to change, what to measure and what to keep the same."
     ],
-    "explanation": "A method should explain what to do clearly enough to collect data.",
+    "explanation": "Write a method as clear steps. Include the equipment, what to change, what to measure and what to keep the same.",
     "commonMistakes": [
       "Only writing the aim"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What should you include in an experiment's method?",
+    "applicationPrompt": "A classmate needs to repeat your experiment. What should your written method include?"
   },
   {
     "id": "skills_src_040",
     "topic": "Skills in Science",
     "subtopic": "Planning an experiment",
-    "fact": "The source expects pupils to consider hazards and safety precautions needed for an experiment.",
+    "fact": "Before an experiment, identify hazards and choose safety precautions to reduce the risk of harm.",
     "keywords": [
       "hazards",
       "safety precautions",
@@ -3244,20 +3609,24 @@
       "application"
     ],
     "acceptedAnswers": [
-      "consider hazards and precautions",
-      "safety precautions"
+      "Identify hazards and choose safety precautions",
+      "hazards and safety precautions",
+      "Before an experiment, identify hazards and choose safety precautions to reduce the risk of harm",
+      "Before an experiment, identify hazards and choose safety precautions to reduce the risk of harm."
     ],
-    "explanation": "Planning practical work includes safety.",
+    "explanation": "Before an experiment, identify hazards and choose safety precautions to reduce the risk of harm.",
     "commonMistakes": [
       "Forgetting precautions"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What should you check before starting an experiment?",
+    "applicationPrompt": "You are about to start a science experiment. What should you check to help keep everyone safe?"
   },
   {
     "id": "skills_src_041",
     "topic": "Skills in Science",
     "subtopic": "Planning an experiment",
-    "fact": "The source expects pupils to explain why controlling variables is important.",
+    "fact": "Keep other variables the same so they do not affect your results. This helps make a fair test.",
     "keywords": [
       "controlling variables",
       "important"
@@ -3267,20 +3636,24 @@
       "explain"
     ],
     "acceptedAnswers": [
-      "keeps investigation valid",
-      "fair test"
+      "Other variables could affect the results, making the test unfair",
+      "fair test",
+      "Keep other variables the same so they do not affect your results. This helps make a fair test",
+      "Keep other variables the same so they do not affect your results. This helps make a fair test."
     ],
-    "explanation": "Control variables stop other factors affecting the dependent variable.",
+    "explanation": "Keep other variables the same so they do not affect your results. This helps make a fair test.",
     "commonMistakes": [
       "Saying controls do not matter"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "Why is controlling variables important?",
+    "explainPrompt": "Why is controlling variables important? Explain the idea in your own words."
   },
   {
     "id": "skills_src_042",
     "topic": "Skills in Science",
     "subtopic": "Planning an experiment",
-    "fact": "The source expects pupils to explain why it is important for an experiment to be repeated.",
+    "fact": "Repeating an experiment helps you check whether the results are similar and spot unusual readings.",
     "keywords": [
       "experiment repeated",
       "important"
@@ -3290,14 +3663,18 @@
       "explain"
     ],
     "acceptedAnswers": [
-      "makes results more repeatable or reliable",
-      "checks readings"
+      "To check results are similar and spot unusual readings",
+      "check readings",
+      "Repeating an experiment helps you check whether the results are similar and spot unusual readings",
+      "Repeating an experiment helps you check whether the results are similar and spot unusual readings."
     ],
-    "explanation": "Repeats help judge whether readings are close together and trustworthy.",
+    "explanation": "Repeating an experiment helps you check whether the results are similar and spot unusual readings.",
     "commonMistakes": [
       "Saying repeats waste time"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "Why should you repeat an experiment?",
+    "explainPrompt": "Why should you repeat an experiment? Explain the idea in your own words."
   },
   {
     "id": "skills_src_043",
@@ -3317,19 +3694,21 @@
     ],
     "acceptedAnswers": [
       "observation over time fair test and pattern seeking",
-      "different ways to investigate"
+      "different ways to investigate",
+      "Scientific enquiries include observation over time, fair test, and pattern seeking"
     ],
-    "explanation": "These enquiry types are named in the glossary.",
+    "explanation": "Scientific enquiries include observation over time, fair test, and pattern seeking.",
     "commonMistakes": [
       "Thinking there is only one enquiry type"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "Name three ways to investigate a science question."
   },
   {
     "id": "skills_src_044",
     "topic": "Skills in Science",
     "subtopic": "Presenting data",
-    "fact": "A good graph uses appropriate scales and axis labels.",
+    "fact": "Label both axes with the variable names and units. Use an even scale that fits your results.",
     "keywords": [
       "graph",
       "scales",
@@ -3342,19 +3721,23 @@
     ],
     "acceptedAnswers": [
       "appropriate scales and axis labels",
-      "scales and axis labels"
+      "scales and axis labels",
+      "Label both axes with the variable names and units. Use an even scale that fits your results",
+      "Label both axes with the variable names and units. Use an even scale that fits your results."
     ],
-    "explanation": "The checklist says pupils should use appropriate scales and axis labels when plotting graphs.",
+    "explanation": "Label both axes with the variable names and units. Use an even scale that fits your results.",
     "commonMistakes": [
       "Forgetting axis labels"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What should you include on the axes of a graph?",
+    "applicationPrompt": "You make a graph of temperature against time. What should you include on the axes?"
   },
   {
     "id": "skills_src_045",
     "topic": "Skills in Science",
     "subtopic": "Presenting data",
-    "fact": "When plotting a graph, pupils should plot points and draw the line or curve of best fit.",
+    "fact": "Plot the points carefully, then draw a line or curve of best fit to show the pattern.",
     "keywords": [
       "plot points",
       "line of best fit",
@@ -3367,19 +3750,23 @@
     ],
     "acceptedAnswers": [
       "plot points and draw line or curve of best fit",
-      "line or curve of best fit"
+      "line or curve of best fit",
+      "Plot the points carefully, then draw a line or curve of best fit to show the pattern",
+      "Plot the points carefully, then draw a line or curve of best fit to show the pattern."
     ],
-    "explanation": "This is directly from the graphing objective.",
+    "explanation": "Plot the points carefully, then draw a line or curve of best fit to show the pattern.",
     "commonMistakes": [
       "Joining bars instead of plotting points"
     ],
-    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx"
+    "source": "Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx",
+    "recallPrompt": "What should you do after plotting points on a graph?",
+    "applicationPrompt": "You have plotted all your results. What should you draw to show the overall pattern?"
   },
   {
     "id": "waves_src_001",
     "topic": "Waves",
     "subtopic": "Properties of waves",
-    "fact": "A wave is an oscillation or vibration which transfers energy from one place to another.",
+    "fact": "A wave is a vibration that transfers energy from one place to another. A repeated vibration is also called an oscillation.",
     "keywords": [
       "wave",
       "oscillation",
@@ -3393,19 +3780,21 @@
     ],
     "acceptedAnswers": [
       "oscillation or vibration that transfers energy",
-      "transfers energy"
+      "transfers energy",
+      "A wave is a vibration that transfers energy from one place to another. A repeated vibration is also called an oscillation"
     ],
-    "explanation": "This wording comes from the waves knowledge organiser.",
+    "explanation": "A wave is a vibration that transfers energy from one place to another. A repeated vibration is also called an oscillation.",
     "commonMistakes": [
       "Saying a wave transfers matter"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does a wave transfer from one place to another?"
   },
   {
     "id": "waves_src_002",
     "topic": "Waves",
     "subtopic": "Properties of waves",
-    "fact": "Amplitude is the maximum amount of vibration measured from the middle position of the wave.",
+    "fact": "Amplitude is the greatest distance from the middle position of a wave to a crest or trough.",
     "keywords": [
       "amplitude",
       "maximum vibration",
@@ -3418,13 +3807,15 @@
     ],
     "acceptedAnswers": [
       "maximum amount of vibration",
-      "from the middle position"
+      "from the middle position",
+      "Amplitude is the greatest distance from the middle position of a wave to a crest or trough"
     ],
-    "explanation": "This is the glossary definition of amplitude.",
+    "explanation": "Amplitude is the greatest distance from the middle position of a wave to a crest or trough.",
     "commonMistakes": [
       "Measuring amplitude crest to crest"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is amplitude?"
   },
   {
     "id": "waves_src_003",
@@ -3441,19 +3832,21 @@
     ],
     "acceptedAnswers": [
       "metres",
-      "m"
+      "m",
+      "Amplitude is usually measured in metres"
     ],
-    "explanation": "The glossary states amplitude is usually measured in metres.",
+    "explanation": "Amplitude is usually measured in metres.",
     "commonMistakes": [
       "Using hertz for amplitude"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What unit is usually used to measure amplitude?"
   },
   {
     "id": "waves_src_004",
     "topic": "Waves",
     "subtopic": "Properties of waves",
-    "fact": "Wavelength is the distance between two corresponding points on a wave, in metres.",
+    "fact": "Wavelength is the distance between matching points on neighbouring waves, such as one crest to the next.",
     "keywords": [
       "wavelength",
       "corresponding points",
@@ -3466,13 +3859,15 @@
     ],
     "acceptedAnswers": [
       "distance between corresponding points",
-      "distance between two corresponding points"
+      "distance between two corresponding points",
+      "Wavelength is the distance between matching points on neighbouring waves, such as one crest to the next"
     ],
-    "explanation": "This is the glossary definition of wavelength.",
+    "explanation": "Wavelength is the distance between matching points on neighbouring waves, such as one crest to the next.",
     "commonMistakes": [
       "Calling wavelength the wave height"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is wavelength?"
   },
   {
     "id": "waves_src_005",
@@ -3492,13 +3887,15 @@
     ],
     "acceptedAnswers": [
       "number of waves produced in one second",
-      "waves per second"
+      "waves per second",
+      "Frequency is the number of waves produced in one second, in hertz"
     ],
-    "explanation": "This is the glossary definition of frequency.",
+    "explanation": "Frequency is the number of waves produced in one second, in hertz.",
     "commonMistakes": [
       "Confusing frequency with volume"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is frequency?"
   },
   {
     "id": "waves_src_006",
@@ -3517,13 +3914,15 @@
     ],
     "acceptedAnswers": [
       "unit of frequency",
-      "Hz"
+      "Hz",
+      "Hertz is the unit of frequency"
     ],
-    "explanation": "The glossary defines hertz as the unit of frequency.",
+    "explanation": "Hertz is the unit of frequency.",
     "commonMistakes": [
       "Using decibels for frequency"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does hertz measure?"
   },
   {
     "id": "waves_src_007",
@@ -3541,13 +3940,15 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "top of a wave"
+      "top of a wave",
+      "A crest or peak is the top of a wave"
     ],
-    "explanation": "The glossary lists crest and peak as the top of a wave.",
+    "explanation": "A crest or peak is the top of a wave.",
     "commonMistakes": [
       "Calling the trough the top"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "Where is the crest or peak of a wave?"
   },
   {
     "id": "waves_src_008",
@@ -3564,19 +3965,21 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "bottom of a wave"
+      "bottom of a wave",
+      "A trough is the bottom of a wave"
     ],
-    "explanation": "This is the glossary definition of trough.",
+    "explanation": "A trough is the bottom of a wave.",
     "commonMistakes": [
       "Calling the crest the bottom"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "Where is the trough of a wave?"
   },
   {
     "id": "waves_src_009",
     "topic": "Waves",
     "subtopic": "Properties of waves",
-    "fact": "A transverse wave travels at 90 degrees to the direction of energy transfer.",
+    "fact": "In a transverse wave, vibrations are at right angles to the direction the energy travels. Light is an example.",
     "keywords": [
       "transverse",
       "90 degrees",
@@ -3589,19 +3992,23 @@
     ],
     "acceptedAnswers": [
       "90 degrees to energy transfer",
-      "at right angles to energy transfer"
+      "at right angles to energy transfer",
+      "In a transverse wave, vibrations are at right angles to the direction the energy travels. Light is an example",
+      "In a transverse wave, vibrations are at right angles to the direction the energy travels. Light is an example."
     ],
-    "explanation": "The waves organiser gives light as an example of a transverse wave.",
+    "explanation": "In a transverse wave, vibrations are at right angles to the direction the energy travels. Light is an example.",
     "commonMistakes": [
       "Saying transverse travels in the same direction as energy"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "How do vibrations move in a transverse wave?",
+    "explainPrompt": "How do vibrations move in a transverse wave? Explain the idea in your own words."
   },
   {
     "id": "waves_src_010",
     "topic": "Waves",
     "subtopic": "Properties of waves",
-    "fact": "A longitudinal wave vibrates in the same direction as the wave or energy transfer.",
+    "fact": "In a longitudinal wave, vibrations are along the same direction as the energy travels. Sound is an example.",
     "keywords": [
       "longitudinal",
       "same direction",
@@ -3614,13 +4021,17 @@
     ],
     "acceptedAnswers": [
       "same direction as the wave",
-      "same direction as energy transfer"
+      "same direction as energy transfer",
+      "In a longitudinal wave, vibrations are along the same direction as the energy travels. Sound is an example",
+      "In a longitudinal wave, vibrations are along the same direction as the energy travels. Sound is an example."
     ],
-    "explanation": "Sound is given as an example of a longitudinal wave.",
+    "explanation": "In a longitudinal wave, vibrations are along the same direction as the energy travels. Sound is an example.",
     "commonMistakes": [
       "Saying sound is transverse"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "How do vibrations move in a longitudinal wave?",
+    "explainPrompt": "How do vibrations move in a longitudinal wave? Explain the idea in your own words."
   },
   {
     "id": "waves_src_011",
@@ -3638,13 +4049,15 @@
     ],
     "acceptedAnswers": [
       "330 m/s",
-      "330 metres per second"
+      "330 metres per second",
+      "The speed of sound is 330 m/s"
     ],
-    "explanation": "The checklist glossary gives speed of sound as 330 m/s.",
+    "explanation": "Your school notes use 330 metres per second for sound in air. Its speed changes with the material and temperature.",
     "commonMistakes": [
       "Saying sound travels at 300 million m/s"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What speed of sound is used in your revision notes?"
   },
   {
     "id": "waves_src_012",
@@ -3663,19 +4076,23 @@
     ],
     "acceptedAnswers": [
       "vibration of particles",
-      "particles vibrate"
+      "particles vibrate",
+      "Sound waves are caused by vibration of particles",
+      "Sound waves are caused by vibration of particles."
     ],
-    "explanation": "The waves organiser states this directly.",
+    "explanation": "Sound waves are caused by vibration of particles.",
     "commonMistakes": [
       "Saying sound can travel in a vacuum"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What causes sound waves?",
+    "explainPrompt": "What causes sound waves? Explain the idea in your own words."
   },
   {
     "id": "waves_src_013",
     "topic": "Waves",
     "subtopic": "Sound waves and speed",
-    "fact": "Sound needs a medium to travel through.",
+    "fact": "Sound needs particles to travel through. The material it travels through, such as air, is called a medium.",
     "keywords": [
       "sound",
       "medium",
@@ -3688,13 +4105,15 @@
     ],
     "acceptedAnswers": [
       "needs a medium",
-      "needs particles"
+      "needs particles",
+      "Sound needs particles to travel through. The material it travels through, such as air, is called a medium"
     ],
-    "explanation": "The organiser says longitudinal waves such as sound need a medium.",
+    "explanation": "Sound needs particles to travel through. The material it travels through, such as air, is called a medium.",
     "commonMistakes": [
       "Saying sound travels through a vacuum"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does sound need to travel through?"
   },
   {
     "id": "waves_src_014",
@@ -3712,13 +4131,15 @@
     ],
     "acceptedAnswers": [
       "space with no particles of matter",
-      "no particles"
+      "no particles",
+      "A vacuum is a space with no particles of matter in it"
     ],
-    "explanation": "This is the glossary definition of vacuum.",
+    "explanation": "A vacuum is a space with no particles of matter in it.",
     "commonMistakes": [
       "Thinking vacuum means full of air"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is a vacuum?"
   },
   {
     "id": "waves_src_015",
@@ -3738,19 +4159,21 @@
     ],
     "acceptedAnswers": [
       "reflection of sound waves back to listener",
-      "sound reflected back"
+      "sound reflected back",
+      "An echo is reflection of sound waves from a surface back to the listener"
     ],
-    "explanation": "This is the glossary definition of echo.",
+    "explanation": "An echo is reflection of sound waves from a surface back to the listener.",
     "commonMistakes": [
       "Saying echo is refraction"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is an echo?"
   },
   {
     "id": "waves_src_016",
     "topic": "Waves",
     "subtopic": "Sound waves and speed",
-    "fact": "Absorption is when energy is transferred from sound or other waves to a material.",
+    "fact": "When a material absorbs a wave, energy transfers from the wave to the material.",
     "keywords": [
       "absorption",
       "energy transferred",
@@ -3763,13 +4186,17 @@
     ],
     "acceptedAnswers": [
       "energy transferred from waves to a material",
-      "waves transfer energy to material"
+      "waves transfer energy to material",
+      "When a material absorbs a wave, energy transfers from the wave to the material",
+      "When a material absorbs a wave, energy transfers from the wave to the material."
     ],
-    "explanation": "This is the glossary definition of absorption.",
+    "explanation": "When a material absorbs a wave, energy transfers from the wave to the material.",
     "commonMistakes": [
       "Confusing absorption with reflection"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What happens when a material absorbs a wave?",
+    "explainPrompt": "What happens when a material absorbs a wave? Explain the idea in your own words."
   },
   {
     "id": "waves_src_017",
@@ -3788,13 +4215,15 @@
     ],
     "acceptedAnswers": [
       "increase amplitude so sound is louder",
-      "increase amplitude"
+      "increase amplitude",
+      "To amplify means to increase the amplitude of a sound so that it sounds louder"
     ],
-    "explanation": "This is the glossary definition of amplify.",
+    "explanation": "To amplify means to increase the amplitude of a sound so that it sounds louder.",
     "commonMistakes": [
       "Saying amplify means increase frequency"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does amplify mean?"
   },
   {
     "id": "waves_src_018",
@@ -3814,13 +4243,15 @@
     ],
     "acceptedAnswers": [
       "how loud or quiet a sound is",
-      "loud or quiet in decibels"
+      "loud or quiet in decibels",
+      "Volume means how loud or quiet a sound is, in decibels"
     ],
-    "explanation": "This is the glossary definition of volume.",
+    "explanation": "Volume means how loud or quiet a sound is, in decibels.",
     "commonMistakes": [
       "Using hertz as the unit of volume"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does the volume of a sound tell you?"
   },
   {
     "id": "waves_src_019",
@@ -3839,13 +4270,15 @@
     ],
     "acceptedAnswers": [
       "unit of sound intensity or loudness",
-      "loudness unit"
+      "loudness unit",
+      "A decibel is a commonly used unit of sound intensity or loudness"
     ],
-    "explanation": "This is the glossary definition of decibel.",
+    "explanation": "A decibel is a commonly used unit of sound intensity or loudness.",
     "commonMistakes": [
       "Using decibels for frequency"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does a decibel measure?"
   },
   {
     "id": "waves_src_020",
@@ -3864,13 +4297,15 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "how high or low a sound is"
+      "how high or low a sound is",
+      "Pitch is how high or low a sound is"
     ],
-    "explanation": "This is the glossary definition of pitch.",
+    "explanation": "Pitch is how high or low a sound is.",
     "commonMistakes": [
       "Confusing pitch with loudness"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is pitch?"
   },
   {
     "id": "waves_src_021",
@@ -3890,13 +4325,17 @@
     ],
     "acceptedAnswers": [
       "low pitch low frequency high pitch high frequency",
-      "pitch links to frequency"
+      "pitch links to frequency",
+      "A low pitch sound has a low frequency and a high pitch sound has a high frequency",
+      "A low pitch sound has a low frequency and a high pitch sound has a high frequency."
     ],
-    "explanation": "This is stated in the pitch definition.",
+    "explanation": "A low pitch sound has a low frequency and a high pitch sound has a high frequency.",
     "commonMistakes": [
       "Saying pitch depends on amplitude"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "How does frequency affect pitch?",
+    "explainPrompt": "How does frequency affect pitch? Explain the idea in your own words."
   },
   {
     "id": "waves_src_022",
@@ -3915,13 +4354,15 @@
     ],
     "acceptedAnswers": [
       "above 20000 Hz",
-      "greater than 20000 Hz"
+      "greater than 20000 Hz",
+      "Ultrasound is sound above 20,000 Hz, beyond human hearing"
     ],
-    "explanation": "The glossary defines ultrasound this way.",
+    "explanation": "Ultrasound is sound above 20,000 Hz, beyond human hearing.",
     "commonMistakes": [
       "Saying ultrasound is below 20 Hz"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is ultrasound?"
   },
   {
     "id": "waves_src_023",
@@ -3939,19 +4380,21 @@
     ],
     "acceptedAnswers": [
       "below 20 Hz",
-      "less than 20 Hz"
+      "less than 20 Hz",
+      "Infrasound is sound below a frequency of 20 Hz"
     ],
-    "explanation": "This is the glossary definition of infrasound.",
+    "explanation": "Infrasound is sound below a frequency of 20 Hz.",
     "commonMistakes": [
       "Saying infrasound is above 20000 Hz"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is infrasound?"
   },
   {
     "id": "waves_src_024",
     "topic": "Waves",
     "subtopic": "Frequency and pitch",
-    "fact": "The auditory range is the lowest and highest frequencies a type of animal can hear.",
+    "fact": "An animal's auditory range is the range of sound frequencies it can hear.",
     "keywords": [
       "auditory range",
       "lowest",
@@ -3964,13 +4407,15 @@
     ],
     "acceptedAnswers": [
       "lowest and highest frequencies an animal can hear",
-      "range of hearing"
+      "range of hearing",
+      "An animal's auditory range is the range of sound frequencies it can hear"
     ],
-    "explanation": "This is the glossary definition of auditory range.",
+    "explanation": "An animal's auditory range is the range of sound frequencies it can hear.",
     "commonMistakes": [
       "Thinking every animal has the same range"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is an animal's auditory range?"
   },
   {
     "id": "waves_src_025",
@@ -3988,13 +4433,15 @@
     ],
     "acceptedAnswers": [
       "outside part of the ear",
-      "part we can see"
+      "part we can see",
+      "The pinna is the outside part of the ear that we can see"
     ],
-    "explanation": "This is the glossary definition of pinna.",
+    "explanation": "The pinna is the outside part of the ear that we can see.",
     "commonMistakes": [
       "Calling the cochlea the outside ear"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is the pinna?"
   },
   {
     "id": "waves_src_026",
@@ -4013,19 +4460,21 @@
     ],
     "acceptedAnswers": [
       "passage from outer ear to eardrum",
-      "from outer ear to eardrum"
+      "from outer ear to eardrum",
+      "The auditory canal is the passage in the ear from the outer ear to the eardrum"
     ],
-    "explanation": "This is the glossary definition of auditory canal.",
+    "explanation": "The auditory canal is the passage in the ear from the outer ear to the eardrum.",
     "commonMistakes": [
       "Confusing auditory canal with auditory nerve"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "Where does the auditory canal lead?"
   },
   {
     "id": "waves_src_027",
     "topic": "Waves",
     "subtopic": "The ear and hearing",
-    "fact": "The eardrum is a membrane that transmits sound vibrations from the outer ear to the middle ear.",
+    "fact": "The eardrum is a thin sheet of tissue. It vibrates when sound reaches it and passes vibrations to the middle ear.",
     "keywords": [
       "eardrum",
       "membrane",
@@ -4037,19 +4486,21 @@
     ],
     "acceptedAnswers": [
       "membrane that transmits sound vibrations",
-      "transmits vibrations"
+      "transmits vibrations",
+      "The eardrum is a thin sheet of tissue. It vibrates when sound reaches it and passes vibrations to the middle ear"
     ],
-    "explanation": "This is the glossary definition of eardrum.",
+    "explanation": "The eardrum is a thin sheet of tissue. It vibrates when sound reaches it and passes vibrations to the middle ear.",
     "commonMistakes": [
       "Saying eardrum detects light"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does the eardrum do?"
   },
   {
     "id": "waves_src_028",
     "topic": "Waves",
     "subtopic": "The ear and hearing",
-    "fact": "The ossicles are small bones that transfer vibrations from the eardrum to the oval window.",
+    "fact": "The ossicles are tiny bones in the middle ear. They pass vibrations from the eardrum towards the inner ear.",
     "keywords": [
       "ossicles",
       "small bones",
@@ -4063,19 +4514,21 @@
     ],
     "acceptedAnswers": [
       "small bones that transfer vibrations",
-      "transfer vibrations from eardrum to oval window"
+      "transfer vibrations from eardrum to oval window",
+      "The ossicles are tiny bones in the middle ear. They pass vibrations from the eardrum towards the inner ear"
     ],
-    "explanation": "This is the glossary definition of ossicle.",
+    "explanation": "The ossicles are tiny bones in the middle ear. They pass vibrations from the eardrum towards the inner ear.",
     "commonMistakes": [
       "Saying ossicles are in the eye"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What do the ossicles do?"
   },
   {
     "id": "waves_src_029",
     "topic": "Waves",
     "subtopic": "The ear and hearing",
-    "fact": "The cochlea is a snail-shaped tube in the inner ear with sensory cells that detect sound.",
+    "fact": "The cochlea is a curled tube in the inner ear. Its sensory cells detect vibrations and help produce nerve signals.",
     "keywords": [
       "cochlea",
       "snail-shaped",
@@ -4089,13 +4542,15 @@
     ],
     "acceptedAnswers": [
       "snail-shaped tube with sensory cells",
-      "detects sound"
+      "detects sound",
+      "The cochlea is a curled tube in the inner ear. Its sensory cells detect vibrations and help produce nerve signals"
     ],
-    "explanation": "This is the glossary definition of cochlea.",
+    "explanation": "The cochlea is a curled tube in the inner ear. Its sensory cells detect vibrations and help produce nerve signals.",
     "commonMistakes": [
       "Saying cochlea is the eardrum"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does the cochlea do?"
   },
   {
     "id": "waves_src_030",
@@ -4113,13 +4568,15 @@
     ],
     "acceptedAnswers": [
       "electrical signal travels to brain",
-      "signal to brain"
+      "signal to brain",
+      "An electrical signal travels along the auditory nerve to the brain"
     ],
-    "explanation": "This is the glossary definition of auditory nerve.",
+    "explanation": "An electrical signal travels along the auditory nerve to the brain.",
     "commonMistakes": [
       "Saying sound waves travel directly into the brain"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What travels along the auditory nerve to the brain?"
   },
   {
     "id": "waves_src_031",
@@ -4137,13 +4594,15 @@
     ],
     "acceptedAnswers": [
       "300 million m/s",
-      "300,000,000 m/s"
+      "300,000,000 m/s",
+      "The speed of light is 300 million m/s"
     ],
-    "explanation": "This is the glossary definition of speed of light.",
+    "explanation": "Light travels at about 300 million metres per second in a vacuum. A vacuum has no particles.",
     "commonMistakes": [
       "Using 330 m/s for light"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is the speed of light in a vacuum?"
   },
   {
     "id": "waves_src_032",
@@ -4160,13 +4619,15 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "gives out light"
+      "gives out light",
+      "A luminous object gives out light"
     ],
-    "explanation": "This is the glossary definition of luminous.",
+    "explanation": "A luminous object gives out light.",
     "commonMistakes": [
       "Saying the Moon is luminous because it reflects light"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does luminous mean?"
   },
   {
     "id": "waves_src_033",
@@ -4183,13 +4644,15 @@
     ],
     "acceptedAnswers": [
       "produces no light",
-      "does not give out light"
+      "does not give out light",
+      "A non-luminous object produces no light"
     ],
-    "explanation": "This is the glossary definition of non-luminous.",
+    "explanation": "A non-luminous object produces no light.",
     "commonMistakes": [
       "Saying non-luminous objects give out light"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does non-luminous mean?"
   },
   {
     "id": "waves_src_034",
@@ -4207,13 +4670,15 @@
     ],
     "acceptedAnswers": [
       "allows no light to pass through",
-      "no light passes through"
+      "no light passes through",
+      "An opaque material allows no light to pass through it"
     ],
-    "explanation": "This is the glossary definition of opaque.",
+    "explanation": "An opaque material allows no light to pass through it.",
     "commonMistakes": [
       "Confusing opaque with transparent"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does opaque mean?"
   },
   {
     "id": "waves_src_035",
@@ -4231,19 +4696,21 @@
     ],
     "acceptedAnswers": [
       "allows some light to pass through",
-      "some light passes through"
+      "some light passes through",
+      "A translucent material allows some light to pass through it"
     ],
-    "explanation": "This is the glossary definition of translucent.",
+    "explanation": "A translucent material allows some light to pass through it.",
     "commonMistakes": [
       "Saying translucent allows all light through"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does translucent mean?"
   },
   {
     "id": "waves_src_036",
     "topic": "Waves",
     "subtopic": "Light",
-    "fact": "A transparent material allows all light to pass through it.",
+    "fact": "A transparent material lets light through so you can see clearly through it.",
     "keywords": [
       "transparent",
       "all light"
@@ -4255,13 +4722,15 @@
     ],
     "acceptedAnswers": [
       "allows all light to pass through",
-      "all light passes through"
+      "all light passes through",
+      "A transparent material lets light through so you can see clearly through it"
     ],
-    "explanation": "This is the glossary definition of transparent.",
+    "explanation": "A transparent material lets light through so you can see clearly through it.",
     "commonMistakes": [
       "Confusing transparent with opaque"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does transparent mean?"
   },
   {
     "id": "waves_src_037",
@@ -4281,19 +4750,21 @@
     ],
     "acceptedAnswers": [
       "change in direction when it hits a boundary and bounces back",
-      "bounces back"
+      "bounces back",
+      "Reflection is a change in direction of light or sound when it hits a boundary and bounces back"
     ],
-    "explanation": "This is the glossary definition of reflection.",
+    "explanation": "Reflection is a change in direction of light or sound when it hits a boundary and bounces back.",
     "commonMistakes": [
       "Saying reflection is bending into a new material"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is reflection?"
   },
   {
     "id": "waves_src_038",
     "topic": "Waves",
     "subtopic": "Reflection",
-    "fact": "The law of reflection says the angle of incidence is equal to the angle of reflection.",
+    "fact": "The angle of incidence equals the angle of reflection. Measure both angles from the normal line.",
     "keywords": [
       "law of reflection",
       "angle of incidence",
@@ -4306,19 +4777,23 @@
     ],
     "acceptedAnswers": [
       "angle of incidence equals angle of reflection",
-      "angles are equal"
+      "angles are equal",
+      "The angle of incidence equals the angle of reflection. Measure both angles from the normal line",
+      "The angle of incidence equals the angle of reflection. Measure both angles from the normal line."
     ],
-    "explanation": "This is the glossary definition of law of reflection.",
+    "explanation": "The angle of incidence equals the angle of reflection. Measure both angles from the normal line.",
     "commonMistakes": [
       "Saying the reflected angle is always zero"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does the law of reflection say?",
+    "applicationPrompt": "A ray of light hits a mirror. How does its angle of reflection compare with its angle of incidence?"
   },
   {
     "id": "waves_src_039",
     "topic": "Waves",
     "subtopic": "Reflection",
-    "fact": "The normal line is an imaginary line at right angles to the surface, used to measure angles.",
+    "fact": "The normal is an imaginary line at 90 degrees to a surface. Measure light-ray angles from this line.",
     "keywords": [
       "normal line",
       "right angles",
@@ -4332,13 +4807,15 @@
     ],
     "acceptedAnswers": [
       "imaginary line at right angles to surface",
-      "line angles are measured from"
+      "line angles are measured from",
+      "The normal is an imaginary line at 90 degrees to a surface. Measure light-ray angles from this line"
     ],
-    "explanation": "This is the glossary definition of normal line.",
+    "explanation": "The normal is an imaginary line at 90 degrees to a surface. Measure light-ray angles from this line.",
     "commonMistakes": [
       "Measuring angles from the mirror surface"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is the normal line on a ray diagram?"
   },
   {
     "id": "waves_src_040",
@@ -4355,13 +4832,15 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "reflection from a smooth surface"
+      "reflection from a smooth surface",
+      "Specular reflection is reflection from a smooth surface"
     ],
-    "explanation": "This is the glossary definition of specular reflection.",
+    "explanation": "Specular reflection is reflection from a smooth surface.",
     "commonMistakes": [
       "Saying rough surfaces make specular reflection"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is specular reflection?"
   },
   {
     "id": "waves_src_041",
@@ -4378,13 +4857,15 @@
       "multiple-choice"
     ],
     "acceptedAnswers": [
-      "reflection from a rough surface"
+      "reflection from a rough surface",
+      "Diffuse reflection is reflection from a rough surface"
     ],
-    "explanation": "This is the glossary definition of diffuse reflection.",
+    "explanation": "Diffuse reflection is reflection from a rough surface.",
     "commonMistakes": [
       "Saying diffuse reflection makes a clear mirror image"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is diffuse reflection?"
   },
   {
     "id": "waves_src_042",
@@ -4403,13 +4884,15 @@
     ],
     "acceptedAnswers": [
       "change in direction going from one material into another",
-      "bending when entering another material"
+      "bending when entering another material",
+      "Refraction is a change in direction of light going from one material into another"
     ],
-    "explanation": "This is the glossary definition of refraction.",
+    "explanation": "Refraction is a change in direction of light going from one material into another.",
     "commonMistakes": [
       "Confusing refraction with reflection"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What is refraction?"
   },
   {
     "id": "waves_src_043",
@@ -4428,13 +4911,15 @@
     ],
     "acceptedAnswers": [
       "thicker in the middle and bends rays towards each other",
-      "brings rays together"
+      "brings rays together",
+      "A convex lens is thicker in the middle and bends light rays towards each other"
     ],
-    "explanation": "This is the glossary definition of convex.",
+    "explanation": "A convex lens is thicker in the middle and bends light rays towards each other.",
     "commonMistakes": [
       "Confusing convex with concave"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does a convex lens do to light rays?"
   },
   {
     "id": "waves_src_044",
@@ -4453,13 +4938,15 @@
     ],
     "acceptedAnswers": [
       "thinner in the middle and spreads out light rays",
-      "spreads light rays"
+      "spreads light rays",
+      "A concave lens is thinner in the middle and spreads out light rays"
     ],
-    "explanation": "This is the glossary definition of concave.",
+    "explanation": "A concave lens is thinner in the middle and spreads out light rays.",
     "commonMistakes": [
       "Confusing concave with convex"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What does a concave lens do to light rays?"
   },
   {
     "id": "waves_src_045",
@@ -4479,12 +4966,14 @@
     ],
     "acceptedAnswers": [
       "red blue and green",
-      "red blue green"
+      "red blue green",
+      "The primary colours of light are red, blue and green"
     ],
-    "explanation": "The glossary names red, blue and green as primary colours.",
+    "explanation": "The primary colours of light are red, blue and green.",
     "commonMistakes": [
       "Using paint primary colours instead of light"
     ],
-    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf"
+    "source": "Y7_Waves_Checklist__Glossary__BBC_Bitesize_Links.docx; Y7_Waves_Knowledge_Organiser.pdf",
+    "recallPrompt": "What are the primary colours of light?"
   }
 ]

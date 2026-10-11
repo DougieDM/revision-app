@@ -1,4 +1,4 @@
-import { filterFacts, filterSeeds, makeFillBlank, seedToQuestion, shuffle } from "@/lib/quiz";
+import { filterFacts, filterSeeds, makeFillBlankParts, seedToQuestion, shuffle, styleToTypes } from "@/lib/quiz";
 import type { GeneratedQuestion, KnowledgeFact, KnowledgeQuestionType, QuizSettings } from "@/types/quiz";
 
 const MCQ_DISTRACTORS = [
@@ -14,15 +14,21 @@ const MCQ_DISTRACTORS = [
   "germination"
 ];
 
-export function generateQuiz(settings: QuizSettings, weakSubtopics: string[] = []) {
+export function generateQuiz(settings: QuizSettings, weakSubtopics: string[] = [], random = Math.random) {
+  const allowedTypes = styleToTypes(settings.style);
+  const typeCounts = new Map<KnowledgeQuestionType, number>();
   const seedPool = filterSeeds(settings, weakSubtopics).map(seedToQuestion);
-  const factPool = filterFacts(settings, weakSubtopics).map(factToQuestion);
-  const pool = [...shuffle(seedPool), ...shuffle(factPool)];
-  const fallbackPool = [
-    ...shuffle(filterSeeds({ ...settings, weakOnly: false }).map(seedToQuestion)),
-    ...shuffle(filterFacts({ ...settings, weakOnly: false }).map(factToQuestion))
-  ];
-  const available = pool.length ? pool : fallbackPool;
+  const factPool = shuffle(filterFacts(settings, weakSubtopics), random).map((fact) => {
+    const types = fact.questionTypes.filter((type) => allowedTypes.includes(type));
+    // Rotate among the least-used supported types; randomise ties so data order
+    // does not decide which style wins. Filtering guarantees a non-empty list.
+    const type = shuffle(types, random).reduce((leastUsed, candidate) =>
+      (typeCounts.get(candidate) ?? 0) < (typeCounts.get(leastUsed) ?? 0) ? candidate : leastUsed
+    );
+    typeCounts.set(type, (typeCounts.get(type) ?? 0) + 1);
+    return factToQuestion(fact, type, random);
+  });
+  const available = [...shuffle(seedPool, random), ...shuffle(factPool, random)];
   let ordered = available;
   if (settings.topic === "Year 8 Organisms" && !settings.subtopic) {
     const sections = Array.from(new Set(available.map((q) => q.subtopic)));
@@ -40,39 +46,67 @@ export function generateQuiz(settings: QuizSettings, weakSubtopics: string[] = [
     seenLearningPoints.add(learningPoint);
     return true;
   });
-  const selected = unique.slice(0, settings.count);
+  // Deal one question of each available type per round. This also prevents the
+  // seed-first pool from hiding the variety of dynamically generated questions.
+  let varied = unique;
+  if (settings.style === "mixed") {
+    const types = shuffle(Array.from(new Set(unique.map((q) => q.type))), random);
+    const queues = types.map((type) => unique.filter((q) => q.type === type));
+    varied = [];
+    while (queues.some((queue) => queue.length)) {
+      queues.forEach((queue) => { const question = queue.shift(); if (question) varied.push(question); });
+    }
+    // Whole-unit Organisms practice still covers every section first, drawing
+    // from the type-balanced order within each section.
+    if (settings.topic === "Year 8 Organisms" && !settings.subtopic) {
+      const sections = Array.from(new Set(unique.map((q) => q.subtopic)));
+      const sectionQueues = sections.map((section) => varied.filter((q) => q.subtopic === section));
+      const selectedTypeCounts = new Map<KnowledgeQuestionType, number>();
+      varied = [];
+      while (sectionQueues.some((queue) => queue.length)) {
+        sectionQueues.forEach((queue) => {
+          if (!queue.length) return;
+          const index = queue.reduce((best, question, candidate) =>
+            (selectedTypeCounts.get(question.type) ?? 0) < (selectedTypeCounts.get(queue[best].type) ?? 0) ? candidate : best,
+            0
+          );
+          const [question] = queue.splice(index, 1);
+          selectedTypeCounts.set(question.type, (selectedTypeCounts.get(question.type) ?? 0) + 1);
+          varied.push(question);
+        });
+      }
+    }
+  }
+  const selected = varied.slice(0, settings.count);
 
-  return selected.map((question, index) => ({ ...question, options: question.options ? shuffle(question.options) : undefined, id: `${question.id}-${index}` }));
+  return selected.map((question, index) => ({ ...question, options: question.options ? shuffle(question.options, random) : undefined, id: `${question.id}-${index}` }));
 }
 
-function factToQuestion(fact: KnowledgeFact): GeneratedQuestion {
-  const type = chooseType(fact.questionTypes);
-  if (type === "multiple-choice") return multipleChoiceFromFact(fact);
-  if (type === "fill-blank") return baseFromFact(fact, type, makeFillBlank(fact.fact));
+function factToQuestion(fact: KnowledgeFact, type: KnowledgeQuestionType, random: () => number): GeneratedQuestion {
+  if (type === "multiple-choice") return multipleChoiceFromFact(fact, random);
+  if (type === "fill-blank") {
+    const blank = makeFillBlankParts(fact.fact);
+    return { ...baseFromFact(fact, type, `Fill in the missing word: ${blank.question}`), answer: blank.answer, acceptedAnswers: [blank.answer], keywords: [blank.answer] };
+  }
   if (type === "explain") {
-    return baseFromFact(fact, type, `Explain this science idea: ${fact.fact}`);
+    return baseFromFact(fact, type, fact.explainPrompt ?? `${fact.recallPrompt} Explain the idea in your own words.`);
   }
   if (type === "spot-the-mistake") {
     const mistake = fact.commonMistakes[0] ?? "The science word has been mixed up.";
     return baseFromFact(
       fact,
       type,
-      `Readispark hears this answer: "${mistake}." What is the mistake?`
+      `A student says: "${mistake.replace(/\.$/, "")}." What is wrong? Write the correct idea.`
     );
   }
   if (type === "application") {
     return baseFromFact(
       fact,
       type,
-      `Use your science knowledge to answer this: ${fact.fact}`
+      fact.applicationPrompt ?? fact.recallPrompt
     );
   }
   return baseFromFact(fact, "recall", makeRecallPrompt(fact));
-}
-
-function chooseType(types: KnowledgeQuestionType[]) {
-  const preferred = ["multiple-choice", "recall", "fill-blank", "explain", "spot-the-mistake", "application"] as const;
-  return preferred.find((type) => types.includes(type)) ?? types[0] ?? "recall";
 }
 
 function baseFromFact(fact: KnowledgeFact, type: KnowledgeQuestionType, question: string): GeneratedQuestion {
@@ -84,7 +118,7 @@ function baseFromFact(fact: KnowledgeFact, type: KnowledgeQuestionType, question
     difficulty: fact.difficulty,
     type,
     question,
-    answer: fact.acceptedAnswers[0] ?? fact.fact,
+    answer: type === "explain" || type === "application" ? fact.explanation : fact.acceptedAnswers[0] ?? fact.fact,
     acceptedAnswers: fact.acceptedAnswers,
     keywords: fact.keywords,
     explanation: fact.explanation,
@@ -92,25 +126,22 @@ function baseFromFact(fact: KnowledgeFact, type: KnowledgeQuestionType, question
   };
 }
 
-function multipleChoiceFromFact(fact: KnowledgeFact): GeneratedQuestion {
+function multipleChoiceFromFact(fact: KnowledgeFact, random: () => number): GeneratedQuestion {
   const answer = fact.acceptedAnswers[0] ?? fact.fact;
   const options = shuffle([
     answer,
     ...MCQ_DISTRACTORS.filter((option) => option.toLowerCase() !== answer.toLowerCase())
-  ]).slice(0, 4);
+  ], random).slice(0, 4);
 
   if (!options.includes(answer)) options[0] = answer;
 
   return {
     ...baseFromFact(fact, "multiple-choice", makeRecallPrompt(fact)),
-    options: shuffle(options),
+    options: shuffle(options, random),
     answer
   };
 }
 
 function makeRecallPrompt(fact: KnowledgeFact) {
-  const firstKeyword = fact.keywords[0] ?? fact.subtopic;
-  if (fact.fact.includes("pH")) return `What does this pH fact mean: ${fact.fact}`;
-  if (fact.fact.includes(" is ")) return `What is ${firstKeyword}?`;
-  return `Recall a fact about ${fact.subtopic.toLowerCase()}: ${fact.fact}`;
+  return fact.recallPrompt;
 }

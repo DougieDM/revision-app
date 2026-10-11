@@ -11,7 +11,7 @@ interface FeedbackCardProps {
 }
 
 export function FeedbackCard({ question, correct, dontKnow, onNext, isLast }: FeedbackCardProps) {
-  const title = dontKnow ? "No problem. Let's learn it together." : correct ? "Great answer!" : "Good try - nearly there.";
+  const title = dontKnow ? "No problem. Let's learn it together." : correct ? "Great answer!" : "Good try. Let's check the answer.";
 
   return (
     <section className="rounded-lg bg-surface p-5 shadow-soft">

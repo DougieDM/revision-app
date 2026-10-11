@@ -30,7 +30,7 @@ for (const q of questions) {
   }
 }
 for (const subtopic of ['', ...content.sections]) {
-  for (const style of ['mixed', 'quick-recall', 'multiple-choice', 'explain', 'spot-the-mistake']) {
+  for (const style of ['mixed', 'quick-recall', 'multiple-choice', 'explain']) {
     for (const difficulty of ['easy', 'mixed', 'challenge']) {
       const settings = {topic: content.title, subtopic, count: 20, difficulty, style};
       const quiz = generateQuiz(settings);

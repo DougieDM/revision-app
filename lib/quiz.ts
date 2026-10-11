@@ -49,8 +49,9 @@ export function styleToTypes(style: QuestionStyle): KnowledgeQuestionType[] {
   if (style === "quick-recall") return ["recall", "fill-blank"];
   if (style === "multiple-choice") return ["multiple-choice"];
   if (style === "explain") return ["explain", "application"];
-  if (style === "spot-the-mistake") return ["spot-the-mistake"];
-  return ["recall", "multiple-choice", "fill-blank", "explain", "spot-the-mistake", "application"];
+  // Retired styles in old links must not generate questions or broaden filters.
+  if (style === "spot-the-mistake") return [];
+  return ["recall", "multiple-choice", "fill-blank", "explain", "application"];
 }
 
 export function difficultyMatches(itemDifficulty: Difficulty, setting: DifficultySetting) {
@@ -126,6 +127,7 @@ export function getWeakAreas(answers: { subtopic: string; correct: boolean }[]) 
 export function buildPrintableTest(topic = "All available topics", subtopic = "") {
   const random = makeRandom(`revisionary-printable-test-v2:${topic}:${subtopic}`);
   const pool = seeds.filter((q) =>
+    q.type !== "spot-the-mistake" &&
     (topic === "All available topics" || q.topic === topic) &&
     (!subtopic || q.subtopic === subtopic) &&
     (q.topic !== "Year 8 Organisms" || q.type === "recall")

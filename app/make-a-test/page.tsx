@@ -13,8 +13,7 @@ const styles: { value: QuestionStyle; label: string }[] = [
   { value: "mixed", label: "Mixed" },
   { value: "quick-recall", label: "Quick recall" },
   { value: "multiple-choice", label: "Multiple choice" },
-  { value: "explain", label: "Explain" },
-  { value: "spot-the-mistake", label: "Spot the mistake" }
+  { value: "explain", label: "Explain" }
 ];
 
 export default function MakeTestPage() {

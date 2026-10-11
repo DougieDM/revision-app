@@ -1,13 +1,21 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
 import { generateQuiz } from "../lib/generateQuestion";
-import { facts, filterFacts, filterSeeds, makeRandom, seeds, styleToTypes } from "../lib/quiz";
+import { buildPrintableTest, facts, filterFacts, filterSeeds, makeRandom, seeds, styleToTypes } from "../lib/quiz";
 import type { QuestionStyle, QuizSettings } from "../types/quiz";
 
 const settings: QuizSettings = {
   topic: "All available topics", count: 10000, difficulty: "mixed", style: "mixed"
 };
-const styles: QuestionStyle[] = ["quick-recall", "multiple-choice", "explain", "spot-the-mistake", "mixed"];
+const styles: QuestionStyle[] = ["quick-recall", "multiple-choice", "explain", "mixed"];
+
+test("Retired mistake questions never appear in practice, print or legacy links", () => {
+  for (const topic of new Set(seeds.map(seed => seed.topic))) {
+    assert.ok(generateQuiz({ ...settings, topic }).every(question => question.type !== "spot-the-mistake"));
+    assert.ok(buildPrintableTest(topic).every(question => question.type !== "spot-the-mistake"));
+    assert.deepEqual(generateQuiz({ ...settings, topic, style: "spot-the-mistake" }), []);
+  }
+});
 
 for (const style of styles) {
   test(`${style}: every eligible fact generates an allowed, supported type`, () => {
@@ -57,7 +65,7 @@ test("Mixed: generated facts use all supported types and short quizzes include v
     const all = generateQuiz(settings, [], makeRandom(`all:${run}`));
     const dynamic = all.filter((q) => q.id.startsWith("gen-"));
     assert.deepEqual(new Set(dynamic.map((q) => q.type)), new Set(styleToTypes("mixed")));
-    const short = generateQuiz({ ...settings, count: 12 }, [], makeRandom(`short:${run}`));
+    const short = generateQuiz({ ...settings, count: styleToTypes("mixed").length * 2 }, [], makeRandom(`short:${run}`));
     for (const type of styleToTypes("mixed")) assert.equal(short.filter((q) => q.type === type).length, 2);
   }
 });

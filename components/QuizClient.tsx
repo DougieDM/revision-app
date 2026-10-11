@@ -13,14 +13,17 @@ import type { AnswerRecord, DifficultySetting, GeneratedQuestion, QuestionStyle,
 
 export function QuizClient() {
   const params = useSearchParams();
+  const [loaded, setLoaded] = useState(false);
   const [questions, setQuestions] = useState<GeneratedQuestion[]>([]);
   const [index, setIndex] = useState(0);
   const [answer, setAnswer] = useState("");
   const [showHint, setShowHint] = useState(false);
   const [feedback, setFeedback] = useState<{ correct: boolean; dontKnow?: boolean } | null>(null);
   const [answers, setAnswers] = useState<AnswerRecord[]>([]);
+  const [reviewing, setReviewing] = useState(false);
   const [finished, setFinished] = useState(false);
   const topic = params.get("topic") ?? "All available topics";
+  const subtopic = params.get("subtopic") ?? "";
   const count = Number(params.get("count") ?? 10);
   const difficulty = (params.get("difficulty") as DifficultySetting) ?? "mixed";
   const style = (params.get("style") as QuestionStyle) ?? "mixed";
@@ -29,18 +32,20 @@ export function QuizClient() {
   const settings: QuizSettings = useMemo(
     () => ({
       topic,
-      count: Number.isNaN(count) ? 10 : count,
+      subtopic,
+      count: Number.isFinite(count) ? Math.max(1, Math.min(20, Math.floor(count))) : 10,
       difficulty,
       style,
       weakOnly
     }),
-    [topic, count, difficulty, style, weakOnly]
+    [topic, subtopic, count, difficulty, style, weakOnly]
   );
 
   useEffect(() => {
     const progress = loadProgress();
     const weakSubtopics = getWeakSubtopics(progress, 10);
     setQuestions(generateQuiz(settings, weakSubtopics));
+    setLoaded(true);
   }, [settings]);
 
   const current = questions[index];
@@ -62,11 +67,13 @@ export function QuizClient() {
 
   function submitAnswer() {
     if (!current) return;
+    if (current.topic === "Year 8 Organisms" && current.type !== "multiple-choice") { setReviewing(true); return; }
     const correct = markAnswer(current, answer);
     recordCurrent(correct, answer);
   }
 
   function nextQuestion() {
+    setReviewing(false);
     setAnswer("");
     setShowHint(false);
     setFeedback(null);
@@ -89,6 +96,7 @@ export function QuizClient() {
     const weakSubtopics = getWeakSubtopics(progress, 10);
     setQuestions(generateQuiz({ ...settings, weakOnly }, weakSubtopics));
     setIndex(0);
+    setReviewing(false);
     setAnswer("");
     setShowHint(false);
     setFeedback(null);
@@ -100,7 +108,8 @@ export function QuizClient() {
     return (
       <main className="min-h-screen px-4 py-6">
         <div className="mx-auto max-w-2xl rounded-lg bg-white p-6 shadow-soft">
-          <h1 className="text-2xl font-bold text-ink">Getting your quiz ready...</h1>
+          <h1 className="text-2xl font-bold text-ink">{loaded ? "No questions match these choices" : "Getting your quiz ready..."}</h1>
+          {loaded ? <Link href="/" className="mt-4 inline-block font-bold text-ocean">Choose another area, difficulty or question style</Link> : null}
         </div>
       </main>
     );
@@ -133,7 +142,22 @@ export function QuizClient() {
             Revisionary quiz
           </span>
         </div>
-        {feedback ? (
+        {reviewing ? (
+          <section className="rounded-lg bg-white p-5 shadow-soft">
+            <h1 className="text-2xl font-bold text-ink">Compare your answer</h1>
+            <p className="mt-3 font-semibold">{current.question}</p>
+            <p className="mt-4 text-sm font-bold text-slate-500">Your answer</p>
+            <p className="mt-1 whitespace-pre-wrap">{answer || "No answer entered"}</p>
+            <p className="mt-4 text-sm font-bold text-ocean">Model answer</p>
+            <p className="mt-1">{current.answer}</p>
+            <p className="mt-3 text-slate-600">{current.explanation}</p>
+            <p className="mt-4 text-sm text-slate-600">Different wording is fine. Did you include the key science ideas? For explain questions, include the reasons too.</p>
+            <div className="mt-5 grid gap-3 sm:grid-cols-2">
+              <button className="rounded-lg bg-ocean p-4 font-bold text-white" onClick={() => { setReviewing(false); recordCurrent(true, answer); }}>I got the key ideas</button>
+              <button className="rounded-lg bg-berry p-4 font-bold text-white" onClick={() => { setReviewing(false); recordCurrent(false, answer); }}>I need more practice</button>
+            </div>
+          </section>
+        ) : feedback ? (
           <FeedbackCard
             question={current}
             correct={feedback.correct}

@@ -22,9 +22,27 @@ export function generateQuiz(settings: QuizSettings, weakSubtopics: string[] = [
     ...shuffle(filterSeeds({ ...settings, weakOnly: false }).map(seedToQuestion)),
     ...shuffle(filterFacts({ ...settings, weakOnly: false }).map(factToQuestion))
   ];
-  const selected = (pool.length ? pool : fallbackPool).slice(0, settings.count);
+  const available = pool.length ? pool : fallbackPool;
+  let ordered = available;
+  if (settings.topic === "Year 8 Organisms" && !settings.subtopic) {
+    const sections = Array.from(new Set(available.map((q) => q.subtopic)));
+    const queues = sections.map((section) => available.filter((q) => q.subtopic === section));
+    ordered = [];
+    while (queues.some((queue) => queue.length)) {
+      queues.forEach((queue) => { const question = queue.shift(); if (question) ordered.push(question); });
+    }
+  }
+  const seenLearningPoints = new Set<string>();
+  const unique = ordered.filter((question) => {
+    if (question.topic !== "Year 8 Organisms") return true;
+    const learningPoint = question.sourceId.replace(/_(multiple-choice|recall|spot-the-mistake|explain)$/, "");
+    if (seenLearningPoints.has(learningPoint)) return false;
+    seenLearningPoints.add(learningPoint);
+    return true;
+  });
+  const selected = unique.slice(0, settings.count);
 
-  return selected.map((question, index) => ({ ...question, id: `${question.id}-${index}` }));
+  return selected.map((question, index) => ({ ...question, options: question.options ? shuffle(question.options) : undefined, id: `${question.id}-${index}` }));
 }
 
 function factToQuestion(fact: KnowledgeFact): GeneratedQuestion {
@@ -32,7 +50,7 @@ function factToQuestion(fact: KnowledgeFact): GeneratedQuestion {
   if (type === "multiple-choice") return multipleChoiceFromFact(fact);
   if (type === "fill-blank") return baseFromFact(fact, type, makeFillBlank(fact.fact));
   if (type === "explain") {
-    return baseFromFact(fact, type, `Explain this Year 7 science idea: ${fact.fact}`);
+    return baseFromFact(fact, type, `Explain this science idea: ${fact.fact}`);
   }
   if (type === "spot-the-mistake") {
     const mistake = fact.commonMistakes[0] ?? "The science word has been mixed up.";

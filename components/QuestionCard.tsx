@@ -65,6 +65,7 @@ export function QuestionCard({
       ) : (
         <textarea
           className="mt-6 min-h-32 w-full rounded-lg border-2 border-slate-200 bg-white p-4 text-lg text-ink outline-none focus:border-ocean"
+          aria-label="Your answer"
           placeholder="Type your answer here..."
           value={answer}
           onChange={(event) => onAnswerChange(event.target.value)}
@@ -83,7 +84,7 @@ export function QuestionCard({
           onClick={onSubmit}
           className="rounded-lg bg-ocean px-4 py-4 text-lg font-bold text-white shadow-sm transition hover:bg-teal-800"
         >
-          Check answer
+          {question.topic === "Year 8 Organisms" && question.type !== "multiple-choice" ? "Compare answer" : "Check answer"}
         </button>
         <button
           type="button"

@@ -1,10 +1,20 @@
 "use client";
 
 import Link from "next/link";
+import { Suspense } from "react";
+import { useSearchParams } from "next/navigation";
 import { buildPrintableTest } from "@/lib/quiz";
 
 export default function PrintPage() {
-  const questions = buildPrintableTest();
+  return <Suspense fallback={<p className="p-6">Preparing your test…</p>}><PrintContent /></Suspense>;
+}
+
+function PrintContent() {
+  const params = useSearchParams();
+  const topic = params.get("topic") ?? "All available topics";
+  const subtopic = params.get("subtopic") ?? "";
+  const scope = new URLSearchParams({ topic, subtopic }).toString();
+  const questions = buildPrintableTest(topic, subtopic);
 
   return (
     <main className="min-h-screen bg-slate-100 px-4 py-6">
@@ -13,7 +23,7 @@ export default function PrintPage() {
           Home
         </Link>
         <div className="flex gap-2">
-          <Link href="/answers" className="rounded-lg bg-white px-4 py-2 font-bold text-ink">
+          <Link href={`/answers?${scope}`} className="rounded-lg bg-white px-4 py-2 font-bold text-ink">
             Answer sheet
           </Link>
           <button type="button" onClick={() => window.print()} className="rounded-lg bg-ocean px-4 py-2 font-bold text-white">
@@ -22,8 +32,8 @@ export default function PrintPage() {
         </div>
       </div>
       <section className="print-page mx-auto max-w-3xl rounded-lg bg-white p-8 shadow-soft">
-        <h1 className="text-3xl font-black text-ink">Year 7 Science Printable Test</h1>
-        <p className="mt-2 text-slate-600">20 questions. Try your best, then mark with the answer sheet.</p>
+        <h1 className="text-3xl font-black text-ink">{topic === "All available topics" ? "Science" : topic} Printable Test</h1>
+        <p className="mt-2 text-slate-600">{questions.length} questions{ subtopic ? ` · ${subtopic}` : "" }. Try your best, then mark with the answer sheet.</p>
         <ol className="mt-8 space-y-5">
           {questions.map((question, index) => (
             <li key={question.id} className="break-inside-avoid">

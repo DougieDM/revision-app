@@ -64,6 +64,7 @@ export interface GeneratedQuestion {
 
 export interface QuizSettings {
   topic: string;
+  subtopic?: string;
   count: number;
   difficulty: DifficultySetting;
   style: QuestionStyle;

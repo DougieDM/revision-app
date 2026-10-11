@@ -1,4 +1,5 @@
 import knowledgeBase from "@/data/knowledge-base.json";
+import organismsQuestions from "@/data/organisms.questions.json";
 import seedQuestions from "@/data/questions.seed.json";
 import type {
   Difficulty,
@@ -17,11 +18,12 @@ export const AVAILABLE_TOPICS = [
   "Acids and Alkalis",
   "Ecosystems",
   "Skills in Science",
-  "Waves"
+  "Waves",
+  "Year 8 Organisms"
 ];
 
 export const facts = knowledgeBase as KnowledgeFact[];
-export const seeds = seedQuestions as SeedQuestion[];
+export const seeds = [...seedQuestions, ...organismsQuestions] as SeedQuestion[];
 
 export function shuffle<T>(items: T[], random = Math.random): T[] {
   return [...items].sort(() => random() - 0.5);
@@ -60,7 +62,7 @@ export function filterFacts(settings: QuizSettings, weakSubtopics: string[] = []
       settings.topic === "All available topics" || fact.topic === settings.topic;
     const typeMatches = fact.questionTypes.some((type) => types.includes(type));
     const weakMatches = !settings.weakOnly || weakSubtopics.includes(fact.subtopic);
-    return topicMatches && typeMatches && weakMatches && difficultyMatches(fact.difficulty, settings.difficulty);
+    return (!settings.subtopic || fact.subtopic === settings.subtopic) && topicMatches && typeMatches && weakMatches && difficultyMatches(fact.difficulty, settings.difficulty);
   });
 }
 
@@ -70,7 +72,7 @@ export function filterSeeds(settings: QuizSettings, weakSubtopics: string[] = []
     const topicMatches =
       settings.topic === "All available topics" || seed.topic === settings.topic;
     const weakMatches = !settings.weakOnly || weakSubtopics.includes(seed.subtopic);
-    return topicMatches && types.includes(seed.type) && weakMatches && difficultyMatches(seed.difficulty, settings.difficulty);
+    return (!settings.subtopic || seed.subtopic === settings.subtopic) && topicMatches && types.includes(seed.type) && weakMatches && difficultyMatches(seed.difficulty, settings.difficulty);
   });
 }
 
@@ -117,9 +119,21 @@ export function getWeakAreas(answers: { subtopic: string; correct: boolean }[]) 
     .map(([subtopic]) => subtopic);
 }
 
-export function buildPrintableTest() {
-  const random = makeRandom("revisionary-printable-test-v1");
-  return shuffle(seeds, random).slice(0, 20).map(seedToQuestion);
+export function buildPrintableTest(topic = "All available topics", subtopic = "") {
+  const random = makeRandom(`revisionary-printable-test-v2:${topic}:${subtopic}`);
+  const pool = seeds.filter((q) =>
+    (topic === "All available topics" || q.topic === topic) &&
+    (!subtopic || q.subtopic === subtopic) &&
+    (q.topic !== "Year 8 Organisms" || q.type === "recall")
+  );
+  // A whole-unit test samples every section before selecting further questions.
+  const shuffled = shuffle(pool, random);
+  const firstBySection = new Map<string, SeedQuestion>();
+  if (topic === "Year 8 Organisms" && !subtopic) {
+    shuffled.forEach((q) => { if (!firstBySection.has(q.subtopic)) firstBySection.set(q.subtopic, q); });
+  }
+  const first = Array.from(firstBySection.values());
+  return [...first, ...shuffled.filter((q) => !first.includes(q))].slice(0, 20).map(seedToQuestion);
 }
 
 export function seedToQuestion(seed: SeedQuestion): GeneratedQuestion {

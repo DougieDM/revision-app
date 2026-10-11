@@ -1,0 +1,4292 @@
+[
+  {
+    "id": "organisms_001_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is the job of the gas exchange system?",
+    "answer": "Take oxygen into the blood and remove carbon dioxide",
+    "acceptedAnswers": [
+      "Take oxygen into the blood and remove carbon dioxide"
+    ],
+    "keywords": [],
+    "explanation": "Oxygen moves from the air into the blood; carbon dioxide moves from the blood into the air in the alveoli.",
+    "hint": "Think about gas exchange.",
+    "options": [
+      "Take oxygen into the blood and remove carbon dioxide",
+      "Digest proteins",
+      "Pump blood around the body",
+      "Make glucose in the lungs"
+    ]
+  },
+  {
+    "id": "organisms_001_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is the job of the gas exchange system?",
+    "answer": "Take oxygen into the blood and remove carbon dioxide",
+    "acceptedAnswers": [
+      "Take oxygen into the blood and remove carbon dioxide"
+    ],
+    "keywords": [],
+    "explanation": "Oxygen moves from the air into the blood; carbon dioxide moves from the blood into the air in the alveoli.",
+    "hint": "Think about gas exchange."
+  },
+  {
+    "id": "organisms_001_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cThe lungs put carbon dioxide into the blood and remove oxygen.\u201d Correct the statement.",
+    "answer": "Take oxygen into the blood and remove carbon dioxide",
+    "acceptedAnswers": [
+      "Take oxygen into the blood and remove carbon dioxide"
+    ],
+    "keywords": [],
+    "explanation": "Oxygen moves from the air into the blood; carbon dioxide moves from the blood into the air in the alveoli.",
+    "hint": "Think about gas exchange."
+  },
+  {
+    "id": "organisms_001_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What is the job of the gas exchange system? Explain your answer.",
+    "answer": "Oxygen moves from the air into the blood; carbon dioxide moves from the blood into the air in the alveoli.",
+    "acceptedAnswers": [
+      "Oxygen moves from the air into the blood; carbon dioxide moves from the blood into the air in the alveoli."
+    ],
+    "keywords": [],
+    "explanation": "Oxygen moves from the air into the blood; carbon dioxide moves from the blood into the air in the alveoli.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_002_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "Where does gas exchange take place in the lungs?",
+    "answer": "Alveoli",
+    "acceptedAnswers": [
+      "Alveoli"
+    ],
+    "keywords": [],
+    "explanation": "Alveoli are tiny air sacs at the ends of bronchioles, surrounded by blood capillaries.",
+    "hint": "Think about gas exchange.",
+    "options": [
+      "Alveoli",
+      "Trachea",
+      "Diaphragm",
+      "Oesophagus"
+    ]
+  },
+  {
+    "id": "organisms_002_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "Where does gas exchange take place in the lungs?",
+    "answer": "Alveoli",
+    "acceptedAnswers": [
+      "Alveoli"
+    ],
+    "keywords": [],
+    "explanation": "Alveoli are tiny air sacs at the ends of bronchioles, surrounded by blood capillaries.",
+    "hint": "Think about gas exchange."
+  },
+  {
+    "id": "organisms_002_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cGas exchange happens in the oesophagus.\u201d Correct the statement.",
+    "answer": "Alveoli",
+    "acceptedAnswers": [
+      "Alveoli"
+    ],
+    "keywords": [],
+    "explanation": "Alveoli are tiny air sacs at the ends of bronchioles, surrounded by blood capillaries.",
+    "hint": "Think about gas exchange."
+  },
+  {
+    "id": "organisms_002_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "Where does gas exchange take place in the lungs? Explain your answer.",
+    "answer": "Alveoli are tiny air sacs at the ends of bronchioles, surrounded by blood capillaries.",
+    "acceptedAnswers": [
+      "Alveoli are tiny air sacs at the ends of bronchioles, surrounded by blood capillaries."
+    ],
+    "keywords": [],
+    "explanation": "Alveoli are tiny air sacs at the ends of bronchioles, surrounded by blood capillaries.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_003_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which route does air take after entering the nose or mouth?",
+    "answer": "Trachea, bronchi, bronchioles, alveoli",
+    "acceptedAnswers": [
+      "Trachea, bronchi, bronchioles, alveoli"
+    ],
+    "keywords": [],
+    "explanation": "The trachea divides into two bronchi; these branch into bronchioles ending in alveoli.",
+    "hint": "Think about gas exchange.",
+    "options": [
+      "Trachea, bronchi, bronchioles, alveoli",
+      "Oesophagus, stomach, alveoli",
+      "Alveoli, bronchioles, bronchi, trachea",
+      "Trachea, small intestine, bronchi"
+    ]
+  },
+  {
+    "id": "organisms_003_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "Which route does air take after entering the nose or mouth?",
+    "answer": "Trachea, bronchi, bronchioles, alveoli",
+    "acceptedAnswers": [
+      "Trachea, bronchi, bronchioles, alveoli"
+    ],
+    "keywords": [],
+    "explanation": "The trachea divides into two bronchi; these branch into bronchioles ending in alveoli.",
+    "hint": "Think about gas exchange."
+  },
+  {
+    "id": "organisms_003_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cAir reaches the alveoli before travelling through the trachea.\u201d Correct the statement.",
+    "answer": "Trachea, bronchi, bronchioles, alveoli",
+    "acceptedAnswers": [
+      "Trachea, bronchi, bronchioles, alveoli"
+    ],
+    "keywords": [],
+    "explanation": "The trachea divides into two bronchi; these branch into bronchioles ending in alveoli.",
+    "hint": "Think about gas exchange."
+  },
+  {
+    "id": "organisms_003_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "Which route does air take after entering the nose or mouth? Explain your answer.",
+    "answer": "The trachea divides into two bronchi; these branch into bronchioles ending in alveoli.",
+    "acceptedAnswers": [
+      "The trachea divides into two bronchi; these branch into bronchioles ending in alveoli."
+    ],
+    "keywords": [],
+    "explanation": "The trachea divides into two bronchi; these branch into bronchioles ending in alveoli.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_004_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "Which features help alveoli exchange gases quickly?",
+    "answer": "Large surface area, thin walls and a good blood supply",
+    "acceptedAnswers": [
+      "Large surface area, thin walls and a good blood supply"
+    ],
+    "keywords": [],
+    "explanation": "Many alveoli provide a large surface area; thin walls give a short diffusion distance, and blood flow maintains a difference in gas concentrations.",
+    "hint": "Think about gas exchange.",
+    "options": [
+      "Large surface area, thin walls and a good blood supply",
+      "Thick walls and a small surface area",
+      "No blood supply and thick walls",
+      "Small surface area and no capillaries"
+    ]
+  },
+  {
+    "id": "organisms_004_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "Which features help alveoli exchange gases quickly?",
+    "answer": "Large surface area, thin walls and a good blood supply",
+    "acceptedAnswers": [
+      "Large surface area, thin walls and a good blood supply"
+    ],
+    "keywords": [],
+    "explanation": "Many alveoli provide a large surface area; thin walls give a short diffusion distance, and blood flow maintains a difference in gas concentrations.",
+    "hint": "Think about gas exchange."
+  },
+  {
+    "id": "organisms_004_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cAlveoli need thick walls to exchange gases quickly.\u201d Correct the statement.",
+    "answer": "Large surface area, thin walls and a good blood supply",
+    "acceptedAnswers": [
+      "Large surface area, thin walls and a good blood supply"
+    ],
+    "keywords": [],
+    "explanation": "Many alveoli provide a large surface area; thin walls give a short diffusion distance, and blood flow maintains a difference in gas concentrations.",
+    "hint": "Think about gas exchange."
+  },
+  {
+    "id": "organisms_004_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "Which features help alveoli exchange gases quickly? Explain your answer.",
+    "answer": "Many alveoli provide a large surface area; thin walls give a short diffusion distance, and blood flow maintains a difference in gas concentrations.",
+    "acceptedAnswers": [
+      "Many alveoli provide a large surface area; thin walls give a short diffusion distance, and blood flow maintains a difference in gas concentrations."
+    ],
+    "keywords": [],
+    "explanation": "Many alveoli provide a large surface area; thin walls give a short diffusion distance, and blood flow maintains a difference in gas concentrations.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_005_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "How does exhaled air compare with inhaled air?",
+    "answer": "Less oxygen and more carbon dioxide",
+    "acceptedAnswers": [
+      "Less oxygen and more carbon dioxide"
+    ],
+    "keywords": [],
+    "explanation": "Cells use oxygen and produce carbon dioxide during respiration. Exhaled air still contains oxygen.",
+    "hint": "Think about gas exchange.",
+    "options": [
+      "Less oxygen and more carbon dioxide",
+      "More oxygen and less carbon dioxide",
+      "No oxygen at all",
+      "Only carbon dioxide"
+    ]
+  },
+  {
+    "id": "organisms_005_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "How does exhaled air compare with inhaled air?",
+    "answer": "Less oxygen and more carbon dioxide",
+    "acceptedAnswers": [
+      "Less oxygen and more carbon dioxide"
+    ],
+    "keywords": [],
+    "explanation": "Cells use oxygen and produce carbon dioxide during respiration. Exhaled air still contains oxygen.",
+    "hint": "Think about gas exchange."
+  },
+  {
+    "id": "organisms_005_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cExhaled air contains no oxygen.\u201d Correct the statement.",
+    "answer": "Less oxygen and more carbon dioxide",
+    "acceptedAnswers": [
+      "Less oxygen and more carbon dioxide"
+    ],
+    "keywords": [],
+    "explanation": "Cells use oxygen and produce carbon dioxide during respiration. Exhaled air still contains oxygen.",
+    "hint": "Think about gas exchange."
+  },
+  {
+    "id": "organisms_005_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "How does exhaled air compare with inhaled air? Explain your answer.",
+    "answer": "Cells use oxygen and produce carbon dioxide during respiration. Exhaled air still contains oxygen.",
+    "acceptedAnswers": [
+      "Cells use oxygen and produce carbon dioxide during respiration. Exhaled air still contains oxygen."
+    ],
+    "keywords": [],
+    "explanation": "Cells use oxygen and produce carbon dioxide during respiration. Exhaled air still contains oxygen.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_006_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What is aerobic respiration?",
+    "answer": "Glucose reacts with oxygen to release energy, producing carbon dioxide and water",
+    "acceptedAnswers": [
+      "Glucose reacts with oxygen to release energy, producing carbon dioxide and water"
+    ],
+    "keywords": [],
+    "explanation": "Respiration is a chemical process in cells: glucose + oxygen \u2192 carbon dioxide + water, releasing energy. Breathing moves air.",
+    "hint": "Think about gas exchange.",
+    "options": [
+      "Glucose reacts with oxygen to release energy, producing carbon dioxide and water",
+      "Breathing air into the lungs",
+      "Water reacts with carbon dioxide to make oxygen",
+      "Food moving through the gut"
+    ]
+  },
+  {
+    "id": "organisms_006_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is aerobic respiration?",
+    "answer": "Glucose reacts with oxygen to release energy, producing carbon dioxide and water",
+    "acceptedAnswers": [
+      "Glucose reacts with oxygen to release energy, producing carbon dioxide and water"
+    ],
+    "keywords": [],
+    "explanation": "Respiration is a chemical process in cells: glucose + oxygen \u2192 carbon dioxide + water, releasing energy. Breathing moves air.",
+    "hint": "Think about gas exchange."
+  },
+  {
+    "id": "organisms_006_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cRespiration is exactly the same as breathing.\u201d Correct the statement.",
+    "answer": "Glucose reacts with oxygen to release energy, producing carbon dioxide and water",
+    "acceptedAnswers": [
+      "Glucose reacts with oxygen to release energy, producing carbon dioxide and water"
+    ],
+    "keywords": [],
+    "explanation": "Respiration is a chemical process in cells: glucose + oxygen \u2192 carbon dioxide + water, releasing energy. Breathing moves air.",
+    "hint": "Think about gas exchange."
+  },
+  {
+    "id": "organisms_006_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Gas exchange",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What is aerobic respiration? Explain your answer.",
+    "answer": "Respiration is a chemical process in cells: glucose + oxygen \u2192 carbon dioxide + water, releasing energy. Breathing moves air.",
+    "acceptedAnswers": [
+      "Respiration is a chemical process in cells: glucose + oxygen \u2192 carbon dioxide + water, releasing energy. Breathing moves air."
+    ],
+    "keywords": [],
+    "explanation": "Respiration is a chemical process in cells: glucose + oxygen \u2192 carbon dioxide + water, releasing energy. Breathing moves air.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_007_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What happens to the diaphragm when you inhale?",
+    "answer": "It contracts and flattens",
+    "acceptedAnswers": [
+      "It contracts and flattens"
+    ],
+    "keywords": [],
+    "explanation": "The diaphragm contracts and flattens, increasing the volume of the chest.",
+    "hint": "Think about breathing.",
+    "options": [
+      "It contracts and flattens",
+      "It relaxes and moves upwards",
+      "It contracts and moves upwards",
+      "It stays still"
+    ]
+  },
+  {
+    "id": "organisms_007_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What happens to the diaphragm when you inhale?",
+    "answer": "It contracts and flattens",
+    "acceptedAnswers": [
+      "It contracts and flattens"
+    ],
+    "keywords": [],
+    "explanation": "The diaphragm contracts and flattens, increasing the volume of the chest.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_007_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cThe diaphragm relaxes when you inhale.\u201d Correct the statement.",
+    "answer": "It contracts and flattens",
+    "acceptedAnswers": [
+      "It contracts and flattens"
+    ],
+    "keywords": [],
+    "explanation": "The diaphragm contracts and flattens, increasing the volume of the chest.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_007_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What happens to the diaphragm when you inhale? Explain your answer.",
+    "answer": "The diaphragm contracts and flattens, increasing the volume of the chest.",
+    "acceptedAnswers": [
+      "The diaphragm contracts and flattens, increasing the volume of the chest."
+    ],
+    "keywords": [],
+    "explanation": "The diaphragm contracts and flattens, increasing the volume of the chest.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_008_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What happens to the ribs during inhalation?",
+    "answer": "They move up and out",
+    "acceptedAnswers": [
+      "They move up and out"
+    ],
+    "keywords": [],
+    "explanation": "The intercostal muscles between the ribs contract, moving the ribs up and out and increasing chest volume.",
+    "hint": "Think about breathing.",
+    "options": [
+      "They move up and out",
+      "They move down and in",
+      "They stay still",
+      "They move down and out"
+    ]
+  },
+  {
+    "id": "organisms_008_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What happens to the ribs during inhalation?",
+    "answer": "They move up and out",
+    "acceptedAnswers": [
+      "They move up and out"
+    ],
+    "keywords": [],
+    "explanation": "The intercostal muscles between the ribs contract, moving the ribs up and out and increasing chest volume.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_008_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cThe ribs move down and in when you inhale.\u201d Correct the statement.",
+    "answer": "They move up and out",
+    "acceptedAnswers": [
+      "They move up and out"
+    ],
+    "keywords": [],
+    "explanation": "The intercostal muscles between the ribs contract, moving the ribs up and out and increasing chest volume.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_008_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What happens to the ribs during inhalation? Explain your answer.",
+    "answer": "The intercostal muscles between the ribs contract, moving the ribs up and out and increasing chest volume.",
+    "acceptedAnswers": [
+      "The intercostal muscles between the ribs contract, moving the ribs up and out and increasing chest volume."
+    ],
+    "keywords": [],
+    "explanation": "The intercostal muscles between the ribs contract, moving the ribs up and out and increasing chest volume.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_009_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Why does air enter the lungs during inhalation?",
+    "answer": "Chest volume increases, lowering pressure inside",
+    "acceptedAnswers": [
+      "Chest volume increases, lowering pressure inside"
+    ],
+    "keywords": [],
+    "explanation": "Increasing chest volume lowers pressure, so air moves from higher pressure outside to lower pressure inside.",
+    "hint": "Think about breathing.",
+    "options": [
+      "Chest volume increases, lowering pressure inside",
+      "Chest volume decreases, lowering pressure",
+      "Chest volume increases, raising pressure",
+      "The lungs pull air in with their own muscles"
+    ]
+  },
+  {
+    "id": "organisms_009_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "Why does air enter the lungs during inhalation?",
+    "answer": "Chest volume increases, lowering pressure inside",
+    "acceptedAnswers": [
+      "Chest volume increases, lowering pressure inside"
+    ],
+    "keywords": [],
+    "explanation": "Increasing chest volume lowers pressure, so air moves from higher pressure outside to lower pressure inside.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_009_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cIncreasing chest volume raises pressure and draws air in.\u201d Correct the statement.",
+    "answer": "Chest volume increases, lowering pressure inside",
+    "acceptedAnswers": [
+      "Chest volume increases, lowering pressure inside"
+    ],
+    "keywords": [],
+    "explanation": "Increasing chest volume lowers pressure, so air moves from higher pressure outside to lower pressure inside.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_009_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "Why does air enter the lungs during inhalation? Explain your answer.",
+    "answer": "Increasing chest volume lowers pressure, so air moves from higher pressure outside to lower pressure inside.",
+    "acceptedAnswers": [
+      "Increasing chest volume lowers pressure, so air moves from higher pressure outside to lower pressure inside."
+    ],
+    "keywords": [],
+    "explanation": "Increasing chest volume lowers pressure, so air moves from higher pressure outside to lower pressure inside.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_010_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What happens during normal exhalation?",
+    "answer": "Muscles relax, chest volume decreases and pressure increases",
+    "acceptedAnswers": [
+      "Muscles relax, chest volume decreases and pressure increases"
+    ],
+    "keywords": [],
+    "explanation": "The diaphragm relaxes and domes upwards; ribs move down and in. Chest volume decreases and pressure increases, moving air out.",
+    "hint": "Think about breathing.",
+    "options": [
+      "Muscles relax, chest volume decreases and pressure increases",
+      "Muscles contract and chest volume increases",
+      "The diaphragm flattens and pressure drops",
+      "Air moves into the lungs"
+    ]
+  },
+  {
+    "id": "organisms_010_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What happens during normal exhalation?",
+    "answer": "Muscles relax, chest volume decreases and pressure increases",
+    "acceptedAnswers": [
+      "Muscles relax, chest volume decreases and pressure increases"
+    ],
+    "keywords": [],
+    "explanation": "The diaphragm relaxes and domes upwards; ribs move down and in. Chest volume decreases and pressure increases, moving air out.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_010_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cDuring normal exhalation the diaphragm contracts and flattens.\u201d Correct the statement.",
+    "answer": "Muscles relax, chest volume decreases and pressure increases",
+    "acceptedAnswers": [
+      "Muscles relax, chest volume decreases and pressure increases"
+    ],
+    "keywords": [],
+    "explanation": "The diaphragm relaxes and domes upwards; ribs move down and in. Chest volume decreases and pressure increases, moving air out.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_010_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What happens during normal exhalation? Explain your answer.",
+    "answer": "The diaphragm relaxes and domes upwards; ribs move down and in. Chest volume decreases and pressure increases, moving air out.",
+    "acceptedAnswers": [
+      "The diaphragm relaxes and domes upwards; ribs move down and in. Chest volume decreases and pressure increases, moving air out."
+    ],
+    "keywords": [],
+    "explanation": "The diaphragm relaxes and domes upwards; ribs move down and in. Chest volume decreases and pressure increases, moving air out.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_011_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "In a bell-jar model, what represents the diaphragm?",
+    "answer": "The rubber sheet at the bottom",
+    "acceptedAnswers": [
+      "The rubber sheet at the bottom"
+    ],
+    "keywords": [],
+    "explanation": "The rubber sheet represents the diaphragm; balloons represent lungs and the jar represents the chest cavity.",
+    "hint": "Think about breathing.",
+    "options": [
+      "The rubber sheet at the bottom",
+      "The balloons",
+      "The glass jar",
+      "The Y-shaped tube"
+    ]
+  },
+  {
+    "id": "organisms_011_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "In a bell-jar model, what represents the diaphragm?",
+    "answer": "The rubber sheet at the bottom",
+    "acceptedAnswers": [
+      "The rubber sheet at the bottom"
+    ],
+    "keywords": [],
+    "explanation": "The rubber sheet represents the diaphragm; balloons represent lungs and the jar represents the chest cavity.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_011_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cThe balloons represent the diaphragm.\u201d Correct the statement.",
+    "answer": "The rubber sheet at the bottom",
+    "acceptedAnswers": [
+      "The rubber sheet at the bottom"
+    ],
+    "keywords": [],
+    "explanation": "The rubber sheet represents the diaphragm; balloons represent lungs and the jar represents the chest cavity.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_011_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "In a bell-jar model, what represents the diaphragm? Explain your answer.",
+    "answer": "The rubber sheet represents the diaphragm; balloons represent lungs and the jar represents the chest cavity.",
+    "acceptedAnswers": [
+      "The rubber sheet represents the diaphragm; balloons represent lungs and the jar represents the chest cavity."
+    ],
+    "keywords": [],
+    "explanation": "The rubber sheet represents the diaphragm; balloons represent lungs and the jar represents the chest cavity.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_012_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What happens when the bell-jar rubber sheet is pulled down?",
+    "answer": "The balloons inflate as pressure inside the jar decreases",
+    "acceptedAnswers": [
+      "The balloons inflate as pressure inside the jar decreases"
+    ],
+    "keywords": [],
+    "explanation": "Pulling the sheet down increases the volume inside the jar and lowers pressure, drawing air into the balloons.",
+    "hint": "Think about breathing.",
+    "options": [
+      "The balloons inflate as pressure inside the jar decreases",
+      "The balloons deflate",
+      "Pressure rises and balloons inflate",
+      "Air cannot enter the balloons"
+    ]
+  },
+  {
+    "id": "organisms_012_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What happens when the bell-jar rubber sheet is pulled down?",
+    "answer": "The balloons inflate as pressure inside the jar decreases",
+    "acceptedAnswers": [
+      "The balloons inflate as pressure inside the jar decreases"
+    ],
+    "keywords": [],
+    "explanation": "Pulling the sheet down increases the volume inside the jar and lowers pressure, drawing air into the balloons.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_012_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cPulling the sheet down increases pressure inside the jar.\u201d Correct the statement.",
+    "answer": "The balloons inflate as pressure inside the jar decreases",
+    "acceptedAnswers": [
+      "The balloons inflate as pressure inside the jar decreases"
+    ],
+    "keywords": [],
+    "explanation": "Pulling the sheet down increases the volume inside the jar and lowers pressure, drawing air into the balloons.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_012_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What happens when the bell-jar rubber sheet is pulled down? Explain your answer.",
+    "answer": "Pulling the sheet down increases the volume inside the jar and lowers pressure, drawing air into the balloons.",
+    "acceptedAnswers": [
+      "Pulling the sheet down increases the volume inside the jar and lowers pressure, drawing air into the balloons."
+    ],
+    "keywords": [],
+    "explanation": "Pulling the sheet down increases the volume inside the jar and lowers pressure, drawing air into the balloons.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_013_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is a limitation of the bell-jar model?",
+    "answer": "The rigid jar cannot show rib movement",
+    "acceptedAnswers": [
+      "The rigid jar cannot show rib movement"
+    ],
+    "keywords": [],
+    "explanation": "The rigid jar cannot move like ribs; the flat rubber sheet also differs from a curved muscular diaphragm.",
+    "hint": "Think about breathing.",
+    "options": [
+      "The rigid jar cannot show rib movement",
+      "The balloons cannot contain air",
+      "It cannot show pressure changes",
+      "There is no model of the lungs"
+    ]
+  },
+  {
+    "id": "organisms_013_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a limitation of the bell-jar model?",
+    "answer": "The rigid jar cannot show rib movement",
+    "acceptedAnswers": [
+      "The rigid jar cannot show rib movement"
+    ],
+    "keywords": [],
+    "explanation": "The rigid jar cannot move like ribs; the flat rubber sheet also differs from a curved muscular diaphragm.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_013_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cThe glass jar shows how ribs move during inhalation.\u201d Correct the statement.",
+    "answer": "The rigid jar cannot show rib movement",
+    "acceptedAnswers": [
+      "The rigid jar cannot show rib movement"
+    ],
+    "keywords": [],
+    "explanation": "The rigid jar cannot move like ribs; the flat rubber sheet also differs from a curved muscular diaphragm.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_013_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What is a limitation of the bell-jar model? Explain your answer.",
+    "answer": "The rigid jar cannot move like ribs; the flat rubber sheet also differs from a curved muscular diaphragm.",
+    "acceptedAnswers": [
+      "The rigid jar cannot move like ribs; the flat rubber sheet also differs from a curved muscular diaphragm."
+    ],
+    "keywords": [],
+    "explanation": "The rigid jar cannot move like ribs; the flat rubber sheet also differs from a curved muscular diaphragm.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_014_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "Why do breathing rate and volume increase during exercise?",
+    "answer": "Muscles respire more, needing more oxygen and removing more carbon dioxide",
+    "acceptedAnswers": [
+      "Muscles respire more, needing more oxygen and removing more carbon dioxide"
+    ],
+    "keywords": [],
+    "explanation": "Working muscles require more energy from respiration. Faster, deeper breathing supplies oxygen and removes carbon dioxide.",
+    "hint": "Think about breathing.",
+    "options": [
+      "Muscles respire more, needing more oxygen and removing more carbon dioxide",
+      "Muscles stop respiration",
+      "The body needs less oxygen",
+      "The lungs produce energy"
+    ]
+  },
+  {
+    "id": "organisms_014_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "Why do breathing rate and volume increase during exercise?",
+    "answer": "Muscles respire more, needing more oxygen and removing more carbon dioxide",
+    "acceptedAnswers": [
+      "Muscles respire more, needing more oxygen and removing more carbon dioxide"
+    ],
+    "keywords": [],
+    "explanation": "Working muscles require more energy from respiration. Faster, deeper breathing supplies oxygen and removes carbon dioxide.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_014_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cExercise makes muscles need less oxygen.\u201d Correct the statement.",
+    "answer": "Muscles respire more, needing more oxygen and removing more carbon dioxide",
+    "acceptedAnswers": [
+      "Muscles respire more, needing more oxygen and removing more carbon dioxide"
+    ],
+    "keywords": [],
+    "explanation": "Working muscles require more energy from respiration. Faster, deeper breathing supplies oxygen and removes carbon dioxide.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_014_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "Why do breathing rate and volume increase during exercise? Explain your answer.",
+    "answer": "Working muscles require more energy from respiration. Faster, deeper breathing supplies oxygen and removes carbon dioxide.",
+    "acceptedAnswers": [
+      "Working muscles require more energy from respiration. Faster, deeper breathing supplies oxygen and removes carbon dioxide."
+    ],
+    "keywords": [],
+    "explanation": "Working muscles require more energy from respiration. Faster, deeper breathing supplies oxygen and removes carbon dioxide.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_015_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "How does asthma make breathing harder?",
+    "answer": "Airways become inflamed and narrow",
+    "acceptedAnswers": [
+      "Airways become inflamed and narrow"
+    ],
+    "keywords": [],
+    "explanation": "Inflammation and narrowing of the airways, sometimes with extra mucus, restrict airflow.",
+    "hint": "Think about breathing.",
+    "options": [
+      "Airways become inflamed and narrow",
+      "Alveoli turn into bone",
+      "The oesophagus narrows",
+      "The diaphragm stops existing"
+    ]
+  },
+  {
+    "id": "organisms_015_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "How does asthma make breathing harder?",
+    "answer": "Airways become inflamed and narrow",
+    "acceptedAnswers": [
+      "Airways become inflamed and narrow"
+    ],
+    "keywords": [],
+    "explanation": "Inflammation and narrowing of the airways, sometimes with extra mucus, restrict airflow.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_015_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cAsthma widens the airways and makes airflow easier.\u201d Correct the statement.",
+    "answer": "Airways become inflamed and narrow",
+    "acceptedAnswers": [
+      "Airways become inflamed and narrow"
+    ],
+    "keywords": [],
+    "explanation": "Inflammation and narrowing of the airways, sometimes with extra mucus, restrict airflow.",
+    "hint": "Think about breathing."
+  },
+  {
+    "id": "organisms_015_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Breathing",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "How does asthma make breathing harder? Explain your answer.",
+    "answer": "Inflammation and narrowing of the airways, sometimes with extra mucus, restrict airflow.",
+    "acceptedAnswers": [
+      "Inflammation and narrowing of the airways, sometimes with extra mucus, restrict airflow."
+    ],
+    "keywords": [],
+    "explanation": "Inflammation and narrowing of the airways, sometimes with extra mucus, restrict airflow.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_016_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is a drug?",
+    "answer": "A chemical that affects how the body works",
+    "acceptedAnswers": [
+      "A chemical that affects how the body works"
+    ],
+    "keywords": [],
+    "explanation": "Drugs change how the body works. Some are medicines; others are used recreationally.",
+    "hint": "Think about drugs.",
+    "options": [
+      "A chemical that affects how the body works",
+      "Any food containing protein",
+      "Only an illegal substance",
+      "A substance that always benefits health"
+    ]
+  },
+  {
+    "id": "organisms_016_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a drug?",
+    "answer": "A chemical that affects how the body works",
+    "acceptedAnswers": [
+      "A chemical that affects how the body works"
+    ],
+    "keywords": [],
+    "explanation": "Drugs change how the body works. Some are medicines; others are used recreationally.",
+    "hint": "Think about drugs."
+  },
+  {
+    "id": "organisms_016_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cAll drugs are illegal.\u201d Correct the statement.",
+    "answer": "A chemical that affects how the body works",
+    "acceptedAnswers": [
+      "A chemical that affects how the body works"
+    ],
+    "keywords": [],
+    "explanation": "Drugs change how the body works. Some are medicines; others are used recreationally.",
+    "hint": "Think about drugs."
+  },
+  {
+    "id": "organisms_016_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What is a drug? Explain your answer.",
+    "answer": "Drugs change how the body works. Some are medicines; others are used recreationally.",
+    "acceptedAnswers": [
+      "Drugs change how the body works. Some are medicines; others are used recreationally."
+    ],
+    "keywords": [],
+    "explanation": "Drugs change how the body works. Some are medicines; others are used recreationally.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_017_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "How do medicinal and recreational drugs differ?",
+    "answer": "Medicinal drugs treat health problems; recreational drugs are taken for enjoyment",
+    "acceptedAnswers": [
+      "Medicinal drugs treat health problems; recreational drugs are taken for enjoyment"
+    ],
+    "keywords": [],
+    "explanation": "Medicines can help health when used correctly, but misuse can harm health. Recreational drugs are taken for enjoyment.",
+    "hint": "Think about drugs.",
+    "options": [
+      "Medicinal drugs treat health problems; recreational drugs are taken for enjoyment",
+      "Medicinal drugs are always harmless",
+      "Recreational drugs always improve health",
+      "Only recreational drugs affect the body"
+    ]
+  },
+  {
+    "id": "organisms_017_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "How do medicinal and recreational drugs differ?",
+    "answer": "Medicinal drugs treat health problems; recreational drugs are taken for enjoyment",
+    "acceptedAnswers": [
+      "Medicinal drugs treat health problems; recreational drugs are taken for enjoyment"
+    ],
+    "keywords": [],
+    "explanation": "Medicines can help health when used correctly, but misuse can harm health. Recreational drugs are taken for enjoyment.",
+    "hint": "Think about drugs."
+  },
+  {
+    "id": "organisms_017_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cMedicinal drugs cannot harm you even if taken incorrectly.\u201d Correct the statement.",
+    "answer": "Medicinal drugs treat health problems; recreational drugs are taken for enjoyment",
+    "acceptedAnswers": [
+      "Medicinal drugs treat health problems; recreational drugs are taken for enjoyment"
+    ],
+    "keywords": [],
+    "explanation": "Medicines can help health when used correctly, but misuse can harm health. Recreational drugs are taken for enjoyment.",
+    "hint": "Think about drugs."
+  },
+  {
+    "id": "organisms_017_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "How do medicinal and recreational drugs differ? Explain your answer.",
+    "answer": "Medicines can help health when used correctly, but misuse can harm health. Recreational drugs are taken for enjoyment.",
+    "acceptedAnswers": [
+      "Medicines can help health when used correctly, but misuse can harm health. Recreational drugs are taken for enjoyment."
+    ],
+    "keywords": [],
+    "explanation": "Medicines can help health when used correctly, but misuse can harm health. Recreational drugs are taken for enjoyment.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_018_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What does a stimulant do?",
+    "answer": "Speeds up activity in the nervous system",
+    "acceptedAnswers": [
+      "Speeds up activity in the nervous system"
+    ],
+    "keywords": [],
+    "explanation": "Stimulants increase nervous system activity and can increase alertness; caffeine and nicotine are examples.",
+    "hint": "Think about drugs.",
+    "options": [
+      "Speeds up activity in the nervous system",
+      "Slows down nervous system activity",
+      "Digests fats",
+      "Always causes sleep"
+    ]
+  },
+  {
+    "id": "organisms_018_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does a stimulant do?",
+    "answer": "Speeds up activity in the nervous system",
+    "acceptedAnswers": [
+      "Speeds up activity in the nervous system"
+    ],
+    "keywords": [],
+    "explanation": "Stimulants increase nervous system activity and can increase alertness; caffeine and nicotine are examples.",
+    "hint": "Think about drugs."
+  },
+  {
+    "id": "organisms_018_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cStimulants slow down the nervous system.\u201d Correct the statement.",
+    "answer": "Speeds up activity in the nervous system",
+    "acceptedAnswers": [
+      "Speeds up activity in the nervous system"
+    ],
+    "keywords": [],
+    "explanation": "Stimulants increase nervous system activity and can increase alertness; caffeine and nicotine are examples.",
+    "hint": "Think about drugs."
+  },
+  {
+    "id": "organisms_018_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What does a stimulant do? Explain your answer.",
+    "answer": "Stimulants increase nervous system activity and can increase alertness; caffeine and nicotine are examples.",
+    "acceptedAnswers": [
+      "Stimulants increase nervous system activity and can increase alertness; caffeine and nicotine are examples."
+    ],
+    "keywords": [],
+    "explanation": "Stimulants increase nervous system activity and can increase alertness; caffeine and nicotine are examples.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_019_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What are addiction and withdrawal?",
+    "answer": "Feeling a need for a drug, with unpleasant symptoms when stopping it",
+    "acceptedAnswers": [
+      "Feeling a need for a drug, with unpleasant symptoms when stopping it"
+    ],
+    "keywords": [],
+    "explanation": "Addiction involves a need to keep taking a drug. Withdrawal symptoms can occur when someone who is dependent stops taking it.",
+    "hint": "Think about drugs.",
+    "options": [
+      "Feeling a need for a drug, with unpleasant symptoms when stopping it",
+      "Being able to stop any drug without symptoms",
+      "An allergy to a food",
+      "A drug becoming a nutrient"
+    ]
+  },
+  {
+    "id": "organisms_019_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What are addiction and withdrawal?",
+    "answer": "Feeling a need for a drug, with unpleasant symptoms when stopping it",
+    "acceptedAnswers": [
+      "Feeling a need for a drug, with unpleasant symptoms when stopping it"
+    ],
+    "keywords": [],
+    "explanation": "Addiction involves a need to keep taking a drug. Withdrawal symptoms can occur when someone who is dependent stops taking it.",
+    "hint": "Think about drugs."
+  },
+  {
+    "id": "organisms_019_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cWithdrawal means that an addicted person always feels better immediately after stopping.\u201d Correct the statement.",
+    "answer": "Feeling a need for a drug, with unpleasant symptoms when stopping it",
+    "acceptedAnswers": [
+      "Feeling a need for a drug, with unpleasant symptoms when stopping it"
+    ],
+    "keywords": [],
+    "explanation": "Addiction involves a need to keep taking a drug. Withdrawal symptoms can occur when someone who is dependent stops taking it.",
+    "hint": "Think about drugs."
+  },
+  {
+    "id": "organisms_019_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Drugs",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What are addiction and withdrawal? Explain your answer.",
+    "answer": "Addiction involves a need to keep taking a drug. Withdrawal symptoms can occur when someone who is dependent stops taking it.",
+    "acceptedAnswers": [
+      "Addiction involves a need to keep taking a drug. Withdrawal symptoms can occur when someone who is dependent stops taking it."
+    ],
+    "keywords": [],
+    "explanation": "Addiction involves a need to keep taking a drug. Withdrawal symptoms can occur when someone who is dependent stops taking it.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_020_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What kind of drug is ethanol?",
+    "answer": "A depressant",
+    "acceptedAnswers": [
+      "A depressant"
+    ],
+    "keywords": [],
+    "explanation": "Ethanol is the alcohol in alcoholic drinks. It slows nervous system activity; feeling less inhibited does not make it a stimulant.",
+    "hint": "Think about alcohol.",
+    "options": [
+      "A depressant",
+      "A stimulant",
+      "An enzyme",
+      "A mineral"
+    ]
+  },
+  {
+    "id": "organisms_020_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What kind of drug is ethanol?",
+    "answer": "A depressant",
+    "acceptedAnswers": [
+      "A depressant"
+    ],
+    "keywords": [],
+    "explanation": "Ethanol is the alcohol in alcoholic drinks. It slows nervous system activity; feeling less inhibited does not make it a stimulant.",
+    "hint": "Think about alcohol."
+  },
+  {
+    "id": "organisms_020_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cEthanol is a stimulant because people may act more excited.\u201d Correct the statement.",
+    "answer": "A depressant",
+    "acceptedAnswers": [
+      "A depressant"
+    ],
+    "keywords": [],
+    "explanation": "Ethanol is the alcohol in alcoholic drinks. It slows nervous system activity; feeling less inhibited does not make it a stimulant.",
+    "hint": "Think about alcohol."
+  },
+  {
+    "id": "organisms_020_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What kind of drug is ethanol? Explain your answer.",
+    "answer": "Ethanol is the alcohol in alcoholic drinks. It slows nervous system activity; feeling less inhibited does not make it a stimulant.",
+    "acceptedAnswers": [
+      "Ethanol is the alcohol in alcoholic drinks. It slows nervous system activity; feeling less inhibited does not make it a stimulant."
+    ],
+    "keywords": [],
+    "explanation": "Ethanol is the alcohol in alcoholic drinks. It slows nervous system activity; feeling less inhibited does not make it a stimulant.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_021_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "How can alcohol affect behaviour?",
+    "answer": "Slower reactions, poorer judgement and reduced coordination",
+    "acceptedAnswers": [
+      "Slower reactions, poorer judgement and reduced coordination"
+    ],
+    "keywords": [],
+    "explanation": "Alcohol affects the nervous system, making reactions slower and judgement and coordination worse.",
+    "hint": "Think about alcohol.",
+    "options": [
+      "Slower reactions, poorer judgement and reduced coordination",
+      "Faster reactions and perfect judgement",
+      "Improved coordination",
+      "No effect on the brain"
+    ]
+  },
+  {
+    "id": "organisms_021_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "How can alcohol affect behaviour?",
+    "answer": "Slower reactions, poorer judgement and reduced coordination",
+    "acceptedAnswers": [
+      "Slower reactions, poorer judgement and reduced coordination"
+    ],
+    "keywords": [],
+    "explanation": "Alcohol affects the nervous system, making reactions slower and judgement and coordination worse.",
+    "hint": "Think about alcohol."
+  },
+  {
+    "id": "organisms_021_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cAlcohol always improves reaction speed.\u201d Correct the statement.",
+    "answer": "Slower reactions, poorer judgement and reduced coordination",
+    "acceptedAnswers": [
+      "Slower reactions, poorer judgement and reduced coordination"
+    ],
+    "keywords": [],
+    "explanation": "Alcohol affects the nervous system, making reactions slower and judgement and coordination worse.",
+    "hint": "Think about alcohol."
+  },
+  {
+    "id": "organisms_021_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "How can alcohol affect behaviour? Explain your answer.",
+    "answer": "Alcohol affects the nervous system, making reactions slower and judgement and coordination worse.",
+    "acceptedAnswers": [
+      "Alcohol affects the nervous system, making reactions slower and judgement and coordination worse."
+    ],
+    "keywords": [],
+    "explanation": "Alcohol affects the nervous system, making reactions slower and judgement and coordination worse.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_022_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What can long-term heavy drinking damage?",
+    "answer": "The liver",
+    "acceptedAnswers": [
+      "The liver"
+    ],
+    "keywords": [],
+    "explanation": "The liver processes alcohol. Long-term heavy drinking can damage it and can lead to addiction.",
+    "hint": "Think about alcohol.",
+    "options": [
+      "The liver",
+      "Only the fingernails",
+      "Only the teeth",
+      "Nothing inside the body"
+    ]
+  },
+  {
+    "id": "organisms_022_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What can long-term heavy drinking damage?",
+    "answer": "The liver",
+    "acceptedAnswers": [
+      "The liver"
+    ],
+    "keywords": [],
+    "explanation": "The liver processes alcohol. Long-term heavy drinking can damage it and can lead to addiction.",
+    "hint": "Think about alcohol."
+  },
+  {
+    "id": "organisms_022_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cHeavy drinking cannot damage the liver.\u201d Correct the statement.",
+    "answer": "The liver",
+    "acceptedAnswers": [
+      "The liver"
+    ],
+    "keywords": [],
+    "explanation": "The liver processes alcohol. Long-term heavy drinking can damage it and can lead to addiction.",
+    "hint": "Think about alcohol."
+  },
+  {
+    "id": "organisms_022_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What can long-term heavy drinking damage? Explain your answer.",
+    "answer": "The liver processes alcohol. Long-term heavy drinking can damage it and can lead to addiction.",
+    "acceptedAnswers": [
+      "The liver processes alcohol. Long-term heavy drinking can damage it and can lead to addiction."
+    ],
+    "keywords": [],
+    "explanation": "The liver processes alcohol. Long-term heavy drinking can damage it and can lead to addiction.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_023_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "How can alcohol affect conception and pregnancy?",
+    "answer": "It can reduce fertility and harm a developing baby",
+    "acceptedAnswers": [
+      "It can reduce fertility and harm a developing baby"
+    ],
+    "keywords": [],
+    "explanation": "Alcohol can reduce fertility. During pregnancy it can cross the placenta and harm the developing baby's growth and brain.",
+    "hint": "Think about alcohol.",
+    "options": [
+      "It can reduce fertility and harm a developing baby",
+      "It always improves fertility",
+      "The placenta blocks all alcohol",
+      "It helps a baby's brain develop"
+    ]
+  },
+  {
+    "id": "organisms_023_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "How can alcohol affect conception and pregnancy?",
+    "answer": "It can reduce fertility and harm a developing baby",
+    "acceptedAnswers": [
+      "It can reduce fertility and harm a developing baby"
+    ],
+    "keywords": [],
+    "explanation": "Alcohol can reduce fertility. During pregnancy it can cross the placenta and harm the developing baby's growth and brain.",
+    "hint": "Think about alcohol."
+  },
+  {
+    "id": "organisms_023_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cThe placenta stops alcohol reaching the developing baby.\u201d Correct the statement.",
+    "answer": "It can reduce fertility and harm a developing baby",
+    "acceptedAnswers": [
+      "It can reduce fertility and harm a developing baby"
+    ],
+    "keywords": [],
+    "explanation": "Alcohol can reduce fertility. During pregnancy it can cross the placenta and harm the developing baby's growth and brain.",
+    "hint": "Think about alcohol."
+  },
+  {
+    "id": "organisms_023_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Alcohol",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "How can alcohol affect conception and pregnancy? Explain your answer.",
+    "answer": "Alcohol can reduce fertility. During pregnancy it can cross the placenta and harm the developing baby's growth and brain.",
+    "acceptedAnswers": [
+      "Alcohol can reduce fertility. During pregnancy it can cross the placenta and harm the developing baby's growth and brain."
+    ],
+    "keywords": [],
+    "explanation": "Alcohol can reduce fertility. During pregnancy it can cross the placenta and harm the developing baby's growth and brain.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_024_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Which substance in tobacco causes addiction?",
+    "answer": "Nicotine",
+    "acceptedAnswers": [
+      "Nicotine"
+    ],
+    "keywords": [],
+    "explanation": "Nicotine is an addictive stimulant found in tobacco smoke.",
+    "hint": "Think about smoking.",
+    "options": [
+      "Nicotine",
+      "Oxygen",
+      "Water",
+      "Protein"
+    ]
+  },
+  {
+    "id": "organisms_024_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "Which substance in tobacco causes addiction?",
+    "answer": "Nicotine",
+    "acceptedAnswers": [
+      "Nicotine"
+    ],
+    "keywords": [],
+    "explanation": "Nicotine is an addictive stimulant found in tobacco smoke.",
+    "hint": "Think about smoking."
+  },
+  {
+    "id": "organisms_024_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cTar is the addictive stimulant in tobacco smoke.\u201d Correct the statement.",
+    "answer": "Nicotine",
+    "acceptedAnswers": [
+      "Nicotine"
+    ],
+    "keywords": [],
+    "explanation": "Nicotine is an addictive stimulant found in tobacco smoke.",
+    "hint": "Think about smoking."
+  },
+  {
+    "id": "organisms_024_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "Which substance in tobacco causes addiction? Explain your answer.",
+    "answer": "Nicotine is an addictive stimulant found in tobacco smoke.",
+    "acceptedAnswers": [
+      "Nicotine is an addictive stimulant found in tobacco smoke."
+    ],
+    "keywords": [],
+    "explanation": "Nicotine is an addictive stimulant found in tobacco smoke.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_025_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "How does tar damage the gas exchange system?",
+    "answer": "Damages cilia and lungs and increases cancer risk",
+    "acceptedAnswers": [
+      "Damages cilia and lungs and increases cancer risk"
+    ],
+    "keywords": [],
+    "explanation": "Tar damages cilia that normally move mucus out of airways. Mucus builds up; smoking can damage alveoli and cause lung cancer.",
+    "hint": "Think about smoking.",
+    "options": [
+      "Damages cilia and lungs and increases cancer risk",
+      "Increases the number of healthy alveoli",
+      "Supplies oxygen to the blood",
+      "Protects airways from mucus"
+    ]
+  },
+  {
+    "id": "organisms_025_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "How does tar damage the gas exchange system?",
+    "answer": "Damages cilia and lungs and increases cancer risk",
+    "acceptedAnswers": [
+      "Damages cilia and lungs and increases cancer risk"
+    ],
+    "keywords": [],
+    "explanation": "Tar damages cilia that normally move mucus out of airways. Mucus builds up; smoking can damage alveoli and cause lung cancer.",
+    "hint": "Think about smoking."
+  },
+  {
+    "id": "organisms_025_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cTar helps cilia remove mucus from the lungs.\u201d Correct the statement.",
+    "answer": "Damages cilia and lungs and increases cancer risk",
+    "acceptedAnswers": [
+      "Damages cilia and lungs and increases cancer risk"
+    ],
+    "keywords": [],
+    "explanation": "Tar damages cilia that normally move mucus out of airways. Mucus builds up; smoking can damage alveoli and cause lung cancer.",
+    "hint": "Think about smoking."
+  },
+  {
+    "id": "organisms_025_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "How does tar damage the gas exchange system? Explain your answer.",
+    "answer": "Tar damages cilia that normally move mucus out of airways. Mucus builds up; smoking can damage alveoli and cause lung cancer.",
+    "acceptedAnswers": [
+      "Tar damages cilia that normally move mucus out of airways. Mucus builds up; smoking can damage alveoli and cause lung cancer."
+    ],
+    "keywords": [],
+    "explanation": "Tar damages cilia that normally move mucus out of airways. Mucus builds up; smoking can damage alveoli and cause lung cancer.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_026_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Why is carbon monoxide in smoke harmful?",
+    "answer": "It reduces the oxygen that blood can carry",
+    "acceptedAnswers": [
+      "It reduces the oxygen that blood can carry"
+    ],
+    "keywords": [],
+    "explanation": "Carbon monoxide binds to haemoglobin in red blood cells, reducing oxygen transport. Less oxygen reaches body cells.",
+    "hint": "Think about smoking.",
+    "options": [
+      "It reduces the oxygen that blood can carry",
+      "It helps blood carry more oxygen",
+      "It digests starch",
+      "It increases alveolar surface area"
+    ]
+  },
+  {
+    "id": "organisms_026_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "Why is carbon monoxide in smoke harmful?",
+    "answer": "It reduces the oxygen that blood can carry",
+    "acceptedAnswers": [
+      "It reduces the oxygen that blood can carry"
+    ],
+    "keywords": [],
+    "explanation": "Carbon monoxide binds to haemoglobin in red blood cells, reducing oxygen transport. Less oxygen reaches body cells.",
+    "hint": "Think about smoking."
+  },
+  {
+    "id": "organisms_026_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cCarbon monoxide helps red blood cells carry more oxygen.\u201d Correct the statement.",
+    "answer": "It reduces the oxygen that blood can carry",
+    "acceptedAnswers": [
+      "It reduces the oxygen that blood can carry"
+    ],
+    "keywords": [],
+    "explanation": "Carbon monoxide binds to haemoglobin in red blood cells, reducing oxygen transport. Less oxygen reaches body cells.",
+    "hint": "Think about smoking."
+  },
+  {
+    "id": "organisms_026_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "Why is carbon monoxide in smoke harmful? Explain your answer.",
+    "answer": "Carbon monoxide binds to haemoglobin in red blood cells, reducing oxygen transport. Less oxygen reaches body cells.",
+    "acceptedAnswers": [
+      "Carbon monoxide binds to haemoglobin in red blood cells, reducing oxygen transport. Less oxygen reaches body cells."
+    ],
+    "keywords": [],
+    "explanation": "Carbon monoxide binds to haemoglobin in red blood cells, reducing oxygen transport. Less oxygen reaches body cells.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_027_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What is passive smoking?",
+    "answer": "Breathing in someone else's tobacco smoke",
+    "acceptedAnswers": [
+      "Breathing in someone else's tobacco smoke"
+    ],
+    "keywords": [],
+    "explanation": "Other people's tobacco smoke contains harmful substances too, so passive smoking can damage health.",
+    "hint": "Think about smoking.",
+    "options": [
+      "Breathing in someone else's tobacco smoke",
+      "Smoking only outdoors",
+      "Breathing clean air after exercise",
+      "Using a medicinal inhaler"
+    ]
+  },
+  {
+    "id": "organisms_027_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is passive smoking?",
+    "answer": "Breathing in someone else's tobacco smoke",
+    "acceptedAnswers": [
+      "Breathing in someone else's tobacco smoke"
+    ],
+    "keywords": [],
+    "explanation": "Other people's tobacco smoke contains harmful substances too, so passive smoking can damage health.",
+    "hint": "Think about smoking."
+  },
+  {
+    "id": "organisms_027_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cOnly the person holding a cigarette can be harmed by its smoke.\u201d Correct the statement.",
+    "answer": "Breathing in someone else's tobacco smoke",
+    "acceptedAnswers": [
+      "Breathing in someone else's tobacco smoke"
+    ],
+    "keywords": [],
+    "explanation": "Other people's tobacco smoke contains harmful substances too, so passive smoking can damage health.",
+    "hint": "Think about smoking."
+  },
+  {
+    "id": "organisms_027_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Smoking",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What is passive smoking? Explain your answer.",
+    "answer": "Other people's tobacco smoke contains harmful substances too, so passive smoking can damage health.",
+    "acceptedAnswers": [
+      "Other people's tobacco smoke contains harmful substances too, so passive smoking can damage health."
+    ],
+    "keywords": [],
+    "explanation": "Other people's tobacco smoke contains harmful substances too, so passive smoking can damage health.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_028_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is the main role of carbohydrates?",
+    "answer": "Provide energy",
+    "acceptedAnswers": [
+      "Provide energy"
+    ],
+    "keywords": [],
+    "explanation": "Carbohydrates include sugars and starch. They are the body's main dietary source of energy.",
+    "hint": "Think about nutrients.",
+    "options": [
+      "Provide energy",
+      "Build bones only",
+      "Carry oxygen only",
+      "Insulate the body only"
+    ]
+  },
+  {
+    "id": "organisms_028_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is the main role of carbohydrates?",
+    "answer": "Provide energy",
+    "acceptedAnswers": [
+      "Provide energy"
+    ],
+    "keywords": [],
+    "explanation": "Carbohydrates include sugars and starch. They are the body's main dietary source of energy.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_028_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cCarbohydrates are mainly used to build new tissue.\u201d Correct the statement.",
+    "answer": "Provide energy",
+    "acceptedAnswers": [
+      "Provide energy"
+    ],
+    "keywords": [],
+    "explanation": "Carbohydrates include sugars and starch. They are the body's main dietary source of energy.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_028_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What is the main role of carbohydrates? Explain your answer.",
+    "answer": "Carbohydrates include sugars and starch. They are the body's main dietary source of energy.",
+    "acceptedAnswers": [
+      "Carbohydrates include sugars and starch. They are the body's main dietary source of energy."
+    ],
+    "keywords": [],
+    "explanation": "Carbohydrates include sugars and starch. They are the body's main dietary source of energy.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_029_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What is the main role of protein?",
+    "answer": "Growth and repair of tissues",
+    "acceptedAnswers": [
+      "Growth and repair of tissues"
+    ],
+    "keywords": [],
+    "explanation": "Proteins help build and repair cells and tissues. Meat, eggs, beans and dairy products are sources.",
+    "hint": "Think about nutrients.",
+    "options": [
+      "Growth and repair of tissues",
+      "Prevent all infections",
+      "Provide fibre",
+      "Make food move through the gut"
+    ]
+  },
+  {
+    "id": "organisms_029_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is the main role of protein?",
+    "answer": "Growth and repair of tissues",
+    "acceptedAnswers": [
+      "Growth and repair of tissues"
+    ],
+    "keywords": [],
+    "explanation": "Proteins help build and repair cells and tissues. Meat, eggs, beans and dairy products are sources.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_029_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cProtein's main job is to provide indigestible fibre.\u201d Correct the statement.",
+    "answer": "Growth and repair of tissues",
+    "acceptedAnswers": [
+      "Growth and repair of tissues"
+    ],
+    "keywords": [],
+    "explanation": "Proteins help build and repair cells and tissues. Meat, eggs, beans and dairy products are sources.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_029_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What is the main role of protein? Explain your answer.",
+    "answer": "Proteins help build and repair cells and tissues. Meat, eggs, beans and dairy products are sources.",
+    "acceptedAnswers": [
+      "Proteins help build and repair cells and tissues. Meat, eggs, beans and dairy products are sources."
+    ],
+    "keywords": [],
+    "explanation": "Proteins help build and repair cells and tissues. Meat, eggs, beans and dairy products are sources.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_030_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What do lipids provide?",
+    "answer": "Stored energy and insulation",
+    "acceptedAnswers": [
+      "Stored energy and insulation"
+    ],
+    "keywords": [],
+    "explanation": "Lipids are fats and oils. They supply energy, provide an energy store and help insulate the body.",
+    "hint": "Think about nutrients.",
+    "options": [
+      "Stored energy and insulation",
+      "Only dietary fibre",
+      "Only vitamins",
+      "No energy"
+    ]
+  },
+  {
+    "id": "organisms_030_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What do lipids provide?",
+    "answer": "Stored energy and insulation",
+    "acceptedAnswers": [
+      "Stored energy and insulation"
+    ],
+    "keywords": [],
+    "explanation": "Lipids are fats and oils. They supply energy, provide an energy store and help insulate the body.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_030_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cLipids provide no energy.\u201d Correct the statement.",
+    "answer": "Stored energy and insulation",
+    "acceptedAnswers": [
+      "Stored energy and insulation"
+    ],
+    "keywords": [],
+    "explanation": "Lipids are fats and oils. They supply energy, provide an energy store and help insulate the body.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_030_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What do lipids provide? Explain your answer.",
+    "answer": "Lipids are fats and oils. They supply energy, provide an energy store and help insulate the body.",
+    "acceptedAnswers": [
+      "Lipids are fats and oils. They supply energy, provide an energy store and help insulate the body."
+    ],
+    "keywords": [],
+    "explanation": "Lipids are fats and oils. They supply energy, provide an energy store and help insulate the body.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_031_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "Why are vitamins and minerals needed?",
+    "answer": "Small amounts help keep the body healthy",
+    "acceptedAnswers": [
+      "Small amounts help keep the body healthy"
+    ],
+    "keywords": [],
+    "explanation": "Different vitamins and minerals have different roles; a varied diet helps supply them in the amounts needed.",
+    "hint": "Think about nutrients.",
+    "options": [
+      "Small amounts help keep the body healthy",
+      "They replace all carbohydrates",
+      "They are needed only in very large amounts",
+      "They are the only source of energy"
+    ]
+  },
+  {
+    "id": "organisms_031_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "Why are vitamins and minerals needed?",
+    "answer": "Small amounts help keep the body healthy",
+    "acceptedAnswers": [
+      "Small amounts help keep the body healthy"
+    ],
+    "keywords": [],
+    "explanation": "Different vitamins and minerals have different roles; a varied diet helps supply them in the amounts needed.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_031_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cVitamins are the body's main source of energy.\u201d Correct the statement.",
+    "answer": "Small amounts help keep the body healthy",
+    "acceptedAnswers": [
+      "Small amounts help keep the body healthy"
+    ],
+    "keywords": [],
+    "explanation": "Different vitamins and minerals have different roles; a varied diet helps supply them in the amounts needed.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_031_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "Why are vitamins and minerals needed? Explain your answer.",
+    "answer": "Different vitamins and minerals have different roles; a varied diet helps supply them in the amounts needed.",
+    "acceptedAnswers": [
+      "Different vitamins and minerals have different roles; a varied diet helps supply them in the amounts needed."
+    ],
+    "keywords": [],
+    "explanation": "Different vitamins and minerals have different roles; a varied diet helps supply them in the amounts needed.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_032_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What does dietary fibre do?",
+    "answer": "Adds bulk and helps food move through the gut",
+    "acceptedAnswers": [
+      "Adds bulk and helps food move through the gut"
+    ],
+    "keywords": [],
+    "explanation": "Fibre is mostly indigestible plant material. It helps keep waste moving and reduces constipation.",
+    "hint": "Think about nutrients.",
+    "options": [
+      "Adds bulk and helps food move through the gut",
+      "Is digested into amino acids",
+      "Replaces all water",
+      "Stops food moving"
+    ]
+  },
+  {
+    "id": "organisms_032_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does dietary fibre do?",
+    "answer": "Adds bulk and helps food move through the gut",
+    "acceptedAnswers": [
+      "Adds bulk and helps food move through the gut"
+    ],
+    "keywords": [],
+    "explanation": "Fibre is mostly indigestible plant material. It helps keep waste moving and reduces constipation.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_032_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cFibre is broken down by protease into amino acids.\u201d Correct the statement.",
+    "answer": "Adds bulk and helps food move through the gut",
+    "acceptedAnswers": [
+      "Adds bulk and helps food move through the gut"
+    ],
+    "keywords": [],
+    "explanation": "Fibre is mostly indigestible plant material. It helps keep waste moving and reduces constipation.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_032_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What does dietary fibre do? Explain your answer.",
+    "answer": "Fibre is mostly indigestible plant material. It helps keep waste moving and reduces constipation.",
+    "acceptedAnswers": [
+      "Fibre is mostly indigestible plant material. It helps keep waste moving and reduces constipation."
+    ],
+    "keywords": [],
+    "explanation": "Fibre is mostly indigestible plant material. It helps keep waste moving and reduces constipation.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_033_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "Why does the body need water?",
+    "answer": "For cells, body fluids and chemical reactions",
+    "acceptedAnswers": [
+      "For cells, body fluids and chemical reactions"
+    ],
+    "keywords": [],
+    "explanation": "Water is needed in cells and body fluids and helps transport substances and support chemical reactions.",
+    "hint": "Think about nutrients.",
+    "options": [
+      "For cells, body fluids and chemical reactions",
+      "Only to strengthen teeth",
+      "Only to store energy",
+      "It has no role inside cells"
+    ]
+  },
+  {
+    "id": "organisms_033_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "Why does the body need water?",
+    "answer": "For cells, body fluids and chemical reactions",
+    "acceptedAnswers": [
+      "For cells, body fluids and chemical reactions"
+    ],
+    "keywords": [],
+    "explanation": "Water is needed in cells and body fluids and helps transport substances and support chemical reactions.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_033_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cWater is needed only outside cells.\u201d Correct the statement.",
+    "answer": "For cells, body fluids and chemical reactions",
+    "acceptedAnswers": [
+      "For cells, body fluids and chemical reactions"
+    ],
+    "keywords": [],
+    "explanation": "Water is needed in cells and body fluids and helps transport substances and support chemical reactions.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_033_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "Why does the body need water? Explain your answer.",
+    "answer": "Water is needed in cells and body fluids and helps transport substances and support chemical reactions.",
+    "acceptedAnswers": [
+      "Water is needed in cells and body fluids and helps transport substances and support chemical reactions."
+    ],
+    "keywords": [],
+    "explanation": "Water is needed in cells and body fluids and helps transport substances and support chemical reactions.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_034_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What does a balanced diet mean?",
+    "answer": "The right amounts of different nutrients for a person's needs",
+    "acceptedAnswers": [
+      "The right amounts of different nutrients for a person's needs"
+    ],
+    "keywords": [],
+    "explanation": "A balanced diet includes appropriate carbohydrates, lipids, proteins, vitamins, minerals, water and fibre.",
+    "hint": "Think about nutrients.",
+    "options": [
+      "The right amounts of different nutrients for a person's needs",
+      "Equal masses of every food",
+      "Only eating protein",
+      "Avoiding all fats"
+    ]
+  },
+  {
+    "id": "organisms_034_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does a balanced diet mean?",
+    "answer": "The right amounts of different nutrients for a person's needs",
+    "acceptedAnswers": [
+      "The right amounts of different nutrients for a person's needs"
+    ],
+    "keywords": [],
+    "explanation": "A balanced diet includes appropriate carbohydrates, lipids, proteins, vitamins, minerals, water and fibre.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_034_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cA balanced diet means eating exactly the same mass of each nutrient.\u201d Correct the statement.",
+    "answer": "The right amounts of different nutrients for a person's needs",
+    "acceptedAnswers": [
+      "The right amounts of different nutrients for a person's needs"
+    ],
+    "keywords": [],
+    "explanation": "A balanced diet includes appropriate carbohydrates, lipids, proteins, vitamins, minerals, water and fibre.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_034_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What does a balanced diet mean? Explain your answer.",
+    "answer": "A balanced diet includes appropriate carbohydrates, lipids, proteins, vitamins, minerals, water and fibre.",
+    "acceptedAnswers": [
+      "A balanced diet includes appropriate carbohydrates, lipids, proteins, vitamins, minerals, water and fibre."
+    ],
+    "keywords": [],
+    "explanation": "A balanced diet includes appropriate carbohydrates, lipids, proteins, vitamins, minerals, water and fibre.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_035_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "Which snack supplies more protein: 3 g or 9 g per equal-sized serving?",
+    "answer": "The snack with 9 g",
+    "acceptedAnswers": [
+      "The snack with 9 g"
+    ],
+    "keywords": [],
+    "explanation": "Compare the same serving size or values per 100 g; 9 g is more protein than 3 g.",
+    "hint": "Think about nutrients.",
+    "options": [
+      "The snack with 9 g",
+      "The snack with 3 g",
+      "Both supply the same amount",
+      "The labels cannot be compared"
+    ]
+  },
+  {
+    "id": "organisms_035_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "Which snack supplies more protein: 3 g or 9 g per equal-sized serving?",
+    "answer": "The snack with 9 g",
+    "acceptedAnswers": [
+      "The snack with 9 g"
+    ],
+    "keywords": [],
+    "explanation": "Compare the same serving size or values per 100 g; 9 g is more protein than 3 g.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_035_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cA food with 3 g protein has more protein than one with 9 g in the same serving size.\u201d Correct the statement.",
+    "answer": "The snack with 9 g",
+    "acceptedAnswers": [
+      "The snack with 9 g"
+    ],
+    "keywords": [],
+    "explanation": "Compare the same serving size or values per 100 g; 9 g is more protein than 3 g.",
+    "hint": "Think about nutrients."
+  },
+  {
+    "id": "organisms_035_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Nutrients",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "Which snack supplies more protein: 3 g or 9 g per equal-sized serving? Explain your answer.",
+    "answer": "Compare the same serving size or values per 100 g; 9 g is more protein than 3 g.",
+    "acceptedAnswers": [
+      "Compare the same serving size or values per 100 g; 9 g is more protein than 3 g."
+    ],
+    "keywords": [],
+    "explanation": "Compare the same serving size or values per 100 g; 9 g is more protein than 3 g.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_036_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is the positive result for the starch test with iodine?",
+    "answer": "Orange-brown turns blue-black",
+    "acceptedAnswers": [
+      "Orange-brown turns blue-black"
+    ],
+    "keywords": [],
+    "explanation": "Add iodine solution to the food sample. A blue-black colour shows starch; without starch iodine stays orange-brown.",
+    "hint": "Think about food tests.",
+    "options": [
+      "Orange-brown turns blue-black",
+      "Blue turns brick-red",
+      "Clear turns cloudy white",
+      "Blue turns lilac"
+    ]
+  },
+  {
+    "id": "organisms_036_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is the positive result for the starch test with iodine?",
+    "answer": "Orange-brown turns blue-black",
+    "acceptedAnswers": [
+      "Orange-brown turns blue-black"
+    ],
+    "keywords": [],
+    "explanation": "Add iodine solution to the food sample. A blue-black colour shows starch; without starch iodine stays orange-brown.",
+    "hint": "Think about food tests."
+  },
+  {
+    "id": "organisms_036_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cIodine turns brick-red when starch is present.\u201d Correct the statement.",
+    "answer": "Orange-brown turns blue-black",
+    "acceptedAnswers": [
+      "Orange-brown turns blue-black"
+    ],
+    "keywords": [],
+    "explanation": "Add iodine solution to the food sample. A blue-black colour shows starch; without starch iodine stays orange-brown.",
+    "hint": "Think about food tests."
+  },
+  {
+    "id": "organisms_036_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What is the positive result for the starch test with iodine? Explain your answer.",
+    "answer": "Add iodine solution to the food sample. A blue-black colour shows starch; without starch iodine stays orange-brown.",
+    "acceptedAnswers": [
+      "Add iodine solution to the food sample. A blue-black colour shows starch; without starch iodine stays orange-brown."
+    ],
+    "keywords": [],
+    "explanation": "Add iodine solution to the food sample. A blue-black colour shows starch; without starch iodine stays orange-brown.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_037_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "How do you test for reducing sugars?",
+    "answer": "Add Benedict's solution and heat in a hot water bath",
+    "acceptedAnswers": [
+      "Add Benedict's solution and heat in a hot water bath"
+    ],
+    "keywords": [],
+    "explanation": "Benedict's solution starts blue. Heating a sample containing reducing sugars gives green, yellow, orange or brick-red depending on the amount.",
+    "hint": "Think about food tests.",
+    "options": [
+      "Add Benedict's solution and heat in a hot water bath",
+      "Add iodine without heating",
+      "Add Biuret reagent",
+      "Add ethanol then water"
+    ]
+  },
+  {
+    "id": "organisms_037_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "How do you test for reducing sugars?",
+    "answer": "Add Benedict's solution and heat in a hot water bath",
+    "acceptedAnswers": [
+      "Add Benedict's solution and heat in a hot water bath"
+    ],
+    "keywords": [],
+    "explanation": "Benedict's solution starts blue. Heating a sample containing reducing sugars gives green, yellow, orange or brick-red depending on the amount.",
+    "hint": "Think about food tests."
+  },
+  {
+    "id": "organisms_037_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cThe Benedict's test for sugar does not need heating.\u201d Correct the statement.",
+    "answer": "Add Benedict's solution and heat in a hot water bath",
+    "acceptedAnswers": [
+      "Add Benedict's solution and heat in a hot water bath"
+    ],
+    "keywords": [],
+    "explanation": "Benedict's solution starts blue. Heating a sample containing reducing sugars gives green, yellow, orange or brick-red depending on the amount.",
+    "hint": "Think about food tests."
+  },
+  {
+    "id": "organisms_037_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "How do you test for reducing sugars? Explain your answer.",
+    "answer": "Benedict's solution starts blue. Heating a sample containing reducing sugars gives green, yellow, orange or brick-red depending on the amount.",
+    "acceptedAnswers": [
+      "Benedict's solution starts blue. Heating a sample containing reducing sugars gives green, yellow, orange or brick-red depending on the amount."
+    ],
+    "keywords": [],
+    "explanation": "Benedict's solution starts blue. Heating a sample containing reducing sugars gives green, yellow, orange or brick-red depending on the amount.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_038_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is a positive Benedict's test result?",
+    "answer": "Blue changes to green, yellow, orange or brick-red after heating",
+    "acceptedAnswers": [
+      "Blue changes to green, yellow, orange or brick-red after heating"
+    ],
+    "keywords": [],
+    "explanation": "A colour change after heating indicates reducing sugars. If it stays blue, the test is negative.",
+    "hint": "Think about food tests.",
+    "options": [
+      "Blue changes to green, yellow, orange or brick-red after heating",
+      "Orange-brown changes to blue-black",
+      "A purple colour without heating",
+      "No change from blue"
+    ]
+  },
+  {
+    "id": "organisms_038_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is a positive Benedict's test result?",
+    "answer": "Blue changes to green, yellow, orange or brick-red after heating",
+    "acceptedAnswers": [
+      "Blue changes to green, yellow, orange or brick-red after heating"
+    ],
+    "keywords": [],
+    "explanation": "A colour change after heating indicates reducing sugars. If it stays blue, the test is negative.",
+    "hint": "Think about food tests."
+  },
+  {
+    "id": "organisms_038_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cBenedict's solution staying blue is a positive result.\u201d Correct the statement.",
+    "answer": "Blue changes to green, yellow, orange or brick-red after heating",
+    "acceptedAnswers": [
+      "Blue changes to green, yellow, orange or brick-red after heating"
+    ],
+    "keywords": [],
+    "explanation": "A colour change after heating indicates reducing sugars. If it stays blue, the test is negative.",
+    "hint": "Think about food tests."
+  },
+  {
+    "id": "organisms_038_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What is a positive Benedict's test result? Explain your answer.",
+    "answer": "A colour change after heating indicates reducing sugars. If it stays blue, the test is negative.",
+    "acceptedAnswers": [
+      "A colour change after heating indicates reducing sugars. If it stays blue, the test is negative."
+    ],
+    "keywords": [],
+    "explanation": "A colour change after heating indicates reducing sugars. If it stays blue, the test is negative.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_039_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What is the positive result for a protein test using Biuret reagent?",
+    "answer": "Blue turns lilac or purple",
+    "acceptedAnswers": [
+      "Blue turns lilac or purple"
+    ],
+    "keywords": [],
+    "explanation": "Biuret reagent turns lilac or purple when protein is present.",
+    "hint": "Think about food tests.",
+    "options": [
+      "Blue turns lilac or purple",
+      "Orange-brown turns blue-black",
+      "Blue turns brick-red",
+      "A cloudy white emulsion"
+    ]
+  },
+  {
+    "id": "organisms_039_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is the positive result for a protein test using Biuret reagent?",
+    "answer": "Blue turns lilac or purple",
+    "acceptedAnswers": [
+      "Blue turns lilac or purple"
+    ],
+    "keywords": [],
+    "explanation": "Biuret reagent turns lilac or purple when protein is present.",
+    "hint": "Think about food tests."
+  },
+  {
+    "id": "organisms_039_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cA cloudy white emulsion is the positive test for protein.\u201d Correct the statement.",
+    "answer": "Blue turns lilac or purple",
+    "acceptedAnswers": [
+      "Blue turns lilac or purple"
+    ],
+    "keywords": [],
+    "explanation": "Biuret reagent turns lilac or purple when protein is present.",
+    "hint": "Think about food tests."
+  },
+  {
+    "id": "organisms_039_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What is the positive result for a protein test using Biuret reagent? Explain your answer.",
+    "answer": "Biuret reagent turns lilac or purple when protein is present.",
+    "acceptedAnswers": [
+      "Biuret reagent turns lilac or purple when protein is present."
+    ],
+    "keywords": [],
+    "explanation": "Biuret reagent turns lilac or purple when protein is present.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_040_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is the positive result for the ethanol emulsion test for lipids?",
+    "answer": "A cloudy white emulsion after adding water",
+    "acceptedAnswers": [
+      "A cloudy white emulsion after adding water"
+    ],
+    "keywords": [],
+    "explanation": "Shake the sample with ethanol, then add water. Lipids cause a cloudy white emulsion. Ethanol is flammable; this is a supervised school practical.",
+    "hint": "Think about food tests.",
+    "options": [
+      "A cloudy white emulsion after adding water",
+      "A blue-black solution",
+      "A lilac solution",
+      "A brick-red precipitate"
+    ]
+  },
+  {
+    "id": "organisms_040_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is the positive result for the ethanol emulsion test for lipids?",
+    "answer": "A cloudy white emulsion after adding water",
+    "acceptedAnswers": [
+      "A cloudy white emulsion after adding water"
+    ],
+    "keywords": [],
+    "explanation": "Shake the sample with ethanol, then add water. Lipids cause a cloudy white emulsion. Ethanol is flammable; this is a supervised school practical.",
+    "hint": "Think about food tests."
+  },
+  {
+    "id": "organisms_040_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cA clear solution after adding water proves that lipids are present.\u201d Correct the statement.",
+    "answer": "A cloudy white emulsion after adding water",
+    "acceptedAnswers": [
+      "A cloudy white emulsion after adding water"
+    ],
+    "keywords": [],
+    "explanation": "Shake the sample with ethanol, then add water. Lipids cause a cloudy white emulsion. Ethanol is flammable; this is a supervised school practical.",
+    "hint": "Think about food tests."
+  },
+  {
+    "id": "organisms_040_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Food tests",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What is the positive result for the ethanol emulsion test for lipids? Explain your answer.",
+    "answer": "Shake the sample with ethanol, then add water. Lipids cause a cloudy white emulsion. Ethanol is flammable; this is a supervised school practical.",
+    "acceptedAnswers": [
+      "Shake the sample with ethanol, then add water. Lipids cause a cloudy white emulsion. Ethanol is flammable; this is a supervised school practical."
+    ],
+    "keywords": [],
+    "explanation": "Shake the sample with ethanol, then add water. Lipids cause a cloudy white emulsion. Ethanol is flammable; this is a supervised school practical.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_041_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What does malnourishment mean?",
+    "answer": "Getting the wrong amounts or types of nutrients",
+    "acceptedAnswers": [
+      "Getting the wrong amounts or types of nutrients"
+    ],
+    "keywords": [],
+    "explanation": "Malnourishment includes deficiencies and excesses. A person can be overweight and still lack essential nutrients.",
+    "hint": "Think about unhealthy diet.",
+    "options": [
+      "Getting the wrong amounts or types of nutrients",
+      "Only eating too little food",
+      "Always being underweight",
+      "Eating any food containing fat"
+    ]
+  },
+  {
+    "id": "organisms_041_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does malnourishment mean?",
+    "answer": "Getting the wrong amounts or types of nutrients",
+    "acceptedAnswers": [
+      "Getting the wrong amounts or types of nutrients"
+    ],
+    "keywords": [],
+    "explanation": "Malnourishment includes deficiencies and excesses. A person can be overweight and still lack essential nutrients.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_041_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cAn overweight person cannot be malnourished.\u201d Correct the statement.",
+    "answer": "Getting the wrong amounts or types of nutrients",
+    "acceptedAnswers": [
+      "Getting the wrong amounts or types of nutrients"
+    ],
+    "keywords": [],
+    "explanation": "Malnourishment includes deficiencies and excesses. A person can be overweight and still lack essential nutrients.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_041_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What does malnourishment mean? Explain your answer.",
+    "answer": "Malnourishment includes deficiencies and excesses. A person can be overweight and still lack essential nutrients.",
+    "acceptedAnswers": [
+      "Malnourishment includes deficiencies and excesses. A person can be overweight and still lack essential nutrients."
+    ],
+    "keywords": [],
+    "explanation": "Malnourishment includes deficiencies and excesses. A person can be overweight and still lack essential nutrients.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_042_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What happens if energy intake stays above energy use?",
+    "answer": "Surplus energy is stored and body mass can increase",
+    "acceptedAnswers": [
+      "Surplus energy is stored and body mass can increase"
+    ],
+    "keywords": [],
+    "explanation": "Repeatedly taking in more energy than the body uses can lead to weight gain; energy is used in respiration for activity and other body functions.",
+    "hint": "Think about unhealthy diet.",
+    "options": [
+      "Surplus energy is stored and body mass can increase",
+      "Body mass must decrease",
+      "The extra energy disappears",
+      "The body stops needing food"
+    ]
+  },
+  {
+    "id": "organisms_042_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What happens if energy intake stays above energy use?",
+    "answer": "Surplus energy is stored and body mass can increase",
+    "acceptedAnswers": [
+      "Surplus energy is stored and body mass can increase"
+    ],
+    "keywords": [],
+    "explanation": "Repeatedly taking in more energy than the body uses can lead to weight gain; energy is used in respiration for activity and other body functions.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_042_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cConsuming more energy than you use must cause weight loss.\u201d Correct the statement.",
+    "answer": "Surplus energy is stored and body mass can increase",
+    "acceptedAnswers": [
+      "Surplus energy is stored and body mass can increase"
+    ],
+    "keywords": [],
+    "explanation": "Repeatedly taking in more energy than the body uses can lead to weight gain; energy is used in respiration for activity and other body functions.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_042_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What happens if energy intake stays above energy use? Explain your answer.",
+    "answer": "Repeatedly taking in more energy than the body uses can lead to weight gain; energy is used in respiration for activity and other body functions.",
+    "acceptedAnswers": [
+      "Repeatedly taking in more energy than the body uses can lead to weight gain; energy is used in respiration for activity and other body functions."
+    ],
+    "keywords": [],
+    "explanation": "Repeatedly taking in more energy than the body uses can lead to weight gain; energy is used in respiration for activity and other body functions.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_043_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Who generally needs more energy: an active teenager or an inactive adult of similar size?",
+    "answer": "The active teenager",
+    "acceptedAnswers": [
+      "The active teenager"
+    ],
+    "keywords": [],
+    "explanation": "Energy needs vary with activity, body size and growth. Growing and active people generally need more energy.",
+    "hint": "Think about unhealthy diet.",
+    "options": [
+      "The active teenager",
+      "Always the inactive adult",
+      "Both must need exactly the same",
+      "Neither needs energy"
+    ]
+  },
+  {
+    "id": "organisms_043_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "Who generally needs more energy: an active teenager or an inactive adult of similar size?",
+    "answer": "The active teenager",
+    "acceptedAnswers": [
+      "The active teenager"
+    ],
+    "keywords": [],
+    "explanation": "Energy needs vary with activity, body size and growth. Growing and active people generally need more energy.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_043_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cEveryone needs exactly the same energy intake each day.\u201d Correct the statement.",
+    "answer": "The active teenager",
+    "acceptedAnswers": [
+      "The active teenager"
+    ],
+    "keywords": [],
+    "explanation": "Energy needs vary with activity, body size and growth. Growing and active people generally need more energy.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_043_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "Who generally needs more energy: an active teenager or an inactive adult of similar size? Explain your answer.",
+    "answer": "Energy needs vary with activity, body size and growth. Growing and active people generally need more energy.",
+    "acceptedAnswers": [
+      "Energy needs vary with activity, body size and growth. Growing and active people generally need more energy."
+    ],
+    "keywords": [],
+    "explanation": "Energy needs vary with activity, body size and growth. Growing and active people generally need more energy.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_044_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "A person needs 8500 kJ and eats 9200 kJ. What is the energy surplus?",
+    "answer": "700 kJ",
+    "acceptedAnswers": [
+      "700 kJ"
+    ],
+    "keywords": [],
+    "explanation": "Surplus = intake \u2212 requirement = 9200 \u2212 8500 = 700 kJ.",
+    "hint": "Think about unhealthy diet.",
+    "options": [
+      "700 kJ",
+      "17700 kJ",
+      "1700 kJ",
+      "7000 kJ"
+    ]
+  },
+  {
+    "id": "organisms_044_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "A person needs 8500 kJ and eats 9200 kJ. What is the energy surplus?",
+    "answer": "700 kJ",
+    "acceptedAnswers": [
+      "700 kJ"
+    ],
+    "keywords": [],
+    "explanation": "Surplus = intake \u2212 requirement = 9200 \u2212 8500 = 700 kJ.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_044_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cAn intake of 9200 kJ and requirement of 8500 kJ gives a surplus of 17700 kJ.\u201d Correct the statement.",
+    "answer": "700 kJ",
+    "acceptedAnswers": [
+      "700 kJ"
+    ],
+    "keywords": [],
+    "explanation": "Surplus = intake \u2212 requirement = 9200 \u2212 8500 = 700 kJ.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_044_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "A person needs 8500 kJ and eats 9200 kJ. What is the energy surplus? Explain your answer.",
+    "answer": "Surplus = intake \u2212 requirement = 9200 \u2212 8500 = 700 kJ.",
+    "acceptedAnswers": [
+      "Surplus = intake \u2212 requirement = 9200 \u2212 8500 = 700 kJ."
+    ],
+    "keywords": [],
+    "explanation": "Surplus = intake \u2212 requirement = 9200 \u2212 8500 = 700 kJ.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_045_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Activities use 6000 kJ and growth needs 1500 kJ. What is the total requirement?",
+    "answer": "7500 kJ",
+    "acceptedAnswers": [
+      "7500 kJ"
+    ],
+    "keywords": [],
+    "explanation": "Add the energy requirements: 6000 + 1500 = 7500 kJ. Read the units carefully.",
+    "hint": "Think about unhealthy diet.",
+    "options": [
+      "7500 kJ",
+      "4500 kJ",
+      "9000 kJ",
+      "6000 kJ"
+    ]
+  },
+  {
+    "id": "organisms_045_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "Activities use 6000 kJ and growth needs 1500 kJ. What is the total requirement?",
+    "answer": "7500 kJ",
+    "acceptedAnswers": [
+      "7500 kJ"
+    ],
+    "keywords": [],
+    "explanation": "Add the energy requirements: 6000 + 1500 = 7500 kJ. Read the units carefully.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_045_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cYou subtract the energy needed for growth from the energy needed for activities.\u201d Correct the statement.",
+    "answer": "7500 kJ",
+    "acceptedAnswers": [
+      "7500 kJ"
+    ],
+    "keywords": [],
+    "explanation": "Add the energy requirements: 6000 + 1500 = 7500 kJ. Read the units carefully.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_045_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "Activities use 6000 kJ and growth needs 1500 kJ. What is the total requirement? Explain your answer.",
+    "answer": "Add the energy requirements: 6000 + 1500 = 7500 kJ. Read the units carefully.",
+    "acceptedAnswers": [
+      "Add the energy requirements: 6000 + 1500 = 7500 kJ. Read the units carefully."
+    ],
+    "keywords": [],
+    "explanation": "Add the energy requirements: 6000 + 1500 = 7500 kJ. Read the units carefully.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_046_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What can a lack of iron cause?",
+    "answer": "Anaemia and tiredness",
+    "acceptedAnswers": [
+      "Anaemia and tiredness"
+    ],
+    "keywords": [],
+    "explanation": "Iron is needed to make haemoglobin. Too little iron can cause anaemia, reducing oxygen transport and causing tiredness.",
+    "hint": "Think about unhealthy diet.",
+    "options": [
+      "Anaemia and tiredness",
+      "Stronger oxygen transport",
+      "Extra dietary fibre",
+      "Better insulation"
+    ]
+  },
+  {
+    "id": "organisms_046_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What can a lack of iron cause?",
+    "answer": "Anaemia and tiredness",
+    "acceptedAnswers": [
+      "Anaemia and tiredness"
+    ],
+    "keywords": [],
+    "explanation": "Iron is needed to make haemoglobin. Too little iron can cause anaemia, reducing oxygen transport and causing tiredness.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_046_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cAn iron deficiency improves the blood's ability to carry oxygen.\u201d Correct the statement.",
+    "answer": "Anaemia and tiredness",
+    "acceptedAnswers": [
+      "Anaemia and tiredness"
+    ],
+    "keywords": [],
+    "explanation": "Iron is needed to make haemoglobin. Too little iron can cause anaemia, reducing oxygen transport and causing tiredness.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_046_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What can a lack of iron cause? Explain your answer.",
+    "answer": "Iron is needed to make haemoglobin. Too little iron can cause anaemia, reducing oxygen transport and causing tiredness.",
+    "acceptedAnswers": [
+      "Iron is needed to make haemoglobin. Too little iron can cause anaemia, reducing oxygen transport and causing tiredness."
+    ],
+    "keywords": [],
+    "explanation": "Iron is needed to make haemoglobin. Too little iron can cause anaemia, reducing oxygen transport and causing tiredness.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_047_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What can too little calcium affect?",
+    "answer": "Bones and teeth",
+    "acceptedAnswers": [
+      "Bones and teeth"
+    ],
+    "keywords": [],
+    "explanation": "Calcium is needed for healthy bones and teeth. Deficiency can affect their strength.",
+    "hint": "Think about unhealthy diet.",
+    "options": [
+      "Bones and teeth",
+      "Only the lungs",
+      "Only hair colour",
+      "Only the stomach's acidity"
+    ]
+  },
+  {
+    "id": "organisms_047_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What can too little calcium affect?",
+    "answer": "Bones and teeth",
+    "acceptedAnswers": [
+      "Bones and teeth"
+    ],
+    "keywords": [],
+    "explanation": "Calcium is needed for healthy bones and teeth. Deficiency can affect their strength.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_047_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cCalcium is not needed for bones or teeth.\u201d Correct the statement.",
+    "answer": "Bones and teeth",
+    "acceptedAnswers": [
+      "Bones and teeth"
+    ],
+    "keywords": [],
+    "explanation": "Calcium is needed for healthy bones and teeth. Deficiency can affect their strength.",
+    "hint": "Think about unhealthy diet."
+  },
+  {
+    "id": "organisms_047_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Unhealthy diet",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What can too little calcium affect? Explain your answer.",
+    "answer": "Calcium is needed for healthy bones and teeth. Deficiency can affect their strength.",
+    "acceptedAnswers": [
+      "Calcium is needed for healthy bones and teeth. Deficiency can affect their strength."
+    ],
+    "keywords": [],
+    "explanation": "Calcium is needed for healthy bones and teeth. Deficiency can affect their strength.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_048_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is digestion?",
+    "answer": "Breaking large food molecules into smaller soluble molecules",
+    "acceptedAnswers": [
+      "Breaking large food molecules into smaller soluble molecules"
+    ],
+    "keywords": [],
+    "explanation": "Small soluble molecules can pass through the small intestine wall and be absorbed into the blood.",
+    "hint": "Think about digestive system.",
+    "options": [
+      "Breaking large food molecules into smaller soluble molecules",
+      "Moving oxygen into the blood",
+      "Making every molecule larger",
+      "Removing only water from food"
+    ]
+  },
+  {
+    "id": "organisms_048_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is digestion?",
+    "answer": "Breaking large food molecules into smaller soluble molecules",
+    "acceptedAnswers": [
+      "Breaking large food molecules into smaller soluble molecules"
+    ],
+    "keywords": [],
+    "explanation": "Small soluble molecules can pass through the small intestine wall and be absorbed into the blood.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_048_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cDigestion makes food molecules larger so they can enter the blood.\u201d Correct the statement.",
+    "answer": "Breaking large food molecules into smaller soluble molecules",
+    "acceptedAnswers": [
+      "Breaking large food molecules into smaller soluble molecules"
+    ],
+    "keywords": [],
+    "explanation": "Small soluble molecules can pass through the small intestine wall and be absorbed into the blood.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_048_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What is digestion? Explain your answer.",
+    "answer": "Small soluble molecules can pass through the small intestine wall and be absorbed into the blood.",
+    "acceptedAnswers": [
+      "Small soluble molecules can pass through the small intestine wall and be absorbed into the blood."
+    ],
+    "keywords": [],
+    "explanation": "Small soluble molecules can pass through the small intestine wall and be absorbed into the blood.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_049_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "Which route does food take through the digestive system?",
+    "answer": "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus",
+    "acceptedAnswers": [
+      "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus"
+    ],
+    "keywords": [],
+    "explanation": "Food follows the gut. The liver and pancreas add substances to help digestion; food does not pass through them.",
+    "hint": "Think about digestive system.",
+    "options": [
+      "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus",
+      "Mouth, trachea, lungs, stomach",
+      "Mouth, liver, pancreas, anus",
+      "Stomach, oesophagus, mouth, rectum"
+    ]
+  },
+  {
+    "id": "organisms_049_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "Which route does food take through the digestive system?",
+    "answer": "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus",
+    "acceptedAnswers": [
+      "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus"
+    ],
+    "keywords": [],
+    "explanation": "Food follows the gut. The liver and pancreas add substances to help digestion; food does not pass through them.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_049_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cFood travels through the liver on its way from the stomach to the intestine.\u201d Correct the statement.",
+    "answer": "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus",
+    "acceptedAnswers": [
+      "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus"
+    ],
+    "keywords": [],
+    "explanation": "Food follows the gut. The liver and pancreas add substances to help digestion; food does not pass through them.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_049_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "Which route does food take through the digestive system? Explain your answer.",
+    "answer": "Food follows the gut. The liver and pancreas add substances to help digestion; food does not pass through them.",
+    "acceptedAnswers": [
+      "Food follows the gut. The liver and pancreas add substances to help digestion; food does not pass through them."
+    ],
+    "keywords": [],
+    "explanation": "Food follows the gut. The liver and pancreas add substances to help digestion; food does not pass through them.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_050_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What happens to food in the mouth?",
+    "answer": "Chewing breaks it up and saliva begins starch digestion",
+    "acceptedAnswers": [
+      "Chewing breaks it up and saliva begins starch digestion"
+    ],
+    "keywords": [],
+    "explanation": "Chewing breaks food into smaller pieces. Saliva contains amylase, which begins breaking starch into sugars.",
+    "hint": "Think about digestive system.",
+    "options": [
+      "Chewing breaks it up and saliva begins starch digestion",
+      "All protein digestion is completed",
+      "All nutrients enter the blood",
+      "Water is removed to make faeces"
+    ]
+  },
+  {
+    "id": "organisms_050_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What happens to food in the mouth?",
+    "answer": "Chewing breaks it up and saliva begins starch digestion",
+    "acceptedAnswers": [
+      "Chewing breaks it up and saliva begins starch digestion"
+    ],
+    "keywords": [],
+    "explanation": "Chewing breaks food into smaller pieces. Saliva contains amylase, which begins breaking starch into sugars.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_050_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cSaliva begins digestion by breaking proteins into amino acids.\u201d Correct the statement.",
+    "answer": "Chewing breaks it up and saliva begins starch digestion",
+    "acceptedAnswers": [
+      "Chewing breaks it up and saliva begins starch digestion"
+    ],
+    "keywords": [],
+    "explanation": "Chewing breaks food into smaller pieces. Saliva contains amylase, which begins breaking starch into sugars.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_050_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What happens to food in the mouth? Explain your answer.",
+    "answer": "Chewing breaks food into smaller pieces. Saliva contains amylase, which begins breaking starch into sugars.",
+    "acceptedAnswers": [
+      "Chewing breaks food into smaller pieces. Saliva contains amylase, which begins breaking starch into sugars."
+    ],
+    "keywords": [],
+    "explanation": "Chewing breaks food into smaller pieces. Saliva contains amylase, which begins breaking starch into sugars.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_051_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What does the oesophagus do?",
+    "answer": "Moves food from the mouth to the stomach",
+    "acceptedAnswers": [
+      "Moves food from the mouth to the stomach"
+    ],
+    "keywords": [],
+    "explanation": "Muscle contractions move food down the oesophagus into the stomach.",
+    "hint": "Think about digestive system.",
+    "options": [
+      "Moves food from the mouth to the stomach",
+      "Exchanges gases",
+      "Absorbs all nutrients",
+      "Makes bile"
+    ]
+  },
+  {
+    "id": "organisms_051_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What does the oesophagus do?",
+    "answer": "Moves food from the mouth to the stomach",
+    "acceptedAnswers": [
+      "Moves food from the mouth to the stomach"
+    ],
+    "keywords": [],
+    "explanation": "Muscle contractions move food down the oesophagus into the stomach.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_051_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cThe oesophagus carries air to the lungs.\u201d Correct the statement.",
+    "answer": "Moves food from the mouth to the stomach",
+    "acceptedAnswers": [
+      "Moves food from the mouth to the stomach"
+    ],
+    "keywords": [],
+    "explanation": "Muscle contractions move food down the oesophagus into the stomach.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_051_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What does the oesophagus do? Explain your answer.",
+    "answer": "Muscle contractions move food down the oesophagus into the stomach.",
+    "acceptedAnswers": [
+      "Muscle contractions move food down the oesophagus into the stomach."
+    ],
+    "keywords": [],
+    "explanation": "Muscle contractions move food down the oesophagus into the stomach.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_052_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What happens in the stomach?",
+    "answer": "Food is mixed with acid and protein digestion begins",
+    "acceptedAnswers": [
+      "Food is mixed with acid and protein digestion begins"
+    ],
+    "keywords": [],
+    "explanation": "The stomach churns food. Acid kills many microorganisms and provides conditions for protein-digesting enzymes.",
+    "hint": "Think about digestive system.",
+    "options": [
+      "Food is mixed with acid and protein digestion begins",
+      "Bile is produced",
+      "All water is absorbed",
+      "Faeces are stored"
+    ]
+  },
+  {
+    "id": "organisms_052_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What happens in the stomach?",
+    "answer": "Food is mixed with acid and protein digestion begins",
+    "acceptedAnswers": [
+      "Food is mixed with acid and protein digestion begins"
+    ],
+    "keywords": [],
+    "explanation": "The stomach churns food. Acid kills many microorganisms and provides conditions for protein-digesting enzymes.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_052_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cThe stomach's main role is to store faeces.\u201d Correct the statement.",
+    "answer": "Food is mixed with acid and protein digestion begins",
+    "acceptedAnswers": [
+      "Food is mixed with acid and protein digestion begins"
+    ],
+    "keywords": [],
+    "explanation": "The stomach churns food. Acid kills many microorganisms and provides conditions for protein-digesting enzymes.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_052_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What happens in the stomach? Explain your answer.",
+    "answer": "The stomach churns food. Acid kills many microorganisms and provides conditions for protein-digesting enzymes.",
+    "acceptedAnswers": [
+      "The stomach churns food. Acid kills many microorganisms and provides conditions for protein-digesting enzymes."
+    ],
+    "keywords": [],
+    "explanation": "The stomach churns food. Acid kills many microorganisms and provides conditions for protein-digesting enzymes.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_053_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "Where are digested nutrients absorbed into the blood?",
+    "answer": "Small intestine",
+    "acceptedAnswers": [
+      "Small intestine"
+    ],
+    "keywords": [],
+    "explanation": "Digestion is completed in the small intestine and small soluble nutrients cross its wall into the blood.",
+    "hint": "Think about digestive system.",
+    "options": [
+      "Small intestine",
+      "Trachea",
+      "Rectum",
+      "Large intestine only"
+    ]
+  },
+  {
+    "id": "organisms_053_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "Where are digested nutrients absorbed into the blood?",
+    "answer": "Small intestine",
+    "acceptedAnswers": [
+      "Small intestine"
+    ],
+    "keywords": [],
+    "explanation": "Digestion is completed in the small intestine and small soluble nutrients cross its wall into the blood.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_053_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cMost digested nutrients enter the blood through the rectum.\u201d Correct the statement.",
+    "answer": "Small intestine",
+    "acceptedAnswers": [
+      "Small intestine"
+    ],
+    "keywords": [],
+    "explanation": "Digestion is completed in the small intestine and small soluble nutrients cross its wall into the blood.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_053_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "Where are digested nutrients absorbed into the blood? Explain your answer.",
+    "answer": "Digestion is completed in the small intestine and small soluble nutrients cross its wall into the blood.",
+    "acceptedAnswers": [
+      "Digestion is completed in the small intestine and small soluble nutrients cross its wall into the blood."
+    ],
+    "keywords": [],
+    "explanation": "Digestion is completed in the small intestine and small soluble nutrients cross its wall into the blood.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_054_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "How do villi help absorption?",
+    "answer": "Increase surface area with thin walls and a blood supply",
+    "acceptedAnswers": [
+      "Increase surface area with thin walls and a blood supply"
+    ],
+    "keywords": [],
+    "explanation": "Villi are tiny projections giving a large surface area. Thin walls give a short route into nearby capillaries.",
+    "hint": "Think about digestive system.",
+    "options": [
+      "Increase surface area with thin walls and a blood supply",
+      "Decrease surface area",
+      "Make the intestinal wall much thicker",
+      "Block nutrients from entering blood"
+    ]
+  },
+  {
+    "id": "organisms_054_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "How do villi help absorption?",
+    "answer": "Increase surface area with thin walls and a blood supply",
+    "acceptedAnswers": [
+      "Increase surface area with thin walls and a blood supply"
+    ],
+    "keywords": [],
+    "explanation": "Villi are tiny projections giving a large surface area. Thin walls give a short route into nearby capillaries.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_054_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cVilli reduce the area available for absorption.\u201d Correct the statement.",
+    "answer": "Increase surface area with thin walls and a blood supply",
+    "acceptedAnswers": [
+      "Increase surface area with thin walls and a blood supply"
+    ],
+    "keywords": [],
+    "explanation": "Villi are tiny projections giving a large surface area. Thin walls give a short route into nearby capillaries.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_054_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "How do villi help absorption? Explain your answer.",
+    "answer": "Villi are tiny projections giving a large surface area. Thin walls give a short route into nearby capillaries.",
+    "acceptedAnswers": [
+      "Villi are tiny projections giving a large surface area. Thin walls give a short route into nearby capillaries."
+    ],
+    "keywords": [],
+    "explanation": "Villi are tiny projections giving a large surface area. Thin walls give a short route into nearby capillaries.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_055_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What is absorbed in the large intestine?",
+    "answer": "Water",
+    "acceptedAnswers": [
+      "Water"
+    ],
+    "keywords": [],
+    "explanation": "The large intestine absorbs water from remaining undigested material, helping form faeces.",
+    "hint": "Think about digestive system.",
+    "options": [
+      "Water",
+      "Most digested proteins",
+      "Oxygen from air",
+      "Bile from the lungs"
+    ]
+  },
+  {
+    "id": "organisms_055_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is absorbed in the large intestine?",
+    "answer": "Water",
+    "acceptedAnswers": [
+      "Water"
+    ],
+    "keywords": [],
+    "explanation": "The large intestine absorbs water from remaining undigested material, helping form faeces.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_055_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cThe large intestine is where oxygen from air enters the blood.\u201d Correct the statement.",
+    "answer": "Water",
+    "acceptedAnswers": [
+      "Water"
+    ],
+    "keywords": [],
+    "explanation": "The large intestine absorbs water from remaining undigested material, helping form faeces.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_055_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What is absorbed in the large intestine? Explain your answer.",
+    "answer": "The large intestine absorbs water from remaining undigested material, helping form faeces.",
+    "acceptedAnswers": [
+      "The large intestine absorbs water from remaining undigested material, helping form faeces."
+    ],
+    "keywords": [],
+    "explanation": "The large intestine absorbs water from remaining undigested material, helping form faeces.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_056_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What do the rectum and anus do?",
+    "answer": "The rectum stores faeces; the anus lets them leave the body",
+    "acceptedAnswers": [
+      "The rectum stores faeces; the anus lets them leave the body"
+    ],
+    "keywords": [],
+    "explanation": "Faeces are stored in the rectum before passing through the muscular ring called the anus.",
+    "hint": "Think about digestive system.",
+    "options": [
+      "The rectum stores faeces; the anus lets them leave the body",
+      "Both produce bile",
+      "Both absorb all nutrients",
+      "The anus stores food before digestion"
+    ]
+  },
+  {
+    "id": "organisms_056_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What do the rectum and anus do?",
+    "answer": "The rectum stores faeces; the anus lets them leave the body",
+    "acceptedAnswers": [
+      "The rectum stores faeces; the anus lets them leave the body"
+    ],
+    "keywords": [],
+    "explanation": "Faeces are stored in the rectum before passing through the muscular ring called the anus.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_056_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cThe rectum makes digestive enzymes and the anus absorbs nutrients.\u201d Correct the statement.",
+    "answer": "The rectum stores faeces; the anus lets them leave the body",
+    "acceptedAnswers": [
+      "The rectum stores faeces; the anus lets them leave the body"
+    ],
+    "keywords": [],
+    "explanation": "Faeces are stored in the rectum before passing through the muscular ring called the anus.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_056_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What do the rectum and anus do? Explain your answer.",
+    "answer": "Faeces are stored in the rectum before passing through the muscular ring called the anus.",
+    "acceptedAnswers": [
+      "Faeces are stored in the rectum before passing through the muscular ring called the anus."
+    ],
+    "keywords": [],
+    "explanation": "Faeces are stored in the rectum before passing through the muscular ring called the anus.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_057_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "Which organ produces bile?",
+    "answer": "Liver",
+    "acceptedAnswers": [
+      "Liver"
+    ],
+    "keywords": [],
+    "explanation": "The liver produces bile. Bile breaks fat into small droplets, increasing the surface area for lipase; it is not an enzyme.",
+    "hint": "Think about digestive system.",
+    "options": [
+      "Liver",
+      "Stomach",
+      "Lungs",
+      "Oesophagus"
+    ]
+  },
+  {
+    "id": "organisms_057_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "Which organ produces bile?",
+    "answer": "Liver",
+    "acceptedAnswers": [
+      "Liver"
+    ],
+    "keywords": [],
+    "explanation": "The liver produces bile. Bile breaks fat into small droplets, increasing the surface area for lipase; it is not an enzyme.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_057_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cBile is an enzyme produced by the stomach.\u201d Correct the statement.",
+    "answer": "Liver",
+    "acceptedAnswers": [
+      "Liver"
+    ],
+    "keywords": [],
+    "explanation": "The liver produces bile. Bile breaks fat into small droplets, increasing the surface area for lipase; it is not an enzyme.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_057_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "Which organ produces bile? Explain your answer.",
+    "answer": "The liver produces bile. Bile breaks fat into small droplets, increasing the surface area for lipase; it is not an enzyme.",
+    "acceptedAnswers": [
+      "The liver produces bile. Bile breaks fat into small droplets, increasing the surface area for lipase; it is not an enzyme."
+    ],
+    "keywords": [],
+    "explanation": "The liver produces bile. Bile breaks fat into small droplets, increasing the surface area for lipase; it is not an enzyme.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_058_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What does the pancreas add to the small intestine?",
+    "answer": "Digestive juice containing enzymes",
+    "acceptedAnswers": [
+      "Digestive juice containing enzymes"
+    ],
+    "keywords": [],
+    "explanation": "The pancreas makes digestive juice containing enzymes, which is released into the small intestine.",
+    "hint": "Think about digestive system.",
+    "options": [
+      "Digestive juice containing enzymes",
+      "Air",
+      "Faeces",
+      "Tobacco smoke"
+    ]
+  },
+  {
+    "id": "organisms_058_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does the pancreas add to the small intestine?",
+    "answer": "Digestive juice containing enzymes",
+    "acceptedAnswers": [
+      "Digestive juice containing enzymes"
+    ],
+    "keywords": [],
+    "explanation": "The pancreas makes digestive juice containing enzymes, which is released into the small intestine.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_058_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cFood must pass through the pancreas before reaching the small intestine.\u201d Correct the statement.",
+    "answer": "Digestive juice containing enzymes",
+    "acceptedAnswers": [
+      "Digestive juice containing enzymes"
+    ],
+    "keywords": [],
+    "explanation": "The pancreas makes digestive juice containing enzymes, which is released into the small intestine.",
+    "hint": "Think about digestive system."
+  },
+  {
+    "id": "organisms_058_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Digestive system",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What does the pancreas add to the small intestine? Explain your answer.",
+    "answer": "The pancreas makes digestive juice containing enzymes, which is released into the small intestine.",
+    "acceptedAnswers": [
+      "The pancreas makes digestive juice containing enzymes, which is released into the small intestine."
+    ],
+    "keywords": [],
+    "explanation": "The pancreas makes digestive juice containing enzymes, which is released into the small intestine.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_059_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is an enzyme?",
+    "answer": "A biological catalyst that speeds up chemical reactions",
+    "acceptedAnswers": [
+      "A biological catalyst that speeds up chemical reactions"
+    ],
+    "keywords": [],
+    "explanation": "Digestive enzymes speed up the breakdown of large food molecules. Catalysts are not used up by the reaction.",
+    "hint": "Think about bacteria and enzymes.",
+    "options": [
+      "A biological catalyst that speeds up chemical reactions",
+      "A substance that stops all reactions",
+      "An organ that stores faeces",
+      "A type of dietary fibre"
+    ]
+  },
+  {
+    "id": "organisms_059_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What is an enzyme?",
+    "answer": "A biological catalyst that speeds up chemical reactions",
+    "acceptedAnswers": [
+      "A biological catalyst that speeds up chemical reactions"
+    ],
+    "keywords": [],
+    "explanation": "Digestive enzymes speed up the breakdown of large food molecules. Catalysts are not used up by the reaction.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_059_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cEnzymes are used up completely after one reaction.\u201d Correct the statement.",
+    "answer": "A biological catalyst that speeds up chemical reactions",
+    "acceptedAnswers": [
+      "A biological catalyst that speeds up chemical reactions"
+    ],
+    "keywords": [],
+    "explanation": "Digestive enzymes speed up the breakdown of large food molecules. Catalysts are not used up by the reaction.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_059_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What is an enzyme? Explain your answer.",
+    "answer": "Digestive enzymes speed up the breakdown of large food molecules. Catalysts are not used up by the reaction.",
+    "acceptedAnswers": [
+      "Digestive enzymes speed up the breakdown of large food molecules. Catalysts are not used up by the reaction."
+    ],
+    "keywords": [],
+    "explanation": "Digestive enzymes speed up the breakdown of large food molecules. Catalysts are not used up by the reaction.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_060_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What does amylase break down?",
+    "answer": "Starch into sugars",
+    "acceptedAnswers": [
+      "Starch into sugars"
+    ],
+    "keywords": [],
+    "explanation": "Amylase is a carbohydrase: it breaks starch down into smaller sugar molecules.",
+    "hint": "Think about bacteria and enzymes.",
+    "options": [
+      "Starch into sugars",
+      "Protein into amino acids",
+      "Lipids into fatty acids and glycerol",
+      "Fibre into oxygen"
+    ]
+  },
+  {
+    "id": "organisms_060_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What does amylase break down?",
+    "answer": "Starch into sugars",
+    "acceptedAnswers": [
+      "Starch into sugars"
+    ],
+    "keywords": [],
+    "explanation": "Amylase is a carbohydrase: it breaks starch down into smaller sugar molecules.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_060_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cAmylase breaks down lipids into fatty acids and glycerol.\u201d Correct the statement.",
+    "answer": "Starch into sugars",
+    "acceptedAnswers": [
+      "Starch into sugars"
+    ],
+    "keywords": [],
+    "explanation": "Amylase is a carbohydrase: it breaks starch down into smaller sugar molecules.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_060_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What does amylase break down? Explain your answer.",
+    "answer": "Amylase is a carbohydrase: it breaks starch down into smaller sugar molecules.",
+    "acceptedAnswers": [
+      "Amylase is a carbohydrase: it breaks starch down into smaller sugar molecules."
+    ],
+    "keywords": [],
+    "explanation": "Amylase is a carbohydrase: it breaks starch down into smaller sugar molecules.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_061_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What does protease break down?",
+    "answer": "Proteins into amino acids",
+    "acceptedAnswers": [
+      "Proteins into amino acids"
+    ],
+    "keywords": [],
+    "explanation": "Proteases break protein molecules down into amino acids small enough to be absorbed.",
+    "hint": "Think about bacteria and enzymes.",
+    "options": [
+      "Proteins into amino acids",
+      "Starch into sugars",
+      "Lipids into glycerol",
+      "Water into protein"
+    ]
+  },
+  {
+    "id": "organisms_061_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "What does protease break down?",
+    "answer": "Proteins into amino acids",
+    "acceptedAnswers": [
+      "Proteins into amino acids"
+    ],
+    "keywords": [],
+    "explanation": "Proteases break protein molecules down into amino acids small enough to be absorbed.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_061_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cProtease breaks starch down into sugars.\u201d Correct the statement.",
+    "answer": "Proteins into amino acids",
+    "acceptedAnswers": [
+      "Proteins into amino acids"
+    ],
+    "keywords": [],
+    "explanation": "Proteases break protein molecules down into amino acids small enough to be absorbed.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_061_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "What does protease break down? Explain your answer.",
+    "answer": "Proteases break protein molecules down into amino acids small enough to be absorbed.",
+    "acceptedAnswers": [
+      "Proteases break protein molecules down into amino acids small enough to be absorbed."
+    ],
+    "keywords": [],
+    "explanation": "Proteases break protein molecules down into amino acids small enough to be absorbed.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_062_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What does lipase break down?",
+    "answer": "Lipids into fatty acids and glycerol",
+    "acceptedAnswers": [
+      "Lipids into fatty acids and glycerol"
+    ],
+    "keywords": [],
+    "explanation": "Lipase breaks fats and oils down into fatty acids and glycerol.",
+    "hint": "Think about bacteria and enzymes.",
+    "options": [
+      "Lipids into fatty acids and glycerol",
+      "Proteins into amino acids",
+      "Starch into sugars",
+      "Minerals into vitamins"
+    ]
+  },
+  {
+    "id": "organisms_062_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What does lipase break down?",
+    "answer": "Lipids into fatty acids and glycerol",
+    "acceptedAnswers": [
+      "Lipids into fatty acids and glycerol"
+    ],
+    "keywords": [],
+    "explanation": "Lipase breaks fats and oils down into fatty acids and glycerol.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_062_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cLipase breaks protein into amino acids.\u201d Correct the statement.",
+    "answer": "Lipids into fatty acids and glycerol",
+    "acceptedAnswers": [
+      "Lipids into fatty acids and glycerol"
+    ],
+    "keywords": [],
+    "explanation": "Lipase breaks fats and oils down into fatty acids and glycerol.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_062_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What does lipase break down? Explain your answer.",
+    "answer": "Lipase breaks fats and oils down into fatty acids and glycerol.",
+    "acceptedAnswers": [
+      "Lipase breaks fats and oils down into fatty acids and glycerol."
+    ],
+    "keywords": [],
+    "explanation": "Lipase breaks fats and oils down into fatty acids and glycerol.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_063_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Why are different digestive enzymes needed?",
+    "answer": "Each type acts on a particular type of nutrient",
+    "acceptedAnswers": [
+      "Each type acts on a particular type of nutrient"
+    ],
+    "keywords": [],
+    "explanation": "Different enzymes break down different nutrients. You do not need active site, substrate or lock-and-key terminology for this test.",
+    "hint": "Think about bacteria and enzymes.",
+    "options": [
+      "Each type acts on a particular type of nutrient",
+      "One enzyme digests every nutrient",
+      "Enzymes only digest water",
+      "Each enzyme changes into a different organ"
+    ]
+  },
+  {
+    "id": "organisms_063_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "Why are different digestive enzymes needed?",
+    "answer": "Each type acts on a particular type of nutrient",
+    "acceptedAnswers": [
+      "Each type acts on a particular type of nutrient"
+    ],
+    "keywords": [],
+    "explanation": "Different enzymes break down different nutrients. You do not need active site, substrate or lock-and-key terminology for this test.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_063_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cEvery digestive enzyme can break down every type of nutrient.\u201d Correct the statement.",
+    "answer": "Each type acts on a particular type of nutrient",
+    "acceptedAnswers": [
+      "Each type acts on a particular type of nutrient"
+    ],
+    "keywords": [],
+    "explanation": "Different enzymes break down different nutrients. You do not need active site, substrate or lock-and-key terminology for this test.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_063_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "Why are different digestive enzymes needed? Explain your answer.",
+    "answer": "Different enzymes break down different nutrients. You do not need active site, substrate or lock-and-key terminology for this test.",
+    "acceptedAnswers": [
+      "Different enzymes break down different nutrients. You do not need active site, substrate or lock-and-key terminology for this test."
+    ],
+    "keywords": [],
+    "explanation": "Different enzymes break down different nutrients. You do not need active site, substrate or lock-and-key terminology for this test.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_064_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "question": "What is one role of gut bacteria?",
+    "answer": "Help break down some food and produce some vitamins",
+    "acceptedAnswers": [
+      "Help break down some food and produce some vitamins"
+    ],
+    "keywords": [],
+    "explanation": "Bacteria naturally live in the gut, particularly the large intestine. Some help break down material and make vitamins; not all bacteria are harmful.",
+    "hint": "Think about bacteria and enzymes.",
+    "options": [
+      "Help break down some food and produce some vitamins",
+      "Replace all human enzymes",
+      "Turn oxygen into bones",
+      "Prevent all digestion"
+    ]
+  },
+  {
+    "id": "organisms_064_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "medium",
+    "type": "recall",
+    "question": "What is one role of gut bacteria?",
+    "answer": "Help break down some food and produce some vitamins",
+    "acceptedAnswers": [
+      "Help break down some food and produce some vitamins"
+    ],
+    "keywords": [],
+    "explanation": "Bacteria naturally live in the gut, particularly the large intestine. Some help break down material and make vitamins; not all bacteria are harmful.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_064_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "medium",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cAll bacteria living in the intestine are harmful.\u201d Correct the statement.",
+    "answer": "Help break down some food and produce some vitamins",
+    "acceptedAnswers": [
+      "Help break down some food and produce some vitamins"
+    ],
+    "keywords": [],
+    "explanation": "Bacteria naturally live in the gut, particularly the large intestine. Some help break down material and make vitamins; not all bacteria are harmful.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_064_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "challenge",
+    "type": "explain",
+    "question": "What is one role of gut bacteria? Explain your answer.",
+    "answer": "Bacteria naturally live in the gut, particularly the large intestine. Some help break down material and make vitamins; not all bacteria are harmful.",
+    "acceptedAnswers": [
+      "Bacteria naturally live in the gut, particularly the large intestine. Some help break down material and make vitamins; not all bacteria are harmful."
+    ],
+    "keywords": [],
+    "explanation": "Bacteria naturally live in the gut, particularly the large intestine. Some help break down material and make vitamins; not all bacteria are harmful.",
+    "hint": "Give the answer, then explain how or why."
+  },
+  {
+    "id": "organisms_065_multiple-choice",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "Why must a meal be broken into small soluble molecules?",
+    "answer": "So nutrients can cross the intestine wall and enter the blood",
+    "acceptedAnswers": [
+      "So nutrients can cross the intestine wall and enter the blood"
+    ],
+    "keywords": [],
+    "explanation": "Chewing and mixing break food up physically; enzymes digest large molecules chemically. Small soluble products are absorbed through the small intestine wall.",
+    "hint": "Think about bacteria and enzymes.",
+    "options": [
+      "So nutrients can cross the intestine wall and enter the blood",
+      "So nutrients remain permanently in the stomach",
+      "So the body can breathe them out",
+      "So they become too large to absorb"
+    ]
+  },
+  {
+    "id": "organisms_065_recall",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "recall",
+    "question": "Why must a meal be broken into small soluble molecules?",
+    "answer": "So nutrients can cross the intestine wall and enter the blood",
+    "acceptedAnswers": [
+      "So nutrients can cross the intestine wall and enter the blood"
+    ],
+    "keywords": [],
+    "explanation": "Chewing and mixing break food up physically; enzymes digest large molecules chemically. Small soluble products are absorbed through the small intestine wall.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_065_spot-the-mistake",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "spot-the-mistake",
+    "question": "Spot the mistake: \u201cLarge insoluble food molecules pass straight into the blood without digestion.\u201d Correct the statement.",
+    "answer": "So nutrients can cross the intestine wall and enter the blood",
+    "acceptedAnswers": [
+      "So nutrients can cross the intestine wall and enter the blood"
+    ],
+    "keywords": [],
+    "explanation": "Chewing and mixing break food up physically; enzymes digest large molecules chemically. Small soluble products are absorbed through the small intestine wall.",
+    "hint": "Think about bacteria and enzymes."
+  },
+  {
+    "id": "organisms_065_explain",
+    "topic": "Year 8 Organisms",
+    "subtopic": "Bacteria and enzymes",
+    "difficulty": "easy",
+    "type": "explain",
+    "question": "Why must a meal be broken into small soluble molecules? Explain your answer.",
+    "answer": "Chewing and mixing break food up physically; enzymes digest large molecules chemically. Small soluble products are absorbed through the small intestine wall.",
+    "acceptedAnswers": [
+      "Chewing and mixing break food up physically; enzymes digest large molecules chemically. Small soluble products are absorbed through the small intestine wall."
+    ],
+    "keywords": [],
+    "explanation": "Chewing and mixing break food up physically; enzymes digest large molecules chemically. Small soluble products are absorbed through the small intestine wall.",
+    "hint": "Give the answer, then explain how or why."
+  }
+]

@@ -1,0 +1,859 @@
+{
+  "title": "Year 8 Organisms",
+  "sections": [
+    "Gas exchange",
+    "Breathing",
+    "Drugs",
+    "Alcohol",
+    "Smoking",
+    "Nutrients",
+    "Food tests",
+    "Unhealthy diet",
+    "Digestive system",
+    "Bacteria and enzymes"
+  ],
+  "notes": [
+    {
+      "id": "organisms_001",
+      "subtopic": "Gas exchange",
+      "question": "What is the job of the gas exchange system?",
+      "answer": "Take oxygen into the blood and remove carbon dioxide",
+      "explanation": "Oxygen moves from the air into the blood; carbon dioxide moves from the blood into the air in the alveoli."
+    },
+    {
+      "id": "organisms_002",
+      "subtopic": "Gas exchange",
+      "question": "Where does gas exchange take place in the lungs?",
+      "answer": "Alveoli",
+      "explanation": "Alveoli are tiny air sacs at the ends of bronchioles, surrounded by blood capillaries."
+    },
+    {
+      "id": "organisms_003",
+      "subtopic": "Gas exchange",
+      "question": "Which route does air take after entering the nose or mouth?",
+      "answer": "Trachea, bronchi, bronchioles, alveoli",
+      "explanation": "The trachea divides into two bronchi; these branch into bronchioles ending in alveoli."
+    },
+    {
+      "id": "organisms_004",
+      "subtopic": "Gas exchange",
+      "question": "Which features help alveoli exchange gases quickly?",
+      "answer": "Large surface area, thin walls and a good blood supply",
+      "explanation": "Many alveoli provide a large surface area; thin walls give a short diffusion distance, and blood flow maintains a difference in gas concentrations."
+    },
+    {
+      "id": "organisms_005",
+      "subtopic": "Gas exchange",
+      "question": "How does exhaled air compare with inhaled air?",
+      "answer": "Less oxygen and more carbon dioxide",
+      "explanation": "Cells use oxygen and produce carbon dioxide during respiration. Exhaled air still contains oxygen."
+    },
+    {
+      "id": "organisms_006",
+      "subtopic": "Gas exchange",
+      "question": "What is aerobic respiration?",
+      "answer": "Glucose reacts with oxygen to release energy, producing carbon dioxide and water",
+      "explanation": "Respiration is a chemical process in cells: glucose + oxygen \u2192 carbon dioxide + water, releasing energy. Breathing moves air."
+    },
+    {
+      "id": "organisms_007",
+      "subtopic": "Breathing",
+      "question": "What happens to the diaphragm when you inhale?",
+      "answer": "It contracts and flattens",
+      "explanation": "The diaphragm contracts and flattens, increasing the volume of the chest."
+    },
+    {
+      "id": "organisms_008",
+      "subtopic": "Breathing",
+      "question": "What happens to the ribs during inhalation?",
+      "answer": "They move up and out",
+      "explanation": "The intercostal muscles between the ribs contract, moving the ribs up and out and increasing chest volume."
+    },
+    {
+      "id": "organisms_009",
+      "subtopic": "Breathing",
+      "question": "Why does air enter the lungs during inhalation?",
+      "answer": "Chest volume increases, lowering pressure inside",
+      "explanation": "Increasing chest volume lowers pressure, so air moves from higher pressure outside to lower pressure inside."
+    },
+    {
+      "id": "organisms_010",
+      "subtopic": "Breathing",
+      "question": "What happens during normal exhalation?",
+      "answer": "Muscles relax, chest volume decreases and pressure increases",
+      "explanation": "The diaphragm relaxes and domes upwards; ribs move down and in. Chest volume decreases and pressure increases, moving air out."
+    },
+    {
+      "id": "organisms_011",
+      "subtopic": "Breathing",
+      "question": "In a bell-jar model, what represents the diaphragm?",
+      "answer": "The rubber sheet at the bottom",
+      "explanation": "The rubber sheet represents the diaphragm; balloons represent lungs and the jar represents the chest cavity."
+    },
+    {
+      "id": "organisms_012",
+      "subtopic": "Breathing",
+      "question": "What happens when the bell-jar rubber sheet is pulled down?",
+      "answer": "The balloons inflate as pressure inside the jar decreases",
+      "explanation": "Pulling the sheet down increases the volume inside the jar and lowers pressure, drawing air into the balloons."
+    },
+    {
+      "id": "organisms_013",
+      "subtopic": "Breathing",
+      "question": "What is a limitation of the bell-jar model?",
+      "answer": "The rigid jar cannot show rib movement",
+      "explanation": "The rigid jar cannot move like ribs; the flat rubber sheet also differs from a curved muscular diaphragm."
+    },
+    {
+      "id": "organisms_014",
+      "subtopic": "Breathing",
+      "question": "Why do breathing rate and volume increase during exercise?",
+      "answer": "Muscles respire more, needing more oxygen and removing more carbon dioxide",
+      "explanation": "Working muscles require more energy from respiration. Faster, deeper breathing supplies oxygen and removes carbon dioxide."
+    },
+    {
+      "id": "organisms_015",
+      "subtopic": "Breathing",
+      "question": "How does asthma make breathing harder?",
+      "answer": "Airways become inflamed and narrow",
+      "explanation": "Inflammation and narrowing of the airways, sometimes with extra mucus, restrict airflow."
+    },
+    {
+      "id": "organisms_016",
+      "subtopic": "Drugs",
+      "question": "What is a drug?",
+      "answer": "A chemical that affects how the body works",
+      "explanation": "Drugs change how the body works. Some are medicines; others are used recreationally."
+    },
+    {
+      "id": "organisms_017",
+      "subtopic": "Drugs",
+      "question": "How do medicinal and recreational drugs differ?",
+      "answer": "Medicinal drugs treat health problems; recreational drugs are taken for enjoyment",
+      "explanation": "Medicines can help health when used correctly, but misuse can harm health. Recreational drugs are taken for enjoyment."
+    },
+    {
+      "id": "organisms_018",
+      "subtopic": "Drugs",
+      "question": "What does a stimulant do?",
+      "answer": "Speeds up activity in the nervous system",
+      "explanation": "Stimulants increase nervous system activity and can increase alertness; caffeine and nicotine are examples."
+    },
+    {
+      "id": "organisms_019",
+      "subtopic": "Drugs",
+      "question": "What are addiction and withdrawal?",
+      "answer": "Feeling a need for a drug, with unpleasant symptoms when stopping it",
+      "explanation": "Addiction involves a need to keep taking a drug. Withdrawal symptoms can occur when someone who is dependent stops taking it."
+    },
+    {
+      "id": "organisms_020",
+      "subtopic": "Alcohol",
+      "question": "What kind of drug is ethanol?",
+      "answer": "A depressant",
+      "explanation": "Ethanol is the alcohol in alcoholic drinks. It slows nervous system activity; feeling less inhibited does not make it a stimulant."
+    },
+    {
+      "id": "organisms_021",
+      "subtopic": "Alcohol",
+      "question": "How can alcohol affect behaviour?",
+      "answer": "Slower reactions, poorer judgement and reduced coordination",
+      "explanation": "Alcohol affects the nervous system, making reactions slower and judgement and coordination worse."
+    },
+    {
+      "id": "organisms_022",
+      "subtopic": "Alcohol",
+      "question": "What can long-term heavy drinking damage?",
+      "answer": "The liver",
+      "explanation": "The liver processes alcohol. Long-term heavy drinking can damage it and can lead to addiction."
+    },
+    {
+      "id": "organisms_023",
+      "subtopic": "Alcohol",
+      "question": "How can alcohol affect conception and pregnancy?",
+      "answer": "It can reduce fertility and harm a developing baby",
+      "explanation": "Alcohol can reduce fertility. During pregnancy it can cross the placenta and harm the developing baby's growth and brain."
+    },
+    {
+      "id": "organisms_024",
+      "subtopic": "Smoking",
+      "question": "Which substance in tobacco causes addiction?",
+      "answer": "Nicotine",
+      "explanation": "Nicotine is an addictive stimulant found in tobacco smoke."
+    },
+    {
+      "id": "organisms_025",
+      "subtopic": "Smoking",
+      "question": "How does tar damage the gas exchange system?",
+      "answer": "Damages cilia and lungs and increases cancer risk",
+      "explanation": "Tar damages cilia that normally move mucus out of airways. Mucus builds up; smoking can damage alveoli and cause lung cancer."
+    },
+    {
+      "id": "organisms_026",
+      "subtopic": "Smoking",
+      "question": "Why is carbon monoxide in smoke harmful?",
+      "answer": "It reduces the oxygen that blood can carry",
+      "explanation": "Carbon monoxide binds to haemoglobin in red blood cells, reducing oxygen transport. Less oxygen reaches body cells."
+    },
+    {
+      "id": "organisms_027",
+      "subtopic": "Smoking",
+      "question": "What is passive smoking?",
+      "answer": "Breathing in someone else's tobacco smoke",
+      "explanation": "Other people's tobacco smoke contains harmful substances too, so passive smoking can damage health."
+    },
+    {
+      "id": "organisms_028",
+      "subtopic": "Nutrients",
+      "question": "What is the main role of carbohydrates?",
+      "answer": "Provide energy",
+      "explanation": "Carbohydrates include sugars and starch. They are the body's main dietary source of energy."
+    },
+    {
+      "id": "organisms_029",
+      "subtopic": "Nutrients",
+      "question": "What is the main role of protein?",
+      "answer": "Growth and repair of tissues",
+      "explanation": "Proteins help build and repair cells and tissues. Meat, eggs, beans and dairy products are sources."
+    },
+    {
+      "id": "organisms_030",
+      "subtopic": "Nutrients",
+      "question": "What do lipids provide?",
+      "answer": "Stored energy and insulation",
+      "explanation": "Lipids are fats and oils. They supply energy, provide an energy store and help insulate the body."
+    },
+    {
+      "id": "organisms_031",
+      "subtopic": "Nutrients",
+      "question": "Why are vitamins and minerals needed?",
+      "answer": "Small amounts help keep the body healthy",
+      "explanation": "Different vitamins and minerals have different roles; a varied diet helps supply them in the amounts needed."
+    },
+    {
+      "id": "organisms_032",
+      "subtopic": "Nutrients",
+      "question": "What does dietary fibre do?",
+      "answer": "Adds bulk and helps food move through the gut",
+      "explanation": "Fibre is mostly indigestible plant material. It helps keep waste moving and reduces constipation."
+    },
+    {
+      "id": "organisms_033",
+      "subtopic": "Nutrients",
+      "question": "Why does the body need water?",
+      "answer": "For cells, body fluids and chemical reactions",
+      "explanation": "Water is needed in cells and body fluids and helps transport substances and support chemical reactions."
+    },
+    {
+      "id": "organisms_034",
+      "subtopic": "Nutrients",
+      "question": "What does a balanced diet mean?",
+      "answer": "The right amounts of different nutrients for a person's needs",
+      "explanation": "A balanced diet includes appropriate carbohydrates, lipids, proteins, vitamins, minerals, water and fibre."
+    },
+    {
+      "id": "organisms_035",
+      "subtopic": "Nutrients",
+      "question": "Which snack supplies more protein: 3 g or 9 g per equal-sized serving?",
+      "answer": "The snack with 9 g",
+      "explanation": "Compare the same serving size or values per 100 g; 9 g is more protein than 3 g."
+    },
+    {
+      "id": "organisms_036",
+      "subtopic": "Food tests",
+      "question": "What is the positive result for the starch test with iodine?",
+      "answer": "Orange-brown turns blue-black",
+      "explanation": "Add iodine solution to the food sample. A blue-black colour shows starch; without starch iodine stays orange-brown."
+    },
+    {
+      "id": "organisms_037",
+      "subtopic": "Food tests",
+      "question": "How do you test for reducing sugars?",
+      "answer": "Add Benedict's solution and heat in a hot water bath",
+      "explanation": "Benedict's solution starts blue. Heating a sample containing reducing sugars gives green, yellow, orange or brick-red depending on the amount."
+    },
+    {
+      "id": "organisms_038",
+      "subtopic": "Food tests",
+      "question": "What is a positive Benedict's test result?",
+      "answer": "Blue changes to green, yellow, orange or brick-red after heating",
+      "explanation": "A colour change after heating indicates reducing sugars. If it stays blue, the test is negative."
+    },
+    {
+      "id": "organisms_039",
+      "subtopic": "Food tests",
+      "question": "What is the positive result for a protein test using Biuret reagent?",
+      "answer": "Blue turns lilac or purple",
+      "explanation": "Biuret reagent turns lilac or purple when protein is present."
+    },
+    {
+      "id": "organisms_040",
+      "subtopic": "Food tests",
+      "question": "What is the positive result for the ethanol emulsion test for lipids?",
+      "answer": "A cloudy white emulsion after adding water",
+      "explanation": "Shake the sample with ethanol, then add water. Lipids cause a cloudy white emulsion. Ethanol is flammable; this is a supervised school practical."
+    },
+    {
+      "id": "organisms_041",
+      "subtopic": "Unhealthy diet",
+      "question": "What does malnourishment mean?",
+      "answer": "Getting the wrong amounts or types of nutrients",
+      "explanation": "Malnourishment includes deficiencies and excesses. A person can be overweight and still lack essential nutrients."
+    },
+    {
+      "id": "organisms_042",
+      "subtopic": "Unhealthy diet",
+      "question": "What happens if energy intake stays above energy use?",
+      "answer": "Surplus energy is stored and body mass can increase",
+      "explanation": "Repeatedly taking in more energy than the body uses can lead to weight gain; energy is used in respiration for activity and other body functions."
+    },
+    {
+      "id": "organisms_043",
+      "subtopic": "Unhealthy diet",
+      "question": "Who generally needs more energy: an active teenager or an inactive adult of similar size?",
+      "answer": "The active teenager",
+      "explanation": "Energy needs vary with activity, body size and growth. Growing and active people generally need more energy."
+    },
+    {
+      "id": "organisms_044",
+      "subtopic": "Unhealthy diet",
+      "question": "A person needs 8500 kJ and eats 9200 kJ. What is the energy surplus?",
+      "answer": "700 kJ",
+      "explanation": "Surplus = intake \u2212 requirement = 9200 \u2212 8500 = 700 kJ."
+    },
+    {
+      "id": "organisms_045",
+      "subtopic": "Unhealthy diet",
+      "question": "Activities use 6000 kJ and growth needs 1500 kJ. What is the total requirement?",
+      "answer": "7500 kJ",
+      "explanation": "Add the energy requirements: 6000 + 1500 = 7500 kJ. Read the units carefully."
+    },
+    {
+      "id": "organisms_046",
+      "subtopic": "Unhealthy diet",
+      "question": "What can a lack of iron cause?",
+      "answer": "Anaemia and tiredness",
+      "explanation": "Iron is needed to make haemoglobin. Too little iron can cause anaemia, reducing oxygen transport and causing tiredness."
+    },
+    {
+      "id": "organisms_047",
+      "subtopic": "Unhealthy diet",
+      "question": "What can too little calcium affect?",
+      "answer": "Bones and teeth",
+      "explanation": "Calcium is needed for healthy bones and teeth. Deficiency can affect their strength."
+    },
+    {
+      "id": "organisms_048",
+      "subtopic": "Digestive system",
+      "question": "What is digestion?",
+      "answer": "Breaking large food molecules into smaller soluble molecules",
+      "explanation": "Small soluble molecules can pass through the small intestine wall and be absorbed into the blood."
+    },
+    {
+      "id": "organisms_049",
+      "subtopic": "Digestive system",
+      "question": "Which route does food take through the digestive system?",
+      "answer": "Mouth, oesophagus, stomach, small intestine, large intestine, rectum, anus",
+      "explanation": "Food follows the gut. The liver and pancreas add substances to help digestion; food does not pass through them."
+    },
+    {
+      "id": "organisms_050",
+      "subtopic": "Digestive system",
+      "question": "What happens to food in the mouth?",
+      "answer": "Chewing breaks it up and saliva begins starch digestion",
+      "explanation": "Chewing breaks food into smaller pieces. Saliva contains amylase, which begins breaking starch into sugars."
+    },
+    {
+      "id": "organisms_051",
+      "subtopic": "Digestive system",
+      "question": "What does the oesophagus do?",
+      "answer": "Moves food from the mouth to the stomach",
+      "explanation": "Muscle contractions move food down the oesophagus into the stomach."
+    },
+    {
+      "id": "organisms_052",
+      "subtopic": "Digestive system",
+      "question": "What happens in the stomach?",
+      "answer": "Food is mixed with acid and protein digestion begins",
+      "explanation": "The stomach churns food. Acid kills many microorganisms and provides conditions for protein-digesting enzymes."
+    },
+    {
+      "id": "organisms_053",
+      "subtopic": "Digestive system",
+      "question": "Where are digested nutrients absorbed into the blood?",
+      "answer": "Small intestine",
+      "explanation": "Digestion is completed in the small intestine and small soluble nutrients cross its wall into the blood."
+    },
+    {
+      "id": "organisms_054",
+      "subtopic": "Digestive system",
+      "question": "How do villi help absorption?",
+      "answer": "Increase surface area with thin walls and a blood supply",
+      "explanation": "Villi are tiny projections giving a large surface area. Thin walls give a short route into nearby capillaries."
+    },
+    {
+      "id": "organisms_055",
+      "subtopic": "Digestive system",
+      "question": "What is absorbed in the large intestine?",
+      "answer": "Water",
+      "explanation": "The large intestine absorbs water from remaining undigested material, helping form faeces."
+    },
+    {
+      "id": "organisms_056",
+      "subtopic": "Digestive system",
+      "question": "What do the rectum and anus do?",
+      "answer": "The rectum stores faeces; the anus lets them leave the body",
+      "explanation": "Faeces are stored in the rectum before passing through the muscular ring called the anus."
+    },
+    {
+      "id": "organisms_057",
+      "subtopic": "Digestive system",
+      "question": "Which organ produces bile?",
+      "answer": "Liver",
+      "explanation": "The liver produces bile. Bile breaks fat into small droplets, increasing the surface area for lipase; it is not an enzyme."
+    },
+    {
+      "id": "organisms_058",
+      "subtopic": "Digestive system",
+      "question": "What does the pancreas add to the small intestine?",
+      "answer": "Digestive juice containing enzymes",
+      "explanation": "The pancreas makes digestive juice containing enzymes, which is released into the small intestine."
+    },
+    {
+      "id": "organisms_059",
+      "subtopic": "Bacteria and enzymes",
+      "question": "What is an enzyme?",
+      "answer": "A biological catalyst that speeds up chemical reactions",
+      "explanation": "Digestive enzymes speed up the breakdown of large food molecules. Catalysts are not used up by the reaction."
+    },
+    {
+      "id": "organisms_060",
+      "subtopic": "Bacteria and enzymes",
+      "question": "What does amylase break down?",
+      "answer": "Starch into sugars",
+      "explanation": "Amylase is a carbohydrase: it breaks starch down into smaller sugar molecules."
+    },
+    {
+      "id": "organisms_061",
+      "subtopic": "Bacteria and enzymes",
+      "question": "What does protease break down?",
+      "answer": "Proteins into amino acids",
+      "explanation": "Proteases break protein molecules down into amino acids small enough to be absorbed."
+    },
+    {
+      "id": "organisms_062",
+      "subtopic": "Bacteria and enzymes",
+      "question": "What does lipase break down?",
+      "answer": "Lipids into fatty acids and glycerol",
+      "explanation": "Lipase breaks fats and oils down into fatty acids and glycerol."
+    },
+    {
+      "id": "organisms_063",
+      "subtopic": "Bacteria and enzymes",
+      "question": "Why are different digestive enzymes needed?",
+      "answer": "Each type acts on a particular type of nutrient",
+      "explanation": "Different enzymes break down different nutrients. You do not need active site, substrate or lock-and-key terminology for this test."
+    },
+    {
+      "id": "organisms_064",
+      "subtopic": "Bacteria and enzymes",
+      "question": "What is one role of gut bacteria?",
+      "answer": "Help break down some food and produce some vitamins",
+      "explanation": "Bacteria naturally live in the gut, particularly the large intestine. Some help break down material and make vitamins; not all bacteria are harmful."
+    },
+    {
+      "id": "organisms_065",
+      "subtopic": "Bacteria and enzymes",
+      "question": "Why must a meal be broken into small soluble molecules?",
+      "answer": "So nutrients can cross the intestine wall and enter the blood",
+      "explanation": "Chewing and mixing break food up physically; enzymes digest large molecules chemically. Small soluble products are absorbed through the small intestine wall."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "org-objective-1",
+      "area": "Gas Exchange",
+      "objective": "Describe the function of the gas exchange system"
+    },
+    {
+      "id": "org-objective-2",
+      "area": "Gas Exchange",
+      "objective": "Explain how parts of the gas exchange system are adapted to their function"
+    },
+    {
+      "id": "org-objective-3",
+      "area": "Gas Exchange",
+      "objective": "Explain why your breathing rate and volume can change"
+    },
+    {
+      "id": "org-objective-4",
+      "area": "Breathing",
+      "objective": "Describe the process of inhaling and exhaling"
+    },
+    {
+      "id": "org-objective-5",
+      "area": "Breathing",
+      "objective": "Explain what happens during breathing using the bell-jar model"
+    },
+    {
+      "id": "org-objective-6",
+      "area": "Breathing",
+      "objective": "Explain how exercise, smoking, and asthma affect the gas exchange system"
+    },
+    {
+      "id": "org-objective-7",
+      "area": "Drugs",
+      "objective": "State the difference between medicinal and recreational drugs"
+    },
+    {
+      "id": "org-objective-8",
+      "area": "Drugs",
+      "objective": "Describe the effects of drugs on health and behaviour"
+    },
+    {
+      "id": "org-objective-9",
+      "area": "Alcohol",
+      "objective": "State what kind of drug ethanol is"
+    },
+    {
+      "id": "org-objective-10",
+      "area": "Alcohol",
+      "objective": "Describe the effect of alcohol on health and behaviour"
+    },
+    {
+      "id": "org-objective-11",
+      "area": "Alcohol",
+      "objective": "Describe the effect alcohol has on conception and pregnancy"
+    },
+    {
+      "id": "org-objective-12",
+      "area": "Smoking",
+      "objective": "Describe the effects of tobacco smoke on health"
+    },
+    {
+      "id": "org-objective-13",
+      "area": "Smoking",
+      "objective": "Explain the effects of tobacco smoke on health"
+    },
+    {
+      "id": "org-objective-14",
+      "area": "Nutrients",
+      "objective": "Describe the components of a healthy diet and their functions in the body"
+    },
+    {
+      "id": "org-objective-15",
+      "area": "Nutrients",
+      "objective": "Compare the nutritional content of different foods or diets"
+    },
+    {
+      "id": "org-objective-16",
+      "area": "Nutrients",
+      "objective": "Describe the effects of deficiencies or excesses of different nutrients on a person\u2019s health"
+    },
+    {
+      "id": "org-objective-17",
+      "area": "Food Tests",
+      "objective": "Describe how to test foods for starch, lipids, sugar, and protein"
+    },
+    {
+      "id": "org-objective-18",
+      "area": "Food Tests",
+      "objective": "Describe the positive result for each food test"
+    },
+    {
+      "id": "org-objective-19",
+      "area": "Unhealthy Diet",
+      "objective": "Recall how you get and use energy"
+    },
+    {
+      "id": "org-objective-20",
+      "area": "Unhealthy Diet",
+      "objective": "Describe some health issues caused by an unbalanced diet"
+    },
+    {
+      "id": "org-objective-21",
+      "area": "Unhealthy Diet",
+      "objective": "Calculate the energy requirements of different people"
+    },
+    {
+      "id": "org-objective-22",
+      "area": "Digestive System",
+      "objective": "State what happens during digestion"
+    },
+    {
+      "id": "org-objective-23",
+      "area": "Digestive System",
+      "objective": "Describe the structure of the main parts of the digestive system"
+    },
+    {
+      "id": "org-objective-24",
+      "area": "Digestive System",
+      "objective": "Describe how components of the digestive system are adapted to their function"
+    },
+    {
+      "id": "org-objective-25",
+      "area": "Bacteria and Enzymes in Digestion",
+      "objective": "Describe the role of enzymes in digestion"
+    },
+    {
+      "id": "org-objective-26",
+      "area": "Bacteria and Enzymes in Digestion",
+      "objective": "Describe the roles of bacteria in digestion"
+    },
+    {
+      "id": "org-objective-27",
+      "area": "Bacteria and Enzymes in Digestion",
+      "objective": "Describe the events that take place in turning a meal into simple food molecules"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "addiction",
+      "definition": "A need to keep taking a drug in order to feel normal."
+    },
+    {
+      "term": "alcoholic",
+      "definition": "A person who is addicted to alcohol."
+    },
+    {
+      "term": "alveolus",
+      "definition": "A tiny air sac at the end of a bronchiole where gases are exchanged with the blood. The plural is alveoli."
+    },
+    {
+      "term": "amylase",
+      "definition": "Enzyme that breaks down starch into sugar molecules."
+    },
+    {
+      "term": "anus",
+      "definition": "Muscular ring through which faeces pass out of the body."
+    },
+    {
+      "term": "asthma",
+      "definition": "A lung disorder in which inflammation (swelling) causes the bronchi to swell and narrow the airways, creating breathing difficulties."
+    },
+    {
+      "term": "bile",
+      "definition": "A substance produced by the liver that breaks fat into small droplets, increasing the surface area for digestion by lipase. It is not an enzyme."
+    },
+    {
+      "term": "bronchiole",
+      "definition": "Small tube in the lung."
+    },
+    {
+      "term": "bronchus",
+      "definition": "One of two tubes which carry air into the lungs."
+    },
+    {
+      "term": "carbohydrate",
+      "definition": "Nutrient that supplies the body\u2019s main source of energy. There are two types: simple (sugars) and complex (starch)."
+    },
+    {
+      "term": "catalyst",
+      "definition": "Substances that speed up chemical reactions but are unchanged at the end."
+    },
+    {
+      "term": "contract",
+      "definition": "To get shorter or smaller."
+    },
+    {
+      "term": "deficiency",
+      "definition": "Not getting enough of a particular nutrient, such as a vitamin or mineral."
+    },
+    {
+      "term": "depressant",
+      "definition": "A drug that slows down the body\u2019s reactions by slowing down the nervous system."
+    },
+    {
+      "term": "diaphragm",
+      "definition": "A sheet of muscle found underneath the lungs which is used in breathing."
+    },
+    {
+      "term": "dietary fibre",
+      "definition": "Parts of plants that cannot be digested. It helps the body to eliminate waste by providing bulk to keep food moving through the digestive system."
+    },
+    {
+      "term": "digestion",
+      "definition": "Process in which large molecules are broken down into smaller molecules."
+    },
+    {
+      "term": "digestive system",
+      "definition": "Group of organs that work together to break down food."
+    },
+    {
+      "term": "drug",
+      "definition": "Chemical substance that affects the way your body works."
+    },
+    {
+      "term": "enzyme",
+      "definition": "Substances that speed up the chemical reactions of digestion resulting in large molecules being broken into small molecules."
+    },
+    {
+      "term": "exhale",
+      "definition": "Breathing out, to remove carbon dioxide."
+    },
+    {
+      "term": "gas exchange",
+      "definition": "The transfer of gases between an organism and its environment."
+    },
+    {
+      "term": "gut bacteria",
+      "definition": "Microorganisms that naturally live in the intestine and help food break down."
+    },
+    {
+      "term": "inhale",
+      "definition": "Breathing in, to take in oxygen."
+    },
+    {
+      "term": "large intestine",
+      "definition": "Lower part of the intestine from which water is absorbed and where faeces (solid waste of undigested food) are formed."
+    },
+    {
+      "term": "lipase",
+      "definition": "Enzyme that breaks down lipids into fatty acids and glycerol."
+    },
+    {
+      "term": "lipid",
+      "definition": "Nutrient that provides a store of energy and insulate the body. Found in butter, milk, eggs, nuts."
+    },
+    {
+      "term": "lungs",
+      "definition": "The organ in which gas exchange takes place."
+    },
+    {
+      "term": "lung volume",
+      "definition": "Measure of the amount of air breathed in or out."
+    },
+    {
+      "term": "malnourishment",
+      "definition": "Eating the wrong amount or wrong types of food."
+    },
+    {
+      "term": "medicinal drug",
+      "definition": "Drug that has a medical benefit to your health."
+    },
+    {
+      "term": "mineral (biology)",
+      "definition": "Essential nutrient needed in small amounts to keep you healthy."
+    },
+    {
+      "term": "nutrient",
+      "definition": "Essential substance that your body needs to survive, provided by food."
+    },
+    {
+      "term": "obese",
+      "definition": "Extremely overweight."
+    },
+    {
+      "term": "oesophagus",
+      "definition": "Tube that food travels down into the stomach."
+    },
+    {
+      "term": "passive smoking",
+      "definition": "Breathing in other people\u2019s smoke."
+    },
+    {
+      "term": "protease",
+      "definition": "Enzyme that breaks down proteins into amino acids."
+    },
+    {
+      "term": "protein",
+      "definition": "Nutrient your body uses to build new tissue for growth and repair. Sources are meat, fish, eggs, dairy products, beans, nuts, and seeds."
+    },
+    {
+      "term": "recreational drug",
+      "definition": "Drug that is taken for enjoyment."
+    },
+    {
+      "term": "rectum",
+      "definition": "Faeces are stored here, before being passed out of the body."
+    },
+    {
+      "term": "respiration",
+      "definition": "A chemical process in cells that releases energy. In aerobic respiration, glucose reacts with oxygen to produce carbon dioxide and water."
+    },
+    {
+      "term": "respiratory system",
+      "definition": "The organ system that takes oxygen into the blood and removes carbon dioxide."
+    },
+    {
+      "term": "small intestine",
+      "definition": "Upper part of the intestine where digestion is completed and nutrients are absorbed by the blood."
+    },
+    {
+      "term": "stimulant",
+      "definition": "A drug that speeds up the body\u2019s reactions by speeding up the nervous system."
+    },
+    {
+      "term": "stomach",
+      "definition": "Organ where food is mixed with acidic juices to start the digestion of protein and kill microorganisms."
+    },
+    {
+      "term": "trachea",
+      "definition": "Tube which carries air from the mouth and nose to the lungs."
+    },
+    {
+      "term": "unit of alcohol",
+      "definition": "10 ml of pure alcohol."
+    },
+    {
+      "term": "villi",
+      "definition": "Tiny projections in the small intestine wall that increase the area for absorption."
+    },
+    {
+      "term": "vitamin",
+      "definition": "Essential nutrients needed in small amounts to keep you healthy."
+    },
+    {
+      "term": "withdrawal symptoms",
+      "definition": "Unpleasant symptom a person with a drug addiction suffers from when they stop taking the drug."
+    }
+  ],
+  "resources": [
+    {
+      "label": "Gas exchange",
+      "url": "https://www.bbc.co.uk/bitesize/topics/zvrrd2p/articles/zk9t6g8"
+    },
+    {
+      "label": "Breathing",
+      "url": "https://www.bbc.co.uk/bitesize/topics/zvrrd2p/articles/zbhcg7h"
+    },
+    {
+      "label": "Drugs, alcohol and smoking",
+      "url": "https://www.bbc.co.uk/bitesize/topics/ztnnb9q/articles/zrs44xs"
+    },
+    {
+      "label": "Nutrients",
+      "url": "https://www.bbc.co.uk/bitesize/topics/zf339j6/articles/zmwvgdm"
+    },
+    {
+      "label": "Unhealthy diet",
+      "url": "https://www.bbc.co.uk/bitesize/topics/zf339j6/articles/zms7xfr"
+    },
+    {
+      "label": "Energy needs",
+      "url": "https://www.bbc.co.uk/bitesize/topics/zf339j6/articles/zdx8jty"
+    },
+    {
+      "label": "Digestive system",
+      "url": "https://www.bbc.co.uk/bitesize/topics/zf339j6/articles/zv8m7yc"
+    },
+    {
+      "label": "Enzymes",
+      "url": "https://www.bbc.co.uk/bitesize/topics/zf339j6/articles/zs9dkty"
+    }
+  ],
+  "videos": [
+    {
+      "label": "School revision video 1",
+      "url": "https://youtu.be/SnH8yrRPhHk"
+    },
+    {
+      "label": "School revision video 2",
+      "url": "https://youtu.be/P8Jy5ixkpS8"
+    }
+  ],
+  "sources": [
+    "Year_8_Organisms_Knowledge_Organiser.pdf",
+    "Organisms_Checklist__Glossary__Bitesize_Links_so.docx"
+  ]
+}

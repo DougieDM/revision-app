@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Revisionary",
-  description: "A supportive Year 7 and Year 8 science revision quiz app."
+  title: "Readispark",
+  description: "Prepare for your next science test with revision notes, focused practice and a personal readiness dashboard."
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

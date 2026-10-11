@@ -22,6 +22,7 @@ export function QuizClient() {
   const [answers, setAnswers] = useState<AnswerRecord[]>([]);
   const [reviewing, setReviewing] = useState(false);
   const [finished, setFinished] = useState(false);
+  const [saveFailed, setSaveFailed] = useState(false);
   const topic = params.get("topic") ?? "All available topics";
   const subtopic = params.get("subtopic") ?? "";
   const count = Number(params.get("count") ?? 10);
@@ -56,6 +57,7 @@ export function QuizClient() {
       ...existing,
       {
         questionId: current.id,
+        sourceId: current.sourceId,
         topic: current.topic,
         subtopic: current.subtopic,
         correct,
@@ -79,11 +81,11 @@ export function QuizClient() {
     setFeedback(null);
 
     if (index + 1 >= questions.length) {
-      recordQuizResult({
+      try { recordQuizResult({
         score: answers.filter((item) => item.correct).length,
         total: answers.length,
         answers
-      });
+      }); } catch { setSaveFailed(true); }
       setFinished(true);
       return;
     }
@@ -102,6 +104,7 @@ export function QuizClient() {
     setFeedback(null);
     setAnswers([]);
     setFinished(false);
+    setSaveFailed(false);
   }
 
   if (!current && !finished) {
@@ -109,7 +112,7 @@ export function QuizClient() {
       <main className="min-h-screen px-4 py-6">
         <div className="mx-auto max-w-2xl rounded-lg bg-surface p-6 shadow-soft">
           <h1 className="text-2xl font-bold text-ink">{loaded ? "No questions match these choices" : "Getting your quiz ready..."}</h1>
-          {loaded ? <Link href="/" className="mt-4 inline-block font-bold text-pink-300">Choose another area, difficulty or question style</Link> : null}
+          {loaded ? <Link href="/make-a-test" className="mt-4 inline-block font-bold text-pink-300">Choose another area, difficulty or question style</Link> : null}
         </div>
       </main>
     );
@@ -119,6 +122,7 @@ export function QuizClient() {
     return (
       <main className="min-h-screen px-4 py-6">
         <div className="mx-auto max-w-2xl">
+          {saveFailed ? <p role="status" className="mb-4 rounded-lg border border-pink-400 bg-pink-950 p-4">Your results are shown below, but this browser could not save them. Enable browser storage to keep your progress.</p> : null}
           <QuizSummary
             score={answers.filter((item) => item.correct).length}
             total={answers.length}
@@ -139,7 +143,7 @@ export function QuizClient() {
             Home
           </Link>
           <span className="rounded-full bg-surface px-3 py-1 text-sm font-bold text-zinc-400 shadow-sm">
-            Revisionary quiz
+            Readispark practice
           </span>
         </div>
         {reviewing ? (

@@ -1,6 +1,8 @@
 "use client";
 
-import { AVAILABLE_TOPICS, FUTURE_TOPICS } from "@/lib/quiz";
+import { topicLabel } from "@/lib/topicLabels";
+
+import { AVAILABLE_TOPICS } from "@/lib/quiz";
 
 interface TopicSelectorProps {
   value: string;
@@ -25,17 +27,7 @@ export function TopicSelector({ value, onChange }: TopicSelectorProps) {
                 : "border-zinc-700 bg-surface text-ink hover:border-pink-400"
             }`}
           >
-            {topic}
-          </button>
-        ))}
-        {FUTURE_TOPICS.map((topic) => (
-          <button
-            key={topic}
-            type="button"
-            disabled
-            className="rounded-lg border-2 border-dashed border-zinc-700 bg-zinc-900 px-4 py-3 text-left text-base font-semibold text-zinc-500"
-          >
-            {topic} <span className="text-sm font-medium">Coming soon</span>
+            {topicLabel(topic)}
           </button>
         ))}
       </div>

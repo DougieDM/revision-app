@@ -1,5 +1,7 @@
 "use client";
 
+import { topicLabel } from "@/lib/topicLabels";
+
 import Link from "next/link";
 import { Suspense } from "react";
 import { useSearchParams } from "next/navigation";
@@ -32,7 +34,7 @@ function PrintContent() {
         </div>
       </div>
       <section className="print-page mx-auto max-w-3xl rounded-lg bg-white p-8 shadow-soft">
-        <h1 className="text-3xl font-black text-ink">{topic === "All available topics" ? "Science" : topic} Printable Test</h1>
+        <h1 className="text-3xl font-black text-ink">{topic === "All available topics" ? "Science" : topicLabel(topic)} Printable Test</h1>
         <p className="mt-2 text-zinc-300">{questions.length} questions{ subtopic ? ` · ${subtopic}` : "" }. Try your best, then mark with the answer sheet.</p>
         <ol className="mt-8 space-y-5">
           {questions.map((question, index) => (

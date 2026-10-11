@@ -1,5 +1,7 @@
 "use client";
 
+import { topicLabel } from "@/lib/topicLabels";
+
 import Link from "next/link";
 import { Suspense } from "react";
 import { useSearchParams } from "next/navigation";
@@ -28,7 +30,7 @@ function AnswersContent() {
       </div>
       <section className="print-page mx-auto max-w-3xl rounded-lg bg-white p-8 shadow-soft">
         <h1 className="text-3xl font-black text-ink">Answer Sheet</h1>
-        <p className="mt-2 text-zinc-300">{topic}{subtopic ? ` · ${subtopic}` : ""}</p>
+        <p className="mt-2 text-zinc-300">{topicLabel(topic)}{subtopic ? ` · ${subtopic}` : ""}</p>
         <ol className="mt-8 space-y-4">
           {questions.map((question, index) => (
             <li key={question.id} className="break-inside-avoid">

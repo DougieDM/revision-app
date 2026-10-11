@@ -12,7 +12,6 @@ import type {
   SeedQuestion
 } from "@/types/quiz";
 
-export const FUTURE_TOPICS = ["Forces"];
 export const AVAILABLE_TOPICS = [
   "All available topics",
   "Acids and Alkalis",

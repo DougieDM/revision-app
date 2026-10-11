@@ -1,5 +1,7 @@
 "use client";
 
+import { topicLabel } from "@/lib/topicLabels";
+
 import Link from "next/link";
 import { getTopicBreakdown, getWeakAreas } from "@/lib/quiz";
 import type { AnswerRecord } from "@/types/quiz";
@@ -19,7 +21,7 @@ export function QuizSummary({ score, total, answers, onRetryWeak, onNewQuiz }: Q
 
   return (
     <section className="rounded-lg bg-surface p-5 shadow-soft">
-      <p className="text-sm font-semibold text-purple-300">Revisionary&apos;s summary</p>
+      <p className="text-sm font-semibold text-purple-300">Readispark&apos;s summary</p>
       <h1 className="mt-2 text-3xl font-bold text-ink">
         You scored {score}/{total}
       </h1>
@@ -37,7 +39,7 @@ export function QuizSummary({ score, total, answers, onRetryWeak, onNewQuiz }: Q
         {Object.entries(breakdown).map(([topic, item]) => (
           <div key={topic} className="rounded-lg bg-zinc-900 p-4">
             <div className="flex items-center justify-between gap-3">
-              <span className="font-semibold">{topic}</span>
+              <span className="font-semibold">{topicLabel(topic)}</span>
               <span className="font-bold text-pink-300">
                 {item.correct}/{item.total}
               </span>
@@ -72,13 +74,13 @@ export function QuizSummary({ score, total, answers, onRetryWeak, onNewQuiz }: Q
           onClick={onNewQuiz}
           className="rounded-lg bg-brand-pink px-4 py-4 text-lg font-bold text-white"
         >
-          New random quiz
+          Start another practice session
         </button>
         <Link
-          href="/progress"
+          href="/"
           className="rounded-lg border-2 border-zinc-700 bg-surface px-4 py-4 text-center text-lg font-bold text-ink"
         >
-          View progress
+          See readiness dashboard
         </Link>
       </div>
     </section>

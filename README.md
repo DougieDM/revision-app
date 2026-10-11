@@ -1,12 +1,12 @@
-# Revisionary
+# Readispark
 
-A mobile-first Next.js revision quiz app for Year 7 and Year 8 science. Revisionary acts like a supportive tutor: questions are generated from a structured local knowledge base, feedback is gentle, and progress is saved in the browser.
+A mobile-first Next.js revision and test preparation app for Year 7 and Year 8 science. Readispark acts like a supportive tutor: questions are generated from a structured local knowledge base, feedback is gentle, and progress is saved in the browser.
 
-The app uses a black dark-mode background, charcoal cards, pink primary actions and purple secondary actions. Light text and visible focus outlines support readability. Printable tests and answer sheets remain black on white. The home page uses `public/revisionary-logo-dark.png`, with a pink-purple icon, white lettering, responsive sizing, accessible alternative text and Next.js image optimisation. The original logo is retained.
+The app uses a black dark-mode background, charcoal cards, pink primary actions and purple secondary actions. Light text and visible focus outlines support readability. Printable tests and answer sheets remain black on white. The dashboard home page uses `public/revisionary-logo-dark.png`, with a pink-purple icon, white lettering, responsive sizing, accessible alternative text and Next.js image optimisation. The original logo is retained.
 
 ## Current test: Year 8 Organisms 8.3–8.4
 
-The home screen defaults to Organisms, with a selector for its ten areas. All previous topics remain available. `/organisms` provides 65 learning points, the 27 school objectives with device-local confidence ratings, 50 glossary terms, the eight school BBC Bitesize links and both supplied YouTube links. The video titles/transcripts could not be retrieved; videos are linked as school video 1 and 2 and are not used as question sources.
+The home screen is the readiness dashboard. `/make-a-test` uses the first topic in your upcoming test (Organisms by default), with a selector for its ten areas. All previous topics remain available. `/organisms` provides 65 learning points, the 27 school objectives with device-local confidence ratings, 50 glossary terms, the eight school BBC Bitesize links and both supplied YouTube links. The video titles/transcripts could not be retrieved; videos are linked as school video 1 and 2 and are not used as question sources.
 
 `data/organisms.questions.json` contains 260 authored question variants (65 learning points × multiple choice, recall, explanation and correcting a misconception). Multiple choice uses plausible topic-specific alternatives. Written Organisms answers are assessed by the learner against a model answer, avoiding unreliable keyword grading. Each question style offers easy and more challenging questions. Whole-unit quizzes and printable tests sample every section before additional questions; Each quiz asks about a learning point once; narrow filters can produce fewer questions than requested when their pool is smaller. Printable tests and answer sheets retain the selected topic and area and use the same deterministic question order.
 
@@ -20,8 +20,7 @@ Existing quiz progress keys are retained. The new checklist has a separate key, 
 - Ecosystems
 - Skills in Science
 - Waves
-- Year 8 Organisms
-- Forces is shown as a locked future topic only
+- Organisms
 
 ## Features
 
@@ -92,7 +91,7 @@ npm run lint
 - `data/questions.seed.json` contains 120 ready-made source-backed seed questions.
 - `lib/generateQuestion.ts` combines seed questions with dynamically generated questions from the knowledge base.
 
-The current content is restricted to the supplied Isla science test source files:
+The current content is restricted to the supplied school science test source files:
 
 - `6.1_Knowledge_Organiser.pdf`
 - `Skills_in_Science_Checklist__Glossary__BBC_Bitesize_Links.docx`
@@ -104,3 +103,19 @@ The current content is restricted to the supplied Isla science test source files
 - `7F_Mindmap_for_Acids_and_Alkalis.jpg.png`
 
 To add more content, add facts to the knowledge base using the same shape and, optionally, add seed questions with clear Year 7 wording.
+
+## Readiness dashboard and device-local progress
+
+`/` shows readiness for every available topic, area breakdowns, suggested practice and the overall readiness of the upcoming test. Learners can edit the test title and select its included topics; these settings use `readispark-upcoming-test-v1`. New curriculum content still needs to be added when a new school test covers material outside the available topics.
+
+Readiness uses the most recent answer to up to 10 distinct learning points per area. Organisms question styles share their learning-point ID. Area score = correct / max(number tracked, min(5, number of available points)) × 100. Topic score averages every area, including zero for unpractised areas. Overall test score averages the selected topics equally. Labels are Not started, Getting started (under 50%), Building confidence (50–79%), and Looking strong (80%+). These are product guidance thresholds, not calibrated predictions of a test mark. Written questions include self-assessment. Readiness evidence begins with practice completed after this update; historical totals remain available but cannot be converted into missing area evidence.
+
+Existing localStorage progress and checklist keys are deliberately retained to preserve previous users’ data. No results are sent to a server. Different devices/browser profiles have independent results; people sharing a browser profile share its statistics. Clearing site data removes saved progress, and changing devices does not transfer it. Storage failures show a message after practice. Resetting practice progress clears history and readiness after confirmation, while retaining upcoming-test settings and checklist confidence ratings.
+
+Verification: `npm run build`, `npm run lint`, `node scripts/verify-organisms.cjs`, and `node scripts/verify-readiness.cjs`.
+
+The previous pink-purple logo with the Revisionary wordmark was restored at the user’s request. The app name and other text remain Readispark.
+
+## Navigation
+
+The readiness dashboard is the home page at `/`. The former `/progress` route redirects to `/` for compatibility. Custom topic, area, question count, difficulty and question-style settings are at `/make-a-test`, with links to start a test, practise weak areas and print a test. Home and summary links return to the dashboard; the no-matching-questions link returns to the test builder.

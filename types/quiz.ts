@@ -73,6 +73,7 @@ export interface QuizSettings {
 
 export interface AnswerRecord {
   questionId: string;
+  sourceId?: string;
   topic: string;
   subtopic: string;
   correct: boolean;
@@ -91,4 +92,5 @@ export interface ProgressState {
   weakSubtopics: Record<string, number>;
   topicStats: Record<string, { answered: number; correct: number }>;
   recentScores: { score: number; total: number; date: string }[];
+  readinessEvidence?: Record<string, Record<string, { sourceId: string; correct: boolean }[]>>;
 }

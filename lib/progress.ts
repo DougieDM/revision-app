@@ -38,6 +38,7 @@ export function recordQuizResult(result: QuizResult) {
     correctAnswers: current.correctAnswers + result.score,
     weakSubtopics: { ...current.weakSubtopics },
     topicStats: { ...current.topicStats },
+    readinessEvidence: Object.fromEntries(Object.entries(current.readinessEvidence ?? {}).map(([topic, areas]) => [topic, { ...areas }])),
     recentScores: [
       { score: result.score, total: result.total, date: new Date().toISOString() },
       ...current.recentScores
@@ -45,6 +46,16 @@ export function recordQuizResult(result: QuizResult) {
   };
 
   result.answers.forEach((answer: AnswerRecord) => {
+    // Track recent distinct learning points so repeated questions do not inflate coverage.
+    if (answer.sourceId) {
+      const sourceId = answer.topic === "Year 8 Organisms"
+        ? answer.sourceId.replace(/_(multiple-choice|recall|spot-the-mistake|explain)$/, "")
+        : answer.sourceId;
+      const areas = next.readinessEvidence![answer.topic] ?? {};
+      const previous = areas[answer.subtopic] ?? [];
+      areas[answer.subtopic] = [...previous.filter((item) => item.sourceId !== sourceId), { sourceId, correct: answer.correct }].slice(-10);
+      next.readinessEvidence![answer.topic] = areas;
+    }
     if (!next.topicStats[answer.topic]) next.topicStats[answer.topic] = { answered: 0, correct: 0 };
     next.topicStats[answer.topic].answered += 1;
     if (answer.correct) {

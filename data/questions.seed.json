@@ -30,7 +30,7 @@
     "subtopic": "Acids and alkalis",
     "difficulty": "easy",
     "type": "multiple-choice",
-    "question": "Which definition matches an acid in Isla’s source?",
+    "question": "Which definition matches an acid in the school source?",
     "answer": "A solution with a pH value less than 7",
     "acceptedAnswers": [
       "pH less than 7",
@@ -385,7 +385,7 @@
     "subtopic": "Acid strength",
     "difficulty": "challenge",
     "type": "spot-the-mistake",
-    "question": "Isla says, “A strong acid means there are lots of particles in a volume.” What is the mistake?",
+    "question": "A learner says, “A strong acid means there are lots of particles in a volume.” What is the mistake?",
     "answer": "That describes concentration, not acid strength",
     "acceptedAnswers": [
       "concentration not strength",
@@ -1180,7 +1180,7 @@
     "subtopic": "Flowers and pollination",
     "difficulty": "challenge",
     "type": "spot-the-mistake",
-    "question": "Isla says, “Germination is when pollen moves from an anther to a stigma.” What is wrong?",
+    "question": "A learner says, “Germination is when pollen moves from an anther to a stigma.” What is wrong?",
     "answer": "That is pollination; germination is when a seed starts to grow",
     "acceptedAnswers": [
       "that is pollination",

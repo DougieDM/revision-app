@@ -57,7 +57,7 @@ function factToQuestion(fact: KnowledgeFact): GeneratedQuestion {
     return baseFromFact(
       fact,
       type,
-      `Revisionary hears this answer: "${mistake}." What is the mistake?`
+      `Readispark hears this answer: "${mistake}." What is the mistake?`
     );
   }
   if (type === "application") {

@@ -18,7 +18,7 @@ export function ReadinessDashboard() {
     <main className="min-h-screen px-4 py-6">
       <div className="mx-auto max-w-4xl">
         <div className="mb-6 flex flex-wrap items-center justify-between gap-4">
-          <Image src="/readispark-logo-black.png" alt="Readispark" width={2172} height={724} priority className="h-auto w-56 max-w-full" />
+          <Image src="/readispark-logo-approved.png" alt="Readispark" width={2172} height={724} priority className="h-auto w-56 max-w-full" />
           <Link href="/make-a-test" className="rounded-lg bg-brand-pink px-5 py-3 font-bold text-white">Make a test</Link>
 
         </div>

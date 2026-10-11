@@ -6,7 +6,7 @@ export default function QuizPage() {
     <Suspense
       fallback={
         <main className="min-h-screen px-4 py-6">
-          <div className="mx-auto max-w-2xl rounded-lg bg-white p-6 shadow-soft">
+          <div className="mx-auto max-w-2xl rounded-lg bg-surface p-6 shadow-soft">
             <h1 className="text-2xl font-bold text-ink">Getting your quiz ready...</h1>
           </div>
         </main>

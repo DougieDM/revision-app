@@ -17,7 +17,7 @@ export default function ProgressPage() {
     <main className="min-h-screen px-4 py-6">
       <div className="mx-auto max-w-2xl">
         <div className="mb-4 flex items-center justify-between">
-          <Link href="/" className="font-bold text-ocean">
+          <Link href="/" className="font-bold text-pink-300">
             Home
           </Link>
           <button
@@ -26,7 +26,7 @@ export default function ProgressPage() {
               clearProgress();
               setProgress(emptyProgress);
             }}
-            className="rounded-lg bg-white px-3 py-2 text-sm font-bold text-slate-600 shadow-sm"
+            className="rounded-lg bg-surface px-3 py-2 text-sm font-bold text-zinc-300 shadow-sm"
           >
             Reset
           </button>

@@ -18,13 +18,13 @@ export function QuizSummary({ score, total, answers, onRetryWeak, onNewQuiz }: Q
   const weakAreas = getWeakAreas(answers);
 
   return (
-    <section className="rounded-lg bg-white p-5 shadow-soft">
-      <p className="text-sm font-semibold text-berry">Revisionary&apos;s summary</p>
+    <section className="rounded-lg bg-surface p-5 shadow-soft">
+      <p className="text-sm font-semibold text-purple-300">Revisionary&apos;s summary</p>
       <h1 className="mt-2 text-3xl font-bold text-ink">
         You scored {score}/{total}
       </h1>
-      <p className="mt-2 text-xl font-semibold text-ocean">{percentage}%</p>
-      <p className="mt-4 text-base leading-relaxed text-slate-600">
+      <p className="mt-2 text-xl font-semibold text-pink-300">{percentage}%</p>
+      <p className="mt-4 text-base leading-relaxed text-zinc-300">
         {percentage >= 80
           ? "Brilliant focus. Keep revisiting the tricky bits so they stay fresh."
           : percentage >= 50
@@ -35,10 +35,10 @@ export function QuizSummary({ score, total, answers, onRetryWeak, onNewQuiz }: Q
       <div className="mt-6 space-y-3">
         <h2 className="text-lg font-bold text-ink">Topic breakdown</h2>
         {Object.entries(breakdown).map(([topic, item]) => (
-          <div key={topic} className="rounded-lg bg-slate-50 p-4">
+          <div key={topic} className="rounded-lg bg-zinc-900 p-4">
             <div className="flex items-center justify-between gap-3">
               <span className="font-semibold">{topic}</span>
-              <span className="font-bold text-ocean">
+              <span className="font-bold text-pink-300">
                 {item.correct}/{item.total}
               </span>
             </div>
@@ -46,7 +46,7 @@ export function QuizSummary({ score, total, answers, onRetryWeak, onNewQuiz }: Q
         ))}
       </div>
 
-      <div className="mt-6 rounded-lg bg-amber-50 p-4">
+      <div className="mt-6 rounded-lg bg-pink-950 p-4">
         <h2 className="text-lg font-bold text-ink">Suggested revision focus</h2>
         {weakAreas.length ? (
           <ul className="mt-3 space-y-2 text-base text-ink">
@@ -63,20 +63,20 @@ export function QuizSummary({ score, total, answers, onRetryWeak, onNewQuiz }: Q
         <button
           type="button"
           onClick={onRetryWeak}
-          className="rounded-lg bg-berry px-4 py-4 text-lg font-bold text-white"
+          className="rounded-lg bg-brand-purple px-4 py-4 text-lg font-bold text-white"
         >
           Retry weak areas
         </button>
         <button
           type="button"
           onClick={onNewQuiz}
-          className="rounded-lg bg-ocean px-4 py-4 text-lg font-bold text-white"
+          className="rounded-lg bg-brand-pink px-4 py-4 text-lg font-bold text-white"
         >
           New random quiz
         </button>
         <Link
           href="/progress"
-          className="rounded-lg border-2 border-slate-200 bg-white px-4 py-4 text-center text-lg font-bold text-ink"
+          className="rounded-lg border-2 border-zinc-700 bg-surface px-4 py-4 text-center text-lg font-bold text-ink"
         >
           View progress
         </Link>

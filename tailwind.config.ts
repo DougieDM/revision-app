@@ -9,13 +9,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        berry: "#7c3aed",
-        ocean: "#0f766e",
-        sunshine: "#f59e0b",
-        ink: "#263238"
+        "brand-pink": "#be185d",
+        "brand-purple": "#7e22ce",
+        ink: "#fafafa",
+        surface: "#18181b"
       },
       boxShadow: {
-        soft: "0 18px 45px rgba(38, 50, 56, 0.12)"
+        soft: "0 18px 45px rgba(88, 28, 135, 0.10)"
       }
     }
   },

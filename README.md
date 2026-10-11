@@ -2,6 +2,8 @@
 
 A mobile-first Next.js revision quiz app for Year 7 and Year 8 science. Revisionary acts like a supportive tutor: questions are generated from a structured local knowledge base, feedback is gentle, and progress is saved in the browser.
 
+The app uses a black dark-mode background, charcoal cards, pink primary actions and purple secondary actions. Light text and visible focus outlines support readability. Printable tests and answer sheets remain black on white. The home page uses `public/revisionary-logo-dark.png`, with a pink-purple icon, white lettering, responsive sizing, accessible alternative text and Next.js image optimisation. The original logo is retained.
+
 ## Current test: Year 8 Organisms 8.3–8.4
 
 The home screen defaults to Organisms, with a selector for its ten areas. All previous topics remain available. `/organisms` provides 65 learning points, the 27 school objectives with device-local confidence ratings, 50 glossary terms, the eight school BBC Bitesize links and both supplied YouTube links. The video titles/transcripts could not be retrieved; videos are linked as school video 1 and 2 and are not used as question sources.

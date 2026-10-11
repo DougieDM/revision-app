@@ -107,9 +107,9 @@ export function QuizClient() {
   if (!current && !finished) {
     return (
       <main className="min-h-screen px-4 py-6">
-        <div className="mx-auto max-w-2xl rounded-lg bg-white p-6 shadow-soft">
+        <div className="mx-auto max-w-2xl rounded-lg bg-surface p-6 shadow-soft">
           <h1 className="text-2xl font-bold text-ink">{loaded ? "No questions match these choices" : "Getting your quiz ready..."}</h1>
-          {loaded ? <Link href="/" className="mt-4 inline-block font-bold text-ocean">Choose another area, difficulty or question style</Link> : null}
+          {loaded ? <Link href="/" className="mt-4 inline-block font-bold text-pink-300">Choose another area, difficulty or question style</Link> : null}
         </div>
       </main>
     );
@@ -135,26 +135,26 @@ export function QuizClient() {
     <main className="min-h-screen px-4 py-6">
       <div className="mx-auto max-w-2xl">
         <div className="mb-4 flex items-center justify-between">
-          <Link href="/" className="font-bold text-ocean">
+          <Link href="/" className="font-bold text-pink-300">
             Home
           </Link>
-          <span className="rounded-full bg-white px-3 py-1 text-sm font-bold text-slate-500 shadow-sm">
+          <span className="rounded-full bg-surface px-3 py-1 text-sm font-bold text-zinc-400 shadow-sm">
             Revisionary quiz
           </span>
         </div>
         {reviewing ? (
-          <section className="rounded-lg bg-white p-5 shadow-soft">
+          <section className="rounded-lg bg-surface p-5 shadow-soft">
             <h1 className="text-2xl font-bold text-ink">Compare your answer</h1>
             <p className="mt-3 font-semibold">{current.question}</p>
-            <p className="mt-4 text-sm font-bold text-slate-500">Your answer</p>
+            <p className="mt-4 text-sm font-bold text-zinc-400">Your answer</p>
             <p className="mt-1 whitespace-pre-wrap">{answer || "No answer entered"}</p>
-            <p className="mt-4 text-sm font-bold text-ocean">Model answer</p>
+            <p className="mt-4 text-sm font-bold text-pink-300">Model answer</p>
             <p className="mt-1">{current.answer}</p>
-            <p className="mt-3 text-slate-600">{current.explanation}</p>
-            <p className="mt-4 text-sm text-slate-600">Different wording is fine. Did you include the key science ideas? For explain questions, include the reasons too.</p>
+            <p className="mt-3 text-zinc-300">{current.explanation}</p>
+            <p className="mt-4 text-sm text-zinc-300">Different wording is fine. Did you include the key science ideas? For explain questions, include the reasons too.</p>
             <div className="mt-5 grid gap-3 sm:grid-cols-2">
-              <button className="rounded-lg bg-ocean p-4 font-bold text-white" onClick={() => { setReviewing(false); recordCurrent(true, answer); }}>I got the key ideas</button>
-              <button className="rounded-lg bg-berry p-4 font-bold text-white" onClick={() => { setReviewing(false); recordCurrent(false, answer); }}>I need more practice</button>
+              <button className="rounded-lg bg-brand-pink p-4 font-bold text-white" onClick={() => { setReviewing(false); recordCurrent(true, answer); }}>I got the key ideas</button>
+              <button className="rounded-lg bg-brand-purple p-4 font-bold text-white" onClick={() => { setReviewing(false); recordCurrent(false, answer); }}>I need more practice</button>
             </div>
           </section>
         ) : feedback ? (

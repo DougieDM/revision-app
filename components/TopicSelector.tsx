@@ -21,8 +21,8 @@ export function TopicSelector({ value, onChange }: TopicSelectorProps) {
             onClick={() => onChange(topic)}
             className={`rounded-lg border-2 px-4 py-3 text-left text-base font-semibold transition ${
               value === topic
-                ? "border-ocean bg-teal-50 text-ocean"
-                : "border-slate-200 bg-white text-ink hover:border-teal-200"
+                ? "border-pink-400 bg-purple-950 text-pink-300"
+                : "border-zinc-700 bg-surface text-ink hover:border-pink-400"
             }`}
           >
             {topic}
@@ -33,7 +33,7 @@ export function TopicSelector({ value, onChange }: TopicSelectorProps) {
             key={topic}
             type="button"
             disabled
-            className="rounded-lg border-2 border-dashed border-slate-200 bg-slate-50 px-4 py-3 text-left text-base font-semibold text-slate-400"
+            className="rounded-lg border-2 border-dashed border-zinc-700 bg-zinc-900 px-4 py-3 text-left text-base font-semibold text-zinc-500"
           >
             {topic} <span className="text-sm font-medium">Coming soon</span>
           </button>

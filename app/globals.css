@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  color-scheme: light;
+  color-scheme: dark;
 }
 
 * {
@@ -12,8 +12,8 @@
 
 body {
   margin: 0;
-  background: #f7fbfa;
-  color: #263238;
+  background: #000000;
+  color: #fafafa;
 }
 
 button,
@@ -23,6 +23,20 @@ textarea {
   font: inherit;
 }
 
+:where(a, button, input, select, textarea, summary):focus-visible {
+  outline: 3px solid #f9a8d4;
+  outline-offset: 3px;
+}
+
+.print-page {
+  color-scheme: light;
+  color: #111111;
+}
+
+.print-page :is(p, h1, ul) {
+  color: #111111;
+}
+
 @media print {
   .no-print {
     display: none !important;
@@ -30,6 +44,12 @@ textarea {
 
   body {
     background: white;
+    color: #111111;
+    color-scheme: light;
+  }
+
+  main {
+    background: white !important;
   }
 
   .print-page {

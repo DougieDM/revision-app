@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useMemo, useState } from "react";
 import organisms from "@/data/organisms.json";
 import { TopicSelector } from "@/components/TopicSelector";
@@ -37,55 +38,53 @@ export default function HomePage() {
   return (
     <main className="min-h-screen px-4 py-6 sm:px-6">
       <div className="mx-auto max-w-3xl">
-        <section className="rounded-lg bg-white p-6 shadow-soft">
-          <p className="text-sm font-bold uppercase tracking-wide text-ocean">Revisionary</p>
+        <section className="rounded-lg bg-surface p-6 shadow-soft">
+          <Image
+            src="/revisionary-logo-dark.png"
+            alt="Revisionary"
+            width={2172}
+            height={724}
+            priority
+            className="h-auto w-full max-w-xs"
+          />
           <h1 className="mt-3 text-4xl font-black leading-tight text-ink">
             Science practice that feels calm and doable.
           </h1>
-          <p className="mt-4 text-lg leading-relaxed text-slate-600">
+          <p className="mt-4 text-lg leading-relaxed text-zinc-300">
             Choose a topic, answer one question at a time, and Revisionary will help spot what to practise next.
           </p>
           <div className="mt-6 grid gap-3 sm:grid-cols-2">
-            <Link href={quizUrl} className="rounded-lg bg-ocean px-5 py-4 text-center text-lg font-bold text-white">
-              Start Quiz
-            </Link>
-            <Link
-              href={`${quizUrl}&weakOnly=true`}
-              className="rounded-lg bg-berry px-5 py-4 text-center text-lg font-bold text-white"
-            >
-              Practice Weak Areas
-            </Link>
             <Link
               href={`/print?${new URLSearchParams({ topic, subtopic }).toString()}`}
-              className="rounded-lg border-2 border-slate-200 bg-slate-50 px-5 py-4 text-center text-lg font-bold text-ink"
+              className="rounded-lg border-2 border-zinc-700 bg-zinc-900 px-5 py-4 text-center text-lg font-bold text-ink"
             >
               Printable Test
             </Link>
             <Link
               href="/progress"
-              className="rounded-lg border-2 border-slate-200 bg-slate-50 px-5 py-4 text-center text-lg font-bold text-ink"
+              className="rounded-lg border-2 border-zinc-700 bg-zinc-900 px-5 py-4 text-center text-lg font-bold text-ink"
             >
               View Progress
             </Link>
           </div>
         </section>
 
-        <section className="mt-5 rounded-lg border-2 border-teal-200 bg-teal-50 p-5">
-          <p className="text-sm font-bold uppercase tracking-wide text-ocean">Isla’s current test · Year 8 · 8.3–8.4</p>
+        <section className="mt-5 rounded-lg border-2 border-pink-500 bg-pink-950 p-5">
+          <p className="text-sm font-bold uppercase tracking-wide text-pink-300">Isla’s current test · Year 8 · 8.3–8.4</p>
           <h2 className="mt-2 text-2xl font-black text-ink">Organisms</h2>
-          <p className="mt-2 text-slate-700">Breathing, gas exchange, drugs, alcohol, smoking, nutrients, food tests and digestion.</p>
+          <p className="mt-2 text-zinc-200">Breathing, gas exchange, drugs, alcohol, smoking, nutrients, food tests and digestion.</p>
           <div className="mt-4 flex flex-wrap gap-3">
-            <button type="button" onClick={() => { setTopic("Year 8 Organisms"); setSubtopic(""); }} className="rounded-lg bg-ocean px-4 py-3 font-bold text-white">Focus on this test</button>
-            <Link href="/organisms" className="rounded-lg border-2 border-ocean px-4 py-3 font-bold text-ocean">Notes, checklist & videos</Link>
+            <button type="button" onClick={() => { setTopic("Year 8 Organisms"); setSubtopic(""); }} className="rounded-lg bg-brand-pink px-4 py-3 font-bold text-white">Focus on this test</button>
+            <Link href="/organisms" className="rounded-lg border-2 border-purple-400 px-4 py-3 font-bold text-purple-300">Notes, checklist & videos</Link>
           </div>
         </section>
 
-        <section className="mt-5 rounded-lg bg-white p-5 shadow-soft">
+        <section className="mt-5 rounded-lg bg-surface p-5 shadow-soft">
           <TopicSelector value={topic} onChange={(value) => { setTopic(value); setSubtopic(""); }} />
           {topic === "Year 8 Organisms" ? (
             <div className="mt-5">
               <label htmlFor="organisms-section" className="text-sm font-semibold text-ink">Focus on an area</label>
-              <select id="organisms-section" value={subtopic} onChange={(event) => setSubtopic(event.target.value)} className="mt-2 w-full rounded-lg border-2 border-slate-200 bg-white p-3 text-ink">
+              <select id="organisms-section" value={subtopic} onChange={(event) => setSubtopic(event.target.value)} className="mt-2 w-full rounded-lg border-2 border-zinc-700 bg-surface p-3 text-ink">
                 <option value="">All Organisms areas</option>
                 {organisms.sections.map((area) => <option key={area}>{area}</option>)}
               </select>
@@ -102,7 +101,7 @@ export default function HomePage() {
                     type="button"
                     onClick={() => setCount(option)}
                     className={`rounded-lg border-2 py-3 font-bold ${
-                      count === option ? "border-ocean bg-teal-50 text-ocean" : "border-slate-200 bg-white"
+                      count === option ? "border-pink-400 bg-purple-950 text-pink-300" : "border-zinc-700 bg-surface"
                     }`}
                   >
                     {option}
@@ -120,7 +119,7 @@ export default function HomePage() {
                     type="button"
                     onClick={() => setDifficulty(option)}
                     className={`rounded-lg border-2 py-3 font-bold capitalize ${
-                      difficulty === option ? "border-ocean bg-teal-50 text-ocean" : "border-slate-200 bg-white"
+                      difficulty === option ? "border-pink-400 bg-purple-950 text-pink-300" : "border-zinc-700 bg-surface"
                     }`}
                   >
                     {option}
@@ -138,7 +137,7 @@ export default function HomePage() {
                     type="button"
                     onClick={() => setStyle(option.value)}
                     className={`rounded-lg border-2 px-3 py-3 text-left font-bold ${
-                      style === option.value ? "border-ocean bg-teal-50 text-ocean" : "border-slate-200 bg-white"
+                      style === option.value ? "border-pink-400 bg-purple-950 text-pink-300" : "border-zinc-700 bg-surface"
                     }`}
                   >
                     {option.label}
@@ -146,6 +145,17 @@ export default function HomePage() {
                 ))}
               </div>
             </div>
+          </div>
+          <div className="mt-6 grid gap-3 sm:grid-cols-2">
+            <Link href={quizUrl} className="rounded-lg bg-brand-pink px-5 py-4 text-center text-lg font-bold text-white">
+              Start Quiz
+            </Link>
+            <Link
+              href={`${quizUrl}&weakOnly=true`}
+              className="rounded-lg bg-brand-purple px-5 py-4 text-center text-lg font-bold text-white"
+            >
+              Practice Weak Areas
+            </Link>
           </div>
         </section>
       </div>

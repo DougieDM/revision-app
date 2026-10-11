@@ -44,6 +44,7 @@ export default function MakeTestPage() {
           <h1 className="mt-2 text-4xl font-black text-ink">Make a test</h1>
           <p className="mt-3 text-lg text-zinc-300">Choose what to revise and how you want to practise. Your results will help build your readiness.</p>
           <Link href="/label-diagram" className="mt-4 inline-block font-bold text-purple-300 underline">Label a diagram · Organisms</Link>
+          <Link href="/label-diagram/digestive" className="mt-4 ml-4 inline-block font-bold text-purple-300 underline">Label the digestive system</Link>
         </header>
 
         <section className="mt-5 rounded-lg bg-surface p-5 shadow-soft">

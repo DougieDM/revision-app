@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import organisms from "@/data/organisms.json";
 import { QuestionIllustration } from "@/components/QuestionIllustration";
+import { DigestiveDiagram } from "@/components/DigestiveDiagram";
 
 type Confidence = "Not yet" | "Getting there" | "Confident";
 const confidenceOptions: Confidence[] = ["Not yet", "Getting there", "Confident"];
@@ -36,6 +37,7 @@ export default function OrganismsPage() {
           <p className="mt-3 text-sm text-zinc-300">Textbook: Kerboodle pages 122–143. You do not need active site, substrate or the lock and key model for this test.</p>
           <nav className="mt-4 flex flex-wrap gap-3 text-sm font-bold text-pink-300" aria-label="Revision sections">
             <Link href="/label-diagram">Label a diagram</Link>
+            <Link href="/label-diagram/digestive">Label the digestive system</Link>
             <a href="#notes">Notes</a><a href="#checklist">Checklist</a><a href="#glossary">Glossary</a><a href="#resources">Videos & links</a>
           </nav>
         </section>
@@ -47,6 +49,7 @@ export default function OrganismsPage() {
             {organisms.sections.map((area) => <option key={area}>{area}</option>)}
           </select>
           <Link href={quizUrl} className="mt-4 inline-block rounded-lg bg-brand-pink px-4 py-3 font-bold text-white">Practise {section || "this test"}</Link>
+          {section === "Digestive system" ? <DigestiveDiagram labelled /> : null}
           <div className="mt-5 space-y-3">
             {organisms.notes.filter((note) => !section || note.subtopic === section).map((note) => (
               <details key={note.id} className="rounded-lg border border-zinc-700 p-4">

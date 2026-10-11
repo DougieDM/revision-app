@@ -10,11 +10,9 @@ interface QuestionCardProps {
   questionNumber: number;
   total: number;
   answer: string;
-  showHint: boolean;
   onAnswerChange: (answer: string) => void;
   onSubmit: () => void;
   onDontKnow: () => void;
-  onToggleHint: () => void;
 }
 
 export function QuestionCard({
@@ -22,11 +20,9 @@ export function QuestionCard({
   questionNumber,
   total,
   answer,
-  showHint,
   onAnswerChange,
   onSubmit,
-  onDontKnow,
-  onToggleHint
+  onDontKnow
 }: QuestionCardProps) {
   const progress = Math.round((questionNumber / total) * 100);
 
@@ -76,26 +72,13 @@ export function QuestionCard({
         />
       )}
 
-      {showHint ? (
-        <div className="mt-4 rounded-lg bg-pink-950 p-4 text-sm font-medium text-pink-200">
-          Hint: {question.hint}
-        </div>
-      ) : null}
-
-      <div className="mt-6 grid gap-3 sm:grid-cols-3">
+      <div className="mt-6 grid gap-3 sm:grid-cols-2">
         <button
           type="button"
           onClick={onSubmit}
           className="rounded-lg bg-brand-pink px-4 py-4 text-lg font-bold text-white shadow-sm transition hover:bg-pink-700"
         >
-          {question.topic === "Year 8 Organisms" && question.type !== "multiple-choice" ? "Compare answer" : "Check answer"}
-        </button>
-        <button
-          type="button"
-          onClick={onToggleHint}
-          className="rounded-lg border-2 border-pink-500 bg-pink-950 px-4 py-4 text-lg font-bold text-pink-200"
-        >
-          Hint
+          Check answer
         </button>
         <button
           type="button"

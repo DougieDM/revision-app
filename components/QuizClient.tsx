@@ -5,7 +5,6 @@ import { useSearchParams } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
 import { FeedbackCard } from "@/components/FeedbackCard";
 import { QuestionCard } from "@/components/QuestionCard";
-import { QuestionIllustration } from "@/components/QuestionIllustration";
 import { QuizSummary } from "@/components/QuizSummary";
 import { generateQuiz } from "@/lib/generateQuestion";
 import { getWeakSubtopics, loadProgress, recordQuizResult } from "@/lib/progress";
@@ -18,10 +17,8 @@ export function QuizClient() {
   const [questions, setQuestions] = useState<GeneratedQuestion[]>([]);
   const [index, setIndex] = useState(0);
   const [answer, setAnswer] = useState("");
-  const [showHint, setShowHint] = useState(false);
   const [feedback, setFeedback] = useState<{ correct: boolean; dontKnow?: boolean } | null>(null);
   const [answers, setAnswers] = useState<AnswerRecord[]>([]);
-  const [reviewing, setReviewing] = useState(false);
   const [finished, setFinished] = useState(false);
   const [saveFailed, setSaveFailed] = useState(false);
   const topic = params.get("topic") ?? "All available topics";
@@ -70,15 +67,12 @@ export function QuizClient() {
 
   function submitAnswer() {
     if (!current) return;
-    if (current.topic === "Year 8 Organisms" && current.type !== "multiple-choice") { setReviewing(true); return; }
     const correct = markAnswer(current, answer);
     recordCurrent(correct, answer);
   }
 
   function nextQuestion() {
-    setReviewing(false);
     setAnswer("");
-    setShowHint(false);
     setFeedback(null);
 
     if (index + 1 >= questions.length) {
@@ -99,9 +93,7 @@ export function QuizClient() {
     const weakSubtopics = getWeakSubtopics(progress, 10);
     setQuestions(generateQuiz({ ...settings, weakOnly }, weakSubtopics));
     setIndex(0);
-    setReviewing(false);
     setAnswer("");
-    setShowHint(false);
     setFeedback(null);
     setAnswers([]);
     setFinished(false);
@@ -149,23 +141,7 @@ export function QuizClient() {
           </span>
         </div>
         {questions.length < settings.count ? <p role="status" className="mb-4 rounded-lg bg-surface p-4 text-zinc-300">Only {questions.length} questions match your choices. This quiz keeps your selected question style.</p> : null}
-        {reviewing ? (
-          <section className="rounded-lg bg-surface p-5 shadow-soft">
-            <h1 className="text-2xl font-bold text-ink">Compare your answer</h1>
-            <p className="mt-3 font-semibold">{current.question}</p>
-            <QuestionIllustration question={current.question} />
-            <p className="mt-4 text-sm font-bold text-zinc-400">Your answer</p>
-            <p className="mt-1 whitespace-pre-wrap">{answer || "No answer entered"}</p>
-            <p className="mt-4 text-sm font-bold text-pink-300">Example answer</p>
-            <p className="mt-1">{current.answer}</p>
-            <p className="mt-3 text-zinc-300">{current.explanation}</p>
-            <p className="mt-4 text-sm text-zinc-300">You can use your own words. Did you include the main science ideas? If the question asks why, give a reason.</p>
-            <div className="mt-5 grid gap-3 sm:grid-cols-2">
-              <button className="rounded-lg bg-brand-pink p-4 font-bold text-white" onClick={() => { setReviewing(false); recordCurrent(true, answer); }}>I got the key ideas</button>
-              <button className="rounded-lg bg-brand-purple p-4 font-bold text-white" onClick={() => { setReviewing(false); recordCurrent(false, answer); }}>I need more practice</button>
-            </div>
-          </section>
-        ) : feedback ? (
+        {feedback ? (
           <FeedbackCard
             question={current}
             correct={feedback.correct}
@@ -179,11 +155,9 @@ export function QuizClient() {
             questionNumber={index + 1}
             total={questions.length}
             answer={answer}
-            showHint={showHint}
             onAnswerChange={setAnswer}
             onSubmit={submitAnswer}
             onDontKnow={() => recordCurrent(false, "I don't know")}
-            onToggleHint={() => setShowHint((value) => !value)}
           />
         )}
       </div>

@@ -1,4 +1,7 @@
+import { DigestiveDiagram } from "@/components/DigestiveDiagram";
+
 export function QuestionIllustration({ question }: { question: string }) {
+  if (/digestive system|oesophagus|esophagus|stomach|small intestine|large intestine|liver|pancreas|rectum|anus/i.test(question)) return <DigestiveDiagram />;
   if (!/bell.jar/i.test(question)) return null;
   return <figure className="mt-5 rounded-lg bg-white p-4 text-zinc-900">
     <svg viewBox="0 0 520 300" className="w-full" role="img" aria-labelledby="bell-jar-title">

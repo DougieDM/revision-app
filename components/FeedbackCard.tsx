@@ -14,14 +14,17 @@ export function FeedbackCard({ question, correct, dontKnow, onNext, isLast }: Fe
   const title = dontKnow ? "No problem. Let's learn it together." : correct ? "Great answer!" : "Good try. Let's check the answer.";
 
   return (
-    <section className="rounded-lg bg-surface p-5 shadow-soft">
-      <p className={`text-lg font-bold ${correct ? "text-pink-300" : "text-purple-300"}`}>{title}</p>
+    <section className={`rounded-lg border-2 p-5 shadow-soft ${correct ? "border-emerald-400 bg-emerald-950/40" : "border-transparent bg-surface"}`}>
+      <div role="status" className={`flex items-center gap-3 ${correct ? "text-emerald-300" : "text-purple-300"}`}>
+        {correct ? <span aria-hidden="true" className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-emerald-400 text-2xl font-bold text-emerald-950">✓</span> : null}
+        <p className="text-lg font-bold">{correct ? "Correct! Great answer." : title}</p>
+      </div>
       {!correct ? (
         <p className="mt-3 text-base text-ink">
           The answer is <strong>{question.answer}</strong>.
         </p>
       ) : null}
-      <div className="mt-4 rounded-lg bg-purple-950 p-4 text-base leading-relaxed text-ink">
+      <div className={`mt-4 rounded-lg p-4 text-base leading-relaxed text-ink ${correct ? "bg-emerald-950" : "bg-purple-950"}`}>
         <strong>Let&apos;s remember this:</strong> {question.explanation}
       </div>
       <button

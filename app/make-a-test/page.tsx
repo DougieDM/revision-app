@@ -44,6 +44,7 @@ export default function MakeTestPage() {
           <p className="font-semibold text-purple-300">Readispark · Focused revision</p>
           <h1 className="mt-2 text-4xl font-black text-ink">Make a test</h1>
           <p className="mt-3 text-lg text-zinc-300">Choose what to revise and how you want to practise. Your results will help build your readiness.</p>
+          <Link href="/label-diagram" className="mt-4 inline-block font-bold text-purple-300 underline">Label a diagram · Organisms</Link>
         </header>
 
         <section className="mt-5 rounded-lg bg-surface p-5 shadow-soft">

@@ -1,6 +1,7 @@
 "use client";
 
 import { topicLabel } from "@/lib/topicLabels";
+import { QuestionIllustration } from "@/components/QuestionIllustration";
 
 import type { GeneratedQuestion } from "@/types/quiz";
 
@@ -46,6 +47,7 @@ export function QuestionCard({
       <p className="mb-2 text-sm font-semibold text-purple-300">{topicLabel(question.topic)}</p>
       <h1 className="text-2xl font-bold leading-snug text-ink">{question.question}</h1>
       <p className="mt-2 text-sm text-zinc-400">{question.subtopic}</p>
+      <QuestionIllustration question={question.question} />
 
       {question.options?.length ? (
         <div className="mt-6 grid gap-3">

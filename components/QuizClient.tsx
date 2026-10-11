@@ -5,6 +5,7 @@ import { useSearchParams } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
 import { FeedbackCard } from "@/components/FeedbackCard";
 import { QuestionCard } from "@/components/QuestionCard";
+import { QuestionIllustration } from "@/components/QuestionIllustration";
 import { QuizSummary } from "@/components/QuizSummary";
 import { generateQuiz } from "@/lib/generateQuestion";
 import { getWeakSubtopics, loadProgress, recordQuizResult } from "@/lib/progress";
@@ -152,6 +153,7 @@ export function QuizClient() {
           <section className="rounded-lg bg-surface p-5 shadow-soft">
             <h1 className="text-2xl font-bold text-ink">Compare your answer</h1>
             <p className="mt-3 font-semibold">{current.question}</p>
+            <QuestionIllustration question={current.question} />
             <p className="mt-4 text-sm font-bold text-zinc-400">Your answer</p>
             <p className="mt-1 whitespace-pre-wrap">{answer || "No answer entered"}</p>
             <p className="mt-4 text-sm font-bold text-pink-300">Example answer</p>

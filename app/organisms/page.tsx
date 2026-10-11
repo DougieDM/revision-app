@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import organisms from "@/data/organisms.json";
+import { QuestionIllustration } from "@/components/QuestionIllustration";
 
 type Confidence = "Not yet" | "Getting there" | "Confident";
 const confidenceOptions: Confidence[] = ["Not yet", "Getting there", "Confident"];
@@ -34,6 +35,7 @@ export default function OrganismsPage() {
           <p className="mt-3 text-zinc-300">Read a learning point, hide the answer and try saying it in your own words. Then practise with a quiz.</p>
           <p className="mt-3 text-sm text-zinc-300">Textbook: Kerboodle pages 122–143. You do not need active site, substrate or the lock and key model for this test.</p>
           <nav className="mt-4 flex flex-wrap gap-3 text-sm font-bold text-pink-300" aria-label="Revision sections">
+            <Link href="/label-diagram">Label a diagram</Link>
             <a href="#notes">Notes</a><a href="#checklist">Checklist</a><a href="#glossary">Glossary</a><a href="#resources">Videos & links</a>
           </nav>
         </section>
@@ -49,6 +51,7 @@ export default function OrganismsPage() {
             {organisms.notes.filter((note) => !section || note.subtopic === section).map((note) => (
               <details key={note.id} className="rounded-lg border border-zinc-700 p-4">
                 <summary className="cursor-pointer font-semibold text-ink"><span className="mb-1 block text-xs font-bold text-purple-300">{note.subtopic}</span>{note.question}</summary>
+                <QuestionIllustration question={note.question} />
                 <p className="mt-3 font-semibold text-pink-300">{note.answer}</p>
                 <p className="mt-2 leading-relaxed text-zinc-300">{note.explanation}</p>
               </details>

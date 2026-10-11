@@ -6,6 +6,7 @@ import Link from "next/link";
 import { Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import { buildPrintableTest } from "@/lib/quiz";
+import { QuestionIllustration } from "@/components/QuestionIllustration";
 
 export default function PrintPage() {
   return <Suspense fallback={<p className="p-6">Preparing your test…</p>}><PrintContent /></Suspense>;
@@ -42,6 +43,7 @@ function PrintContent() {
               <p className="font-bold text-ink">
                 {index + 1}. {question.question}
               </p>
+              <QuestionIllustration question={question.question} />
               {question.options?.length ? (
                 <ul className="mt-2 grid gap-1 pl-4 text-zinc-200">
                   {question.options.map((option) => (

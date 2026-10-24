@@ -1,0 +1,45 @@
+name: Validate
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    name: Tests, types and production build
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      NEXT_TELEMETRY_DISABLED: '1'
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+          cache: npm
+      - name: Reject committed environment files
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import subprocess
+          from pathlib import PurePosixPath
+          paths = subprocess.check_output(["git", "ls-files", "-z"]).decode().split("\0")
+          bad = [p for p in paths if p and (PurePosixPath(p).name == ".env" or PurePosixPath(p).name.startswith(".env.")) and PurePosixPath(p).name != ".env.example"]
+          if bad:
+              raise SystemExit("Remove tracked environment files: " + ", ".join(bad))
+          PY
+      - name: Install locked dependencies without lifecycle scripts
+        run: npm ci --ignore-scripts --no-audit --no-fund
+      - name: Check production dependency advisories
+        run: npm audit --omit=dev --audit-level=high
+      - name: Run tests
+        run: npm test
+      - name: Lint
+        run: npm run lint
+      - name: Check TypeScript
+        run: npx --no-install tsc --noEmit
+      - name: Build production app
+        run: npm run build

@@ -1,0 +1,14 @@
+.git
+.github
+**/node_modules
+**/.next
+**/out
+**/.env
+**/.env.*
+**/.npmrc
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+**/*.log
+.DS_Store

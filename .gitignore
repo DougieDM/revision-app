@@ -6,3 +6,12 @@ out
 .vercel
 *.log
 .DS_Store
+
+# Keep credentials and environment variants out of source control.
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.tsbuildinfo

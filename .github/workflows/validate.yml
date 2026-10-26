@@ -32,7 +32,7 @@ jobs:
               raise SystemExit("Remove tracked environment files: " + ", ".join(bad))
           PY
       - name: Install locked dependencies without lifecycle scripts
-        run: npm ci --ignore-scripts --no-audit --no-fund
+        run: npm ci --ignore-scripts --strict-peer-deps --no-audit --no-fund
       - name: Check production dependency advisories
         run: npm audit --omit=dev --audit-level=high
       - name: Run tests

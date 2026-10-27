@@ -64,7 +64,7 @@ export function QuestionCard({
         </div>
       ) : (
         <textarea
-          className="mt-6 min-h-32 w-full rounded-lg border-2 border-zinc-700 bg-surface p-4 text-lg text-ink outline-none focus:border-pink-400"
+          className="mt-6 min-h-32 w-full rounded-lg border-2 border-zinc-700 bg-surface p-4 text-lg text-ink outline-hidden focus:border-pink-400"
           aria-label="Your answer"
           placeholder="Type your answer here..."
           value={answer}
@@ -76,7 +76,7 @@ export function QuestionCard({
         <button
           type="button"
           onClick={onSubmit}
-          className="rounded-lg bg-brand-pink px-4 py-4 text-lg font-bold text-white shadow-sm transition hover:bg-pink-700"
+          className="rounded-lg bg-brand-pink px-4 py-4 text-lg font-bold text-white shadow-xs transition hover:bg-pink-700"
         >
           Check answer
         </button>

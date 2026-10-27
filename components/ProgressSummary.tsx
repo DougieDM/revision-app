@@ -65,5 +65,5 @@ export function ProgressSummary({ progress }: { progress: ProgressState }) {
 }
 
 function Meter({ score, label }: { score: number; label: string }) {
-  return <div role="progressbar" aria-label={label} aria-valuenow={score} aria-valuemin={0} aria-valuemax={100} className="h-3 overflow-hidden rounded-full bg-zinc-800"><div className="h-full rounded-full bg-gradient-to-r from-purple-500 to-pink-500" style={{ width: `${score}%` }} /></div>;
+  return <div role="progressbar" aria-label={label} aria-valuenow={score} aria-valuemin={0} aria-valuemax={100} className="h-3 overflow-hidden rounded-full bg-zinc-800"><div className="h-full rounded-full bg-linear-to-r from-purple-500 to-pink-500" style={{ width: `${score}%` }} /></div>;
 }

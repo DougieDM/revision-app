@@ -136,7 +136,7 @@ export function QuizClient() {
           <Link href="/" className="font-bold text-pink-300">
             Home
           </Link>
-          <span className="rounded-full bg-surface px-3 py-1 text-sm font-bold text-zinc-400 shadow-sm">
+          <span className="rounded-full bg-surface px-3 py-1 text-sm font-bold text-zinc-400 shadow-xs">
             Readispark practice
           </span>
         </div>

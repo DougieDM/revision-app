@@ -31,7 +31,7 @@ export function ReadinessDashboard() {
               clearProgress();
               setProgress(emptyProgress);
             }}
-            className="rounded-lg bg-surface px-3 py-2 text-sm font-bold text-zinc-300 shadow-sm"
+            className="rounded-lg bg-surface px-3 py-2 text-sm font-bold text-zinc-300 shadow-xs"
           >
             Reset practice progress
           </button>

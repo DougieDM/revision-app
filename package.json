@@ -4,10 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build --webpack",
+    "build": "npm run typecheck && next build --webpack",
     "start": "next start",
     "lint": "eslint .",
-    "test": "node --import tsx --test tests/*.test.ts"
+    "test": "node --import tsx --test tests/*.test.ts",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "next": "16.4.3",
@@ -23,7 +24,8 @@
     "postcss": "8.5.31",
     "tailwindcss": "4.3.3",
     "tsx": "^4.23.15",
-    "typescript": "5.5.3",
+    "typescript": "npm:@typescript/typescript6@6.0.2",
+    "@typescript/native": "npm:typescript@7.0.2",
     "@tailwindcss/postcss": "4.3.3"
   },
   "engines": {
